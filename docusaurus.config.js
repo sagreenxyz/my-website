@@ -20,7 +20,6 @@ const config = {
   organizationName: 'sagreenxyz', // Your GitHub username.
   projectName: 'my-website', // Usually your repo name.
   deploymentBranch: 'gh-pages', // Branch for deployment (usually gh-pages)
-  useSSH: true, // Explicitly tell Docusaurus to use SSH
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
