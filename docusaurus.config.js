@@ -84,6 +84,12 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'anatomySidebar', // Matches the key in sidebars.js
+            position: 'left',
+            label: 'Anatomy and Physiology',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
