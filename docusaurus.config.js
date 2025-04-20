@@ -19,6 +19,8 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'sagreenxyz', // Your GitHub username.
   projectName: 'my-website', // Usually your repo name.
+  deploymentBranch: 'gh-pages', // Branch for deployment (usually gh-pages)
+  useSSH: true, // Explicitly tell Docusaurus to use SSH
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -141,9 +143,6 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
-
-  // Deployment settings
-  deploymentBranch: 'gh-pages', // Branch for deployment (usually gh-pages)
 };
 
 export default config;
