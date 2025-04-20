@@ -1,0 +1,111 @@
+Chapter 1
+6 C 8 A 10 D 12 C 14 C 16 C 18 C 20 D 22 D 24 D 26 C
+
+Chapter 2
+4 D 6 A 8 B 10 C 12 B 14 A 16 C 18 A 20 B 22 D 24 B 26 A 28 B 30 D 32 B 
+
+
+Chapter 3
+6 B 8 C 10 B 12 A 14 A 16 C 18 A 20 C 22 C 24 B 26 B 28 C 
+
+
+Chapter 4
+7 C 9 B 11 A 13 C 15 B 17 B 19 B 21 A 23 D 25 B 27 C 29 B
+
+
+Chapter 5
+5 D 7 C 9 C 11 D 13 B 15 A 17 C 19 C 21 C 23 B 
+
+
+Chapter 6
+1 B 3 C 5 B 7 B 9 A 11 C 13 B 15 C 17 C 19 A 21 D 23 D 25 B 27 B 29 D 31 C 33 A 35 A 37 D 39 B 
+
+
+Chapter 7
+7 D 9 B 11 B 13 A 15 D 17 B 19 A 21 B 23 A 25 B 
+
+
+Chapter 8
+10 B 12 D 14 C 16 A 18 D 20 B 22 B 24 A 26 C 28 C 30 D 32 A 
+
+
+Chapter 9
+20 C 22 A 24 A 26 D 28 B 30 A 32 A 34 C 36 D 38 B 40 A 42 D 44 C 46 A 48 C 50 B 52 A 
+
+
+Chapter 10
+4 D 6 C 8 A 10 D 12 C 14 D 16 B 18 B 20 A 22 C 24 D 26 A 28 C 
+
+
+Chapter 11
+1 D 3 B 5 C 7 A 9 C 11 D 13 B 15 B 17 A 19 B 21 B 23 A 25 D 27 B 
+
+
+Chapter 12
+9 C 11 D 13 B 15 B 17 A 19 C 21 C 23 A 25 B 27 D 29 B 31 D 33 A 
+
+
+Chapter 13
+13 C 15 A 17
+A 19 C 21 A 23 C 25 A 27 D 29 D 31 D 
+
+
+Chapter 14
+12 B 14 B 16 C 18 D 20 A 22 D 24 A 26 A 
+
+
+Chapter 15
+7 D 9 C 11
+A 13 D 15 A 17 A 19 B 21 B 23 C 25 D 
+
+
+Chapter 16
+9 D 11 C 13 D 15 D 17 A 19 A 21 D 23 C 25 D 27 C 29 C 31 B 33 D 
+
+
+Chapter 17
+6 C 8 B 10 C 12 C 14 B 16 B 18 C 20 B 22 A 24 D 26 B 28 D 30 D 32 B 34 C 36 A 
+
+
+Chapter 18
+5 C 7 D 9 A 11 A 13 D 15 D 17 B 19 A 21 A 23 B 25 B 
+
+
+Chapter 19
+2 D 4 A 6 B 8 C 10 D 12 D 14 B 16 B 18 A 20 A 22 D 24 D 26 D 
+
+
+Chapter 20
+3 A 5 C 7 C 9 A 11 D 13 B 15 A 17 C 19 A 21 C 23 D 25 D 27 C 
+
+
+Chapter 21
+5 B 7 C 9 A 11 D 13 C 15 B 17 B 19 D 21 D 23 B 25 C 27 B 29 C 31 D 33 A 35 B 37 B 
+
+
+Chapter 22
+4 C 6 D 8 C 10 B 12 C 14 A 16 D 18 D 20 D 22 C 24 C 26 B 28 A 30 D 32 A 34 A 
+
+
+Chapter 23
+8 A 10 D 12 B 14 A 16 B 18 D 20 A 22 B 24 B 26 A 28 C 30 B 32 B 
+
+
+Chapter 24
+1 C 3 A 5 C 7 C 9 A 11 D 13 C 15 C 17 A 19 D 21 C 23 D 25 C 27 A 29 B 
+
+
+Chapter 25
+1 B 3 D 5 B 7 D 9 A 11 C 13 B 15 B 17 A 19 B 21 C 23 D 25 D 27 B 29 C 
+
+
+Chapter 26
+5 A 7 C 9 D 11 B 13 A 15 B 17 B 19 B 21 B 23 D 25 B 27 C 29 C 
+
+
+Chapter 27
+6 B 8 B 10 C 12 A 14 C 16 D 18 B 
+
+
+Chapter 28
+3 C 5 B 7 A 9 B 11 B 13 A 15 B 17 A 19 B 21 B 23 B 25 B 27 D 29 C 

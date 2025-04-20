@@ -1,0 +1,379 @@
+[
+    {
+        "chapter": "24",
+        "question_number": "1",
+        "question": "A monosaccharide is formed from a polysaccharide in what kind of reaction?",
+        "options": [
+            "oxidation\u2013reduction reaction",
+            "anabolic reaction",
+            "catabolic reaction",
+            "biosynthetic reaction"
+        ],
+        "correct_answer": "catabolic reaction",
+        "explanation": "A catabolic reaction breaks down larger molecules into smaller ones, such as breaking down a polysaccharide into monosaccharides."
+    },
+    {
+        "chapter": "24",
+        "question_number": "2",
+        "question": "If anabolic reactions exceed catabolic reactions, the result will be ________.",
+        "options": [
+            "weight loss",
+            "weight gain",
+            "metabolic rate change",
+            "development of disease"
+        ],
+        "correct_answer": "weight gain",
+        "explanation": "Anabolic reactions build larger molecules from smaller ones, leading to weight gain if they exceed catabolic reactions."
+    },
+    {
+        "chapter": "24",
+        "question_number": "3",
+        "question": "When NAD becomes NADH, the coenzyme has been ________.",
+        "options": [
+            "reduced",
+            "oxidized",
+            "metabolized",
+            "hydrolyzed"
+        ],
+        "correct_answer": "reduced",
+        "explanation": "NAD gains electrons and hydrogen ions to become NADH, which means it has been reduced."
+    },
+    {
+        "chapter": "24",
+        "question_number": "4",
+        "question": "Anabolic reactions use energy by ________.",
+        "options": [
+            "turning ADP into ATP",
+            "removing a phosphate group from ATP",
+            "producing heat",
+            "breaking down molecules into smaller parts"
+        ],
+        "correct_answer": "removing a phosphate group from ATP",
+        "explanation": "Anabolic reactions use energy by removing a phosphate group from ATP, converting it to ADP."
+    },
+    {
+        "chapter": "24",
+        "question_number": "5",
+        "question": "Glycolysis results in the production of two ________ molecules from a single molecule of glucose. In the absence of ________, the end product of glycolysis is ________.",
+        "options": [
+            "acetyl CoA, pyruvate, lactate",
+            "ATP, carbon, pyruvate",
+            "pyruvate, oxygen, lactate",
+            "pyruvate, carbon, acetyl CoA"
+        ],
+        "correct_answer": "pyruvate, oxygen, lactate",
+        "explanation": "Glycolysis produces two pyruvate molecules from one glucose molecule. In the absence of oxygen, pyruvate is converted to lactate."
+    },
+    {
+        "chapter": "24",
+        "question_number": "6",
+        "question": "The Krebs cycle converts ________ through a cycle of reactions. In the process, ATP, ________, and ________ are produced.",
+        "options": [
+            "acetyl CoA; FAD, NAD",
+            "acetyl CoA; FADH2; NADH",
+            "pyruvate; NAD; FADH2",
+            "pyruvate; oxygen; oxaloacetate"
+        ],
+        "correct_answer": "acetyl CoA; FADH2; NADH",
+        "explanation": "The Krebs cycle converts acetyl CoA through a series of reactions, producing ATP, FADH2, and NADH."
+    },
+    {
+        "chapter": "24",
+        "question_number": "7",
+        "question": "Which pathway produces the most ATP molecules?",
+        "options": [
+            "lactic acid fermentation",
+            "the Krebs cycle",
+            "the electron transport chain",
+            "glycolysis"
+        ],
+        "correct_answer": "the electron transport chain",
+        "explanation": "The electron transport chain produces the most ATP molecules compared to other pathways."
+    },
+    {
+        "chapter": "24",
+        "question_number": "8",
+        "question": "Aerobic cellular respiration results in the production of these two products.",
+        "options": [
+            "NADH and FADH2",
+            "ATP and pyruvate",
+            "ATP and glucose",
+            "ATP and H2O"
+        ],
+        "correct_answer": "ATP and H2O",
+        "explanation": "Aerobic cellular respiration produces ATP and water as end products."
+    },
+    {
+        "chapter": "24",
+        "question_number": "9",
+        "question": "When NAD+ becomes NADH, the coenzyme has been ________.",
+        "options": [
+            "reduced",
+            "oxidized",
+            "metabolized",
+            "hydrolyzed"
+        ],
+        "correct_answer": "reduced",
+        "explanation": "NAD+ gains electrons and hydrogen ions to become NADH, which means it has been reduced."
+    },
+    {
+        "chapter": "24",
+        "question_number": "10",
+        "question": "Lipids in the diet can be ________.",
+        "options": [
+            "broken down into energy for the body",
+            "stored as triglycerides for later use",
+            "converted into acetyl CoA",
+            "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "Dietary lipids can be broken down for energy, stored as triglycerides, or converted into acetyl CoA."
+    },
+    {
+        "chapter": "24",
+        "question_number": "11",
+        "question": "The gallbladder provides ________ that aid(s) in transport of lipids across the intestinal membrane.",
+        "options": [
+            "lipases",
+            "cholesterol",
+            "proteins",
+            "bile salts"
+        ],
+        "correct_answer": "bile salts",
+        "explanation": "The gallbladder releases bile salts that help emulsify and transport lipids across the intestinal membrane."
+    },
+    {
+        "chapter": "24",
+        "question_number": "12",
+        "question": "Triglycerides are transported by chylomicrons because ________.",
+        "options": [
+            "they cannot move easily in the blood stream because they are fat based, while the blood is water based",
+            "they are too small to move by themselves",
+            "the chylomicrons contain enzymes they need for anabolism",
+            "they cannot fit across the intestinal membrane"
+        ],
+        "correct_answer": "they cannot move easily in the blood stream because they are fat based, while the blood is water based",
+        "explanation": "Triglycerides are transported by chylomicrons because they are fat-based and cannot move easily in the water-based blood."
+    },
+    {
+        "chapter": "24",
+        "question_number": "13",
+        "question": "Which molecule produces the most ATP?",
+        "options": [
+            "carbohydrates",
+            "FADH2",
+            "triglycerides",
+            "NADH"
+        ],
+        "correct_answer": "triglycerides",
+        "explanation": "Triglycerides produce the most ATP when metabolized compared to carbohydrates, FADH2, and NADH."
+    },
+    {
+        "chapter": "24",
+        "question_number": "14",
+        "question": "Which molecules can enter the Krebs cycle?",
+        "options": [
+            "chylomicrons",
+            "acetyl CoA",
+            "monoglycerides",
+            "ketone bodies"
+        ],
+        "correct_answer": "acetyl CoA",
+        "explanation": "Acetyl CoA is the molecule that enters the Krebs cycle for further metabolism."
+    },
+    {
+        "chapter": "24",
+        "question_number": "15",
+        "question": "Acetyl CoA can be converted to all of the following except ________.",
+        "options": [
+            "ketone bodies",
+            "fatty acids",
+            "polysaccharides",
+            "triglycerides"
+        ],
+        "correct_answer": "polysaccharides",
+        "explanation": "Acetyl CoA can be converted to ketone bodies, fatty acids, and triglycerides, but not polysaccharides."
+    },
+    {
+        "chapter": "24",
+        "question_number": "16",
+        "question": "Digestion of proteins begins in the ________ where ________ and ________ mix with food to break down protein into ________.",
+        "options": [
+            "stomach; amylase; HCl; amino acids",
+            "mouth; pepsin; HCl; fatty acids",
+            "stomach; lipase; HCl; amino acids",
+            "stomach; pepsin; HCl; amino acids"
+        ],
+        "correct_answer": "stomach; pepsin; HCl; amino acids",
+        "explanation": "Protein digestion begins in the stomach where pepsin and HCl mix with food to break down proteins into amino acids."
+    },
+    {
+        "chapter": "24",
+        "question_number": "17",
+        "question": "Amino acids are needed to ________.",
+        "options": [
+            "build new proteins",
+            "serve as fat stores",
+            "supply energy for the cell",
+            "create red blood cells"
+        ],
+        "correct_answer": "build new proteins",
+        "explanation": "Amino acids are the building blocks needed to synthesize new proteins in the body."
+    },
+    {
+        "chapter": "24",
+        "question_number": "18",
+        "question": "If an amino acid is not used to create new proteins, it can be ________.",
+        "options": [
+            "converted to acetyl CoA",
+            "converted to glucose or ketones",
+            "converted to nitrogen",
+            "stored to be used later"
+        ],
+        "correct_answer": "converted to glucose or ketones",
+        "explanation": "If not used for protein synthesis, amino acids can be converted to glucose or ketones for energy."
+    },
+    {
+        "chapter": "24",
+        "question_number": "19",
+        "question": "During the absorptive state, glucose levels are ________, insulin levels are ________, and glucagon levels ________.",
+        "options": [
+            "high; low; stay the same",
+            "low; low; stay the same",
+            "high; high; are high",
+            "high; high; are low"
+        ],
+        "correct_answer": "high; high; are low",
+        "explanation": "During the absorptive state, glucose and insulin levels are high, while glucagon levels are low."
+    },
+    {
+        "chapter": "24",
+        "question_number": "20",
+        "question": "Starvation sets in after 3 to 4 days without food. Which hormones change in response to low glucose levels?",
+        "options": [
+            "glucagon and insulin",
+            "ketones and glucagon",
+            "insulin, glucose, and glucagon",
+            "insulin and ketones"
+        ],
+        "correct_answer": "glucagon and insulin",
+        "explanation": "During starvation, glucagon levels increase to raise blood glucose, while insulin levels decrease."
+    },
+    {
+        "chapter": "24",
+        "question_number": "21",
+        "question": "The postabsorptive state relies on stores of ________ in the ________.",
+        "options": [
+            "insulin; pancreas",
+            "glucagon; pancreas",
+            "glycogen; liver",
+            "glucose; liver"
+        ],
+        "correct_answer": "glycogen; liver",
+        "explanation": "The postabsorptive state relies on glycogen stores in the liver to maintain blood glucose levels."
+    },
+    {
+        "chapter": "24",
+        "question_number": "22",
+        "question": "The body\u2019s temperature is controlled by the ________. This temperature is always kept between ________.",
+        "options": [
+            "pituitary; 36.5\u201337.5 \u00b0C",
+            "hypothalamus; 97.7\u201399.5 \u00b0F",
+            "hypothalamus; 36.5\u201337.5 \u00b0F",
+            "pituitary; 97.7\u201399.5 \u00b0F"
+        ],
+        "correct_answer": "hypothalamus; 97.7\u201399.5 \u00b0F",
+        "explanation": "The hypothalamus controls body temperature, which is maintained between 97.7 and 99.5 \u00b0F."
+    },
+    {
+        "chapter": "24",
+        "question_number": "23",
+        "question": "Fever increases the body temperature and can induce chills to help cool the temperature back down. What other mechanisms are in place to regulate the body temperature?",
+        "options": [
+            "shivering",
+            "sweating",
+            "erection of the hairs on the arms and legs",
+            "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "Shivering, sweating, and erection of hairs on the arms and legs are mechanisms to regulate body temperature."
+    },
+    {
+        "chapter": "24",
+        "question_number": "24",
+        "question": "The heat you feel on your chair when you stand up was transferred from your skin via ________.",
+        "options": [
+            "conduction",
+            "convection",
+            "radiation",
+            "evaporation"
+        ],
+        "correct_answer": "conduction",
+        "explanation": "Heat is transferred from your skin to the chair via conduction."
+    },
+    {
+        "chapter": "24",
+        "question_number": "25",
+        "question": "A crowded room warms up through the mechanism of ________.",
+        "options": [
+            "conduction",
+            "convection",
+            "radiation",
+            "evaporation"
+        ],
+        "correct_answer": "convection",
+        "explanation": "A crowded room warms up through convection, as warm air rises and circulates."
+    },
+    {
+        "chapter": "24",
+        "question_number": "26",
+        "question": "A deficiency in vitamin A can result in ________.",
+        "options": [
+            "improper bone development",
+            "scurvy",
+            "improper eye development or sight",
+            "all of the above"
+        ],
+        "correct_answer": "improper eye development or sight",
+        "explanation": "A deficiency in vitamin A can lead to improper eye development or sight issues."
+    },
+    {
+        "chapter": "24",
+        "question_number": "27",
+        "question": "Rickets results in improper bone development in children that arises from the malabsorption of calcium and a deficiency in ________.",
+        "options": [
+            "vitamin D",
+            "vitamin C",
+            "vitamin B12",
+            "niacin"
+        ],
+        "correct_answer": "vitamin D",
+        "explanation": "Rickets is caused by a deficiency in vitamin D, leading to improper bone development in children."
+    },
+    {
+        "chapter": "24",
+        "question_number": "28",
+        "question": "Consuming which type of food will help the most with weight loss?",
+        "options": [
+            "fats",
+            "vegetables",
+            "lean meats",
+            "fruits"
+        ],
+        "correct_answer": "vegetables",
+        "explanation": "Consuming vegetables, which are low in calories and high in fiber, can help with weight loss."
+    },
+    {
+        "chapter": "24",
+        "question_number": "29",
+        "question": "Which of the following is stored in the body?",
+        "options": [
+            "thiamine",
+            "phosphorous",
+            "folic acid",
+            "vitamin C"
+        ],
+        "correct_answer": "phosphorous",
+        "explanation": "Phosphorous is stored in the body, primarily in bones and teeth."
+    }
+]

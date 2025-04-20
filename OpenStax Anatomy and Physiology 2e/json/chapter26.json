@@ -1,0 +1,320 @@
+{
+    "chapter": 26,
+    "review_questions": [
+      {
+        "question_number": 5,
+        "question_text": "Solute contributes to the movement of water between cells and the surrounding medium by ________.",
+        "options": [
+          "osmotic pressure",
+          "hydrostatic pressure",
+          "Brownian movement",
+          "random motion"
+        ],
+        "correct_answer": "osmotic pressure",
+        "explanation": "Solutes contribute to the osmotic pressure of a solution. Water moves by osmosis from an area of lower solute concentration (higher water concentration) to an area of higher solute concentration (lower water concentration) across a semipermeable membrane."
+      },
+      {
+        "question_number": 6,
+        "question_text": "A cation has a(n) ________ charge.",
+        "options": [
+          "neutral",
+          "positive",
+          "alternating",
+          "negative"
+        ],
+        "correct_answer": "positive",
+        "explanation": "A cation is an ion that has lost one or more electrons, resulting in a net positive electrical charge."
+      },
+      {
+        "question_number": 7,
+        "question_text": "Interstitial fluid (IF) is ________.",
+        "options": [
+          "the fluid in the cytosol of the cells",
+          "the fluid component of blood",
+          "the fluid that bathes all of the body’s cells except for blood cells",
+          "the intracellular fluids found between membranes"
+        ],
+        "correct_answer": "the fluid that bathes all of the body’s cells except for blood cells",
+        "explanation": "Interstitial fluid (IF) is the fluid that fills the spaces between cells in tissues throughout the body, providing a medium for the exchange of nutrients and waste products between the blood and the body's cells. It does not include the fluid within cells (intracellular fluid) or the fluid component of blood (plasma)."
+      },
+      {
+        "question_number": 8,
+        "question_text": "The largest amount of water comes into the body via ________.",
+        "options": [
+          "metabolism",
+          "foods",
+          "liquids",
+          "humidified air"
+        ],
+        "correct_answer": "liquids",
+        "explanation": "The largest amount of water intake for most people comes from drinking liquids such as water, juice, and other beverages."
+      },
+      {
+        "question_number": 9,
+        "question_text": "The largest amount of water leaves the body via ________.",
+        "options": [
+          "the GI tract",
+          "the skin as sweat",
+          "expiration",
+          "urine"
+        ],
+        "correct_answer": "urine",
+        "explanation": "The kidneys regulate water balance in the body, and the largest amount of water loss occurs through the production of urine."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Insensible water loss is water lost via ________.",
+        "options": [
+          "skin evaporation and in air from the lungs",
+          "urine",
+          "excessive sweating",
+          "vomiting or diarrhea"
+        ],
+        "correct_answer": "skin evaporation and in air from the lungs",
+        "explanation": "Insensible water loss is the continuous loss of water that occurs without a person's awareness, primarily through evaporation from the skin (not sweating) and in the air exhaled by the lungs."
+      },
+      {
+        "question_number": 11,
+        "question_text": "How soon after drinking a large glass of water will a person start increasing their urine output?",
+        "options": [
+          "5 minutes",
+          "30 minutes",
+          "1 hour",
+          "3 hours"
+        ],
+        "correct_answer": "30 minutes",
+        "explanation": "After drinking a large amount of water, it is absorbed into the bloodstream, leading to increased blood volume and decreased blood osmolarity. This triggers a decrease in the release of antidiuretic hormone (ADH), which in turn causes the kidneys to excrete more water, increasing urine output. This process typically begins within about 30 minutes to an hour."
+      },
+      {
+        "question_number": 12,
+        "question_text": "Bone serves as a mineral reserve for which two ions?",
+        "options": [
+          "sodium and potassium",
+          "calcium and phosphate",
+          "chloride and bicarbonate",
+          "calcium and bicarbonate"
+        ],
+        "correct_answer": "calcium and phosphate",
+        "explanation": "Bone is a major storage site for minerals in the body, particularly calcium and phosphate ions, which are essential for bone structure and also play crucial roles in many other physiological processes."
+      },
+      {
+        "question_number": 13,
+        "question_text": "Electrolytes are lost mostly through ________.",
+        "options": [
+          "renal function",
+          "sweating",
+          "feces",
+          "respiration"
+        ],
+        "correct_answer": "renal function",
+        "explanation": "The kidneys play the primary role in regulating electrolyte balance in the body, and the majority of electrolyte loss occurs through urine. The kidneys adjust the excretion of various electrolytes to maintain homeostasis."
+      },
+      {
+        "question_number": 14,
+        "question_text": "The major cation in extracellular fluid is ________.",
+        "options": [
+          "sodium",
+          "potassium",
+          "chloride",
+          "bicarbonate"
+        ],
+        "correct_answer": "sodium",
+        "explanation": "Sodium (Na+) is the most abundant cation (positively charged ion) in the extracellular fluid (ECF), including blood plasma and interstitial fluid."
+      },
+      {
+        "question_number": 15,
+        "question_text": "The major cation in intracellular fluid is ________.",
+        "options": [
+          "sodium",
+          "potassium",
+          "chloride",
+          "bicarbonate"
+        ],
+        "correct_answer": "potassium",
+        "explanation": "Potassium (K+) is the most abundant cation in the intracellular fluid (ICF), which is the fluid within the body's cells."
+      },
+      {
+        "question_number": 16,
+        "question_text": "The major anion in extracellular fluid is ________.",
+        "options": [
+          "sodium",
+          "potassium",
+          "chloride",
+          "bicarbonate"
+        ],
+        "correct_answer": "chloride",
+        "explanation": "Chloride (Cl-) is the most abundant anion (negatively charged ion) in the extracellular fluid (ECF)."
+      },
+      {
+        "question_number": 17,
+        "question_text": "Most of the body’s calcium is found in ________.",
+        "options": [
+          "teeth",
+          "bone",
+          "plasma",
+          "extracellular fluids"
+        ],
+        "correct_answer": "bone",
+        "explanation": "Approximately 99% of the body's calcium is stored in the bones, providing structural support and serving as a reservoir for calcium needed for various physiological processes."
+      },
+      {
+        "question_number": 18,
+        "question_text": "Abnormally increased blood levels of sodium are termed ________.",
+        "options": [
+          "hyperkalemia",
+          "hyperchloremia",
+          "hypernatremia",
+          "hypercalcemia"
+        ],
+        "correct_answer": "hypernatremia",
+        "explanation": "Hypernatremia is the term used to describe an abnormally high concentration of sodium ions in the blood."
+      },
+      {
+        "question_number": 19,
+        "question_text": "The ion with the lowest blood level is ________.",
+        "options": [
+          "sodium",
+          "potassium",
+          "chloride",
+          "bicarbonate"
+        ],
+        "correct_answer": "bicarbonate",
+        "explanation": "Bicarbonate ions (HCO3-) typically have the lowest concentration in the blood plasma compared to the major cations (sodium and potassium) and the major anion (chloride)."
+      },
+      {
+        "question_number": 20,
+        "question_text": "Which two ions are most affected by aldosterone?",
+        "options": [
+          "sodium and potassium",
+          "chloride and bicarbonate",
+          "calcium and phosphate",
+          "sodium and phosphate"
+        ],
+        "correct_answer": "sodium and potassium",
+        "explanation": "Aldosterone is a hormone produced by the adrenal cortex that primarily acts on the kidneys to regulate the levels of sodium and potassium in the blood. It promotes sodium reabsorption and potassium secretion."
+      },
+      {
+        "question_number": 21,
+        "question_text": "Which of the following is the most important buffer inside red blood cells?",
+        "options": [
+          "plasma proteins",
+          "hemoglobin",
+          "phosphate buffers",
+          "bicarbonate: carbonic acid buffer"
+        ],
+        "correct_answer": "hemoglobin",
+        "explanation": "Hemoglobin is the most abundant protein inside red blood cells and plays a significant role as an intracellular buffer, binding to hydrogen ions (H+) and helping to regulate pH within the cells."
+      },
+      {
+        "question_number": 22,
+        "question_text": "Which explanation best describes why plasma proteins can function as buffers?",
+        "options": [
+          "Plasma proteins combine with bicarbonate to make a stronger buffer.",
+          "Plasma proteins are immune to damage from acids.",
+          "Proteins have both positive and negative charges on their surface.",
+          "Proteins are alkaline."
+        ],
+        "correct_answer": "Proteins have both positive and negative charges on their surface.",
+        "explanation": "Proteins, including plasma proteins, are amphoteric molecules, meaning they can act as both acids and bases. This is due to the presence of amino acid residues with both acidic (carboxyl groups) and basic (amino groups) side chains, allowing them to donate or accept hydrogen ions (H+) and buffer pH changes."
+      },
+      {
+        "question_number": 23,
+        "question_text": "The buffer that is adjusted to control acid-base balance is ________.",
+        "options": [
+          "plasma protein",
+          "hemoglobin",
+          "phosphate buffer",
+          "bicarbonate: carbonic acid buffer"
+        ],
+        "correct_answer": "bicarbonate: carbonic acid buffer",
+        "explanation": "The bicarbonate:carbonic acid buffer system is the most important buffer system in the extracellular fluid, including blood plasma. The concentrations of bicarbonate and carbonic acid are tightly regulated by the kidneys and the respiratory system, respectively, making it the primary system adjusted to control acid-base balance."
+      },
+      {
+        "question_number": 24,
+        "question_text": "Carbonic acid levels are controlled through the ________.",
+        "options": [
+          "respiratory system",
+          "renal system",
+          "digestive system",
+          "metabolic rate of cells"
+        ],
+        "correct_answer": "respiratory system",
+        "explanation": "Carbonic acid (H2CO3) in the blood is formed from carbon dioxide (CO2) and water. The concentration of CO2 in the blood is directly controlled by the respiratory system through the rate and depth of breathing. By adjusting ventilation, the respiratory system can alter CO2 levels and thus the amount of carbonic acid."
+      },
+      {
+        "question_number": 25,
+        "question_text": "Bicarbonate ion concentrations in the blood are controlled through the ________.",
+        "options": [
+          "respiratory system",
+          "renal system",
+          "digestive system",
+          "metabolic rate of cells"
+        ],
+        "correct_answer": "renal system",
+        "explanation": "The kidneys play a crucial role in regulating the concentration of bicarbonate ions (HCO3-) in the blood. They can reabsorb bicarbonate from the renal tubules back into the blood, excrete bicarbonate into the urine, or synthesize new bicarbonate ions as needed to maintain acid-base balance."
+      },
+      {
+        "question_number": 26,
+        "question_text": "Which reaction is catalyzed by carbonic anhydrase?",
+        "options": [
+          "HPO2-4+H+↔H2PO4–",
+          "CO2 + H2O↔H2CO3",
+          "H2PO4–+OH−↔HPO2−4+H2O",
+          "H2CO3↔HCO3–+ H+"
+        ],
+        "correct_answer": "CO2 + H2O↔H2CO3",
+        "explanation": "Carbonic anhydrase is an enzyme that catalyzes the reversible reaction between carbon dioxide (CO2) and water (H2O) to form carbonic acid (H2CO3). This reaction is essential for carbon dioxide transport in the blood and for the bicarbonate buffer system."
+      },
+      {
+        "question_number": 27,
+        "question_text": "Which of the following is a cause of metabolic acidosis?",
+        "options": [
+          "excessive HCl loss",
+          "increased aldosterone",
+          "diarrhea",
+          "prolonged use of diuretics"
+        ],
+        "correct_answer": "diarrhea",
+        "explanation": "Metabolic acidosis is a condition characterized by a decrease in blood pH due to an increase in the concentration of metabolic acids or a loss of bicarbonate. Severe diarrhea can lead to a significant loss of bicarbonate ions from the body, resulting in metabolic acidosis."
+      },
+      {
+        "question_number": 28,
+        "question_text": "Which of the following is a cause of respiratory acidosis?",
+        "options": [
+          "emphysema",
+          "low blood K+",
+          "increased aldosterone",
+          "increased blood ketones"
+        ],
+        "correct_answer": "emphysema",
+        "explanation": "Respiratory acidosis occurs when there is a buildup of carbon dioxide (hypercapnia) in the blood due to hypoventilation (inadequate removal of CO2 by the lungs). Emphysema is a chronic lung disease that impairs gas exchange, leading to CO2 retention and potentially respiratory acidosis."
+      },
+      {
+        "question_number": 29,
+        "question_text": "At a pH of 7.40, the carbonic acid ratio is ________.",
+        "options": [
+          "35:1",
+          "4:1",
+          "20:1",
+          "3:1"
+        ],
+        "correct_answer": "20:1",
+        "explanation": "At a normal blood pH of 7.40, the bicarbonate (HCO3-) to carbonic acid (H2CO3) ratio maintained by the buffer system is approximately 20:1."
+      },
+      {
+        "question_number": 30,
+        "question_text": "Which of the following is characterized as metabolic alkalosis?",
+        "options": [
+          "increased pH, decreased pCO2, decreased HCO3–",
+          "increased pH, increased pCO2, increased HCO3–",
+          "decreased pH, decreased pCO2, decreased HCO3–",
+          "decreased pH, increased pCO2, increased HCO3–"
+        ],
+        "correct_answer": "increased pH, increased pCO2, increased HCO3–",
+        "explanation": "Metabolic alkalosis is characterized by an increase in blood pH due to an excess of bicarbonate or a loss of metabolic acids. The body will attempt to compensate by increasing the partial pressure of carbon dioxide (pCO2) through hypoventilation to lower the pH back towards normal. Therefore, increased pH, increased pCO2 (as compensation), and increased HCO3– are characteristic of metabolic alkalosis."
+      }
+    ]
+  }
+  
+  
+  

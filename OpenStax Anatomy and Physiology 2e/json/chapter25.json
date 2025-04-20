@@ -1,0 +1,356 @@
+{
+    "chapter": 25,
+    "review_questions": [
+      {
+        "question_number": 1,
+        "question_text": "Diabetes insipidus or diabetes mellitus would most likely be indicated by ________.",
+        "options": [
+          "anuria",
+          "polyuria",
+          "oliguria",
+          "none of the above"
+        ],
+        "correct_answer": "polyuria",
+        "explanation": "Both diabetes insipidus and diabetes mellitus are characterized by polyuria, which is the production of abnormally large volumes of dilute urine."
+      },
+      {
+        "question_number": 2,
+        "question_text": "The color of urine is determined mainly by ________.",
+        "options": [
+          "diet",
+          "filtration rate",
+          "byproducts of red blood cell breakdown",
+          "filtration efficiency"
+        ],
+        "correct_answer": "byproducts of red blood cell breakdown",
+        "explanation": "The yellow color of urine is primarily due to urochrome, a pigment produced from the breakdown of hemoglobin, which is a byproduct of red blood cell destruction."
+      },
+      {
+        "question_number": 3,
+        "question_text": "Production of less than 50 mL/day of urine is called ________.",
+        "options": [
+          "normal",
+          "polyuria",
+          "oliguria",
+          "anuria"
+        ],
+        "correct_answer": "anuria",
+        "explanation": "Anuria is the absence of urine production or the production of less than 50 mL of urine per day, indicating severe kidney dysfunction or failure."
+      },
+      {
+        "question_number": 4,
+        "question_text": "Peristaltic contractions occur in the ________.",
+        "options": [
+          "urethra",
+          "bladder",
+          "ureters",
+          "urethra, bladder, and ureters"
+        ],
+        "correct_answer": "ureters",
+        "explanation": "Peristaltic contractions are wave-like smooth muscle contractions that propel urine from the kidneys down the ureters to the bladder."
+      },
+      {
+        "question_number": 5,
+        "question_text": "Somatic motor neurons must be ________ to relax the external urethral sphincter to allow urination.",
+        "options": [
+          "stimulated",
+          "inhibited"
+        ],
+        "correct_answer": "inhibited",
+        "explanation": "The external urethral sphincter is made of skeletal muscle and is under voluntary control by somatic motor neurons. To relax this sphincter and allow urination, the signals from these motor neurons must be inhibited."
+      },
+      {
+        "question_number": 6,
+        "question_text": "Which part of the urinary system is not completely retroperitoneal?",
+        "options": [
+          "kidneys",
+          "ureters",
+          "bladder",
+          "nephrons"
+        ],
+        "correct_answer": "bladder",
+        "explanation": "The kidneys and ureters are completely retroperitoneal, meaning they lie behind the peritoneum. The bladder is also primarily retroperitoneal, but its superior surface is covered by peritoneum. Nephrons are the functional units within the kidneys."
+      },
+      {
+        "question_number": 7,
+        "question_text": "The renal pyramids are separated from each other by extensions of the renal cortex called ________.",
+        "options": [
+          "renal medulla",
+          "minor calyces",
+          "medullary cortices",
+          "renal columns"
+        ],
+        "correct_answer": "renal columns",
+        "explanation": "The renal pyramids are cone-shaped structures within the renal medulla. They are separated from each other by inward extensions of the renal cortex called renal columns."
+      },
+      {
+        "question_number": 8,
+        "question_text": "The primary structure found within the medulla is the ________.",
+        "options": [
+          "loop of Henle",
+          "minor calyces",
+          "portal system",
+          "ureter"
+        ],
+        "correct_answer": "loop of Henle",
+        "explanation": "The renal medulla primarily contains the loops of Henle and the collecting ducts, which are essential for concentrating urine. Minor calyces collect urine from the renal pyramids. The renal portal system refers to the blood flow through the glomerulus and peritubular capillaries or vasa recta. The ureter transports urine out of the kidney."
+      },
+      {
+        "question_number": 9,
+        "question_text": "The right kidney is slightly lower because ________.",
+        "options": [
+          "it is displaced by the liver",
+          "it is displace by the heart",
+          "it is slightly smaller",
+          "it needs protection of the lower ribs"
+        ],
+        "correct_answer": "it is displaced by the liver",
+        "explanation": "The right kidney is typically situated slightly lower than the left kidney in the abdominal cavity because it is displaced inferiorly by the presence of the liver above it."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Blood filtrate is captured in the lumen of the ________.",
+        "options": [
+          "glomerulus",
+          "Bowman’s capsule",
+          "calyces",
+          "renal papillae"
+        ],
+        "correct_answer": "Bowman’s capsule",
+        "explanation": "During glomerular filtration, blood filtrate (fluid and small solutes) is forced out of the glomerular capillaries and into the Bowman's capsule, which is the cup-like structure surrounding the glomerulus."
+      },
+      {
+        "question_number": 11,
+        "question_text": "What are the names of the capillaries following the efferent arteriole?",
+        "options": [
+          "arcuate and medullary",
+          "interlobar and interlobular",
+          "peritubular and vasa recta",
+          "peritubular and medullary"
+        ],
+        "correct_answer": "peritubular and vasa recta",
+        "explanation": "Blood flows from the afferent arteriole into the glomerulus and exits via the efferent arteriole. The efferent arteriole then branches to form peritubular capillaries that surround the renal tubules in the cortex and vasa recta that extend into the medulla alongside the loops of Henle."
+      },
+      {
+        "question_number": 12,
+        "question_text": "The functional unit of the kidney is called ________.",
+        "options": [
+          "the renal hilus",
+          "the renal corpuscle",
+          "the nephron",
+          "Bowman’s capsule"
+        ],
+        "correct_answer": "the nephron",
+        "explanation": "The nephron is the functional unit of the kidney, responsible for filtering blood and producing urine. Each kidney contains millions of nephrons."
+      },
+      {
+        "question_number": 13,
+        "question_text": "________ pressure must be greater on the capillary side of the filtration membrane to achieve filtration.",
+        "options": [
+          "Osmotic",
+          "Hydrostatic"
+        ],
+        "correct_answer": "Hydrostatic",
+        "explanation": "Glomerular filtration occurs because the hydrostatic pressure (blood pressure) within the glomerular capillaries is greater than the opposing pressures (capsular hydrostatic pressure and blood colloid osmotic pressure), forcing water and small solutes out of the blood and into Bowman's capsule."
+      },
+      {
+        "question_number": 14,
+        "question_text": "Production of urine to modify plasma makeup is the result of ________.",
+        "options": [
+          "filtration",
+          "absorption",
+          "secretion",
+          "filtration, absorption, and secretion"
+        ],
+        "correct_answer": "filtration, absorption, and secretion",
+        "explanation": "Urine formation involves three main processes that modify the composition of blood plasma: glomerular filtration (movement of fluid and solutes from blood to nephron), tubular reabsorption (movement of substances from nephron back to blood), and tubular secretion (movement of substances from blood to nephron)."
+      },
+      {
+        "question_number": 15,
+        "question_text": "Systemic blood pressure must stay above 60 so that the proper amount of filtration occurs.",
+        "options": [
+          "true",
+          "false"
+        ],
+        "correct_answer": "true",
+        "explanation": "True. A minimum systemic blood pressure of around 60 mm Hg is necessary to maintain adequate glomerular filtration rate (GFR). If blood pressure drops significantly below this level, GFR decreases, and the kidneys may not be able to filter blood effectively."
+      },
+      {
+        "question_number": 16,
+        "question_text": "Aquaporin channels are only found in the collecting duct.",
+        "options": [
+          "true",
+          "false"
+        ],
+        "correct_answer": "false",
+        "explanation": "False. Aquaporin channels, which facilitate the movement of water across cell membranes, are found in various parts of the nephron, including the proximal convoluted tubule and the descending limb of the loop of Henle. Their presence and regulation are particularly important in the collecting duct, where they are regulated by ADH to control water reabsorption."
+      },
+      {
+        "question_number": 17,
+        "question_text": "Most absorption and secretion occurs in this part of the nephron.",
+        "options": [
+          "proximal convoluted tubule",
+          "descending loop of Henle",
+          "ascending loop of Henle",
+          "distal convoluted tubule",
+          "collecting ducts"
+        ],
+        "correct_answer": "proximal convoluted tubule",
+        "explanation": "The proximal convoluted tubule (PCT) is where the majority of reabsorption of water, ions (like sodium, potassium, chloride), glucose, amino acids, and other solutes from the filtrate back into the blood occurs. It is also involved in the secretion of certain waste products and toxins from the blood into the filtrate."
+      },
+      {
+        "question_number": 18,
+        "question_text": "The fine tuning of water recovery or disposal occurs in ________.",
+        "options": [
+          "the proximal convoluted tubule",
+          "the collecting ducts",
+          "the ascending loop of Henle",
+          "the distal convoluted tubule"
+        ],
+        "correct_answer": "the collecting ducts",
+        "explanation": "The collecting ducts are primarily responsible for the fine tuning of water reabsorption, which is regulated by the hormone antidiuretic hormone (ADH). ADH increases the permeability of the collecting ducts to water, allowing more water to be reabsorbed into the blood, thus concentrating the urine and conserving body water."
+      },
+      {
+        "question_number": 19,
+        "question_text": "Vasodilation of blood vessels to the kidneys is due to ________.",
+        "options": [
+          "more frequent action potentials",
+          "less frequent action potentials"
+        ],
+        "correct_answer": "less frequent action potentials",
+        "explanation": "The sympathetic nervous system innervates the blood vessels of the kidneys and generally causes vasoconstriction through the release of norepinephrine. Less frequent action potentials from the sympathetic nervous system would lead to less norepinephrine release, resulting in vasodilation of the renal blood vessels."
+      },
+      {
+        "question_number": 20,
+        "question_text": "When blood pressure increases, blood vessels supplying the kidney will ________ to mount a steady rate of filtration.",
+        "options": [
+          "contract",
+          "relax"
+        ],
+        "correct_answer": "contract",
+        "explanation": "When blood pressure increases, the afferent arterioles supplying the glomeruli in the kidneys will contract in a process called autoregulation. This helps to maintain a relatively constant glomerular filtration rate (GFR) despite fluctuations in systemic blood pressure, protecting the glomeruli from damage due to high pressure."
+      },
+      {
+        "question_number": 21,
+        "question_text": "Which of these three paracrine chemicals cause vasodilation?",
+        "options": [
+          "ATP",
+          "adenosine",
+          "nitric oxide"
+        ],
+        "correct_answer": "nitric oxide",
+        "explanation": "Nitric oxide (NO) is a potent paracrine vasodilator produced by endothelial cells in response to various stimuli, including increased blood flow. It promotes relaxation of vascular smooth muscle, leading to vasodilation."
+      },
+      {
+        "question_number": 22,
+        "question_text": "What hormone directly opposes the actions of natriuretic hormones?",
+        "options": [
+          "renin",
+          "nitric oxide",
+          "dopamine",
+          "aldosterone"
+        ],
+        "correct_answer": "aldosterone",
+        "explanation": "Natriuretic hormones, such as atrial natriuretic peptide (ANP), promote natriuresis (sodium excretion) and diuresis (water excretion), leading to a decrease in blood volume and pressure. Aldosterone, secreted by the adrenal cortex, has the opposite effect by promoting sodium reabsorption in the kidneys, leading to water retention and increased blood volume and pressure."
+      },
+      {
+        "question_number": 23,
+        "question_text": "Which of these is a vasoconstrictor?",
+        "options": [
+          "nitric oxide",
+          "natriuretic hormone",
+          "bradykinin",
+          "angiotensin II"
+        ],
+        "correct_answer": "angiotensin II",
+        "explanation": "Angiotensin II is a potent vasoconstrictor that is produced as part of the renin-angiotensin-aldosterone system (RAAS) in response to low blood pressure or low sodium levels. Nitric oxide and bradykinin are vasodilators. Natriuretic hormones also generally promote vasodilation in some contexts."
+      },
+      {
+        "question_number": 24,
+        "question_text": "What signal causes the heart to secrete atrial natriuretic hormone?",
+        "options": [
+          "increased blood pressure",
+          "decreased blood pressure",
+          "increased Na+ levels",
+          "decreased Na+ levels"
+        ],
+        "correct_answer": "increased blood pressure",
+        "explanation": "Atrial natriuretic hormone (ANP) is secreted by cells in the atria of the heart in response to increased stretching of the atrial walls, which occurs when blood volume or blood pressure increases."
+      },
+      {
+        "question_number": 25,
+        "question_text": "Which of these beverages does not have a diuretic effect?",
+        "options": [
+          "tea",
+          "coffee",
+          "alcohol",
+          "milk"
+        ],
+        "correct_answer": "milk",
+        "explanation": "Tea and coffee contain caffeine, which can have a mild diuretic effect. Alcohol inhibits the release of antidiuretic hormone (ADH), leading to increased urine output. Milk, on the other hand, is hydrating and does not typically have a diuretic effect."
+      },
+      {
+        "question_number": 26,
+        "question_text": "Progesterone can bind to receptors for which hormone that, when released, activates water retention?",
+        "options": [
+          "aldosterone",
+          "ADH",
+          "PTH",
+          "ANH"
+        ],
+        "correct_answer": "aldosterone",
+        "explanation": "Progesterone can bind to mineralocorticoid receptors, which are the receptors for aldosterone. Aldosterone, when released by the adrenal cortex, promotes sodium and water reabsorption in the kidneys, leading to water retention."
+      },
+      {
+        "question_number": 27,
+        "question_text": "Renin is released in response to ________.",
+        "options": [
+          "increased blood pressure",
+          "decreased blood pressure",
+          "ACE",
+          "diuretics"
+        ],
+        "correct_answer": "decreased blood pressure",
+        "explanation": "Renin is an enzyme released by the juxtaglomerular cells of the kidney in response to decreased blood pressure, decreased sodium levels in the distal tubule, or sympathetic stimulation."
+      },
+      {
+        "question_number": 28,
+        "question_text": "Which step in vitamin D production does the kidney perform?",
+        "options": [
+          "converts cholecalciferol into calcidiol",
+          "converts calcidiol into calcitriol",
+          "stores vitamin D",
+          "none of these"
+        ],
+        "correct_answer": "converts calcidiol into calcitriol",
+        "explanation": "The kidneys play a crucial role in the production of active vitamin D. They convert calcidiol, which is produced by the liver from cholecalciferol (vitamin D3), into calcitriol, the active form of vitamin D."
+      },
+      {
+        "question_number": 29,
+        "question_text": "Which hormone does the kidney produce that stimulates red blood cell production?",
+        "options": [
+          "thrombopoietin",
+          "vitamin D",
+          "EPO",
+          "renin"
+        ],
+        "correct_answer": "EPO",
+        "explanation": "The kidneys produce erythropoietin (EPO), a hormone that stimulates the bone marrow to increase the production of red blood cells (erythrocytes) in response to low oxygen levels in the blood."
+      },
+      {
+        "question_number": 30,
+        "question_text": "If there were no aquaporin channels in the collecting duct, ________.",
+        "options": [
+          "you would develop systemic edema",
+          "you would retain excess Na+",
+          "you would lose vitamins and electrolytes",
+          "you would suffer severe dehydration"
+        ],
+        "correct_answer": "you would suffer severe dehydration",
+        "explanation": "Aquaporin channels in the collecting duct allow for the reabsorption of water under the influence of antidiuretic hormone (ADH). If these channels were absent, the collecting duct would be impermeable to water, leading to a large volume of dilute urine and severe dehydration."
+      }
+    ]
+  }
+  
+  
+  

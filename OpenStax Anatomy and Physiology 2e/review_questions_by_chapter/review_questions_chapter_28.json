@@ -1,0 +1,366 @@
+[
+    {
+        "chapter": "28",
+        "question_number": "3",
+        "question": "Sperm and ova are similar in terms of ________.",
+        "options": [
+            "size",
+            "quantity produced per year",
+            "chromosome number",
+            "flagellar motility"
+        ],
+        "correct_answer": "chromosome number",
+        "explanation": "Both sperm and ova have the same chromosome number, which is 23 in humans."
+    },
+    {
+        "chapter": "28",
+        "question_number": "4",
+        "question": "Although the male ejaculate contains hundreds of millions of sperm, ________.",
+        "options": [
+            "most do not reach the oocyte",
+            "most are destroyed by the alkaline environment of the uterus",
+            "it takes millions to penetrate the outer layers of the oocyte",
+            "most are destroyed by capacitation"
+        ],
+        "correct_answer": "most do not reach the oocyte",
+        "explanation": "Most sperm do not reach the oocyte due to various barriers and challenges in the female reproductive tract."
+    },
+    {
+        "chapter": "28",
+        "question_number": "5",
+        "question": "As sperm first reach the oocyte, they will contact the ________.",
+        "options": [
+            "acrosome",
+            "corona radiata",
+            "sperm-binding receptors",
+            "zona pellucida"
+        ],
+        "correct_answer": "corona radiata",
+        "explanation": "The corona radiata is the outermost layer of cells surrounding the oocyte that sperm must penetrate first."
+    },
+    {
+        "chapter": "28",
+        "question_number": "6",
+        "question": "Fusion of pronuclei occurs during ________.",
+        "options": [
+            "spermatogenesis",
+            "ovulation",
+            "fertilization",
+            "capacitation"
+        ],
+        "correct_answer": "fertilization",
+        "explanation": "Fusion of pronuclei occurs during fertilization when the sperm and egg nuclei combine to form a zygote."
+    },
+    {
+        "chapter": "28",
+        "question_number": "7",
+        "question": "Sperm must first complete ________ to enable the fertilization of an oocyte.",
+        "options": [
+            "capacitation",
+            "the acrosomal reaction",
+            "the cortical reaction",
+            "the fast block"
+        ],
+        "correct_answer": "capacitation",
+        "explanation": "Capacitation is the process that sperm must undergo to gain the ability to fertilize an oocyte."
+    },
+    {
+        "chapter": "28",
+        "question_number": "8",
+        "question": "Cleavage produces daughter cells called ________.",
+        "options": [
+            "trophoblasts",
+            "blastocysts",
+            "morulae",
+            "blastomeres"
+        ],
+        "correct_answer": "blastomeres",
+        "explanation": "Cleavage is the series of rapid cell divisions that produce smaller cells called blastomeres."
+    },
+    {
+        "chapter": "28",
+        "question_number": "9",
+        "question": "The conceptus, upon reaching the uterus, first ________.",
+        "options": [
+            "implants",
+            "divides",
+            "disintegrates",
+            "hatches"
+        ],
+        "correct_answer": "implants",
+        "explanation": "The conceptus implants into the uterine wall to establish a connection with the maternal blood supply."
+    },
+    {
+        "chapter": "28",
+        "question_number": "10",
+        "question": "The inner cell mass of the blastocyst is destined to become the ________.",
+        "options": [
+            "embryo",
+            "trophoblast",
+            "chorionic villi",
+            "placenta"
+        ],
+        "correct_answer": "embryo",
+        "explanation": "The inner cell mass of the blastocyst develops into the embryo, while the outer cells form the trophoblast."
+    },
+    {
+        "chapter": "28",
+        "question_number": "11",
+        "question": "Which primary germ layer gave rise to the cells that eventually became the central nervous system?",
+        "options": [
+            "endoderm",
+            "ectoderm",
+            "acrosome",
+            "mesoderm"
+        ],
+        "correct_answer": "ectoderm",
+        "explanation": "The ectoderm is the primary germ layer that gives rise to the central nervous system."
+    },
+    {
+        "chapter": "28",
+        "question_number": "12",
+        "question": "What would happen if the trophoblast did not secrete hCG upon implantation of the blastocyst?",
+        "options": [
+            "The cells would not continue to divide.",
+            "The corpus luteum would continue to produce progesterone and estrogen.",
+            "Menses would flush the blastocyst out of the uterus.",
+            "The uterine mucosa would not envelop the blastocyst."
+        ],
+        "correct_answer": "Menses would flush the blastocyst out of the uterus.",
+        "explanation": "Without hCG secretion, the corpus luteum would degenerate, leading to a drop in progesterone and estrogen levels, causing menses to occur."
+    },
+    {
+        "chapter": "28",
+        "question_number": "13",
+        "question": "During what process does the amnion envelop the embryo?",
+        "options": [
+            "embryonic folding",
+            "gastrulation",
+            "implantation",
+            "organogenesis"
+        ],
+        "correct_answer": "embryonic folding",
+        "explanation": "The amnion envelops the embryo during embryonic folding, forming a protective sac around it."
+    },
+    {
+        "chapter": "28",
+        "question_number": "14",
+        "question": "The placenta is formed from ________.",
+        "options": [
+            "the embryo\u2019s mesenchymal cells",
+            "the mother\u2019s endometrium only",
+            "the mother\u2019s endometrium and the embryo\u2019s chorionic membrane",
+            "the mother\u2019s endometrium and the embryo\u2019s umbilical cord"
+        ],
+        "correct_answer": "the mother\u2019s endometrium and the embryo\u2019s chorionic membrane",
+        "explanation": "The placenta is formed from the interaction between the mother\u2019s endometrium and the embryo\u2019s chorionic membrane."
+    },
+    {
+        "chapter": "28",
+        "question_number": "15",
+        "question": "The foramen ovale causes the fetal circulatory system to bypass the ________.",
+        "options": [
+            "liver",
+            "lungs",
+            "kidneys",
+            "gonads"
+        ],
+        "correct_answer": "lungs",
+        "explanation": "The foramen ovale allows blood to bypass the fetal lungs, which are not yet functional."
+    },
+    {
+        "chapter": "28",
+        "question_number": "16",
+        "question": "What happens to the urine excreted by the fetus when the kidneys begin to function?",
+        "options": [
+            "The umbilical cord carries it to the placenta for removal.",
+            "The endometrium absorbs it.",
+            "It adds to the amniotic fluid.",
+            "It is turned into meconium."
+        ],
+        "correct_answer": "It adds to the amniotic fluid.",
+        "explanation": "Fetal urine is excreted into the amniotic fluid, contributing to its volume."
+    },
+    {
+        "chapter": "28",
+        "question_number": "17",
+        "question": "During weeks 9\u201312 of fetal development, ________.",
+        "options": [
+            "bone marrow begins to assume erythrocyte production",
+            "meconium begins to accumulate in the intestines",
+            "surfactant production begins in the fetal lungs",
+            "the spinal cord begins to be myelinated"
+        ],
+        "correct_answer": "bone marrow begins to assume erythrocyte production",
+        "explanation": "During weeks 9\u201312, the bone marrow begins to take over erythrocyte production from the liver and spleen."
+    },
+    {
+        "chapter": "28",
+        "question_number": "18",
+        "question": "Progesterone secreted by the placenta suppresses ________ to prevent maturation of ovarian follicles.",
+        "options": [
+            "LH and estrogen",
+            "hCG and FSH",
+            "FSH and LH",
+            "estrogen and hCG"
+        ],
+        "correct_answer": "FSH and LH",
+        "explanation": "Progesterone suppresses the release of FSH and LH, preventing the maturation of ovarian follicles during pregnancy."
+    },
+    {
+        "chapter": "28",
+        "question_number": "19",
+        "question": "Which of the following is a possible culprit of \u201cmorning sickness\u201d?",
+        "options": [
+            "increased minute respiration",
+            "decreased intestinal peristalsis",
+            "decreased aldosterone secretion",
+            "increased blood volume"
+        ],
+        "correct_answer": "decreased intestinal peristalsis",
+        "explanation": "Decreased intestinal peristalsis due to hormonal changes can contribute to the nausea and vomiting associated with morning sickness."
+    },
+    {
+        "chapter": "28",
+        "question_number": "20",
+        "question": "How does the decrease in progesterone at the last weeks of pregnancy help to bring on labor?",
+        "options": [
+            "stimulating FSH production",
+            "decreasing the levels of estrogens",
+            "dilating the cervix",
+            "decreasing the inhibition of uterine contractility"
+        ],
+        "correct_answer": "decreasing the inhibition of uterine contractility",
+        "explanation": "A decrease in progesterone reduces its inhibitory effect on uterine contractility, helping to initiate labor."
+    },
+    {
+        "chapter": "28",
+        "question_number": "21",
+        "question": "Which of these fetal presentations is the easiest for vaginal birth?",
+        "options": [
+            "complete breech",
+            "vertex occiput anterior",
+            "frank breech",
+            "vertex occiput posterior"
+        ],
+        "correct_answer": "vertex occiput anterior",
+        "explanation": "The vertex occiput anterior presentation, where the baby\u2019s head is down and facing the mother\u2019s back, is the most favorable for vaginal birth."
+    },
+    {
+        "chapter": "28",
+        "question_number": "22",
+        "question": "Which of these shunts exists between the right and left atria?",
+        "options": [
+            "foramen ovale",
+            "ductus venosus",
+            "ductus arteriosis",
+            "foramen venosus"
+        ],
+        "correct_answer": "foramen ovale",
+        "explanation": "The foramen ovale is a shunt that allows blood to flow directly from the right atrium to the left atrium in the fetal heart."
+    },
+    {
+        "chapter": "28",
+        "question_number": "23",
+        "question": "Why is brown fat important?",
+        "options": [
+            "It is the newborn\u2019s primary source of insulation.",
+            "It can be broken down to generate heat for thermoregulation.",
+            "It can be broken down for energy between feedings.",
+            "It can be converted to white fat."
+        ],
+        "correct_answer": "It can be broken down to generate heat for thermoregulation.",
+        "explanation": "Brown fat is important for thermoregulation in newborns as it can be broken down to generate heat."
+    },
+    {
+        "chapter": "28",
+        "question_number": "24",
+        "question": "Constriction of umbilical blood vessels during vaginal birth ________.",
+        "options": [
+            "causes respiratory alkalosis",
+            "inhibits the respiratory center in the brain",
+            "elevates carbon dioxide levels in the blood",
+            "both a and b"
+        ],
+        "correct_answer": "elevates carbon dioxide levels in the blood",
+        "explanation": "Constriction of umbilical blood vessels during birth reduces oxygen supply, leading to elevated carbon dioxide levels in the blood."
+    },
+    {
+        "chapter": "28",
+        "question_number": "25",
+        "question": "Alveoli are connected to the lactiferous sinuses by ________.",
+        "options": [
+            "lactocytes",
+            "lactiferous ducts",
+            "nipple pores",
+            "lobules"
+        ],
+        "correct_answer": "lactiferous ducts",
+        "explanation": "Lactiferous ducts connect the alveoli, where milk is produced, to the lactiferous sinuses, where milk is stored before being released."
+    },
+    {
+        "chapter": "28",
+        "question_number": "26",
+        "question": "How is colostrum most important to a newborn?",
+        "options": [
+            "It helps boost the newborn\u2019s immune system.",
+            "It provides much needed fat.",
+            "It satisfies the newborn\u2019s thirst.",
+            "It satisfies the infant\u2019s appetite."
+        ],
+        "correct_answer": "It helps boost the newborn\u2019s immune system.",
+        "explanation": "Colostrum is rich in antibodies and helps boost the newborn\u2019s immune system."
+    },
+    {
+        "chapter": "28",
+        "question_number": "27",
+        "question": "Mature breast milk ________.",
+        "options": [
+            "has more sodium than cow\u2019s milk",
+            "has more calcium than cow\u2019s milk",
+            "has more protein than cow\u2019s milk",
+            "has more fat than cow\u2019s milk"
+        ],
+        "correct_answer": "has more fat than cow\u2019s milk",
+        "explanation": "Mature breast milk has a higher fat content compared to cow\u2019s milk, providing essential nutrients for the infant."
+    },
+    {
+        "chapter": "28",
+        "question_number": "28",
+        "question": "Marfan syndrome is inherited in an autosomal dominant pattern. Which of the following is true?",
+        "options": [
+            "Female offspring are more likely to be carriers of the disease.",
+            "Male offspring are more likely to inherit the disease.",
+            "Male and female offspring have the same likelihood of inheriting the disease.",
+            "Female offspring are more likely to inherit the disease."
+        ],
+        "correct_answer": "Male and female offspring have the same likelihood of inheriting the disease.",
+        "explanation": "In autosomal dominant inheritance, both male and female offspring have an equal likelihood of inheriting the disease."
+    },
+    {
+        "chapter": "28",
+        "question_number": "29",
+        "question": "In addition to codominance, the ABO blood group antigens are also an example of ________.",
+        "options": [
+            "incomplete dominance",
+            "X-linked recessive inheritance",
+            "multiple alleles",
+            "recessive lethal inheritance"
+        ],
+        "correct_answer": "multiple alleles",
+        "explanation": "The ABO blood group antigens are an example of multiple alleles, where more than two alleles exist for a gene."
+    },
+    {
+        "chapter": "28",
+        "question_number": "30",
+        "question": "Zoe has cystic fibrosis. Which of the following is the most likely explanation?",
+        "options": [
+            "Zoe probably inherited one faulty allele from her father, who is a carrier, and one normal allele from her mother.",
+            "Zoe probably inherited one faulty allele from her mother, who must also have cystic fibrosis, and one normal allele from her father.",
+            "Zoe must have inherited faulty alleles from both parents, both of whom must also have cystic fibrosis.",
+            "Zoe must have inherited faulty alleles from both parents, both of whom are carriers."
+        ],
+        "correct_answer": "Zoe must have inherited faulty alleles from both parents, both of whom are carriers.",
+        "explanation": "Cystic fibrosis is an autosomal recessive disorder, meaning Zoe must have inherited faulty alleles from both parents, who are carriers."
+    }
+]

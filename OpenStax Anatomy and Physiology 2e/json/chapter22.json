@@ -1,0 +1,392 @@
+{
+    "chapter": 22,
+    "review_questions": [
+      {
+        "question_number": 4,
+        "question_text": "Which of the following anatomical structures is not part of the conducting zone?",
+        "options": [
+          "pharynx",
+          "nasal cavity",
+          "alveoli",
+          "bronchi"
+        ],
+        "correct_answer": "alveoli",
+        "explanation": "The conducting zone of the respiratory system includes structures that transport air to the lungs: nasal cavity, pharynx, larynx, trachea, bronchi, and terminal bronchioles. Alveoli are part of the respiratory zone where gas exchange occurs."
+      },
+      {
+        "question_number": 5,
+        "question_text": "What is the function of the conchae in the nasal cavity?",
+        "options": [
+          "increase surface area",
+          "exchange gases",
+          "maintain surface tension",
+          "maintain air pressure"
+        ],
+        "correct_answer": "increase surface area",
+        "explanation": "The conchae (superior, middle, and inferior nasal conchae) are bony projections in the nasal cavity that increase the surface area of the nasal mucosa. This increased surface area enhances the warming, humidifying, and filtering of inhaled air."
+      },
+      {
+        "question_number": 6,
+        "question_text": "The fauces connects which of the following structures to the oropharynx?",
+        "options": [
+          "nasopharynx",
+          "laryngopharynx",
+          "nasal cavity",
+          "oral cavity"
+        ],
+        "correct_answer": "oral cavity",
+        "explanation": "The fauces is the opening at the posterior end of the oral cavity that connects the oral cavity to the oropharynx."
+      },
+      {
+        "question_number": 7,
+        "question_text": "Which of the following are structural features of the trachea?",
+        "options": [
+          "C-shaped cartilage",
+          "smooth muscle fibers",
+          "cilia",
+          "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "The trachea (windpipe) has C-shaped rings of hyaline cartilage that provide structural support and prevent collapse. Its posterior wall contains smooth muscle fibers that can contract to adjust the airway diameter. The trachea is lined with a pseudostratified ciliated columnar epithelium containing cilia that trap and propel mucus and debris away from the lungs."
+      },
+      {
+        "question_number": 8,
+        "question_text": "Which of the following structures is not part of the bronchial tree?",
+        "options": [
+          "alveoli",
+          "bronchi",
+          "terminal bronchioles",
+          "respiratory bronchioles"
+        ],
+        "correct_answer": "alveoli",
+        "explanation": "The bronchial tree consists of the branching network of airways within the lungs: primary bronchi, secondary bronchi, tertiary bronchi, bronchioles, terminal bronchioles, and respiratory bronchioles. Alveoli are the tiny air sacs at the end of the respiratory bronchioles where gas exchange occurs, but they are not considered part of the 'tree' structure itself."
+      },
+      {
+        "question_number": 9,
+        "question_text": "What is the role of alveolar macrophages?",
+        "options": [
+          "to secrete pulmonary surfactant",
+          "to secrete antimicrobial proteins",
+          "to remove pathogens and debris",
+          "to facilitate gas exchange"
+        ],
+        "correct_answer": "to remove pathogens and debris",
+        "explanation": "Alveolar macrophages, also known as dust cells, are phagocytic cells located in the alveoli of the lungs. They engulf and remove pathogens, dust particles, and other debris that may have entered the alveoli during inhalation, helping to keep the respiratory surfaces clean."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Which of the following structures separates the lung into lobes?",
+        "options": [
+          "mediastinum",
+          "fissure",
+          "root",
+          "pleura"
+        ],
+        "correct_answer": "fissure",
+        "explanation": "Each lung is divided into lobes by fissures, which are deep grooves that separate the lung tissue. The right lung has three lobes (superior, middle, and inferior) separated by the horizontal and oblique fissures, while the left lung has two lobes (superior and inferior) separated by the oblique fissure."
+      },
+      {
+        "question_number": 11,
+        "question_text": "A section of the lung that receives its own tertiary bronchus is called the ________.",
+        "options": [
+          "bronchopulmonary segment",
+          "pulmonary lobule",
+          "interpulmonary segment",
+          "respiratory segment"
+        ],
+        "correct_answer": "bronchopulmonary segment",
+        "explanation": "A bronchopulmonary segment is a functionally independent unit of the lung that is supplied by its own tertiary bronchus (also called a segmental bronchus) and its own artery. Each lung contains multiple bronchopulmonary segments that are separated by connective tissue septa."
+      },
+      {
+        "question_number": 12,
+        "question_text": "The ________ circulation picks up oxygen for cellular use and drops off carbon dioxide for removal from the body.",
+        "options": [
+          "pulmonary",
+          "interlobular",
+          "respiratory",
+          "bronchial"
+        ],
+        "correct_answer": "pulmonary",
+        "explanation": "The pulmonary circulation involves the movement of blood from the heart to the lungs for gas exchange. In the pulmonary capillaries surrounding the alveoli, blood picks up oxygen from the inhaled air to be used by the body's cells and releases carbon dioxide, a waste product of cellular respiration, to be exhaled."
+      },
+      {
+        "question_number": 13,
+        "question_text": "The pleura that surrounds the lungs consists of two layers, the ________.",
+        "options": [
+          "visceral and parietal pleurae.",
+          "mediastinum and parietal pleurae.",
+          "visceral and mediastinum pleurae.",
+          "none of the above"
+        ],
+        "correct_answer": "visceral and parietal pleurae.",
+        "explanation": "The pleura is a serous membrane that surrounds each lung. It consists of two layers: the visceral pleura, which directly covers the surface of the lung, and the parietal pleura, which lines the thoracic wall, mediastinum, and diaphragm. Between these two layers is the pleural cavity containing a small amount of pleural fluid."
+      },
+      {
+        "question_number": 14,
+        "question_text": "Which of the following processes does atmospheric pressure play a role in?",
+        "options": [
+          "pulmonary ventilation",
+          "production of pulmonary surfactant",
+          "resistance",
+          "surface tension"
+        ],
+        "correct_answer": "pulmonary ventilation",
+        "explanation": "Pulmonary ventilation, the process of breathing (inhalation and exhalation), relies on the pressure difference between the atmosphere and the alveoli within the lungs. Air flows from an area of higher pressure to an area of lower pressure. Changes in the volume of the thoracic cavity, caused by the contraction and relaxation of respiratory muscles, lead to changes in intra-alveolar pressure relative to atmospheric pressure, driving airflow."
+      },
+      {
+        "question_number": 15,
+        "question_text": "A decrease in volume leads to a(n) ________ pressure.",
+        "options": [
+          "decrease in",
+          "equalization of",
+          "increase in",
+          "zero"
+        ],
+        "correct_answer": "increase in",
+        "explanation": "According to Boyle's Law, the pressure of a gas is inversely proportional to its volume at a constant temperature. Therefore, if the volume of a container holding a gas decreases, the pressure of the gas will increase."
+      },
+      {
+        "question_number": 16,
+        "question_text": "The pressure difference between the intra-alveolar and intrapleural pressures is called ________.",
+        "options": [
+          "atmospheric pressure",
+          "pulmonary pressure",
+          "negative pressure",
+          "transpulmonary pressure"
+        ],
+        "correct_answer": "transpulmonary pressure",
+        "explanation": "Transpulmonary pressure is the pressure difference between the pressure inside the alveoli (intra-alveolar pressure) and the pressure in the pleural cavity (intrapleural pressure). This pressure difference is essential for keeping the lungs inflated and preventing them from collapsing."
+      },
+      {
+        "question_number": 17,
+        "question_text": "Gas flow decreases as ________ increases.",
+        "options": [
+          "resistance",
+          "pressure",
+          "airway diameter",
+          "friction"
+        ],
+        "correct_answer": "resistance",
+        "explanation": "Gas flow (airflow) is directly proportional to the pressure difference between two points and inversely proportional to the resistance of the airways. Therefore, as resistance to airflow increases, the rate of gas flow decreases, assuming the pressure difference remains constant."
+      },
+      {
+        "question_number": 18,
+        "question_text": "Contraction of the external intercostal muscles causes which of the following to occur?",
+        "options": [
+          "The diaphragm moves downward.",
+          "The rib cage is compressed.",
+          "The thoracic cavity volume decreases.",
+          "The ribs and sternum move upward."
+        ],
+        "correct_answer": "The ribs and sternum move upward.",
+        "explanation": "Contraction of the external intercostal muscles, which are located between the ribs, elevates the rib cage. This causes the ribs and sternum to move upward and outward, increasing the anterior-posterior and lateral diameters of the thoracic cavity, which leads to inhalation."
+      },
+      {
+        "question_number": 19,
+        "question_text": "Which of the following prevents the alveoli from collapsing?",
+        "options": [
+          "residual volume",
+          "tidal volume",
+          "expiratory reserve volume",
+          "inspiratory reserve volume"
+        ],
+        "correct_answer": "residual volume",
+        "explanation": "Residual volume is the volume of air that remains in the lungs after a maximal exhalation. This air helps to keep the alveoli inflated and prevents them from collapsing. Pulmonary surfactant, produced by Type II alveolar cells, also plays a crucial role in reducing surface tension within the alveoli and preventing their collapse."
+      },
+      {
+        "question_number": 20,
+        "question_text": "Gas moves from an area of ________ partial pressure to an area of ________ partial pressure.",
+        "options": [
+          "low; high",
+          "low; low",
+          "high; high",
+          "high; low"
+        ],
+        "correct_answer": "high; low",
+        "explanation": "Gases diffuse from an area where their partial pressure is higher to an area where their partial pressure is lower. This movement down the partial pressure gradient is the principle behind gas exchange in the lungs and at the tissues."
+      },
+      {
+        "question_number": 21,
+        "question_text": "When ventilation is not sufficient, which of the following occurs?",
+        "options": [
+          "The capillary constricts.",
+          "The capillary dilates.",
+          "The partial pressure of oxygen in the affected alveolus increases.",
+          "The bronchioles dilate."
+        ],
+        "correct_answer": "The capillary constricts.",
+        "explanation": "When ventilation (airflow into the alveoli) is insufficient, the partial pressure of oxygen (PO2) in the affected alveolus decreases, and the partial pressure of carbon dioxide (PCO2) increases. In response to low alveolar PO2, the pulmonary capillaries supplying that alveolus constrict. This is a mechanism called ventilation-perfusion matching, which helps to redirect blood flow to better-ventilated areas of the lung where oxygen uptake is more efficient."
+      },
+      {
+        "question_number": 22,
+        "question_text": "Gas exchange that occurs at the level of the tissues is called ________.",
+        "options": [
+          "external respiration",
+          "interpulmonary respiration",
+          "internal respiration",
+          "pulmonary ventilation"
+        ],
+        "correct_answer": "internal respiration",
+        "explanation": "Internal respiration is the exchange of gases (oxygen and carbon dioxide) between the blood in systemic capillaries and the cells of the body tissues. External respiration (pulmonary respiration) is the exchange of gases in the lungs between the blood and the air in the alveoli. Pulmonary ventilation is simply the mechanical process of breathing (movement of air into and out of the lungs)."
+      },
+      {
+        "question_number": 23,
+        "question_text": "The partial pressure of carbon dioxide is 45 mm Hg in the blood and 40 mm Hg in the alveoli. What happens to the carbon dioxide?",
+        "options": [
+          "It diffuses into the blood.",
+          "It diffuses into the alveoli.",
+          "The gradient is too small for carbon dioxide to diffuse.",
+          "It decomposes into carbon and oxygen."
+        ],
+        "correct_answer": "It diffuses into the alveoli.",
+        "explanation": "Gases diffuse from an area of higher partial pressure to an area of lower partial pressure. Since the partial pressure of carbon dioxide (PCO2) is higher in the blood (45 mm Hg) than in the alveoli (40 mm Hg), carbon dioxide will diffuse from the blood into the alveoli to be exhaled."
+      },
+      {
+        "question_number": 24,
+        "question_text": "Oxyhemoglobin forms by a chemical reaction between which of the following?",
+        "options": [
+          "hemoglobin and carbon dioxide",
+          "carbonic anhydrase and carbon dioxide",
+          "hemoglobin and oxygen",
+          "carbonic anhydrase and oxygen"
+        ],
+        "correct_answer": "hemoglobin and oxygen",
+        "explanation": "Oxyhemoglobin is the molecule formed when oxygen binds to the iron atom within the heme group of the hemoglobin protein found in red blood cells. This binding allows for the transport of oxygen from the lungs to the tissues."
+      },
+      {
+        "question_number": 25,
+        "question_text": "Which of the following factors play a role in the oxygen–hemoglobin saturation/dissociation curve?",
+        "options": [
+          "temperature",
+          "pH",
+          "BPG",
+          "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "The oxygen-hemoglobin saturation/dissociation curve illustrates the relationship between the partial pressure of oxygen and the percentage of hemoglobin saturation with oxygen. Several factors can shift this curve, including temperature, blood pH, and the concentration of 2,3-bisphosphoglycerate (BPG) in red blood cells, affecting hemoglobin's affinity for oxygen."
+      },
+      {
+        "question_number": 26,
+        "question_text": "Which of the following occurs during the chloride shift?",
+        "options": [
+          "Chloride is removed from the erythrocyte.",
+          "Chloride is exchanged for bicarbonate.",
+          "Bicarbonate is removed from the erythrocyte.",
+          "Bicarbonate is removed from the blood."
+        ],
+        "correct_answer": "Chloride is exchanged for bicarbonate.",
+        "explanation": "The chloride shift is a process that occurs in red blood cells to maintain electrical neutrality during carbon dioxide transport. As bicarbonate ions (HCO3-) are produced inside red blood cells and move out into the plasma, chloride ions (Cl-) move from the plasma into the red blood cells to balance the charge."
+      },
+      {
+        "question_number": 27,
+        "question_text": "A low partial pressure of oxygen promotes hemoglobin binding to carbon dioxide. This is an example of the ________.",
+        "options": [
+          "Haldane effect",
+          "Bohr effect",
+          "Dalton’s law",
+          "Henry’s law"
+        ],
+        "correct_answer": "Haldane effect",
+        "explanation": "The Haldane effect describes the property of hemoglobin where deoxygenated hemoglobin has a higher affinity for carbon dioxide than oxygenated hemoglobin. This promotes the binding of carbon dioxide to hemoglobin in the tissues where oxygen levels are low."
+      },
+      {
+        "question_number": 28,
+        "question_text": "Increased ventilation that results in an increase in blood pH is called ________.",
+        "options": [
+          "hyperventilation",
+          "hyperpnea",
+          "acclimatization",
+          "apnea"
+        ],
+        "correct_answer": "hyperventilation",
+        "explanation": "Hyperventilation is an increased rate and depth of breathing that exceeds the body's need to remove carbon dioxide. This leads to an excessive removal of CO2 from the blood, causing a decrease in blood carbon dioxide levels and a resulting increase in blood pH (alkalosis)."
+      },
+      {
+        "question_number": 29,
+        "question_text": "Exercise can trigger symptoms of AMS due to which of the following?",
+        "options": [
+          "low partial pressure of oxygen",
+          "low atmospheric pressure",
+          "abnormal neural signals",
+          "small venous reserve of oxygen"
+        ],
+        "correct_answer": "low partial pressure of oxygen",
+        "explanation": "Acute Mountain Sickness (AMS) can be triggered or worsened by exercise at high altitudes due to the already low partial pressure of oxygen in the atmosphere. The increased metabolic demands of exercise exacerbate the effects of hypoxia (low oxygen levels)."
+      },
+      {
+        "question_number": 30,
+        "question_text": "Which of the following stimulates the production of erythrocytes?",
+        "options": [
+          "AMS",
+          "high blood levels of carbon dioxide",
+          "low atmospheric pressure",
+          "erythropoietin"
+        ],
+        "correct_answer": "erythropoietin",
+        "explanation": "Erythropoietin (EPO) is a hormone produced primarily by the kidneys that stimulates the production of erythrocytes (red blood cells) in the bone marrow in response to low oxygen levels in the blood (hypoxia)."
+      },
+      {
+        "question_number": 31,
+        "question_text": "The olfactory pits form from which of the following?",
+        "options": [
+          "mesoderm",
+          "cartilage",
+          "ectoderm",
+          "endoderm"
+        ],
+        "correct_answer": "ectoderm",
+        "explanation": "The olfactory pits, which are the initial indentations that develop into the olfactory epithelium responsible for the sense of smell, form from the ectoderm, the outermost of the three primary germ layers in the developing embryo."
+      },
+      {
+        "question_number": 32,
+        "question_text": "A full complement of mature alveoli are present by ________.",
+        "options": [
+          "early childhood, around 8 years of age",
+          "birth",
+          "37 weeks",
+          "16 weeks"
+        ],
+        "correct_answer": "early childhood, around 8 years of age",
+        "explanation": "While alveoli start to develop during fetal life, the majority of alveolar development occurs after birth. A full complement of mature alveoli, estimated to be around 300 million, is typically present by early childhood, around 8 years of age."
+      },
+      {
+        "question_number": 33,
+        "question_text": "If a baby is born prematurely before type II cells produce sufficient pulmonary surfactant, which of the following might you expect?",
+        "options": [
+          "difficulty expressing fluid",
+          "difficulty inflating the lungs",
+          "difficulty with pulmonary capillary flow",
+          "no difficulty as type I cells can provide enough surfactant for normal breathing"
+        ],
+        "correct_answer": "difficulty inflating the lungs",
+        "explanation": "Type II alveolar cells produce pulmonary surfactant, which reduces surface tension in the alveoli, preventing them from collapsing. Premature babies may not have produced enough surfactant, leading to increased surface tension and difficulty in inflating the lungs, a condition known as infant respiratory distress syndrome (IRDS)."
+      },
+      {
+        "question_number": 34,
+        "question_text": "When do fetal breathing movements begin?",
+        "options": [
+          "around week 20",
+          "around week 37",
+          "around week 16",
+          "after birth"
+        ],
+        "correct_answer": "around week 20",
+        "explanation": "Fetal breathing movements, which are practice movements of the respiratory muscles, typically begin around week 20 of gestation. These movements help to develop the respiratory muscles and prepare them for breathing after birth."
+      },
+      {
+        "question_number": 35,
+        "question_text": "What happens to the fluid that remains in the lungs after birth?",
+        "options": [
+          "It reduces the surface tension of the alveoli.",
+          "It is expelled shortly after birth.",
+          "It is absorbed shortly after birth.",
+          "It lubricates the pleurae."
+        ],
+        "correct_answer": "It is absorbed shortly after birth.",
+        "explanation": "During fetal development, the lungs are filled with fluid. At birth, much of this fluid is expelled during the birth process. The remaining fluid is rapidly absorbed shortly after birth by the pulmonary capillaries and lymphatic vessels, allowing the lungs to fill with air for respiration."
+      }
+    ]
+  }
+  
+  
+  

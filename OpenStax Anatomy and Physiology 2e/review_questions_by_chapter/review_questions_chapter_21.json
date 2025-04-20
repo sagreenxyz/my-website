@@ -1,0 +1,444 @@
+[
+    {
+        "chapter": "21",
+        "question_number": "5",
+        "question": "Which of the following cells is phagocytic?",
+        "options": [
+            "plasma cell",
+            "macrophage",
+            "B cell",
+            "NK cell"
+        ],
+        "correct_answer": "macrophage",
+        "explanation": "Macrophages are phagocytic cells that engulf and digest pathogens and debris."
+    },
+    {
+        "chapter": "21",
+        "question_number": "6",
+        "question": "Which structure allows lymph from the lower right limb to enter the bloodstream?",
+        "options": [
+            "thoracic duct",
+            "right lymphatic duct",
+            "right lymphatic trunk",
+            "left lymphatic trunk"
+        ],
+        "correct_answer": "thoracic duct",
+        "explanation": "The thoracic duct is the main lymphatic vessel that drains lymph from the lower right limb into the bloodstream."
+    },
+    {
+        "chapter": "21",
+        "question_number": "7",
+        "question": "Which of the following cells is important in the innate immune response?",
+        "options": [
+            "B cells",
+            "T cells",
+            "macrophages",
+            "plasma cells"
+        ],
+        "correct_answer": "macrophages",
+        "explanation": "Macrophages play a crucial role in the innate immune response by engulfing and digesting pathogens."
+    },
+    {
+        "chapter": "21",
+        "question_number": "8",
+        "question": "Which of the following cells would be most active in early, antiviral immune responses the first time one is exposed to pathogen?",
+        "options": [
+            "macrophage",
+            "T cell",
+            "neutrophil",
+            "natural killer cell"
+        ],
+        "correct_answer": "natural killer cell",
+        "explanation": "Natural killer cells are part of the innate immune response and are active in early antiviral responses."
+    },
+    {
+        "chapter": "21",
+        "question_number": "9",
+        "question": "Which of the lymphoid nodules is most likely to see food antigens first?",
+        "options": [
+            "tonsils",
+            "Peyer\u2019s patches",
+            "bronchus-associated lymphoid tissue",
+            "mucosa-associated lymphoid tissue"
+        ],
+        "correct_answer": "tonsils",
+        "explanation": "Tonsils are lymphoid nodules that are the first to encounter food antigens entering the body through the mouth."
+    },
+    {
+        "chapter": "21",
+        "question_number": "10",
+        "question": "Which of the following signs isnotcharacteristic of inflammation?",
+        "options": [
+            "redness",
+            "pain",
+            "cold",
+            "swelling"
+        ],
+        "correct_answer": "cold",
+        "explanation": "Cold is not a characteristic sign of inflammation, which typically includes redness, pain, and swelling."
+    },
+    {
+        "chapter": "21",
+        "question_number": "11",
+        "question": "Which of the following isnotimportant in the antiviral innate immune response?",
+        "options": [
+            "interferons",
+            "natural killer cells",
+            "complement",
+            "microphages"
+        ],
+        "correct_answer": "microphages",
+        "explanation": "Microphages are not important in the antiviral innate immune response, which relies on interferons, natural killer cells, and complement."
+    },
+    {
+        "chapter": "21",
+        "question_number": "12",
+        "question": "Enhanced phagocytosis of a cell by the binding of a specific protein is called ________.",
+        "options": [
+            "endocytosis",
+            "opsonization",
+            "anaphylaxis",
+            "complement activation"
+        ],
+        "correct_answer": "opsonization",
+        "explanation": "Opsonization is the process by which a specific protein binds to a cell, enhancing its phagocytosis."
+    },
+    {
+        "chapter": "21",
+        "question_number": "13",
+        "question": "Which of the following leads to the redness of inflammation?",
+        "options": [
+            "increased vascular permeability",
+            "anaphylactic shock",
+            "increased blood flow",
+            "complement activation"
+        ],
+        "correct_answer": "increased blood flow",
+        "explanation": "Increased blood flow to the affected area leads to the redness characteristic of inflammation."
+    },
+    {
+        "chapter": "21",
+        "question_number": "14",
+        "question": "T cells that secrete cytokines that help antibody responses are called ________.",
+        "options": [
+            "Th1",
+            "Th2",
+            "regulatory T cells",
+            "thymocytes"
+        ],
+        "correct_answer": "Th2",
+        "explanation": "Th2 cells secrete cytokines that help B cells produce antibodies."
+    },
+    {
+        "chapter": "21",
+        "question_number": "15",
+        "question": "The taking in of antigen and digesting it for later presentation is called ________.",
+        "options": [
+            "antigen presentation",
+            "antigen processing",
+            "endocytosis",
+            "exocytosis"
+        ],
+        "correct_answer": "antigen processing",
+        "explanation": "Antigen processing involves taking in an antigen and digesting it for later presentation to T cells."
+    },
+    {
+        "chapter": "21",
+        "question_number": "16",
+        "question": "Why is clonal expansion so important?",
+        "options": [
+            "to select for specific cells",
+            "to secrete cytokines",
+            "to kill target cells",
+            "to increase the numbers of specific cells"
+        ],
+        "correct_answer": "to increase the numbers of specific cells",
+        "explanation": "Clonal expansion increases the numbers of specific cells needed to effectively respond to an antigen."
+    },
+    {
+        "chapter": "21",
+        "question_number": "17",
+        "question": "The elimination of self-reactive thymocytes is called ________.",
+        "options": [
+            "positive selection.",
+            "negative selection.",
+            "tolerance.",
+            "clonal selection."
+        ],
+        "correct_answer": "negative selection.",
+        "explanation": "Negative selection eliminates self-reactive thymocytes to prevent autoimmune responses."
+    },
+    {
+        "chapter": "21",
+        "question_number": "18",
+        "question": "Which type of T cell is most effective against viruses?",
+        "options": [
+            "Th1",
+            "Th2",
+            "cytotoxic T cells",
+            "regulatory T cells"
+        ],
+        "correct_answer": "cytotoxic T cells",
+        "explanation": "Cytotoxic T cells are most effective against viruses as they can directly kill infected cells."
+    },
+    {
+        "chapter": "21",
+        "question_number": "19",
+        "question": "Removing functionality from a B cell without killing it is called ________.",
+        "options": [
+            "clonal selection",
+            "clonal expansion",
+            "clonal deletion",
+            "clonal anergy"
+        ],
+        "correct_answer": "clonal anergy",
+        "explanation": "Clonal anergy removes functionality from a B cell without killing it, preventing it from responding to an antigen."
+    },
+    {
+        "chapter": "21",
+        "question_number": "20",
+        "question": "Which class of antibody crosses the placenta in pregnant people?",
+        "options": [
+            "IgM",
+            "IgA",
+            "IgE",
+            "IgG"
+        ],
+        "correct_answer": "IgG",
+        "explanation": "IgG is the class of antibody that crosses the placenta, providing passive immunity to the fetus."
+    },
+    {
+        "chapter": "21",
+        "question_number": "21",
+        "question": "Which class of antibody has no known function other than as an antigen receptor?",
+        "options": [
+            "IgM",
+            "IgA",
+            "IgE",
+            "IgD"
+        ],
+        "correct_answer": "IgD",
+        "explanation": "IgD has no known function other than serving as an antigen receptor on B cells."
+    },
+    {
+        "chapter": "21",
+        "question_number": "22",
+        "question": "When does class switching occur?",
+        "options": [
+            "primary response",
+            "secondary response",
+            "tolerance",
+            "memory response"
+        ],
+        "correct_answer": "secondary response",
+        "explanation": "Class switching occurs during the secondary response, allowing B cells to produce different classes of antibodies."
+    },
+    {
+        "chapter": "21",
+        "question_number": "23",
+        "question": "Which class of antibody is found in mucus?",
+        "options": [
+            "IgM",
+            "IgA",
+            "IgE",
+            "IgD"
+        ],
+        "correct_answer": "IgA",
+        "explanation": "IgA is the class of antibody found in mucus, providing protection at mucosal surfaces."
+    },
+    {
+        "chapter": "21",
+        "question_number": "24",
+        "question": "Which enzymes in macrophages are important for clearing intracellular bacteria?",
+        "options": [
+            "metabolic",
+            "mitochondrial",
+            "nuclear",
+            "lysosomal"
+        ],
+        "correct_answer": "lysosomal",
+        "explanation": "Lysosomal enzymes in macrophages are important for clearing intracellular bacteria by breaking them down."
+    },
+    {
+        "chapter": "21",
+        "question_number": "25",
+        "question": "What type of chronic lung disease is caused by aMycobacterium?",
+        "options": [
+            "asthma",
+            "emphysema",
+            "tuberculosis",
+            "leprosy"
+        ],
+        "correct_answer": "tuberculosis",
+        "explanation": "Tuberculosis is a chronic lung disease caused by the bacterium Mycobacterium tuberculosis."
+    },
+    {
+        "chapter": "21",
+        "question_number": "26",
+        "question": "Which type of immune response is mostdirectlyeffective against bacteria?",
+        "options": [
+            "natural killer cells",
+            "complement",
+            "cytotoxic T cells",
+            "helper T cells"
+        ],
+        "correct_answer": "complement",
+        "explanation": "The complement system is most directly effective against bacteria by lysing bacterial cells and enhancing phagocytosis."
+    },
+    {
+        "chapter": "21",
+        "question_number": "27",
+        "question": "What is the reason that you have to be immunized with a new influenza vaccine each year?",
+        "options": [
+            "the vaccine is only protective for a year",
+            "mutation",
+            "macrophage oxidative metabolism",
+            "memory response"
+        ],
+        "correct_answer": "mutation",
+        "explanation": "The influenza virus mutates frequently, requiring a new vaccine each year to provide effective immunity."
+    },
+    {
+        "chapter": "21",
+        "question_number": "28",
+        "question": "Which type of immune response works in concert with cytotoxic T cells against virally infected cells?",
+        "options": [
+            "natural killer cells",
+            "complement",
+            "antibodies",
+            "memory"
+        ],
+        "correct_answer": "natural killer cells",
+        "explanation": "Natural killer cells work in concert with cytotoxic T cells to target and kill virally infected cells."
+    },
+    {
+        "chapter": "21",
+        "question_number": "29",
+        "question": "Which type of hypersensitivity involves soluble antigen-antibody complexes?",
+        "options": [
+            "type I",
+            "type II",
+            "type III",
+            "type IV"
+        ],
+        "correct_answer": "type III",
+        "explanation": "Type III hypersensitivity involves the formation of soluble antigen-antibody complexes that can deposit in tissues and cause inflammation."
+    },
+    {
+        "chapter": "21",
+        "question_number": "30",
+        "question": "What causes the delay in delayed hypersensitivity?",
+        "options": [
+            "inflammation",
+            "cytokine release",
+            "recruitment of immune cells",
+            "histamine release"
+        ],
+        "correct_answer": "recruitment of immune cells",
+        "explanation": "The delay in delayed hypersensitivity is caused by the time it takes to recruit and activate immune cells at the site of antigen exposure."
+    },
+    {
+        "chapter": "21",
+        "question_number": "31",
+        "question": "Which of the following is a critical feature of immediate hypersensitivity?",
+        "options": [
+            "inflammation",
+            "cytotoxic T cells",
+            "recruitment of immune cells",
+            "histamine release"
+        ],
+        "correct_answer": "histamine release",
+        "explanation": "Immediate hypersensitivity is characterized by the rapid release of histamine from mast cells, leading to symptoms such as itching and swelling."
+    },
+    {
+        "chapter": "21",
+        "question_number": "32",
+        "question": "Which of the following is an autoimmune disease of the heart?",
+        "options": [
+            "rheumatoid arthritis",
+            "lupus",
+            "rheumatic fever",
+            "Hashimoto\u2019s thyroiditis"
+        ],
+        "correct_answer": "rheumatic fever",
+        "explanation": "Rheumatic fever is an autoimmune disease that can affect the heart, causing inflammation and damage to heart tissues."
+    },
+    {
+        "chapter": "21",
+        "question_number": "33",
+        "question": "What drug is used to counteract the effects of anaphylactic shock?",
+        "options": [
+            "epinephrine",
+            "antihistamines",
+            "antibiotics",
+            "aspirin"
+        ],
+        "correct_answer": "epinephrine",
+        "explanation": "Epinephrine is used to counteract the effects of anaphylactic shock by rapidly reversing the symptoms."
+    },
+    {
+        "chapter": "21",
+        "question_number": "34",
+        "question": "Which of the following terms means \u201cmany genes\u201d?",
+        "options": [
+            "polymorphism",
+            "polygeny",
+            "polypeptide",
+            "multiple alleles"
+        ],
+        "correct_answer": "polygeny",
+        "explanation": "Polygeny refers to the presence of many genes that contribute to a particular trait or function."
+    },
+    {
+        "chapter": "21",
+        "question_number": "35",
+        "question": "Why do we have natural antibodies?",
+        "options": [
+            "We don\u2019t know why.",
+            "immunity to environmental bacteria",
+            "immunity to transplants",
+            "from clonal selection"
+        ],
+        "correct_answer": "immunity to environmental bacteria",
+        "explanation": "Natural antibodies provide immunity to environmental bacteria, helping to protect the body from infections."
+    },
+    {
+        "chapter": "21",
+        "question_number": "36",
+        "question": "Which type of cancer is associated with HIV disease?",
+        "options": [
+            "Kaposi\u2019s sarcoma",
+            "melanoma",
+            "lymphoma",
+            "renal cell carcinoma"
+        ],
+        "correct_answer": "Kaposi\u2019s sarcoma",
+        "explanation": "Kaposi\u2019s sarcoma is a type of cancer associated with HIV disease, characterized by the growth of tumors in the skin and other tissues."
+    },
+    {
+        "chapter": "21",
+        "question_number": "37",
+        "question": "How does cyclosporine A work?",
+        "options": [
+            "suppresses antibodies",
+            "suppresses T cells",
+            "suppresses macrophages",
+            "suppresses neutrophils"
+        ],
+        "correct_answer": "suppresses T cells",
+        "explanation": "Cyclosporine A works by suppressing T cells, which helps to prevent organ rejection in transplant patients."
+    },
+    {
+        "chapter": "21",
+        "question_number": "38",
+        "question": "What disease is associated with bone marrow transplants?",
+        "options": [
+            "diabetes mellitus type I",
+            "melanoma",
+            "headache",
+            "graft-versus-host disease"
+        ],
+        "correct_answer": "graft-versus-host disease",
+        "explanation": "Graft-versus-host disease is a condition that can occur after a bone marrow transplant, where the donor cells attack the recipient's tissues."
+    }
+]

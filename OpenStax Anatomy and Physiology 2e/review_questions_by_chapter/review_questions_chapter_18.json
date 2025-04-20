@@ -1,0 +1,288 @@
+[
+    {
+        "chapter": "18",
+        "question_number": "5",
+        "question": "Which of the following statements about blood is true?",
+        "options": [
+            "Blood is about 92 percent water.",
+            "Blood is slightly more acidic than water.",
+            "Blood is slightly more viscous than water.",
+            "Blood is slightly more salty than seawater."
+        ],
+        "correct_answer": "Blood is slightly more viscous than water.",
+        "explanation": "Blood is slightly more viscous than water due to the presence of cells and plasma proteins."
+    },
+    {
+        "chapter": "18",
+        "question_number": "6",
+        "question": "Which of the following statements about albumin is true?",
+        "options": [
+            "It draws water out of the blood vessels and into the body’s tissues.",
+            "It is the most abundant plasma protein.",
+            "It is produced by specialized leukocytes called plasma cells.",
+            "All of the above are true."
+        ],
+        "correct_answer": "It is the most abundant plasma protein.",
+        "explanation": "Albumin is the most abundant plasma protein and plays a key role in maintaining osmotic pressure."
+    },
+    {
+        "chapter": "18",
+        "question_number": "7",
+        "question": "Which of the following plasma proteins isnotproduced by the liver?",
+        "options": [
+            "fibrinogen",
+            "alpha globulin",
+            "beta globulin",
+            "immunoglobulin"
+        ],
+        "correct_answer": "immunoglobulin",
+        "explanation": "Immunoglobulins are produced by plasma cells, not the liver."
+    },
+    {
+        "chapter": "18",
+        "question_number": "8",
+        "question": "Which of the formed elements arise from myeloid stem cells?",
+        "options": [
+            "B cells",
+            "natural killer cells",
+            "platelets",
+            "all of the above"
+        ],
+        "correct_answer": "platelets",
+        "explanation": "Platelets arise from myeloid stem cells, while B cells and natural killer cells arise from lymphoid stem cells."
+    },
+    {
+        "chapter": "18",
+        "question_number": "9",
+        "question": "Which of the following statements about erythropoietin is true?",
+        "options": [
+            "It facilitates the proliferation and differentiation of the erythrocyte lineage.",
+            "It is a hormone produced by the thyroid gland.",
+            "It is a hemopoietic growth factor that prompts lymphoid stem cells to leave the bone marrow.",
+            "Both a and b are true."
+        ],
+        "correct_answer": "It facilitates the proliferation and differentiation of the erythrocyte lineage.",
+        "explanation": "Erythropoietin is a hormone that facilitates the proliferation and differentiation of erythrocyte lineage."
+    },
+    {
+        "chapter": "18",
+        "question_number": "10",
+        "question": "Interleukins are associated primarily with which of the following?",
+        "options": [
+            "production of various lymphocytes",
+            "immune responses",
+            "inflammation",
+            "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "Interleukins are associated with the production of various lymphocytes, immune responses, and inflammation."
+    },
+    {
+        "chapter": "18",
+        "question_number": "11",
+        "question": "Which of the following statements about mature, circulating erythrocytes is true?",
+        "options": [
+            "They have no nucleus.",
+            "They are packed with mitochondria.",
+            "They survive for an average of 4 days.",
+            "All of the above"
+        ],
+        "correct_answer": "They have no nucleus.",
+        "explanation": "Mature, circulating erythrocytes have no nucleus and survive for an average of 120 days."
+    },
+    {
+        "chapter": "18",
+        "question_number": "12",
+        "question": "A molecule of hemoglobin ________.",
+        "options": [
+            "is shaped like a biconcave disk packed almost entirely with iron",
+            "contains four glycoprotein units studded with oxygen",
+            "consists of four globin proteins, each bound to a molecule of heme",
+            "can carry up to 120 molecules of oxygen"
+        ],
+        "correct_answer": "consists of four globin proteins, each bound to a molecule of heme",
+        "explanation": "A molecule of hemoglobin consists of four globin proteins, each bound to a molecule of heme."
+    },
+    {
+        "chapter": "18",
+        "question_number": "13",
+        "question": "The production of healthy erythrocytes depends upon the availability of ________.",
+        "options": [
+            "copper",
+            "zinc",
+            "vitamin B12",
+            "copper, zinc, and vitamin B12"
+        ],
+        "correct_answer": "copper, zinc, and vitamin B12",
+        "explanation": "The production of healthy erythrocytes depends upon the availability of copper, zinc, and vitamin B12."
+    },
+    {
+        "chapter": "18",
+        "question_number": "14",
+        "question": "Aging and damaged erythrocytes are removed from the circulation by ________.",
+        "options": [
+            "myeoblasts",
+            "monocytes",
+            "macrophages",
+            "mast cells"
+        ],
+        "correct_answer": "macrophages",
+        "explanation": "Aging and damaged erythrocytes are removed from the circulation by macrophages."
+    },
+    {
+        "chapter": "18",
+        "question_number": "15",
+        "question": "A patient has been suffering for 2 months with a chronic, watery diarrhea. A blood test is likely to reveal ________.",
+        "options": [
+            "a hematocrit below 30 percent",
+            "hypoxemia",
+            "anemia",
+            "polycythemia"
+        ],
+        "correct_answer": "a hematocrit below 30 percent",
+        "explanation": "A patient with chronic, watery diarrhea is likely to have a hematocrit below 30 percent due to dehydration."
+    },
+    {
+        "chapter": "18",
+        "question_number": "16",
+        "question": "The process by which leukocytes squeeze through adjacent cells in a blood vessel wall is called ________.",
+        "options": [
+            "leukocytosis",
+            "positive chemotaxis",
+            "emigration",
+            "cytoplasmic extending"
+        ],
+        "correct_answer": "emigration",
+        "explanation": "The process by which leukocytes squeeze through adjacent cells in a blood vessel wall is called emigration."
+    },
+    {
+        "chapter": "18",
+        "question_number": "17",
+        "question": "Which of the following describes a neutrophil?",
+        "options": [
+            "abundant, agranular, especially effective against cancer cells",
+            "abundant, granular, especially effective against bacteria",
+            "rare, agranular, releases antimicrobial defensins",
+            "rare, granular, contains multiple granules packed with histamine"
+        ],
+        "correct_answer": "abundant, granular, especially effective against bacteria",
+        "explanation": "Neutrophils are abundant, granular leukocytes that are especially effective against bacteria."
+    },
+    {
+        "chapter": "18",
+        "question_number": "18",
+        "question": "T and B lymphocytes ________.",
+        "options": [
+            "are polymorphonuclear",
+            "are involved with specific immune function",
+            "proliferate excessively in leukopenia",
+            "are most active against parasitic worms"
+        ],
+        "correct_answer": "are involved with specific immune function",
+        "explanation": "T and B lymphocytes are involved with specific immune function."
+    },
+    {
+        "chapter": "18",
+        "question_number": "19",
+        "question": "A patient has been experiencing severe, persistent allergy symptoms that are reduced when she takes an antihistamine. Before the treatment, this patient was likely to have had increased activity of which leukocyte?",
+        "options": [
+            "basophils",
+            "neutrophils",
+            "monocytes",
+            "natural killer cells"
+        ],
+        "correct_answer": "basophils",
+        "explanation": "Basophils release histamine, which is involved in allergic reactions. Antihistamines reduce the activity of histamine."
+    },
+    {
+        "chapter": "18",
+        "question_number": "20",
+        "question": "Thrombocytes are more accurately called ________.",
+        "options": [
+            "clotting factors",
+            "megakaryoblasts",
+            "megakaryocytes",
+            "platelets"
+        ],
+        "correct_answer": "platelets",
+        "explanation": "Thrombocytes are more accurately called platelets."
+    },
+    {
+        "chapter": "18",
+        "question_number": "21",
+        "question": "The first step in hemostasis is ________.",
+        "options": [
+            "vascular spasm",
+            "conversion of fibrinogen to fibrin",
+            "activation of the intrinsic pathway",
+            "activation of the common pathway"
+        ],
+        "correct_answer": "vascular spasm",
+        "explanation": "The first step in hemostasis is vascular spasm, which reduces blood flow to the injured area."
+    },
+    {
+        "chapter": "18",
+        "question_number": "22",
+        "question": "Prothrombin is converted to thrombin during the ________.",
+        "options": [
+            "intrinsic pathway",
+            "extrinsic pathway",
+            "common pathway",
+            "formation of the platelet plug"
+        ],
+        "correct_answer": "common pathway",
+        "explanation": "Prothrombin is converted to thrombin during the common pathway of the coagulation cascade."
+    },
+    {
+        "chapter": "18",
+        "question_number": "23",
+        "question": "Hemophilia is characterized by ________.",
+        "options": [
+            "inadequate production of heparin",
+            "inadequate production of clotting factors",
+            "excessive production of fibrinogen",
+            "excessive production of platelets"
+        ],
+        "correct_answer": "inadequate production of clotting factors",
+        "explanation": "Hemophilia is characterized by inadequate production of clotting factors, leading to excessive bleeding."
+    },
+    {
+        "chapter": "18",
+        "question_number": "24",
+        "question": "The process in which antibodies attach to antigens, causing the formation of masses of linked cells, is called ________.",
+        "options": [
+            "sensitization",
+            "coagulation",
+            "agglutination",
+            "hemolysis"
+        ],
+        "correct_answer": "agglutination",
+        "explanation": "The process in which antibodies attach to antigens, causing the formation of masses of linked cells, is called agglutination."
+    },
+    {
+        "chapter": "18",
+        "question_number": "25",
+        "question": "People with ABO blood type O ________.",
+        "options": [
+            "have both antigens A and B on their erythrocytes",
+            "lack both antigens A and B on their erythrocytes",
+            "have neither anti-A nor anti-B antibodies circulating in their blood plasma",
+            "are considered universal recipients"
+        ],
+        "correct_answer": "lack both antigens A and B on their erythrocytes",
+        "explanation": "People with ABO blood type O lack both antigens A and B on their erythrocytes."
+    },
+    {
+        "chapter": "18",
+        "question_number": "26",
+        "question": "Hemolytic disease of the newborn is a risk during a subsequent pregnancy in which ________.",
+        "options": [
+            "a type AB person is carrying a type O fetus",
+            "a type O person is carrying a type AB fetus",
+            "an Rh+person is carrying an Rh−fetus",
+            "an Rh−person is carrying a second Rh+fetus"
+        ],
+        "correct_answer": "an Rh−person is carrying a second Rh+fetus",
+        "explanation": "Hemolytic disease of the newborn is a risk during a subsequent pregnancy in which an Rh−person is carrying a second Rh+fetus."
+    }
+]

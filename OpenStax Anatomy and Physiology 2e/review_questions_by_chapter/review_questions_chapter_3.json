@@ -1,0 +1,314 @@
+[
+    {
+        "chapter": "3",
+        "question_number": "6",
+        "question": "Because they are embedded within the membrane, ion channels are examples of ________.",
+        "options": [
+            "receptor proteins",
+            "integral proteins",
+            "peripheral proteins",
+            "glycoproteins"
+        ],
+        "correct_answer": "integral proteins",
+        "explanation": "Ion channels are integral proteins because they span the lipid bilayer and allow ions to pass through the membrane."
+    },
+    {
+        "chapter": "3",
+        "question_number": "7",
+        "question": "The diffusion of substances within a solution tends to move those substances ________ their ________ gradient.",
+        "options": [
+            "up; electrical",
+            "up; electrochemical",
+            "down; pressure",
+            "down; concentration"
+        ],
+        "correct_answer": "down; concentration",
+        "explanation": "Diffusion moves substances from areas of higher concentration to areas of lower concentration, down their concentration gradient."
+    },
+    {
+        "chapter": "3",
+        "question_number": "8",
+        "question": "Ion pumps and phagocytosis are both examples of ________.",
+        "options": [
+            "endocytosis",
+            "passive transport",
+            "active transport",
+            "facilitated diffusion"
+        ],
+        "correct_answer": "active transport",
+        "explanation": "Both ion pumps and phagocytosis require energy to move substances against their concentration gradient or engulf particles."
+    },
+    {
+        "chapter": "3",
+        "question_number": "9",
+        "question": "Choose the answer that best completes the following analogy: Diffusion is to ________ as endocytosis is to ________.",
+        "options": [
+            "filtration; phagocytosis",
+            "osmosis; pinocytosis",
+            "solutes; fluid",
+            "gradient; chemical energy"
+        ],
+        "correct_answer": "gradient; chemical energy",
+        "explanation": "Diffusion relies on a concentration gradient, while endocytosis requires chemical energy in the form of ATP."
+    },
+    {
+        "chapter": "3",
+        "question_number": "10",
+        "question": "Choose the term that best completes the following analogy: Cytoplasm is to cytosol as a swimming pool containing chlorine and flotation toys is to ________.",
+        "options": [
+            "the walls of the pool",
+            "the pool water containing chlorine",
+            "the flotation toys",
+            "the water"
+        ],
+        "correct_answer": "the pool water containing chlorine",
+        "explanation": "Cytoplasm includes the cytosol (fluid) and organelles, similar to how a pool contains water and other components."
+    },
+    {
+        "chapter": "3",
+        "question_number": "11",
+        "question": "The rough ER has its name due to what associated structures?",
+        "options": [
+            "Golgi apparatus",
+            "ribosomes",
+            "lysosomes",
+            "proteins"
+        ],
+        "correct_answer": "ribosomes",
+        "explanation": "The rough ER is studded with ribosomes, which give it a rough appearance and are involved in protein synthesis."
+    },
+    {
+        "chapter": "3",
+        "question_number": "12",
+        "question": "Which of the following is a function of the rough ER?",
+        "options": [
+            "production of proteins",
+            "detoxification of certain substances",
+            "synthesis of steroid hormones",
+            "regulation of intracellular calcium concentration"
+        ],
+        "correct_answer": "production of proteins",
+        "explanation": "The rough ER is primarily involved in the synthesis and folding of proteins, which are produced by its ribosomes."
+    },
+    {
+        "chapter": "3",
+        "question_number": "13",
+        "question": "Which of the following is a feature common to all three components of the cytoskeleton?",
+        "options": [
+            "They all serve to scaffold the organelles within the cell.",
+            "They are all characterized by roughly the same diameter.",
+            "They are all polymers of protein subunits.",
+            "They all help the cell resist compression and tension."
+        ],
+        "correct_answer": "They are all polymers of protein subunits.",
+        "explanation": "All three components of the cytoskeleton—microfilaments, intermediate filaments, and microtubules—are made of protein subunits."
+    },
+    {
+        "chapter": "3",
+        "question_number": "14",
+        "question": "Which of the following organelles produces large quantities of ATP when both glucose and oxygen are available to the cell?",
+        "options": [
+            "mitochondria",
+            "peroxisomes",
+            "lysosomes",
+            "ER"
+        ],
+        "correct_answer": "mitochondria",
+        "explanation": "Mitochondria are the powerhouse of the cell, producing ATP through aerobic respiration when glucose and oxygen are present."
+    },
+    {
+        "chapter": "3",
+        "question_number": "15",
+        "question": "The nucleus and mitochondria share which of the following features?",
+        "options": [
+            "protein-lined membrane pores",
+            "a double cell membrane",
+            "the synthesis of ribosomes",
+            "the production of cellular energy"
+        ],
+        "correct_answer": "a double cell membrane",
+        "explanation": "Both the nucleus and mitochondria are surrounded by a double membrane, which separates their internal environment from the cytoplasm."
+    },
+    {
+        "chapter": "3",
+        "question_number": "16",
+        "question": "Which of the following structures could be found within the nucleolus?",
+        "options": [
+            "chromatin",
+            "histones",
+            "ribosomes",
+            "nucleosomes"
+        ],
+        "correct_answer": "ribosomes",
+        "explanation": "The nucleolus is the site of ribosome production, where ribosomal RNA is synthesized and assembled with proteins."
+    },
+    {
+        "chapter": "3",
+        "question_number": "17",
+        "question": "Which of the following sequences on a DNA molecule would be complementary to GCTTATAT?",
+        "options": [
+            "TAGGCGCG",
+            "ATCCGCGC",
+            "CGAATATA",
+            "TGCCTCTC"
+        ],
+        "correct_answer": "CGAATATA",
+        "explanation": "In DNA, adenine (A) pairs with thymine (T), and cytosine (C) pairs with guanine (G). Thus, GCTTATAT pairs with CGAATATA."
+    },
+    {
+        "chapter": "3",
+        "question_number": "18",
+        "question": "Place the following structures in order from least to most complex organization: chromatin, nucleosome, DNA, chromosome",
+        "options": [
+            "DNA, nucleosome, chromatin, chromosome",
+            "nucleosome, DNA, chromosome, chromatin",
+            "DNA, chromatin, nucleosome, chromosome",
+            "nucleosome, chromatin, DNA, chromosome"
+        ],
+        "correct_answer": "DNA, nucleosome, chromatin, chromosome",
+        "explanation": "DNA is the simplest structure, which wraps around histones to form nucleosomes. Nucleosomes organize into chromatin, which condenses into chromosomes."
+    },
+    {
+        "chapter": "3",
+        "question_number": "19",
+        "question": "Which of the following is part of the elongation step of DNA synthesis?",
+        "options": [
+            "pulling apart the two DNA strands",
+            "attaching complementary nucleotides to the template strand",
+            "untwisting the DNA helix",
+            "none of the above"
+        ],
+        "correct_answer": "attaching complementary nucleotides to the template strand",
+        "explanation": "During elongation, DNA polymerase adds complementary nucleotides to the template strand to synthesize the new DNA strand."
+    },
+    {
+        "chapter": "3",
+        "question_number": "20",
+        "question": "Which of the following is not a difference between DNA and RNA?",
+        "options": [
+            "DNA contains thymine whereas RNA contains uracil",
+            "DNA contains deoxyribose and RNA contains ribose",
+            "DNA contains alternating sugar-phosphate molecules whereas RNA does not contain sugars",
+            "RNA is single stranded and DNA is double stranded"
+        ],
+        "correct_answer": "DNA contains alternating sugar-phosphate molecules whereas RNA does not contain sugars",
+        "explanation": "Both DNA and RNA contain alternating sugar-phosphate backbones, so this is not a difference between them."
+    },
+    {
+        "chapter": "3",
+        "question_number": "21",
+        "question": "Transcription and translation take place in the ________ and ________, respectively.",
+        "options": [
+            "nucleus; cytoplasm",
+            "nucleolus; nucleus",
+            "nucleolus; cytoplasm",
+            "cytoplasm; nucleus"
+        ],
+        "correct_answer": "nucleus; cytoplasm",
+        "explanation": "Transcription occurs in the nucleus, where DNA is transcribed into RNA. Translation occurs in the cytoplasm, where RNA is used to synthesize proteins."
+    },
+    {
+        "chapter": "3",
+        "question_number": "22",
+        "question": "How many \u201cletters\u201d of an RNA molecule, in sequence, does it take to provide the code for a single amino acid?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": "3",
+        "explanation": "A codon, which consists of three RNA nucleotides, provides the code for a single amino acid."
+    },
+    {
+        "chapter": "3",
+        "question_number": "23",
+        "question": "Which of the following is not entirely or mostly made out of RNA?",
+        "options": [
+            "the carriers that shuttle amino acids to a growing polypeptide strand",
+            "the ribosome",
+            "the messenger molecule that provides the code for protein synthesis",
+            "the intron"
+        ],
+        "correct_answer": "the intron",
+        "explanation": "Introns are non-coding regions of DNA that are removed during RNA processing and are not made of RNA."
+    },
+    {
+        "chapter": "3",
+        "question_number": "24",
+        "question": "Which of the following phases is characterized by preparation for DNA synthesis?",
+        "options": [
+            "G0",
+            "G1",
+            "G2",
+            "S"
+        ],
+        "correct_answer": "G1",
+        "explanation": "The G1 phase is the first gap phase of the cell cycle, during which the cell grows and prepares for DNA synthesis."
+    },
+    {
+        "chapter": "3",
+        "question_number": "25",
+        "question": "A mutation in the gene for a cyclin protein might result in which of the following?",
+        "options": [
+            "a cell with additional genetic material than normal",
+            "cancer",
+            "a cell with less genetic material than normal",
+            "any of the above"
+        ],
+        "correct_answer": "any of the above",
+        "explanation": "Cyclin mutations can disrupt the cell cycle, leading to errors in DNA replication or division, potentially causing cancer or abnormal genetic material."
+    },
+    {
+        "chapter": "3",
+        "question_number": "26",
+        "question": "What is a primary function of tumor suppressor genes?",
+        "options": [
+            "stop all cells from dividing",
+            "stop certain cells from dividing",
+            "help oncogenes produce oncoproteins",
+            "allow the cell to skip certain phases of the cell cycle"
+        ],
+        "correct_answer": "stop certain cells from dividing",
+        "explanation": "Tumor suppressor genes regulate the cell cycle and prevent uncontrolled cell division by stopping certain cells from dividing."
+    },
+    {
+        "chapter": "3",
+        "question_number": "27",
+        "question": "Arrange the following terms in order of increasing specialization: oligopotency, pleuripotency, unipotency, multipotency.",
+        "options": [
+            "multipotency, pleuripotency, oligopotency, unipotency",
+            "pleuripotency, oligopotency, multipotency, unipotency",
+            "oligopotency, pleuripotency, unipotency, multipotency",
+            "pleuripotency, multipotency, oligopotency, unipotency"
+        ],
+        "correct_answer": "pleuripotency, multipotency, oligopotency, unipotency",
+        "explanation": "Pluripotent cells can differentiate into almost any cell type, while multipotent, oligopotent, and unipotent cells have progressively narrower specialization."
+    },
+    {
+        "chapter": "3",
+        "question_number": "28",
+        "question": "Which type of stem cell gives rise to red and white blood cells?",
+        "options": [
+            "endothelial",
+            "epithelial",
+            "hematopoietic",
+            "mesenchymal"
+        ],
+        "correct_answer": "hematopoietic",
+        "explanation": "Hematopoietic stem cells are multipotent stem cells that give rise to all types of blood cells, including red and white blood cells."
+    },
+    {
+        "chapter": "3",
+        "question_number": "29",
+        "question": "What multipotent stem cells from children are sometimes banked by parents?",
+        "options": [
+            "fetal stem cells",
+            "embryonic stem cells",
+            "cells from the umbilical cord and from baby teeth",
+            "hematopoietic stem cells from red and white blood cells"
+        ],
+        "correct_answer": "cells from the umbilical cord and from baby teeth",
+        "explanation": "Multipotent stem cells from umbilical cord blood and baby teeth are often banked for potential future medical use."
+    }
+]

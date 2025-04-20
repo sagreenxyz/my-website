@@ -1,0 +1,3 @@
+# Summary: Chapter 16 Critical Thinking Questions
+
+This section presents questions that require deeper analysis and application of the concepts covered in Chapter 16 regarding the neurological exam. These questions encourage students to think critically about how specific exam findings relate to underlying neuroanatomy and potential pathologies. They might involve interpreting combinations of signs and symptoms to localize a lesion, differentiating between similar presentations (e.g., UMN vs. LMN weakness, different types of ataxia), or explaining the physiological basis for specific tests within the exam.

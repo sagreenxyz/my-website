@@ -1,0 +1,308 @@
+{
+    "chapter": 20,
+    "review_questions": [
+      {
+        "question_number": 3,
+        "question_text": "The endothelium is found in the ________.",
+        "options": [
+          "tunica intima",
+          "tunica media",
+          "tunica externa",
+          "lumen"
+        ],
+        "correct_answer": "tunica intima",
+        "explanation": "The endothelium is the simple squamous epithelial lining that forms the innermost layer of blood vessels, which is the tunica intima."
+      },
+      {
+        "question_number": 4,
+        "question_text": "Nervi vasorum control ________.",
+        "options": [
+          "vasoconstriction",
+          "vasodilation",
+          "capillary permeability",
+          "both vasoconstriction and vasodilation"
+        ],
+        "correct_answer": "both vasoconstriction and vasodilation",
+        "explanation": "Nervi vasorum are small nerves that innervate the walls of larger arteries and veins. They control the contraction and relaxation of smooth muscle in the tunica media, thus regulating both vasoconstriction and vasodilation."
+      },
+      {
+        "question_number": 5,
+        "question_text": "Closer to the heart, arteries would be expected to have a higher percentage of ________.",
+        "options": [
+          "endothelium",
+          "smooth muscle fibers",
+          "elastic fibers",
+          "collagenous fibers"
+        ],
+        "correct_answer": "elastic fibers",
+        "explanation": "Arteries closer to the heart, such as the aorta and its major branches (elastic arteries), experience high pressure fluctuations. They have a high percentage of elastic fibers in their tunica media, which allows them to expand and recoil with each heartbeat, helping to maintain continuous blood flow."
+      },
+      {
+        "question_number": 6,
+        "question_text": "Which of the following best describes veins?",
+        "options": [
+          "thick walled, small lumens, low pressure, lack valves",
+          "thin walled, large lumens, low pressure, have valves",
+          "thin walled, small lumens, high pressure, have valves",
+          "thick walled, large lumens, high pressure, lack valves"
+        ],
+        "correct_answer": "thin walled, large lumens, low pressure, have valves",
+        "explanation": "Veins typically have thinner walls and larger lumens compared to arteries. They carry blood at low pressure back to the heart and often contain valves, especially in the limbs, to prevent the backflow of blood due to gravity."
+      },
+      {
+        "question_number": 7,
+        "question_text": "An especially leaky type of capillary found in the liver and certain other tissues is called a ________.",
+        "options": [
+          "capillary bed",
+          "fenestrated capillary",
+          "sinusoid capillary",
+          "metarteriole"
+        ],
+        "correct_answer": "sinusoid capillary",
+        "explanation": "Sinusoid capillaries are a special type of capillary found in the liver, spleen, bone marrow, and some endocrine glands. They have larger lumens, are more permeable, and have gaps between endothelial cells, allowing for the passage of larger molecules and even blood cells."
+      },
+      {
+        "question_number": 8,
+        "question_text": "In a blood pressure measurement of 110/70, the number 70 is the ________.",
+        "options": [
+          "systolic pressure",
+          "diastolic pressure",
+          "pulse pressure",
+          "mean arterial pressure"
+        ],
+        "correct_answer": "diastolic pressure",
+        "explanation": "Blood pressure is typically recorded as systolic pressure (the higher number), which represents the pressure in the arteries during ventricular contraction, over diastolic pressure (the lower number), which represents the pressure in the arteries during ventricular relaxation."
+      },
+      {
+        "question_number": 9,
+        "question_text": "A healthy elastic artery ________.",
+        "options": [
+          "is compliant",
+          "reduces blood flow",
+          "is a resistance artery",
+          "has a thin wall and irregular lumen"
+        ],
+        "correct_answer": "is compliant",
+        "explanation": "Healthy elastic arteries, such as the aorta, are highly compliant, meaning they can stretch and expand easily in response to the surge of blood ejected from the heart during systole. This compliance helps to smooth out pressure fluctuations and maintain continuous blood flow."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Which of the following statements is true?",
+        "options": [
+          "The longer the vessel, the lower the resistance and the greater the flow.",
+          "As blood volume decreases, blood pressure and blood flow also decrease.",
+          "Increased viscosity increases blood flow.",
+          "All of the above are true."
+        ],
+        "correct_answer": "As blood volume decreases, blood pressure and blood flow also decrease.",
+        "explanation": "Blood flow is directly proportional to blood pressure and inversely proportional to resistance. According to Poiseuille's law, resistance is directly proportional to the length of the vessel and the viscosity of the blood. Therefore, the longer the vessel, the higher the resistance and the lower the flow. Increased viscosity also increases resistance and decreases flow. A decrease in blood volume leads to a decrease in blood pressure and consequently, a decrease in blood flow."
+      },
+      {
+        "question_number": 11,
+        "question_text": "Slight vasodilation in an arteriole prompts a ________.",
+        "options": [
+          "slight increase in resistance",
+          "huge increase in resistance",
+          "slight decrease in resistance",
+          "huge decrease in resistance"
+        ],
+        "correct_answer": "slight decrease in resistance",
+        "explanation": "Vasodilation is the widening of the lumen of a blood vessel due to the relaxation of smooth muscle in the tunica media. Arterioles are small resistance vessels, and even a slight increase in their diameter (vasodilation) leads to a significant decrease in resistance to blood flow (Resistance is inversely proportional to the fourth power of the radius)."
+      },
+      {
+        "question_number": 12,
+        "question_text": "Venoconstriction increases which of the following?",
+        "options": [
+          "blood pressure within the vein",
+          "blood flow within the vein",
+          "return of blood to the heart",
+          "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "Venoconstriction, the narrowing of veins, reduces the volume of blood that veins can hold, leading to an increase in blood pressure within the vein. This also helps to propel blood forward, increasing blood flow within the vein and enhancing the return of blood to the heart (preload)."
+      },
+      {
+        "question_number": 13,
+        "question_text": "Hydrostatic pressure is ________.",
+        "options": [
+          "greater than colloid osmotic pressure at the venous end of the capillary bed",
+          "the pressure exerted by fluid in an enclosed space",
+          "about zero at the midpoint of a capillary bed",
+          "all of the above"
+        ],
+        "correct_answer": "the pressure exerted by fluid in an enclosed space",
+        "explanation": "Hydrostatic pressure is the pressure exerted by a fluid against a surface. In blood capillaries, capillary hydrostatic pressure is the blood pressure that pushes fluid out of the capillaries into the interstitial fluid. At the arterial end, it is typically greater than blood colloid osmotic pressure, favoring filtration. At the venous end, it decreases and may be lower than blood colloid osmotic pressure, favoring reabsorption. It is not about zero at the midpoint."
+      },
+      {
+        "question_number": 14,
+        "question_text": "Net filtration pressure is calculated by ________.",
+        "options": [
+          "adding the capillary hydrostatic pressure to the interstitial fluid hydrostatic pressure",
+          "subtracting the fluid drained by the lymphatic vessels from the total fluid in the interstitial fluid",
+          "adding the blood colloid osmotic pressure to the capillary hydrostatic pressure",
+          "subtracting the blood colloid osmotic pressure from the capillary hydrostatic pressure"
+        ],
+        "correct_answer": "subtracting the blood colloid osmotic pressure from the capillary hydrostatic pressure",
+        "explanation": "Net filtration pressure (NFP) is the difference between the forces favoring filtration and the forces opposing filtration at the capillaries. A simplified calculation of NFP is: (Capillary Hydrostatic Pressure + Interstitial Fluid Osmotic Pressure) - (Blood Colloid Osmotic Pressure + Interstitial Fluid Hydrostatic Pressure). In many scenarios, interstitial fluid hydrostatic pressure and interstitial fluid osmotic pressure are considered negligible, simplifying to NFP ≈ Capillary Hydrostatic Pressure - Blood Colloid Osmotic Pressure."
+      },
+      {
+        "question_number": 15,
+        "question_text": "Which of the following statements is true?",
+        "options": [
+          "In one day, more fluid exits the capillary through filtration than enters through reabsorption.",
+          "In one day, approximately 35 mm of blood are filtered and 7 mm are reabsorbed.",
+          "In one day, the capillaries of the lymphatic system absorb about 20.4 liters of fluid.",
+          "None of the above are true."
+        ],
+        "correct_answer": "In one day, more fluid exits the capillary through filtration than enters through reabsorption.",
+        "explanation": "On average, about 24 liters of fluid are filtered out of the capillaries into the interstitial fluid per day, while about 20.4 liters are reabsorbed back into the capillaries. The remaining fluid (about 3.6 liters) is drained by the lymphatic system."
+      },
+      {
+        "question_number": 16,
+        "question_text": "Clusters of neurons in the medulla oblongata that regulate blood pressure are known collectively as ________.",
+        "options": [
+          "baroreceptors",
+          "angioreceptors",
+          "the cardiomotor mechanism",
+          "the cardiovascular center"
+        ],
+        "correct_answer": "the cardiovascular center",
+        "explanation": "The cardiovascular center is a region in the medulla oblongata of the brainstem that contains clusters of neurons responsible for regulating heart rate, contractility, and blood vessel tone, thus playing a key role in the control of blood pressure."
+      },
+      {
+        "question_number": 17,
+        "question_text": "In the renin-angiotensin-aldosterone mechanism, ________.",
+        "options": [
+          "decreased blood pressure prompts the release of renin from the liver",
+          "aldosterone prompts increased urine output",
+          "aldosterone prompts the kidneys to reabsorb sodium",
+          "all of the above"
+        ],
+        "correct_answer": "aldosterone prompts the kidneys to reabsorb sodium",
+        "explanation": "In the renin-angiotensin-aldosterone system (RAAS), decreased blood pressure prompts the release of renin from the kidneys (not the liver). Renin initiates a cascade leading to the production of angiotensin II, which stimulates the adrenal cortex to release aldosterone. Aldosterone acts on the kidneys to increase the reabsorption of sodium (and consequently water), leading to increased blood volume and pressure. Aldosterone reduces urine output."
+      },
+      {
+        "question_number": 18,
+        "question_text": "In the myogenic response, ________.",
+        "options": [
+          "muscle contraction promotes venous return to the heart",
+          "ventricular contraction strength is decreased",
+          "vascular smooth muscle responds to stretch",
+          "endothelins dilate muscular arteries"
+        ],
+        "correct_answer": "vascular smooth muscle responds to stretch",
+        "explanation": "The myogenic response is a mechanism by which vascular smooth muscle responds to changes in blood pressure. When blood pressure increases, the smooth muscle in the walls of arterioles stretches, and in response, it contracts (vasoconstriction) to help maintain a constant blood flow to the tissues."
+      },
+      {
+        "question_number": 19,
+        "question_text": "A form of circulatory shock common in young children with severe diarrhea or vomiting is ________.",
+        "options": [
+          "hypovolemic shock",
+          "anaphylactic shock",
+          "obstructive shock",
+          "hemorrhagic shock"
+        ],
+        "correct_answer": "hypovolemic shock",
+        "explanation": "Severe diarrhea or vomiting can lead to significant fluid loss, resulting in a decrease in blood volume. Hypovolemic shock is a type of circulatory shock caused by a decrease in blood volume, leading to inadequate tissue perfusion."
+      },
+      {
+        "question_number": 20,
+        "question_text": "The coronary arteries branch off of the ________.",
+        "options": [
+          "aortic valve",
+          "ascending aorta",
+          "aortic arch",
+          "thoracic aorta"
+        ],
+        "correct_answer": "ascending aorta",
+        "explanation": "The coronary arteries, which supply oxygenated blood to the heart muscle itself, branch off from the ascending aorta, just superior to the aortic valve."
+      },
+      {
+        "question_number": 21,
+        "question_text": "Which of the following statements is true?",
+        "options": [
+          "The left and right common carotid arteries both branch off of the brachiocephalic trunk.",
+          "The brachial artery is the distal branch of the axillary artery.",
+          "The radial and ulnar arteries join to form the palmar arch.",
+          "All of the above are true."
+        ],
+        "correct_answer": "The brachial artery is the distal branch of the axillary artery.",
+        "explanation": "The right common carotid artery branches off the brachiocephalic trunk, but the left common carotid artery arises directly from the aortic arch. The brachial artery is indeed the continuation of the axillary artery in the upper arm. The radial and ulnar arteries in the forearm do join in the hand to form the superficial and deep palmar arches."
+      },
+      {
+        "question_number": 22,
+        "question_text": "Arteries serving the stomach, pancreas, and liver all branch from the ________.",
+        "options": [
+          "superior mesenteric artery",
+          "inferior mesenteric artery",
+          "celiac trunk",
+          "splenic artery"
+        ],
+        "correct_answer": "celiac trunk",
+        "explanation": "The celiac trunk is the first major branch off the abdominal aorta and gives rise to arteries that supply the stomach (left gastric artery), liver (hepatic artery proper), spleen (splenic artery), and pancreas (branches of the splenic and hepatic arteries)."
+      },
+      {
+        "question_number": 23,
+        "question_text": "The right and left brachiocephalic veins ________.",
+        "options": [
+          "drain blood from the right and left internal jugular veins",
+          "drain blood from the right and left subclavian veins",
+          "drain into the superior vena cava",
+          "all of the above are true"
+        ],
+        "correct_answer": "all of the above are true",
+        "explanation": "The right and left brachiocephalic veins are formed by the merging of the internal jugular vein (draining blood from the brain and neck) and the subclavian vein (draining blood from the arm). These veins then merge to form the superior vena cava, which carries deoxygenated blood to the right atrium of the heart."
+      },
+      {
+        "question_number": 24,
+        "question_text": "The hepatic portal system delivers blood from the digestive organs to the ________.",
+        "options": [
+          "liver",
+          "hypothalamus",
+          "spleen",
+          "left atrium"
+        ],
+        "correct_answer": "liver",
+        "explanation": "The hepatic portal system is a specialized venous system that carries blood from the digestive organs (stomach, intestines, spleen, pancreas) to the liver before it returns to the general circulation. This allows the liver to process nutrients, toxins, and other substances absorbed from the digestive tract."
+      },
+      {
+        "question_number": 25,
+        "question_text": "Blood islands are ________.",
+        "options": [
+          "clusters of blood-filtering cells in the placenta",
+          "masses of pluripotent stem cells scattered throughout the fetal bone marrow",
+          "vascular tubes that give rise to the embryonic tubular heart",
+          "masses of developing blood vessels and formed elements scattered throughout the embryonic disc"
+        ],
+        "correct_answer": "masses of developing blood vessels and formed elements scattered throughout the embryonic disc",
+        "explanation": "Blood islands are clusters of mesenchymal cells that appear in the early embryo and differentiate into hemangioblasts. These hemangioblasts then develop into both the endothelial cells that form blood vessels and the hematopoietic stem cells that give rise to blood cells."
+      },
+      {
+        "question_number": 26,
+        "question_text": "Which of the following statements is true?",
+        "options": [
+          "Two umbilical veins carry oxygen-depleted blood from the fetal circulation to the placenta.",
+          "One umbilical vein carries oxygen-rich blood from the placenta to the fetal heart.",
+          "Two umbilical arteries carry oxygen-depleted blood to the fetal lungs.",
+          "None of the above are true."
+        ],
+        "correct_answer": "One umbilical vein carries oxygen-rich blood from the placenta to the fetal heart.",
+        "explanation": "The umbilical cord contains one umbilical vein that carries oxygenated, nutrient-rich blood from the placenta to the fetus, and two umbilical arteries that carry deoxygenated, waste-laden blood from the fetus back to the placenta."
+      },
+      {
+        "question_number": 27,
+        "question_text": "The ductus venosus is a shunt that allows ________.",
+        "options": [
+          "fetal blood to flow from the right atrium to the left atrium",
+          "fetal blood to flow from the right ventricle to the left ventricle",
+          "most freshly oxygenated blood to flow into the fetal heart",
+          "most oxygen-depleted fetal blood to flow directly into the fetal pulmonary trunk"
+        ],
+        "correct_answer": "most freshly oxygenated blood to flow into the fetal heart",
+        "explanation": "The ductus venosus is a fetal blood vessel that connects the umbilical vein to the inferior vena cava, bypassing the fetal liver. This allows the most highly oxygenated blood returning from the placenta to directly enter the fetal circulation and reach the heart, especially the left atrium, which then pumps it to the brain."
+      }
+    ]
+  }
+  
+  
+  

@@ -1,0 +1,340 @@
+[
+    {
+        "chapter": "26",
+        "question_number": "5",
+        "question": "Solute contributes to the movement of water between cells and the surrounding medium by ________.",
+        "options": [
+            "osmotic pressure",
+            "hydrostatic pressure",
+            "Brownian movement",
+            "random motion"
+        ],
+        "correct_answer": "osmotic pressure",
+        "explanation": "Osmotic pressure is the force exerted by solutes in a solution, which contributes to the movement of water between cells and the surrounding medium."
+    },
+    {
+        "chapter": "26",
+        "question_number": "6",
+        "question": "A cation has a(n) ________ charge.",
+        "options": [
+            "neutral",
+            "positive",
+            "alternating",
+            "negative"
+        ],
+        "correct_answer": "positive",
+        "explanation": "A cation is an ion with a positive charge, formed when an atom loses one or more electrons."
+    },
+    {
+        "chapter": "26",
+        "question_number": "7",
+        "question": "Interstitial fluid (IF) is ________.",
+        "options": [
+            "the fluid in the cytosol of the cells",
+            "the fluid component of blood",
+            "the fluid that bathes all of the body’s cells except for blood cells",
+            "the intracellular fluids found between membranes"
+        ],
+        "correct_answer": "the fluid that bathes all of the body’s cells except for blood cells",
+        "explanation": "Interstitial fluid (IF) is the fluid that surrounds and bathes all of the body’s cells except for blood cells."
+    },
+    {
+        "chapter": "26",
+        "question_number": "8",
+        "question": "The largest amount of water comes into the body via ________.",
+        "options": [
+            "metabolism",
+            "foods",
+            "liquids",
+            "humidified air"
+        ],
+        "correct_answer": "liquids",
+        "explanation": "The largest amount of water enters the body through the consumption of liquids."
+    },
+    {
+        "chapter": "26",
+        "question_number": "9",
+        "question": "The largest amount of water leaves the body via ________.",
+        "options": [
+            "the GI tract",
+            "the skin as sweat",
+            "expiration",
+            "urine"
+        ],
+        "correct_answer": "urine",
+        "explanation": "The largest amount of water leaves the body through urine."
+    },
+    {
+        "chapter": "26",
+        "question_number": "10",
+        "question": "Insensible water loss is water lost via ________.",
+        "options": [
+            "skin evaporation and in air from the lungs",
+            "urine",
+            "excessive sweating",
+            "vomiting or diarrhea"
+        ],
+        "correct_answer": "skin evaporation and in air from the lungs",
+        "explanation": "Insensible water loss refers to water lost through skin evaporation and in the air from the lungs."
+    },
+    {
+        "chapter": "26",
+        "question_number": "11",
+        "question": "How soon after drinking a large glass of water will a person start increasing their urine output?",
+        "options": [
+            "5 minutes",
+            "30 minutes",
+            "1 hour",
+            "3 hours"
+        ],
+        "correct_answer": "30 minutes",
+        "explanation": "A person will typically start increasing their urine output about 30 minutes after drinking a large glass of water."
+    },
+    {
+        "chapter": "26",
+        "question_number": "12",
+        "question": "Bone serves as a mineral reserve for which two ions?",
+        "options": [
+            "sodium and potassium",
+            "calcium and phosphate",
+            "chloride and bicarbonate",
+            "calcium and bicarbonate"
+        ],
+        "correct_answer": "calcium and phosphate",
+        "explanation": "Bone serves as a mineral reserve for calcium and phosphate ions."
+    },
+    {
+        "chapter": "26",
+        "question_number": "13",
+        "question": "Electrolytes are lost mostly through ________.",
+        "options": [
+            "renal function",
+            "sweating",
+            "feces",
+            "respiration"
+        ],
+        "correct_answer": "renal function",
+        "explanation": "Electrolytes are primarily lost through renal function, which involves the kidneys filtering and excreting them in urine."
+    },
+    {
+        "chapter": "26",
+        "question_number": "14",
+        "question": "The major cation in extracellular fluid is ________.",
+        "options": [
+            "sodium",
+            "potassium",
+            "chloride",
+            "bicarbonate"
+        ],
+        "correct_answer": "sodium",
+        "explanation": "Sodium is the major cation in extracellular fluid."
+    },
+    {
+        "chapter": "26",
+        "question_number": "15",
+        "question": "The major cation in intracellular fluid is ________.",
+        "options": [
+            "sodium",
+            "potassium",
+            "chloride",
+            "bicarbonate"
+        ],
+        "correct_answer": "potassium",
+        "explanation": "Potassium is the major cation in intracellular fluid."
+    },
+    {
+        "chapter": "26",
+        "question_number": "16",
+        "question": "The major anion in extracellular fluid is ________.",
+        "options": [
+            "sodium",
+            "potassium",
+            "chloride",
+            "bicarbonate"
+        ],
+        "correct_answer": "chloride",
+        "explanation": "Chloride is the major anion in extracellular fluid."
+    },
+    {
+        "chapter": "26",
+        "question_number": "17",
+        "question": "Most of the body’s calcium is found in ________.",
+        "options": [
+            "teeth",
+            "bone",
+            "plasma",
+            "extracellular fluids"
+        ],
+        "correct_answer": "bone",
+        "explanation": "Most of the body’s calcium is found in bone."
+    },
+    {
+        "chapter": "26",
+        "question_number": "18",
+        "question": "Abnormally increased blood levels of sodium are termed ________.",
+        "options": [
+            "hyperkalemia",
+            "hyperchloremia",
+            "hypernatremia",
+            "hypercalcemia"
+        ],
+        "correct_answer": "hypernatremia",
+        "explanation": "Hypernatremia refers to abnormally increased blood levels of sodium."
+    },
+    {
+        "chapter": "26",
+        "question_number": "19",
+        "question": "The ion with the lowest blood level is ________.",
+        "options": [
+            "sodium",
+            "potassium",
+            "chloride",
+            "bicarbonate"
+        ],
+        "correct_answer": "potassium",
+        "explanation": "Potassium is the ion with the lowest blood level."
+    },
+    {
+        "chapter": "26",
+        "question_number": "20",
+        "question": "Which two ions are most affected by aldosterone?",
+        "options": [
+            "sodium and potassium",
+            "chloride and bicarbonate",
+            "calcium and phosphate",
+            "sodium and phosphate"
+        ],
+        "correct_answer": "sodium and potassium",
+        "explanation": "Aldosterone primarily affects the levels of sodium and potassium ions."
+    },
+    {
+        "chapter": "26",
+        "question_number": "21",
+        "question": "Which of the following is the most important buffer inside red blood cells?",
+        "options": [
+            "plasma proteins",
+            "hemoglobin",
+            "phosphate buffers",
+            "bicarbonate: carbonic acid buffer"
+        ],
+        "correct_answer": "hemoglobin",
+        "explanation": "Hemoglobin is the most important buffer inside red blood cells."
+    },
+    {
+        "chapter": "26",
+        "question_number": "22",
+        "question": "Which explanation best describes why plasma proteins can function as buffers?",
+        "options": [
+            "Plasma proteins combine with bicarbonate to make a stronger buffer.",
+            "Plasma proteins are immune to damage from acids.",
+            "Proteins have both positive and negative charges on their surface.",
+            "Proteins are alkaline."
+        ],
+        "correct_answer": "Proteins have both positive and negative charges on their surface.",
+        "explanation": "Plasma proteins can function as buffers because they have both positive and negative charges on their surface."
+    },
+    {
+        "chapter": "26",
+        "question_number": "23",
+        "question": "The buffer that is adjusted to control acid-base balance is ________.",
+        "options": [
+            "plasma protein",
+            "hemoglobin",
+            "phosphate buffer",
+            "bicarbonate: carbonic acid buffer"
+        ],
+        "correct_answer": "bicarbonate: carbonic acid buffer",
+        "explanation": "The bicarbonate: carbonic acid buffer is adjusted to control acid-base balance."
+    },
+    {
+        "chapter": "26",
+        "question_number": "24",
+        "question": "Carbonic acid levels are controlled through the ________.",
+        "options": [
+            "respiratory system",
+            "renal system",
+            "digestive system",
+            "metabolic rate of cells"
+        ],
+        "correct_answer": "respiratory system",
+        "explanation": "Carbonic acid levels are controlled through the respiratory system."
+    },
+    {
+        "chapter": "26",
+        "question_number": "25",
+        "question": "Bicarbonate ion concentrations in the blood are controlled through the ________.",
+        "options": [
+            "respiratory system",
+            "renal system",
+            "digestive system",
+            "metabolic rate of cells"
+        ],
+        "correct_answer": "renal system",
+        "explanation": "Bicarbonate ion concentrations in the blood are controlled through the renal system."
+    },
+    {
+        "chapter": "26",
+        "question_number": "26",
+        "question": "Which reaction is catalyzed by carbonic anhydrase?HPO2-4+H+→H2PO4−HPO42-+H+→H2PO4−HPO42-+H+→H2PO4−CO2+ H2O→H2CO3CO2+ H2O→H2CO3CO2+ H2O→H2CO3H2PO4−+OH−→HPO2−24+H2OH2PO4−+OH−→HPO42−+H2OH2PO4−+OH−→HPO42−+H2OH2CO3→HCO3−+ H+H2CO3→HCO3−+ H+H2CO3→HCO3−+ H+",
+        "options": [
+            "HPO2-4+H+→H2PO4−HPO42-+H+→H2PO4−HPO42-+H+→H2PO4−",
+            "CO2+ H2O→H2CO3CO2+ H2O→H2CO3CO2+ H2O→H2CO3",
+            "H2PO4−+OH−→HPO2−24+H2OH2PO4−+OH−→HPO42−+H2OH2PO4−+OH−→HPO42−+H2O",
+            "H2CO3→HCO3−+ H+H2CO3→HCO3−+ H+H2CO3→HCO3−+ H+"
+        ],
+        "correct_answer": "CO2+ H2O→H2CO3CO2+ H2O→H2CO3CO2+ H2O→H2CO3",
+        "explanation": "Carbonic anhydrase catalyzes the reaction CO2 + H2O → H2CO3."
+    },
+    {
+        "chapter": "26",
+        "question_number": "27",
+        "question": "Which of the following is a cause of metabolic acidosis?",
+        "options": [
+            "excessive HCl loss",
+            "increased aldosterone",
+            "diarrhea",
+            "prolonged use of diuretics"
+        ],
+        "correct_answer": "diarrhea",
+        "explanation": "Diarrhea can cause metabolic acidosis by leading to the loss of bicarbonate ions."
+    },
+    {
+        "chapter": "26",
+        "question_number": "28",
+        "question": "Which of the following is a cause of respiratory acidosis?",
+        "options": [
+            "emphysema",
+            "low blood K+",
+            "increased aldosterone",
+            "increased blood ketones"
+        ],
+        "correct_answer": "emphysema",
+        "explanation": "Emphysema can cause respiratory acidosis by impairing the ability of the lungs to expel CO2."
+    },
+    {
+        "chapter": "26",
+        "question_number": "29",
+        "question": "At a pH of 7.40, the carbonic acid ratio is ________.",
+        "options": [
+            "35:1",
+            "4:1",
+            "20:1",
+            "3:1"
+        ],
+        "correct_answer": "20:1",
+        "explanation": "At a pH of 7.40, the ratio of bicarbonate to carbonic acid is 20:1."
+    },
+    {
+        "chapter": "26",
+        "question_number": "30",
+        "question": "Which of the following is characterized as metabolic alkalosis?",
+        "options": [
+            "increased pH, decreased pCO2, decreased HCO3−",
+            "increased pH, increased pCO2, increased HCO3−",
+            "decreased pH, decreased pCO2, decreased HCO3−",
+            "decreased pH, increased pCO2, increased HCO3−"
+        ],
+        "correct_answer": "increased pH, increased pCO2, increased HCO3−",
+        "explanation": "Metabolic alkalosis is characterized by increased pH, increased pCO2, and increased HCO3−."
+    }
+]

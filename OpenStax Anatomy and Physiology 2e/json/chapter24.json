@@ -1,0 +1,356 @@
+{
+    "chapter": 24,
+    "review_questions": [
+      {
+        "question_number": 1,
+        "question_text": "A monosaccharide is formed from a polysaccharide in what kind of reaction?",
+        "options": [
+          "oxidation–reduction reaction",
+          "anabolic reaction",
+          "catabolic reaction",
+          "biosynthetic reaction"
+        ],
+        "correct_answer": "catabolic reaction",
+        "explanation": "A polysaccharide is a complex carbohydrate made up of many monosaccharide units linked together. The breakdown of a polysaccharide into its constituent monosaccharides is a catabolic reaction, specifically hydrolysis, which releases energy."
+      },
+      {
+        "question_number": 2,
+        "question_text": "If anabolic reactions exceed catabolic reactions, the result will be ________.",
+        "options": [
+          "weight loss",
+          "weight gain",
+          "metabolic rate change",
+          "development of disease"
+        ],
+        "correct_answer": "weight gain",
+        "explanation": "Anabolic reactions build larger molecules from smaller ones, requiring energy, while catabolic reactions break down larger molecules, releasing energy. If the rate of anabolism exceeds catabolism, the body is building and storing more energy than it is using, leading to weight gain."
+      },
+      {
+        "question_number": 3,
+        "question_text": "When NAD becomes NADH, the coenzyme has been ________.",
+        "options": [
+          "reduced",
+          "oxidized",
+          "metabolized",
+          "hydrolyzed"
+        ],
+        "correct_answer": "reduced",
+        "explanation": "NAD (nicotinamide adenine dinucleotide) is a coenzyme that participates in redox reactions. When NAD gains electrons (often accompanied by a proton) to become NADH, it has been reduced. Reduction is the gain of electrons or a decrease in oxidation state."
+      },
+      {
+        "question_number": 4,
+        "question_text": "Anabolic reactions use energy by ________.",
+        "options": [
+          "turning ADP into ATP",
+          "removing a phosphate group from ATP",
+          "producing heat",
+          "breaking down molecules into smaller parts"
+        ],
+        "correct_answer": "removing a phosphate group from ATP",
+        "explanation": "Anabolic reactions require energy to build complex molecules. This energy is typically provided by the hydrolysis of ATP (adenosine triphosphate) into ADP (adenosine diphosphate) and inorganic phosphate, which releases the energy stored in the phosphate bond."
+      },
+      {
+        "question_number": 5,
+        "question_text": "Glycolysis results in the production of two ________ molecules from a single molecule of glucose. In the absence of ________, the end product of glycolysis is ________.",
+        "options": [
+          "acetyl CoA, pyruvate, lactate",
+          "ATP, carbon, pyruvate",
+          "pyruvate, oxygen, lactate",
+          "pyruvate, carbon, acetyl CoA"
+        ],
+        "correct_answer": "pyruvate, oxygen, lactate",
+        "explanation": "Glycolysis is the breakdown of one molecule of glucose into two molecules of pyruvate. In the absence of oxygen (anaerobic conditions), pyruvate is converted to lactate through a process called lactic acid fermentation to regenerate NAD+ needed for glycolysis to continue."
+      },
+      {
+        "question_number": 6,
+        "question_text": "The Krebs cycle converts ________ through a cycle of reactions. In the process, ATP, ________, and ________ are produced.",
+        "options": [
+          "acetyl CoA; FAD, NAD",
+          "acetyl CoA; FADH2; NADH",
+          "pyruvate; NAD; FADH2",
+          "pyruvate; oxygen; oxaloacetate"
+        ],
+        "correct_answer": "acetyl CoA; FADH2; NADH",
+        "explanation": "The Krebs cycle (citric acid cycle) converts acetyl CoA, which is derived from pyruvate, through a series of reactions. In this process, ATP (or GTP), FADH2 (the reduced form of FAD), and NADH (the reduced form of NAD+) are produced, along with carbon dioxide."
+      },
+      {
+        "question_number": 7,
+        "question_text": "Which pathway produces the most ATP molecules?",
+        "options": [
+          "lactic acid fermentation",
+          "the Krebs cycle",
+          "the electron transport chain",
+          "glycolysis"
+        ],
+        "correct_answer": "the electron transport chain",
+        "explanation": "The electron transport chain, coupled with oxidative phosphorylation, produces the vast majority of ATP molecules (approximately 32-34) during aerobic cellular respiration from one molecule of glucose. Glycolysis yields a net of 2 ATP, the Krebs cycle produces 2 ATP (or GTP), and lactic acid fermentation does not produce any additional ATP beyond glycolysis."
+      },
+      {
+        "question_number": 8,
+        "question_text": "Aerobic cellular respiration results in the production of these two products.",
+        "options": [
+          "NADH and FADH2",
+          "ATP and pyruvate",
+          "ATP and glucose",
+          "ATP and H2O"
+        ],
+        "correct_answer": "ATP and H2O",
+        "explanation": "Aerobic cellular respiration, the complete oxidation of glucose in the presence of oxygen, results in the production of ATP (the main energy currency of the cell), carbon dioxide, and water (H2O). NADH and FADH2 are electron carriers used in the process, and pyruvate is an intermediate product of glycolysis."
+      },
+      {
+        "question_number": 9,
+        "question_text": "When NAD+ becomes NADH, the coenzyme has been ________.",
+        "options": [
+          "reduced",
+          "oxidized",
+          "metabolized",
+          "hydrolyzed"
+        ],
+        "correct_answer": "reduced",
+        "explanation": "When NAD+ (the oxidized form of nicotinamide adenine dinucleotide) accepts two electrons and a proton to become NADH (the reduced form), it undergoes reduction. This is a key step in transferring energy from glucose to the electron transport chain."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Lipids in the diet can be ________.",
+        "options": [
+          "broken down into energy for the body",
+          "stored as triglycerides for later use",
+          "converted into acetyl CoA",
+          "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "Dietary lipids (fats) can be catabolized through beta-oxidation to produce acetyl CoA, which can then enter the Krebs cycle for ATP production. Lipids can also be stored in adipose tissue as triglycerides for later energy use, and excess carbohydrates and proteins can also be converted into triglycerides for storage."
+      },
+      {
+        "question_number": 11,
+        "question_text": "The gallbladder provides ________ that aid(s) in transport of lipids across the intestinal membrane.",
+        "options": [
+          "lipases",
+          "cholesterol",
+          "proteins",
+          "bile salts"
+        ],
+        "correct_answer": "bile salts",
+        "explanation": "The gallbladder stores and concentrates bile produced by the liver. Bile contains bile salts, which emulsify fats in the small intestine, breaking them into smaller droplets and forming micelles. Micelles are essential for the transport of digested lipids (fatty acids and monoglycerides) across the intestinal brush border membrane for absorption."
+      },
+      {
+        "question_number": 12,
+        "question_text": "Triglycerides are transported by chylomicrons because ________.",
+        "options": [
+          "they cannot move easily in the blood stream because they are fat based, while the blood is water based",
+          "they are too small to move by themselves",
+          "the chylomicrons contain enzymes they need for anabolism",
+          "they cannot fit across the intestinal membrane"
+        ],
+        "correct_answer": "they cannot move easily in the blood stream because they are fat based, while the blood is water based",
+        "explanation": "Triglycerides are nonpolar and hydrophobic, meaning they do not dissolve well in the aqueous environment of the blood. To be transported in the bloodstream, they are packaged into lipoproteins called chylomicrons, which have an outer shell that is hydrophilic (water-soluble), allowing them to travel through the blood."
+      },
+      {
+        "question_number": 13,
+        "question_text": "Which molecule produces the most ATP?",
+        "options": [
+          "carbohydrates",
+          "FADH2",
+          "triglycerides",
+          "NADH"
+        ],
+        "correct_answer": "triglycerides",
+        "explanation": "Triglycerides (fats) yield the most ATP per gram when metabolized compared to carbohydrates (like glucose) and proteins due to their higher proportion of carbon-hydrogen bonds, which store more energy. NADH and FADH2 are electron carriers that contribute to ATP production but are not directly metabolized for energy in the same way as triglycerides or carbohydrates."
+      },
+      {
+        "question_number": 14,
+        "question_text": "Which molecules can enter the Krebs cycle?",
+        "options": [
+          "chylomicrons",
+          "acetyl CoA",
+          "monoglycerides",
+          "ketone bodies"
+        ],
+        "correct_answer": "acetyl CoA",
+        "explanation": "Acetyl CoA is the primary molecule that enters the Krebs cycle (citric acid cycle). It is derived from the breakdown of carbohydrates (glucose via pyruvate), lipids (fatty acids), and proteins (some amino acids)."
+      },
+      {
+        "question_number": 15,
+        "question_text": "Acetyl CoA can be converted to all of the following except ________.",
+        "options": [
+          "ketone bodies",
+          "fatty acids",
+          "polysaccharides",
+          "triglycerides"
+        ],
+        "correct_answer": "polysaccharides",
+        "explanation": "Acetyl CoA is a central intermediate in metabolism. It can be converted to ketone bodies (during ketogenesis), fatty acids (for lipid synthesis), and triglycerides (for fat storage after fatty acid synthesis). However, in animals, acetyl CoA cannot be directly converted back to pyruvate, and therefore cannot be used to synthesize glucose and subsequently polysaccharides like glycogen."
+      },
+      {
+        "question_number": 16,
+        "question_text": "Digestion of proteins begins in the ________ where ________ and ________ mix with food to break down protein into ________.",
+        "options": [
+          "stomach; amylase; HCl; amino acids",
+          "mouth; pepsin; HCl; fatty acids",
+          "stomach; lipase; HCl; amino acids",
+          "stomach; pepsin; HCl; amino acids"
+        ],
+        "correct_answer": "stomach; pepsin; HCl; amino acids",
+        "explanation": "The digestion of proteins begins in the stomach, where the enzyme pepsin, which is activated by hydrochloric acid (HCl), mixes with food to start breaking down proteins into smaller peptides. The process is completed into amino acids in the small intestine."
+      },
+      {
+        "question_number": 17,
+        "question_text": "Amino acids are needed to ________.",
+        "options": [
+          "build new proteins",
+          "serve as fat stores",
+          "supply energy for the cell",
+          "create red blood cells"
+        ],
+        "correct_answer": "build new proteins",
+        "explanation": "Amino acids are the building blocks of proteins and are essential for the synthesis of new proteins in the body, which have a wide range of functions including structural support, enzymes, hormones, and antibodies. Amino acids can also be used for energy or converted to glucose or fat if needed."
+      },
+      {
+        "question_number": 18,
+        "question_text": "If an amino acid is not used to create new proteins, it can be ________.",
+        "options": [
+          "converted to acetyl CoA",
+          "converted to glucose or ketones",
+          "converted to nitrogen",
+          "stored to be used later"
+        ],
+        "correct_answer": "converted to acetyl CoA",
+        "explanation": "If amino acids are not used for protein synthesis, they can be deaminated (the amino group is removed), and the remaining carbon skeleton can be converted into intermediates of cellular respiration, such as acetyl CoA or components of the Krebs cycle. These can then be used for ATP production or converted to glucose or ketones."
+      },
+      {
+        "question_number": 19,
+        "question_text": "During the absorptive state, glucose levels are ________, insulin levels are ________, and glucagon levels ________.",
+        "options": [
+          "high; low; stay the same",
+          "low; low; stay the same",
+          "high; high; are high",
+          "high; high; are low"
+        ],
+        "correct_answer": "high; high; are low",
+        "explanation": "The absorptive state occurs after a meal when glucose from digested food enters the bloodstream, causing blood glucose levels to rise. This stimulates the pancreas to release insulin, which promotes glucose uptake by cells and its conversion to glycogen for storage, while also inhibiting the release of glucagon."
+      },
+      {
+        "question_number": 20,
+        "question_text": "Starvation sets in after 3 to 4 days without food. Which hormones change in response to low glucose levels?",
+        "options": [
+          "glucagon and insulin",
+          "ketones and glucagon",
+          "insulin, glucose, and glucagon",
+          "insulin and ketones"
+        ],
+        "correct_answer": "glucagon and insulin",
+        "explanation": "During starvation, blood glucose levels drop significantly. This triggers a decrease in insulin secretion and an increase in glucagon secretion. Glucagon promotes the release of glucose from stored glycogen in the liver and the synthesis of glucose from non-carbohydrate sources (gluconeogenesis) to raise blood glucose levels."
+      },
+      {
+        "question_number": 21,
+        "question_text": "The postabsorptive state relies on stores of ________ in the ________.",
+        "options": [
+          "insulin; pancreas",
+          "glucagon; pancreas",
+          "glycogen; liver",
+          "glucose; liver"
+        ],
+        "correct_answer": "glycogen; liver",
+        "explanation": "The postabsorptive state occurs when the digestive tract is empty, and the body relies on its stored energy reserves to maintain blood glucose levels. The liver stores glycogen, which is broken down into glucose (glycogenolysis) and released into the bloodstream to provide energy for cells."
+      },
+      {
+        "question_number": 22,
+        "question_text": "The body’s temperature is controlled by the ________. This temperature is always kept between ________.",
+        "options": [
+          "pituitary; 36.5–37.5 °C",
+          "hypothalamus; 97.7–99.5 °F",
+          "hypothalamus; 36.5–37.5 °F",
+          "pituitary; 97.7–99.5 °F"
+        ],
+        "correct_answer": "hypothalamus; 36.5–37.5 °F",
+        "explanation": "The body's temperature is regulated by the hypothalamus, which acts as the body's thermostat. Normal core body temperature is maintained within a narrow range, typically around 36.5–37.5 °C (which is equivalent to 97.7–99.5 °F)."
+      },
+      {
+        "question_number": 23,
+        "question_text": "Fever increases the body temperature and can induce chills to help cool the temperature back down. What other mechanisms are in place to regulate the body temperature?",
+        "options": [
+          "shivering",
+          "sweating",
+          "erection of the hairs on the arms and legs",
+          "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "The body employs various mechanisms to regulate temperature. Shivering generates heat through muscle activity, sweating cools the body through evaporative heat loss, and erection of hairs can trap a layer of air for insulation (though less effective in humans)."
+      },
+      {
+        "question_number": 24,
+        "question_text": "The heat you feel on your chair when you stand up was transferred from your skin via ________.",
+        "options": [
+          "conduction",
+          "convection",
+          "radiation",
+          "evaporation"
+        ],
+        "correct_answer": "conduction",
+        "explanation": "Conduction is the transfer of heat through direct physical contact between two objects or substances at different temperatures. When you sit on a chair, heat from your skin is transferred to the chair through conduction."
+      },
+      {
+        "question_number": 25,
+        "question_text": "A crowded room warms up through the mechanism of ________.",
+        "options": [
+          "conduction",
+          "convection",
+          "radiation",
+          "evaporation"
+        ],
+        "correct_answer": "convection",
+        "explanation": "In a crowded room, people release heat, warming the air around them. This warm air becomes less dense and rises, while cooler air descends, creating currents that distribute heat throughout the room. This process of heat transfer through the movement of fluids (in this case, air) is called convection."
+      },
+      {
+        "question_number": 26,
+        "question_text": "A deficiency in vitamin A can result in ________.",
+        "options": [
+          "improper bone development",
+          "scurvy",
+          "improper eye development or sight",
+          "all of the above"
+        ],
+        "correct_answer": "improper eye development or sight",
+        "explanation": "Vitamin A is essential for the formation of rhodopsin, a light-sensitive pigment in the retina, and for the maintenance of healthy epithelial tissues, including the cornea. Deficiency can lead to night blindness, dry eyes, and other vision problems. Improper bone development is more associated with vitamin D deficiency, and scurvy is caused by vitamin C deficiency."
+      },
+      {
+        "question_number": 27,
+        "question_text": "Rickets results in improper bone development in children that arises from the malabsorption of calcium and a deficiency in ________.",
+        "options": [
+          "vitamin D",
+          "vitamin C",
+          "vitamin B12",
+          "niacin"
+        ],
+        "correct_answer": "vitamin D",
+        "explanation": "Rickets is a condition in children characterized by weakened bones due to inadequate mineralization. Vitamin D is crucial for the absorption of calcium and phosphorus from the intestine, which are essential for bone development. Deficiency in vitamin D can lead to calcium malabsorption and rickets."
+      },
+      {
+        "question_number": 28,
+        "question_text": "Consuming which type of food will help the most with weight loss?",
+        "options": [
+          "fats",
+          "vegetables",
+          "lean meats",
+          "fruits"
+        ],
+        "correct_answer": "vegetables",
+        "explanation": "Vegetables are generally low in calories and high in fiber and nutrients. Their high fiber content promotes satiety, helping to reduce overall calorie intake, which is essential for weight loss. While lean meats and fruits can be part of a healthy weight loss diet, vegetables typically have the lowest calorie density."
+      },
+      {
+        "question_number": 29,
+        "question_text": "Which of the following is stored in the body?",
+        "options": [
+          "thiamine",
+          "phosphorous",
+          "folic acid",
+          "vitamin C"
+        ],
+        "correct_answer": "folic acid",
+        "explanation": "The body can store fat-soluble vitamins (A, D, E, K) and some water-soluble vitamins, including vitamin B12 and folic acid (vitamin B9), in the liver and other tissues. Thiamine (vitamin B1) and vitamin C (ascorbic acid) are water-soluble vitamins that are not stored to a significant extent and need to be consumed regularly. Phosphorous is a mineral stored in bones."
+      }
+    ]
+  }
+  
+  
+  

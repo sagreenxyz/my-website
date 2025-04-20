@@ -1,0 +1,314 @@
+[
+    {
+        "chapter": "4",
+        "question_number": "7",
+        "question": "Which of the following is not a type of tissue?",
+        "options": [
+            "muscle",
+            "nervous",
+            "embryonic",
+            "epithelial"
+        ],
+        "correct_answer": "embryonic",
+        "explanation": "Embryonic tissue is not one of the four primary tissue types (epithelial, connective, muscle, and nervous)."
+    },
+    {
+        "chapter": "4",
+        "question_number": "8",
+        "question": "The process by which a less specialized cell matures into a more specialized cell is called ________.",
+        "options": [
+            "differentiation",
+            "maturation",
+            "modification",
+            "specialization"
+        ],
+        "correct_answer": "differentiation",
+        "explanation": "Differentiation is the process by which unspecialized cells develop into specialized cells with distinct functions."
+    },
+    {
+        "chapter": "4",
+        "question_number": "9",
+        "question": "Differentiated cells in a developing embryo derive from ________.",
+        "options": [
+            "endothelium, mesothelium, and epithelium",
+            "ectoderm, mesoderm, and endoderm",
+            "connective tissue, epithelial tissue, and muscle tissue",
+            "epidermis, mesoderm, and endothelium"
+        ],
+        "correct_answer": "ectoderm, mesoderm, and endoderm",
+        "explanation": "The three germ layers—ectoderm, mesoderm, and endoderm—give rise to all tissues and organs in the body."
+    },
+    {
+        "chapter": "4",
+        "question_number": "10",
+        "question": "Which of the following lines the body cavities exposed to the external environment?",
+        "options": [
+            "mesothelium",
+            "lamina propria",
+            "mesenteries",
+            "mucosa"
+        ],
+        "correct_answer": "mucosa",
+        "explanation": "Mucosa lines body cavities exposed to the external environment, such as the respiratory and digestive tracts."
+    },
+    {
+        "chapter": "4",
+        "question_number": "11",
+        "question": "In observing epithelial cells under a microscope, the cells are arranged in a single layer and look tall and narrow, and the nucleus is located close to the basal side of the cell. The specimen is what type of epithelial tissue?",
+        "options": [
+            "columnar",
+            "stratified",
+            "squamous",
+            "transitional"
+        ],
+        "correct_answer": "columnar",
+        "explanation": "Columnar epithelial cells are tall and narrow, with the nucleus located near the basal side of the cell."
+    },
+    {
+        "chapter": "4",
+        "question_number": "12",
+        "question": "Which of the following is the epithelial tissue that lines the interior of blood vessels?",
+        "options": [
+            "columnar",
+            "pseudostratified",
+            "simple squamous",
+            "transitional"
+        ],
+        "correct_answer": "simple squamous",
+        "explanation": "Simple squamous epithelium lines the interior of blood vessels, providing a smooth surface for blood flow."
+    },
+    {
+        "chapter": "4",
+        "question_number": "13",
+        "question": "Which type of epithelial tissue specializes in moving particles across its surface?",
+        "options": [
+            "transitional",
+            "stratified columnar",
+            "pseudostratified ciliated columnar",
+            "stratified squamous"
+        ],
+        "correct_answer": "pseudostratified ciliated columnar",
+        "explanation": "Pseudostratified ciliated columnar epithelium has cilia that move particles across its surface, such as in the respiratory tract."
+    },
+    {
+        "chapter": "4",
+        "question_number": "14",
+        "question": "The ________ exocrine gland stores its secretion until the glandular cell ruptures, whereas the ________ gland releases its apical region and reforms.",
+        "options": [
+            "holocrine; apocrine",
+            "eccrine; endocrine",
+            "apocrine; holocrine",
+            "eccrine; apocrine"
+        ],
+        "correct_answer": "holocrine; apocrine",
+        "explanation": "Holocrine glands store their secretion until the cell ruptures, while apocrine glands release their apical region and then reform."
+    },
+    {
+        "chapter": "4",
+        "question_number": "15",
+        "question": "Connective tissue is made of which three essential components?",
+        "options": [
+            "cells, ground substance, and carbohydrate fibers",
+            "cells, ground substance, and protein fibers",
+            "collagen, ground substance, and protein fibers",
+            "matrix, ground substance, and fluid"
+        ],
+        "correct_answer": "cells, ground substance, and protein fibers",
+        "explanation": "Connective tissue is composed of cells, ground substance, and protein fibers, which provide support and structure."
+    },
+    {
+        "chapter": "4",
+        "question_number": "16",
+        "question": "Under the microscope, a tissue specimen shows cells located in spaces scattered in a transparent background. This is probably ________.",
+        "options": [
+            "loose connective tissue",
+            "a tendon",
+            "bone",
+            "hyaline cartilage"
+        ],
+        "correct_answer": "hyaline cartilage",
+        "explanation": "Hyaline cartilage has cells located in spaces (lacunae) scattered in a transparent matrix."
+    },
+    {
+        "chapter": "4",
+        "question_number": "17",
+        "question": "Which connective tissue specializes in storage of fat?",
+        "options": [
+            "tendon",
+            "adipose tissue",
+            "reticular tissue",
+            "dense connective tissue"
+        ],
+        "correct_answer": "adipose tissue",
+        "explanation": "Adipose tissue specializes in the storage of fat, providing insulation and energy reserves."
+    },
+    {
+        "chapter": "4",
+        "question_number": "18",
+        "question": "Ligaments connect bones together and withstand a lot of stress. What type of connective tissue should you expect ligaments to contain?",
+        "options": [
+            "areolar tissue",
+            "adipose tissue",
+            "dense regular connective tissue",
+            "dense irregular connective tissue"
+        ],
+        "correct_answer": "dense regular connective tissue",
+        "explanation": "Dense regular connective tissue contains tightly packed collagen fibers that provide strength and resistance to stress."
+    },
+    {
+        "chapter": "4",
+        "question_number": "19",
+        "question": "In adults, new connective tissue cells originate from the ________.",
+        "options": [
+            "mesoderm",
+            "mesenchyme",
+            "ectoderm",
+            "endoderm"
+        ],
+        "correct_answer": "mesenchyme",
+        "explanation": "Mesenchyme is the embryonic connective tissue from which new connective tissue cells originate in adults."
+    },
+    {
+        "chapter": "4",
+        "question_number": "20",
+        "question": "In bone, the main cells are ________.",
+        "options": [
+            "fibroblasts",
+            "chondrocytes",
+            "lymphocytes",
+            "osteocytes"
+        ],
+        "correct_answer": "osteocytes",
+        "explanation": "Osteocytes are the main cells in bone, responsible for maintaining the bone matrix."
+    },
+    {
+        "chapter": "4",
+        "question_number": "21",
+        "question": "Striations, cylindrical cells, and multiple nuclei are observed in ________.",
+        "options": [
+            "skeletal muscle only",
+            "cardiac muscle only",
+            "smooth muscle only",
+            "skeletal and cardiac muscles"
+        ],
+        "correct_answer": "skeletal muscle only",
+        "explanation": "Skeletal muscle cells are striated, cylindrical, and multinucleated, allowing for voluntary movement."
+    },
+    {
+        "chapter": "4",
+        "question_number": "22",
+        "question": "The cells of muscles, myocytes, develop from ________.",
+        "options": [
+            "myoblasts",
+            "endoderm",
+            "fibrocytes",
+            "chondrocytes"
+        ],
+        "correct_answer": "myoblasts",
+        "explanation": "Myocytes develop from myoblasts, which are precursor cells that differentiate into muscle cells."
+    },
+    {
+        "chapter": "4",
+        "question_number": "23",
+        "question": "Skeletal muscle is composed of very hard working cells. Which organelles do you expect to find in abundance in skeletal muscle cell?",
+        "options": [
+            "nuclei",
+            "striations",
+            "golgi bodies",
+            "mitochondria"
+        ],
+        "correct_answer": "mitochondria",
+        "explanation": "Skeletal muscle cells have an abundance of mitochondria to meet the high energy demands of muscle contraction."
+    },
+    {
+        "chapter": "4",
+        "question_number": "24",
+        "question": "The cells responsible for the transmission of the nerve impulse are ________.",
+        "options": [
+            "neurons",
+            "oligodendrocytes",
+            "astrocytes",
+            "microglia"
+        ],
+        "correct_answer": "neurons",
+        "explanation": "Neurons are the cells responsible for transmitting nerve impulses throughout the nervous system."
+    },
+    {
+        "chapter": "4",
+        "question_number": "25",
+        "question": "The nerve impulse travels down a(n) ________, away from the cell body.",
+        "options": [
+            "dendrite",
+            "axon",
+            "microglia",
+            "collagen fiber"
+        ],
+        "correct_answer": "axon",
+        "explanation": "The nerve impulse travels down an axon, away from the cell body, to transmit signals to other cells."
+    },
+    {
+        "chapter": "4",
+        "question_number": "26",
+        "question": "Which of the following central nervous system cells regulate ions, regulate the uptake and/or breakdown of some neurotransmitters, and contribute to the formation of the blood-brain barrier?",
+        "options": [
+            "microglia",
+            "neuroglia",
+            "oligodendrocytes",
+            "astrocytes"
+        ],
+        "correct_answer": "astrocytes",
+        "explanation": "Astrocytes regulate ions, neurotransmitter uptake and breakdown, and contribute to the formation of the blood-brain barrier."
+    },
+    {
+        "chapter": "4",
+        "question_number": "27",
+        "question": "Which of the following processes is not a cardinal sign of inflammation?",
+        "options": [
+            "redness",
+            "heat",
+            "fever",
+            "swelling"
+        ],
+        "correct_answer": "fever",
+        "explanation": "Fever is not a cardinal sign of inflammation. The cardinal signs are redness, heat, swelling, and pain."
+    },
+    {
+        "chapter": "4",
+        "question_number": "28",
+        "question": "When a mast cell reacts to an irritation, which of the following chemicals does it release?",
+        "options": [
+            "collagen",
+            "histamine",
+            "hyaluronic acid",
+            "meylin"
+        ],
+        "correct_answer": "histamine",
+        "explanation": "Mast cells release histamine in response to irritation, which causes inflammation and allergic reactions."
+    },
+    {
+        "chapter": "4",
+        "question_number": "29",
+        "question": "Atrophy refers to ________.",
+        "options": [
+            "loss of elasticity",
+            "loss of mass",
+            "loss of rigidity",
+            "loss of permeability"
+        ],
+        "correct_answer": "loss of mass",
+        "explanation": "Atrophy refers to the loss of mass or size of a tissue or organ, often due to disuse or disease."
+    },
+    {
+        "chapter": "4",
+        "question_number": "30",
+        "question": "Individuals can slow the rate of aging by modifying all of these lifestyle aspects except for ________.",
+        "options": [
+            "diet",
+            "exercise",
+            "genetic factors",
+            "stress"
+        ],
+        "correct_answer": "genetic factors",
+        "explanation": "Genetic factors cannot be modified to slow the rate of aging, unlike diet, exercise, and stress management."
+    }
+]

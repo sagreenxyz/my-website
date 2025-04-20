@@ -1,0 +1,262 @@
+[
+    {
+        "chapter": "5",
+        "question_number": "5",
+        "question": "The papillary layer of the dermis is most closely associated with which layer of the epidermis?",
+        "options": [
+            "stratum spinosum",
+            "stratum corneum",
+            "stratum granulosum",
+            "stratum basale"
+        ],
+        "correct_answer": "stratum basale",
+        "explanation": "The papillary layer of the dermis provides nutrients and support to the stratum basale of the epidermis."
+    },
+    {
+        "chapter": "5",
+        "question_number": "6",
+        "question": "Langerhans cells are commonly found in the ________.",
+        "options": [
+            "stratum spinosum",
+            "stratum corneum",
+            "stratum granulosum",
+            "stratum basale"
+        ],
+        "correct_answer": "stratum spinosum",
+        "explanation": "Langerhans cells are immune cells located in the stratum spinosum, where they help protect against pathogens."
+    },
+    {
+        "chapter": "5",
+        "question_number": "7",
+        "question": "The papillary and reticular layers of the dermis are composed mainly of ________.",
+        "options": [
+            "melanocytes",
+            "keratinocytes",
+            "connective tissue",
+            "adipose tissue"
+        ],
+        "correct_answer": "connective tissue",
+        "explanation": "The papillary and reticular layers of the dermis are composed mainly of connective tissue, which provides strength and elasticity to the skin."
+    },
+    {
+        "chapter": "5",
+        "question_number": "8",
+        "question": "Collagen lends ________ to the skin.",
+        "options": [
+            "elasticity",
+            "structure",
+            "color",
+            "UV protection"
+        ],
+        "correct_answer": "structure",
+        "explanation": "Collagen is a protein that provides structure and strength to the skin."
+    },
+    {
+        "chapter": "5",
+        "question_number": "9",
+        "question": "Which of the following is not a function of the hypodermis?",
+        "options": [
+            "protects underlying organs",
+            "helps maintain body temperature",
+            "source of blood vessels in the epidermis",
+            "a site to long-term energy storage"
+        ],
+        "correct_answer": "source of blood vessels in the epidermis",
+        "explanation": "The hypodermis does not provide blood vessels to the epidermis; it primarily functions in insulation and energy storage."
+    },
+    {
+        "chapter": "5",
+        "question_number": "10",
+        "question": "In response to stimuli from the sympathetic nervous system, the arrector pili ________.",
+        "options": [
+            "are glands on the skin surface",
+            "can lead to excessive sweating",
+            "are responsible for goose bumps",
+            "secrete sebum"
+        ],
+        "correct_answer": "are responsible for goose bumps",
+        "explanation": "The arrector pili muscles contract in response to cold or fear, causing goose bumps."
+    },
+    {
+        "chapter": "5",
+        "question_number": "11",
+        "question": "The hair matrix contains ________.",
+        "options": [
+            "the hair follicle",
+            "the hair shaft",
+            "the glassy membrane",
+            "a layer of basal cells"
+        ],
+        "correct_answer": "a layer of basal cells",
+        "explanation": "The hair matrix contains a layer of basal cells that divide and produce new hair cells."
+    },
+    {
+        "chapter": "5",
+        "question_number": "12",
+        "question": "Eccrine sweat glands ________.",
+        "options": [
+            "are present on hair",
+            "are present in the skin throughout the body and produce watery sweat",
+            "produce sebum",
+            "act as a moisturizer"
+        ],
+        "correct_answer": "are present in the skin throughout the body and produce watery sweat",
+        "explanation": "Eccrine sweat glands are distributed throughout the body and produce a watery sweat that helps regulate body temperature."
+    },
+    {
+        "chapter": "5",
+        "question_number": "13",
+        "question": "Sebaceous glands ________.",
+        "options": [
+            "are a type of sweat gland",
+            "are associated with hair follicles",
+            "may function in response to touch",
+            "release a watery solution of salt and metabolic waste"
+        ],
+        "correct_answer": "are associated with hair follicles",
+        "explanation": "Sebaceous glands are associated with hair follicles and secrete sebum, an oily substance that lubricates the skin and hair."
+    },
+    {
+        "chapter": "5",
+        "question_number": "14",
+        "question": "Similar to the hair, nails grow continuously throughout our lives. Which of the following is furthest from the nail growth center?",
+        "options": [
+            "nail bed",
+            "hyponychium",
+            "nail root",
+            "eponychium"
+        ],
+        "correct_answer": "hyponychium",
+        "explanation": "The hyponychium is the area under the free edge of the nail, furthest from the nail growth center."
+    },
+    {
+        "chapter": "5",
+        "question_number": "15",
+        "question": "In humans, exposure of the skin to sunlight is required for ________.",
+        "options": [
+            "vitamin D synthesis",
+            "arteriole constriction",
+            "folate production",
+            "thermoregulation"
+        ],
+        "correct_answer": "vitamin D synthesis",
+        "explanation": "Exposure to sunlight is necessary for the skin to synthesize vitamin D, which is important for bone health."
+    },
+    {
+        "chapter": "5",
+        "question_number": "16",
+        "question": "One of the functions of the integumentary system is protection. Which of the following does not directly contribute to that function?",
+        "options": [
+            "stratum lucidum",
+            "desmosomes",
+            "folic acid synthesis",
+            "Merkel cells"
+        ],
+        "correct_answer": "folic acid synthesis",
+        "explanation": "Folic acid synthesis does not directly contribute to the protective function of the integumentary system."
+    },
+    {
+        "chapter": "5",
+        "question_number": "17",
+        "question": "An individual using a sharp knife notices a small amount of blood where he just cut himself. Which of the following layers of skin did he have to cut into in order to bleed?",
+        "options": [
+            "stratum corneum",
+            "stratum basale",
+            "papillary dermis",
+            "stratum granulosum"
+        ],
+        "correct_answer": "papillary dermis",
+        "explanation": "To cause bleeding, the cut must have reached the papillary dermis, which contains blood vessels."
+    },
+    {
+        "chapter": "5",
+        "question_number": "18",
+        "question": "As you are walking down the beach, you see a dead, dry, shriveled-up fish. Which layer of your epidermis keeps you from drying out?",
+        "options": [
+            "stratum corneum",
+            "stratum basale",
+            "stratum spinosum",
+            "stratum granulosum"
+        ],
+        "correct_answer": "stratum corneum",
+        "explanation": "The stratum corneum is the outermost layer of the epidermis and helps prevent water loss, keeping the skin hydrated."
+    },
+    {
+        "chapter": "5",
+        "question_number": "19",
+        "question": "If you cut yourself and bacteria enter the wound, which of the following cells would help get rid of the bacteria?",
+        "options": [
+            "Merkel cells",
+            "keratinocytes",
+            "Langerhans cells",
+            "melanocytes"
+        ],
+        "correct_answer": "Langerhans cells",
+        "explanation": "Langerhans cells are immune cells in the epidermis that help protect against pathogens, including bacteria."
+    },
+    {
+        "chapter": "5",
+        "question_number": "20",
+        "question": "In general, skin cancers ________.",
+        "options": [
+            "are easily treatable and not a major health concern",
+            "occur due to poor hygiene",
+            "can be reduced by limiting exposure to the sun",
+            "affect only the epidermis"
+        ],
+        "correct_answer": "can be reduced by limiting exposure to the sun",
+        "explanation": "Limiting exposure to the sun can reduce the risk of developing skin cancer, as UV radiation is a major risk factor."
+    },
+    {
+        "chapter": "5",
+        "question_number": "21",
+        "question": "Bedsores ________.",
+        "options": [
+            "can be treated with topical moisturizers",
+            "can result from deep massages",
+            "are preventable by eliminating pressure points",
+            "are caused by dry skin"
+        ],
+        "correct_answer": "are preventable by eliminating pressure points",
+        "explanation": "Bedsores can be prevented by regularly changing positions to eliminate pressure points and improve blood flow."
+    },
+    {
+        "chapter": "5",
+        "question_number": "22",
+        "question": "An individual has spent too much time sun bathing. Not only is their skin painful to touch, but small blisters have appeared in the affected area. This indicates that they have damaged which layers of skin?",
+        "options": [
+            "epidermis only",
+            "hypodermis only",
+            "epidermis and hypodermis",
+            "epidermis and dermis"
+        ],
+        "correct_answer": "epidermis and dermis",
+        "explanation": "The presence of blisters indicates damage to both the epidermis and dermis layers of the skin."
+    },
+    {
+        "chapter": "5",
+        "question_number": "23",
+        "question": "After a skin injury, the body initiates a wound-healing response. The first step of this response is the formation of a blood clot to stop bleeding. Which of the following would be the next response?",
+        "options": [
+            "increased production of melanin by melanocytes",
+            "increased production of connective tissue",
+            "an increase in Pacinian corpuscles around the wound",
+            "an increased activity in the stratum lucidum"
+        ],
+        "correct_answer": "increased production of connective tissue",
+        "explanation": "After a blood clot forms, the next step in wound healing is the increased production of connective tissue to repair the damaged area."
+    },
+    {
+        "chapter": "5",
+        "question_number": "24",
+        "question": "Squamous cell carcinomas are the second most common of the skin cancers and are capable of metastasizing if not treated. This cancer affects which cells?",
+        "options": [
+            "basal cells of the stratum basale",
+            "melanocytes of the stratum basale",
+            "keratinocytes of the stratum spinosum",
+            "Langerhans cells of the stratum lucidum"
+        ],
+        "correct_answer": "keratinocytes of the stratum spinosum",
+        "explanation": "Squamous cell carcinomas affect the keratinocytes of the stratum spinosum and can metastasize if not treated."
+    }
+]

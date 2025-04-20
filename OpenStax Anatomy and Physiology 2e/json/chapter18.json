@@ -1,0 +1,272 @@
+{
+    "chapter": 18,
+    "review_questions": [
+      {
+        "question_number": 5,
+        "question_text": "Which of the following statements about blood is true?",
+        "options": [
+          "Blood is about 92 percent water.",
+          "Blood is slightly more acidic than water.",
+          "Blood is slightly more viscous than water.",
+          "Blood is slightly more salty than seawater."
+        ],
+        "correct_answer": "Blood is slightly more viscous than water.",
+        "explanation": "Blood is approximately 55% plasma (which is about 92% water) and 45% formed elements. The presence of these formed elements, especially red blood cells and plasma proteins, makes blood slightly more viscous (thicker) than water. Blood is slightly alkaline (pH 7.35-7.45) and less salty than seawater."
+      },
+      {
+        "question_number": 6,
+        "question_text": "Which of the following statements about albumin is true?",
+        "options": [
+          "It draws water out of the blood vessels and into the body’s tissues.",
+          "It is the most abundant plasma protein.",
+          "It is produced by specialized leukocytes called plasma cells.",
+          "All of the above are true."
+        ],
+        "correct_answer": "It is the most abundant plasma protein.",
+        "explanation": "Albumin is the most abundant plasma protein, making up about 60% of the total plasma protein. It is synthesized by the liver and contributes to maintaining osmotic pressure, helping to draw water back into the blood vessels from the interstitial fluid. Plasma cells produce antibodies (immunoglobulins)."
+      },
+      {
+        "question_number": 7,
+        "question_text": "Which of the following plasma proteins is not produced by the liver?",
+        "options": [
+          "fibrinogen",
+          "alpha globulin",
+          "beta globulin",
+          "immunoglobulin"
+        ],
+        "correct_answer": "immunoglobulin",
+        "explanation": "Fibrinogen, alpha globulins, and beta globulins are major plasma proteins produced by the liver. Immunoglobulins (antibodies) are produced by plasma cells, which are differentiated B lymphocytes of the immune system."
+      },
+      {
+        "question_number": 8,
+        "question_text": "Which of the formed elements arise from myeloid stem cells?",
+        "options": [
+          "B cells",
+          "natural killer cells",
+          "platelets",
+          "all of the above"
+        ],
+        "correct_answer": "platelets",
+        "explanation": "Myeloid stem cells in the bone marrow give rise to erythrocytes (red blood cells), platelets, and most types of leukocytes, including neutrophils, eosinophils, basophils, and monocytes. B cells and natural killer cells arise from lymphoid stem cells."
+      },
+      {
+        "question_number": 9,
+        "question_text": "Which of the following statements about erythropoietin is true?",
+        "options": [
+          "It facilitates the proliferation and differentiation of the erythrocyte lineage.",
+          "It is a hormone produced by the thyroid gland.",
+          "It is a hemopoietic growth factor that prompts lymphoid stem cells to leave the bone marrow.",
+          "Both a and b are true."
+        ],
+        "correct_answer": "It facilitates the proliferation and differentiation of the erythrocyte lineage.",
+        "explanation": "Erythropoietin (EPO) is a hormone produced primarily by the kidneys in response to low oxygen levels. It stimulates the bone marrow to increase the production of red blood cells by promoting the proliferation and differentiation of erythrocyte progenitor cells."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Interleukins are associated primarily with which of the following?",
+        "options": [
+          "production of various lymphocytes",
+          "immune responses",
+          "inflammation",
+          "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "Interleukins are a group of cytokines (signaling molecules) that play diverse roles in the immune system. They are involved in the production and maturation of various lymphocytes, mediating a wide range of immune responses, and contributing to inflammation."
+      },
+      {
+        "question_number": 11,
+        "question_text": "Which of the following statements about mature, circulating erythrocytes is true?",
+        "options": [
+          "They have no nucleus.",
+          "They are packed with mitochondria.",
+          "They survive for an average of 4 days.",
+          "All of the above"
+        ],
+        "correct_answer": "They have no nucleus.",
+        "explanation": "Mature, circulating erythrocytes (red blood cells) lack a nucleus and other organelles, such as mitochondria. This absence allows more space for hemoglobin, the oxygen-carrying protein. They survive for an average of about 120 days."
+      },
+      {
+        "question_number": 12,
+        "question_text": "A molecule of hemoglobin ________.",
+        "options": [
+          "is shaped like a biconcave disk packed almost entirely with iron",
+          "contains four glycoprotein units studded with oxygen",
+          "consists of four globin proteins, each bound to a molecule of heme",
+          "can carry up to 120 molecules of oxygen"
+        ],
+        "correct_answer": "consists of four globin proteins, each bound to a molecule of heme",
+        "explanation": "A molecule of hemoglobin is composed of four globin protein subunits (typically two alpha and two beta chains), and each subunit is bound to a heme molecule. Each heme molecule contains an iron ion that can bind one molecule of oxygen, so one hemoglobin molecule can carry up to four oxygen molecules."
+      },
+      {
+        "question_number": 13,
+        "question_text": "The production of healthy erythrocytes depends upon the availability of ________.",
+        "options": [
+          "copper",
+          "zinc",
+          "vitamin B12",
+          "copper, zinc, and vitamin B12"
+        ],
+        "correct_answer": "vitamin B12",
+        "explanation": "The production of healthy erythrocytes requires several nutrients, including iron (for the heme component of hemoglobin), vitamin B12 and folic acid (for DNA synthesis necessary for cell division), and copper (as a cofactor for enzymes involved in hemoglobin synthesis). While zinc is important for overall health, vitamin B12 is specifically crucial for red blood cell maturation."
+      },
+      {
+        "question_number": 14,
+        "question_text": "Aging and damaged erythrocytes are removed from the circulation by ________.",
+        "options": [
+          "myeoblasts",
+          "monocytes",
+          "macrophages",
+          "mast cells"
+        ],
+        "correct_answer": "macrophages",
+        "explanation": "Aging and damaged erythrocytes are phagocytized and removed from the circulation by macrophages, particularly in the spleen, liver, and bone marrow. This process is part of the normal turnover of red blood cells."
+      },
+      {
+        "question_number": 15,
+        "question_text": "A patient has been suffering for 2 months with a chronic, watery diarrhea. A blood test is likely to reveal ________.",
+        "options": [
+          "a hematocrit below 30 percent",
+          "hypoxemia",
+          "anemia",
+          "polycythemia"
+        ],
+        "correct_answer": "polycythemia",
+        "explanation": "Chronic watery diarrhea leads to a loss of fluid, which decreases the volume of blood plasma. This results in a higher concentration of red blood cells relative to the total blood volume, leading to an increased hematocrit. An abnormally increased concentration of erythrocytes is called polycythemia."
+      },
+      {
+        "question_number": 16,
+        "question_text": "The process by which leukocytes squeeze through adjacent cells in a blood vessel wall is called ________.",
+        "options": [
+          "leukocytosis",
+          "positive chemotaxis",
+          "emigration",
+          "cytoplasmic extending"
+        ],
+        "correct_answer": "emigration",
+        "explanation": "Emigration, also known as diapedesis or extravasation, is the process by which leukocytes (white blood cells) squeeze through the endothelial cells lining the walls of blood vessels to enter the surrounding tissues where they are needed to fight infection or inflammation."
+      },
+      {
+        "question_number": 17,
+        "question_text": "Which of the following describes a neutrophil?",
+        "options": [
+          "abundant, agranular, especially effective against cancer cells",
+          "abundant, granular, especially effective against bacteria",
+          "rare, agranular, releases antimicrobial defensins",
+          "rare, granular, contains multiple granules packed with histamine"
+        ],
+        "correct_answer": "abundant, granular, especially effective against bacteria",
+        "explanation": "Neutrophils are the most abundant type of leukocyte in the blood, making up about 50-70% of the circulating white blood cells. They are classified as granulocytes due to the presence of visible granules in their cytoplasm and are the primary responders to bacterial infections."
+      },
+      {
+        "question_number": 18,
+        "question_text": "T and B lymphocytes ________.",
+        "options": [
+          "are polymorphonuclear",
+          "are involved with specific immune function",
+          "proliferate excessively in leukopenia",
+          "are most active against parasitic worms"
+        ],
+        "correct_answer": "are involved with specific immune function",
+        "explanation": "T lymphocytes (T cells) and B lymphocytes (B cells) are types of agranular leukocytes that play a central role in the specific (adaptive) immune system, recognizing and targeting specific pathogens or antigens. They are not polymorphonuclear (a characteristic of granulocytes). Leukopenia is a deficiency of white blood cells, and eosinophils are most active against parasitic worms."
+      },
+      {
+        "question_number": 19,
+        "question_text": "A patient has been experiencing severe, persistent allergy symptoms that are reduced when she takes an antihistamine. Before the treatment, this patient was likely to have had increased activity of which leukocyte?",
+        "options": [
+          "basophils",
+          "neutrophils",
+          "monocytes",
+          "natural killer cells"
+        ],
+        "correct_answer": "basophils",
+        "explanation": "Basophils are granulocytes that release histamine and other inflammatory mediators during allergic reactions. Antihistamines work by blocking the effects of histamine, thus reducing allergy symptoms. Increased activity of basophils (and mast cells, which have similar functions) would lead to increased histamine release and allergy symptoms."
+      },
+      {
+        "question_number": 20,
+        "question_text": "Thrombocytes are more accurately called ________.",
+        "options": [
+          "clotting factors",
+          "megakaryoblasts",
+          "megakaryocytes",
+          "platelets"
+        ],
+        "correct_answer": "platelets",
+        "explanation": "Thrombocytes are another term for platelets. Platelets are small, anucleated cell fragments derived from megakaryocytes in the bone marrow. They play a crucial role in hemostasis (blood clotting)."
+      },
+      {
+        "question_number": 21,
+        "question_text": "The first step in hemostasis is ________.",
+        "options": [
+          "vascular spasm",
+          "conversion of fibrinogen to fibrin",
+          "activation of the intrinsic pathway",
+          "activation of the common pathway"
+        ],
+        "correct_answer": "vascular spasm",
+        "explanation": "The first step in hemostasis, the process of stopping bleeding, is vascular spasm. When a blood vessel is injured, the smooth muscle in its wall contracts, causing vasoconstriction and reducing blood flow to the injured area."
+      },
+      {
+        "question_number": 22,
+        "question_text": "Prothrombin is converted to thrombin during the ________.",
+        "options": [
+          "intrinsic pathway",
+          "extrinsic pathway",
+          "common pathway",
+          "formation of the platelet plug"
+        ],
+        "correct_answer": "common pathway",
+        "explanation": "The coagulation cascade involves the intrinsic and extrinsic pathways, both of which converge on the common pathway. In the common pathway, the enzyme prothrombinase converts prothrombin (a plasma protein) into thrombin, which is essential for the next step of converting fibrinogen to fibrin."
+      },
+      {
+        "question_number": 23,
+        "question_text": "Hemophilia is characterized by ________.",
+        "options": [
+          "inadequate production of heparin",
+          "inadequate production of clotting factors",
+          "excessive production of fibrinogen",
+          "excessive production of platelets"
+        ],
+        "correct_answer": "inadequate production of clotting factors",
+        "explanation": "Hemophilia is a group of genetic disorders characterized by deficiencies in specific clotting factors. These deficiencies impair the blood's ability to clot normally, leading to prolonged bleeding."
+      },
+      {
+        "question_number": 24,
+        "question_text": "The process in which antibodies attach to antigens, causing the formation of masses of linked cells, is called ________.",
+        "options": [
+          "sensitization",
+          "coagulation",
+          "agglutination",
+          "hemolysis"
+        ],
+        "correct_answer": "agglutination",
+        "explanation": "Agglutination is the process where antibodies bind to antigens on the surface of cells or particles, causing them to clump together. This is a key mechanism in the immune system for neutralizing pathogens and is also the basis for blood typing."
+      },
+      {
+        "question_number": 25,
+        "question_text": "People with ABO blood type O ________.",
+        "options": [
+          "have both antigens A and B on their erythrocytes",
+          "lack both antigens A and B on their erythrocytes",
+          "have neither anti-A nor anti-B antibodies circulating in their blood plasma",
+          "are considered universal recipients"
+        ],
+        "correct_answer": "lack both antigens A and B on their erythrocytes",
+        "explanation": "Individuals with ABO blood type O have erythrocytes that lack both the A and B antigens. Their blood plasma contains both anti-A and anti-B antibodies. People with type O blood are considered universal donors because their red blood cells can be safely transfused to individuals with any ABO blood type (though their plasma can only be given to other type O individuals)."
+      },
+      {
+        "question_number": 26,
+        "question_text": "Hemolytic disease of the newborn is a risk during a subsequent pregnancy in which ________.",
+        "options": [
+          "a type AB person is carrying a type O fetus",
+          "a type O person is carrying a type AB fetus",
+          "an Rh+ person is carrying an Rh− fetus",
+          "an Rh− person is carrying a second Rh+ fetus"
+        ],
+        "correct_answer": "an Rh− person is carrying a second Rh+ fetus",
+        "explanation": "Hemolytic disease of the newborn (HDN) can occur when an Rh-negative mother is pregnant with an Rh-positive fetus. If the mother was previously exposed to Rh-positive blood (e.g., during a prior pregnancy with an Rh+ fetus or through a blood transfusion), she may have developed anti-Rh antibodies. These antibodies can cross the placenta and attack the red blood cells of a subsequent Rh-positive fetus."
+      }
+    ]
+  }
+  
+  
+  

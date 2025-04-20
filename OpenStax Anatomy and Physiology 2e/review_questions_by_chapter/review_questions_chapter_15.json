@@ -1,0 +1,262 @@
+[
+    {
+        "chapter": "15",
+        "question_number": "7",
+        "question": "Which of these physiological changes would not be considered part of the sympathetic fight-or-flight response?",
+        "options": [
+            "increased heart rate",
+            "increased sweating",
+            "dilated pupils",
+            "increased stomach motility"
+        ],
+        "correct_answer": "increased stomach motility",
+        "explanation": "The sympathetic fight-or-flight response decreases stomach motility to conserve energy for other functions."
+    },
+    {
+        "chapter": "15",
+        "question_number": "8",
+        "question": "Which type of fiber could be considered the longest?",
+        "options": [
+            "preganglionic parasympathetic",
+            "preganglionic sympathetic",
+            "postganglionic parasympathetic",
+            "postganglionic sympathetic"
+        ],
+        "correct_answer": "preganglionic parasympathetic",
+        "explanation": "Preganglionic parasympathetic fibers are the longest because they extend from the CNS to ganglia near or within target organs."
+    },
+    {
+        "chapter": "15",
+        "question_number": "9",
+        "question": "Which signaling molecule is most likely responsible for an increase in digestive activity?",
+        "options": [
+            "epinephrine",
+            "norepinephrine",
+            "acetylcholine",
+            "adrenaline"
+        ],
+        "correct_answer": "acetylcholine",
+        "explanation": "Acetylcholine is responsible for increasing digestive activity by stimulating the parasympathetic nervous system."
+    },
+    {
+        "chapter": "15",
+        "question_number": "10",
+        "question": "Which of these cranial nerves contains preganglionic parasympathetic fibers?",
+        "options": [
+            "optic, CN II",
+            "facial, CN VII",
+            "trigeminal, CN V",
+            "hypoglossal, CN XII"
+        ],
+        "correct_answer": "facial, CN VII",
+        "explanation": "The facial nerve (CN VII) contains preganglionic parasympathetic fibers that innervate various glands in the head."
+    },
+    {
+        "chapter": "15",
+        "question_number": "11",
+        "question": "Which of the following is not a target of a sympathetic preganglionic fiber?",
+        "options": [
+            "intermural ganglion",
+            "collateral ganglion",
+            "adrenal gland",
+            "chain ganglion"
+        ],
+        "correct_answer": "intermural ganglion",
+        "explanation": "Intermural ganglia are part of the parasympathetic nervous system, not the sympathetic nervous system."
+    },
+    {
+        "chapter": "15",
+        "question_number": "12",
+        "question": "Which of the following represents a sensory input that is not part of both the somatic and autonomic systems?",
+        "options": [
+            "vision",
+            "taste",
+            "baroreception",
+            "proprioception"
+        ],
+        "correct_answer": "baroreception",
+        "explanation": "Baroreception is a sensory input that is part of the autonomic system but not the somatic system."
+    },
+    {
+        "chapter": "15",
+        "question_number": "13",
+        "question": "What is the term for a reflex that does not include a CNS component?",
+        "options": [
+            "long reflex",
+            "visceral reflex",
+            "somatic reflex",
+            "short reflex"
+        ],
+        "correct_answer": "short reflex",
+        "explanation": "A short reflex is a reflex that does not include a CNS component and is mediated entirely by the peripheral nervous system."
+    },
+    {
+        "chapter": "15",
+        "question_number": "14",
+        "question": "What neurotransmitter will result in constriction of the pupil?",
+        "options": [
+            "norepinephrine",
+            "acetylcholine",
+            "epinephrine",
+            "serotonin"
+        ],
+        "correct_answer": "acetylcholine",
+        "explanation": "Acetylcholine causes constriction of the pupil by stimulating the parasympathetic nervous system."
+    },
+    {
+        "chapter": "15",
+        "question_number": "15",
+        "question": "What gland produces a secretion that causes fight-or-flight responses in effectors?",
+        "options": [
+            "adrenal medulla",
+            "salivatory gland",
+            "reproductive gland",
+            "thymus"
+        ],
+        "correct_answer": "adrenal medulla",
+        "explanation": "The adrenal medulla produces epinephrine and norepinephrine, which cause fight-or-flight responses in effectors."
+    },
+    {
+        "chapter": "15",
+        "question_number": "16",
+        "question": "Which of the following is an incorrect pairing?",
+        "options": [
+            "norepinephrine dilates the pupil",
+            "epinephrine increases blood pressure",
+            "acetylcholine decreases digestion",
+            "norepinephrine increases heart rate"
+        ],
+        "correct_answer": "acetylcholine decreases digestion",
+        "explanation": "Acetylcholine actually increases digestion by stimulating the parasympathetic nervous system."
+    },
+    {
+        "chapter": "15",
+        "question_number": "17",
+        "question": "Which of these locations in the forebrain is the master control center for homeostasis through the autonomic and endocrine systems?",
+        "options": [
+            "hypothalamus",
+            "thalamus",
+            "amygdala",
+            "cerebral cortex"
+        ],
+        "correct_answer": "hypothalamus",
+        "explanation": "The hypothalamus is the master control center for homeostasis through the autonomic and endocrine systems."
+    },
+    {
+        "chapter": "15",
+        "question_number": "18",
+        "question": "Which nerve projects to the hypothalamus to indicate the level of light stimuli in the retina?",
+        "options": [
+            "glossopharyngeal",
+            "oculomotor",
+            "optic",
+            "vagus"
+        ],
+        "correct_answer": "optic",
+        "explanation": "The optic nerve projects to the hypothalamus to indicate the level of light stimuli in the retina."
+    },
+    {
+        "chapter": "15",
+        "question_number": "19",
+        "question": "What region of the limbic lobe is responsible for generating stress responses via the hypothalamus?",
+        "options": [
+            "hippocampus",
+            "amygdala",
+            "mammillary bodies",
+            "prefrontal cortex"
+        ],
+        "correct_answer": "amygdala",
+        "explanation": "The amygdala is responsible for generating stress responses via the hypothalamus."
+    },
+    {
+        "chapter": "15",
+        "question_number": "20",
+        "question": "What is another name for the preganglionic sympathetic fibers that project to the heart?",
+        "options": [
+            "solitary tract",
+            "vasomotor nerve",
+            "vagus nerve",
+            "cardiac accelerator nerve"
+        ],
+        "correct_answer": "cardiac accelerator nerve",
+        "explanation": "The cardiac accelerator nerve is another name for the preganglionic sympathetic fibers that project to the heart."
+    },
+    {
+        "chapter": "15",
+        "question_number": "21",
+        "question": "What central fiber tract connects forebrain and brain stem structures with the hypothalamus?",
+        "options": [
+            "cardiac accelerator nerve",
+            "medial forebrain bundle",
+            "dorsal longitudinal fasciculus",
+            "corticospinal tract"
+        ],
+        "correct_answer": "medial forebrain bundle",
+        "explanation": "The medial forebrain bundle connects forebrain and brain stem structures with the hypothalamus."
+    },
+    {
+        "chapter": "15",
+        "question_number": "22",
+        "question": "A drug that affects both divisions of the autonomic system is going to bind to, or block, which type of neurotransmitter receptor?",
+        "options": [
+            "nicotinic",
+            "muscarinic",
+            "\u03b1-adrenergic",
+            "\u03b2-adrenergic"
+        ],
+        "correct_answer": "nicotinic",
+        "explanation": "Nicotinic receptors are found in both divisions of the autonomic system and are affected by drugs that bind to or block them."
+    },
+    {
+        "chapter": "15",
+        "question_number": "23",
+        "question": "A drug is called an agonist if it ________.",
+        "options": [
+            "blocks a receptor",
+            "interferes with neurotransmitter reuptake",
+            "acts like the endogenous neurotransmitter by binding to its receptor",
+            "blocks the voltage-gated calcium ion channel"
+        ],
+        "correct_answer": "acts like the endogenous neurotransmitter by binding to its receptor",
+        "explanation": "An agonist is a drug that acts like the endogenous neurotransmitter by binding to its receptor."
+    },
+    {
+        "chapter": "15",
+        "question_number": "24",
+        "question": "Which type of drug would be an antidote to atropine poisoning?",
+        "options": [
+            "nicotinic agonist",
+            "anticholinergic",
+            "muscarinic agonist",
+            "\u03b1-blocker"
+        ],
+        "correct_answer": "muscarinic agonist",
+        "explanation": "A muscarinic agonist would be an antidote to atropine poisoning by counteracting the effects of atropine."
+    },
+    {
+        "chapter": "15",
+        "question_number": "25",
+        "question": "Which kind of drug would have anti-anxiety effects?",
+        "options": [
+            "nicotinic agonist",
+            "anticholinergic",
+            "muscarinic agonist",
+            "\u03b1-blocker"
+        ],
+        "correct_answer": "muscarinic agonist",
+        "explanation": "A muscarinic agonist would have anti-anxiety effects by stimulating the parasympathetic nervous system."
+    },
+    {
+        "chapter": "15",
+        "question_number": "26",
+        "question": "Which type of drug could be used to treat asthma by opening airways wider?",
+        "options": [
+            "sympatholytic drug",
+            "sympathomimetic drug",
+            "anticholinergic drug",
+            "parasympathomimetic drug"
+        ],
+        "correct_answer": "sympathomimetic drug",
+        "explanation": "A sympathomimetic drug could be used to treat asthma by opening airways wider through stimulation of the sympathetic nervous system."
+    }
+]

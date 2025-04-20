@@ -1,0 +1,332 @@
+{
+    "chapter": 11,
+    "review_questions": [
+      {
+        "question_number": 1,
+        "question_text": "Which of the following is unique to the muscles of facial expression?",
+        "options": [
+          "They all originate from the scalp musculature.",
+          "They insert onto the cartilage found around the face.",
+          "They only insert onto the facial bones.",
+          "They insert into the skin."
+        ],
+        "correct_answer": "They insert into the skin.",
+        "explanation": "The muscles of facial expression are unique because they originate from the skull or fascia and insert into the skin of the face, allowing for a wide range of expressions by moving the skin."
+      },
+      {
+        "question_number": 2,
+        "question_text": "Which of the following helps an agonist work?",
+        "options": [
+          "a synergist",
+          "a fixator",
+          "an insertion",
+          "an antagonist"
+        ],
+        "correct_answer": "a synergist",
+        "explanation": "A synergist is a muscle that assists the agonist (prime mover) in performing its action, either by contributing force or by stabilizing the joint to allow the agonist to work more effectively."
+      },
+      {
+        "question_number": 3,
+        "question_text": "Which of the following statements is correct about what happens during flexion?",
+        "options": [
+          "The angle between bones is increased.",
+          "The angle between bones is decreased.",
+          "The bone moves away from the body.",
+          "The bone moves toward the center of the body."
+        ],
+        "correct_answer": "The angle between bones is decreased.",
+        "explanation": "Flexion is a bending movement that decreases the angle between two bones at a joint."
+      },
+      {
+        "question_number": 4,
+        "question_text": "Which is moved the least during muscle contraction?",
+        "options": [
+          "the origin",
+          "the insertion",
+          "the ligaments",
+          "the joints"
+        ],
+        "correct_answer": "the origin",
+        "explanation": "The origin of a muscle is the attachment site that typically remains stationary during muscle contraction, while the insertion is the attachment site that moves."
+      },
+      {
+        "question_number": 5,
+        "question_text": "Which muscle has a convergent pattern of fascicles?",
+        "options": [
+          "biceps brachii",
+          "gluteus maximus",
+          "pectoralis major",
+          "rectus femoris"
+        ],
+        "correct_answer": "pectoralis major",
+        "explanation": "A convergent muscle has fascicles that originate from a broad area and converge on a single tendon, resembling a triangle or fan shape. The pectoralis major muscle in the chest exhibits this pattern."
+      },
+      {
+        "question_number": 6,
+        "question_text": "A muscle that has a pattern of fascicles running along the long axis of the muscle has which of the following fascicle arrangements?",
+        "options": [
+          "circular",
+          "pennate",
+          "parallel",
+          "rectus"
+        ],
+        "correct_answer": "parallel",
+        "explanation": "A muscle with a parallel fascicle arrangement has fascicles that run parallel to the long axis of the muscle. The term 'rectus' in a muscle name often indicates a parallel arrangement."
+      },
+      {
+        "question_number": 7,
+        "question_text": "Which arrangement best describes a bipennate muscle?",
+        "options": [
+          "The muscle fibers feed in on an angle to a long tendon from both sides.",
+          "The muscle fibers feed in on an angle to a long tendon from all directions.",
+          "The muscle fibers feed in on an angle to a long tendon from one side.",
+          "The muscle fibers on one side of a tendon feed into it at a certain angle and muscle fibers on the other side of the tendon feed into it at the opposite angle."
+        ],
+        "correct_answer": "The muscle fibers feed in on an angle to a long tendon from both sides.",
+        "explanation": "A bipennate muscle has muscle fibers that are arranged obliquely (at an angle) to a central tendon, with fibers attaching to the tendon from two opposing sides, resembling a feather."
+      },
+      {
+        "question_number": 8,
+        "question_text": "The location of a muscle’s insertion and origin can determine ________.",
+        "options": [
+          "action",
+          "the force of contraction",
+          "muscle name",
+          "the load a muscle can carry"
+        ],
+        "correct_answer": "action",
+        "explanation": "The action of a muscle, or the movement it produces, is largely determined by the relative positions of its origin (the stationary attachment) and its insertion (the movable attachment)."
+      },
+      {
+        "question_number": 9,
+        "question_text": "Where is the temporalis muscle located?",
+        "options": [
+          "on the forehead",
+          "in the neck",
+          "on the side of the head",
+          "on the chin"
+        ],
+        "correct_answer": "on the side of the head",
+        "explanation": "The temporalis muscle is located on the lateral side of the head, covering much of the temporal bone. It is one of the muscles of mastication (chewing)."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Which muscle name does not make sense?",
+        "options": [
+          "extensor digitorum",
+          "gluteus minimus",
+          "biceps femoris",
+          "extensor minimus longus"
+        ],
+        "correct_answer": "extensor minimus longus",
+        "explanation": "Muscle names often provide information about their action, size, or location. 'Extensor digitorum' (extends digits), 'gluteus minimus' (smallest of the gluteal muscles), and 'biceps femoris' (two heads, thigh bone) are logical names. 'Extensor minimus longus' combines 'minimus' (smallest) and 'longus' (long), which is contradictory for describing size."
+      },
+      {
+        "question_number": 11,
+        "question_text": "Which of the following terms would be used in the name of a muscle that moves the leg away from the body?",
+        "options": [
+          "flexor",
+          "adductor",
+          "extensor",
+          "abductor"
+        ],
+        "correct_answer": "abductor",
+        "explanation": "An abductor muscle is one that moves a body part away from the midline of the body. Therefore, a muscle that moves the leg away from the body would be named with the term 'abductor'."
+      },
+      {
+        "question_number": 12,
+        "question_text": "Which of the following is a prime mover in head flexion?",
+        "options": [
+          "occipitofrontalis",
+          "corrugator supercilii",
+          "sternocleidomastoid",
+          "masseter"
+        ],
+        "correct_answer": "sternocleidomastoid",
+        "explanation": "The sternocleidomastoid muscle, located on the anterior and lateral neck, is a major prime mover responsible for flexing the head towards the chest."
+      },
+      {
+        "question_number": 13,
+        "question_text": "Where is the inferior oblique muscle located?",
+        "options": [
+          "in the abdomen",
+          "in the eye socket",
+          "in the anterior neck",
+          "in the face"
+        ],
+        "correct_answer": "in the eye socket",
+        "explanation": "The inferior oblique muscle is one of the six extrinsic eye muscles located within the orbit (eye socket) that control the movements of the eyeball."
+      },
+      {
+        "question_number": 14,
+        "question_text": "What is the action of the masseter?",
+        "options": [
+          "swallowing",
+          "chewing",
+          "moving the lips",
+          "closing the eye"
+        ],
+        "correct_answer": "chewing",
+        "explanation": "The masseter muscle is a powerful muscle of mastication (chewing) that primarily elevates the mandible (lower jaw) to close the mouth and crush food."
+      },
+      {
+        "question_number": 15,
+        "question_text": "The names of the extrinsic tongue muscles commonly end in ________.",
+        "options": [
+          "-glottis",
+          "-glossus",
+          "-gluteus",
+          "-hyoid"
+        ],
+        "correct_answer": "-glossus",
+        "explanation": "The names of the extrinsic tongue muscles, which originate outside the tongue and insert into it to control its position and shape, commonly end with the suffix '-glossus,' derived from the Greek word for tongue."
+      },
+      {
+        "question_number": 16,
+        "question_text": "What is the function of the erector spinae?",
+        "options": [
+          "movement of the arms",
+          "stabilization of the pelvic girdle",
+          "postural support",
+          "rotating of the vertebral column"
+        ],
+        "correct_answer": "postural support",
+        "explanation": "The erector spinae is a group of muscles that run along the vertebral column and are primarily responsible for maintaining upright posture, extending the vertebral column, and providing resistance against flexion."
+      },
+      {
+        "question_number": 17,
+        "question_text": "Which of the following abdominal muscles is not a part of the anterior abdominal wall?",
+        "options": [
+          "quadratus lumborum",
+          "rectus abdominis",
+          "interior oblique",
+          "exterior oblique"
+        ],
+        "correct_answer": "quadratus lumborum",
+        "explanation": "The quadratus lumborum muscle is located in the posterior abdominal wall, extending between the iliac crest and the lower ribs and lumbar vertebrae. The rectus abdominis, internal oblique, and external oblique muscles are all part of the anterior abdominal wall."
+      },
+      {
+        "question_number": 18,
+        "question_text": "Which muscle pair plays a role in respiration?",
+        "options": [
+          "intertransversarii, interspinales",
+          "semispinalis cervicis, semispinalis thoracis",
+          "trapezius, rhomboids",
+          "diaphragm, scalene"
+        ],
+        "correct_answer": "diaphragm, scalene",
+        "explanation": "The diaphragm is the primary muscle of respiration, responsible for the majority of the volume change during breathing. The scalene muscles, located in the neck, assist in elevating the rib cage during forceful inhalation."
+      },
+      {
+        "question_number": 19,
+        "question_text": "What is the linea alba?",
+        "options": [
+          "a small muscle that helps with compression of the abdominal organs",
+          "a long tendon that runs down the middle of the rectus abdominis",
+          "a long band of collagen fibers that connects the hip to the knee",
+          "another name for the tendinous inscription"
+        ],
+        "correct_answer": "a long tendon that runs down the middle of the rectus abdominis",
+        "explanation": "The linea alba is a fibrous structure that runs vertically down the midline of the anterior abdominal wall from the xiphoid process to the pubic symphysis. It is a long band of collagen fibers formed by the fusion of the aponeuroses of the abdominal muscles."
+      },
+      {
+        "question_number": 20,
+        "question_text": "The rhomboid major and minor muscles are deep to the ________.",
+        "options": [
+          "rectus abdominis",
+          "scalene muscles",
+          "trapezius",
+          "ligamentum nuchae"
+        ],
+        "correct_answer": "trapezius",
+        "explanation": "The rhomboid major and rhomboid minor muscles are located in the upper back, deep to the trapezius muscle. They are responsible for retracting and rotating the scapula."
+      },
+      {
+        "question_number": 21,
+        "question_text": "Which muscle extends the forearm?",
+        "options": [
+          "biceps brachii",
+          "triceps brachii",
+          "brachialis",
+          "deltoid"
+        ],
+        "correct_answer": "triceps brachii",
+        "explanation": "The triceps brachii muscle, located on the posterior aspect of the upper arm, is the prime mover in extending the forearm at the elbow joint."
+      },
+      {
+        "question_number": 22,
+        "question_text": "What is the origin of the wrist flexors?",
+        "options": [
+          "the lateral epicondyle of the humerus",
+          "the medial epicondyle of the humerus",
+          "the carpal bones of the wrist",
+          "the deltoid tuberosity of the humerus"
+        ],
+        "correct_answer": "the medial epicondyle of the humerus",
+        "explanation": "Most of the muscles that flex the wrist and fingers originate from the medial epicondyle of the humerus, a bony prominence on the medial side of the distal humerus."
+      },
+      {
+        "question_number": 23,
+        "question_text": "Which muscles stabilize the pectoral girdle?",
+        "options": [
+          "axial and scapular",
+          "axial",
+          "appendicular",
+          "axial and appendicular"
+        ],
+        "correct_answer": "axial and appendicular",
+        "explanation": "The pectoral girdle (clavicle and scapula) is stabilized by muscles that attach it to the axial skeleton (axial muscles like trapezius, rhomboids, serratus anterior) and muscles that originate from the scapula and move the humerus (appendicular muscles like deltoid, and indirectly biceps and triceps)."
+      },
+      {
+        "question_number": 24,
+        "question_text": "The large muscle group that attaches the leg to the pelvic girdle and produces extension of the hip joint is the ________ group.",
+        "options": [
+          "gluteal",
+          "obturator",
+          "adductor",
+          "abductor"
+        ],
+        "correct_answer": "gluteal",
+        "explanation": "The gluteal muscle group, located in the buttocks and posterior hip, is responsible for attaching the leg (femur) to the pelvic girdle and includes the powerful gluteus maximus, which is the prime mover for extension of the hip joint."
+      },
+      {
+        "question_number": 25,
+        "question_text": "Which muscle produces movement that allows you to cross your legs?",
+        "options": [
+          "the gluteus maximus",
+          "the piriformis",
+          "the gracilis",
+          "the sartorius"
+        ],
+        "correct_answer": "the sartorius",
+        "explanation": "The sartorius muscle is a long, thin, superficial muscle of the anterior thigh that is unique in its ability to flex, abduct, and laterally rotate the thigh at the hip, as well as flex and medially rotate the leg at the knee. This combination of actions allows for the crossing of the legs."
+      },
+      {
+        "question_number": 26,
+        "question_text": "What is the largest muscle in the lower leg?",
+        "options": [
+          "soleus",
+          "gastrocnemius",
+          "tibialis anterior",
+          "tibialis posterior"
+        ],
+        "correct_answer": "gastrocnemius",
+        "explanation": "The gastrocnemius is the most superficial and one of the largest muscles in the posterior compartment of the lower leg. It is a powerful plantar flexor of the foot at the ankle joint and also flexes the leg at the knee joint."
+      },
+      {
+        "question_number": 27,
+        "question_text": "The vastus intermedius muscle is deep to which of the following muscles?",
+        "options": [
+          "biceps femoris",
+          "rectus femoris",
+          "vastus medialis",
+          "vastus lateralis"
+        ],
+        "correct_answer": "rectus femoris",
+        "explanation": "The vastus intermedius is one of the four muscles that make up the quadriceps femoris muscle group in the anterior thigh. It is located deep to the rectus femoris muscle, which is the most superficial of the quadriceps muscles."
+      }
+    ]
+  }
+  
+  
+  

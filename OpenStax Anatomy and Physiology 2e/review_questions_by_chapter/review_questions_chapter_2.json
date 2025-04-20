@@ -1,0 +1,379 @@
+[
+    {
+        "chapter": "2",
+        "question_number": "4",
+        "question": "Together, just four elements make up more than 95 percent of the body\u2019s mass. These include ________.",
+        "options": [
+            "calcium, magnesium, iron, and carbon",
+            "oxygen, calcium, iron, and nitrogen",
+            "sodium, chlorine, carbon, and hydrogen",
+            "oxygen, carbon, hydrogen, and nitrogen"
+        ],
+        "correct_answer": "oxygen, carbon, hydrogen, and nitrogen",
+        "explanation": "These four elements are the most abundant in the human body and are essential for forming biomolecules."
+    },
+    {
+        "chapter": "2",
+        "question_number": "5",
+        "question": "The smallest unit of an element that still retains the distinctive behavior of that element is an ________.",
+        "options": [
+            "electron",
+            "atom",
+            "elemental particle",
+            "isotope"
+        ],
+        "correct_answer": "atom",
+        "explanation": "An atom is the smallest unit of an element that retains its chemical properties."
+    },
+    {
+        "chapter": "2",
+        "question_number": "6",
+        "question": "The characteristic that gives an element its distinctive properties is its number of ________.",
+        "options": [
+            "protons",
+            "neutrons",
+            "electrons",
+            "atoms"
+        ],
+        "correct_answer": "protons",
+        "explanation": "The number of protons in an atom's nucleus determines the element's identity and properties."
+    },
+    {
+        "chapter": "2",
+        "question_number": "7",
+        "question": "On the periodic table of the elements, mercury (Hg) has an atomic number of 80 and a mass number of 200.59. It has seven stable isotopes. The most abundant of these probably have ________.",
+        "options": [
+            "about 80 neutrons each",
+            "fewer than 80 neutrons each",
+            "more than 80 neutrons each",
+            "more electrons than neutrons"
+        ],
+        "correct_answer": "more than 80 neutrons each",
+        "explanation": "The mass number is the sum of protons and neutrons. Since mercury's atomic number is 80, the most abundant isotopes must have more than 80 neutrons."
+    },
+    {
+        "chapter": "2",
+        "question_number": "8",
+        "question": "Nitrogen has an atomic number of seven. How many electron shells does it likely have?",
+        "options": [
+            "one",
+            "two",
+            "three",
+            "four"
+        ],
+        "correct_answer": "two",
+        "explanation": "Nitrogen has seven electrons, which are distributed in two shells: two in the first shell and five in the second."
+    },
+    {
+        "chapter": "2",
+        "question_number": "9",
+        "question": "Which of the following is a molecule, but not a compound?",
+        "options": [
+            "H2O",
+            "2H",
+            "H2",
+            "H+"
+        ],
+        "correct_answer": "H2",
+        "explanation": "H2 is a molecule because it consists of two hydrogen atoms bonded together, but it is not a compound because it contains only one element."
+    },
+    {
+        "chapter": "2",
+        "question_number": "10",
+        "question": "A molecule of ammonia contains one atom of nitrogen and three atoms of hydrogen. These are linked with ________.",
+        "options": [
+            "ionic bonds",
+            "nonpolar covalent bonds",
+            "polar covalent bonds",
+            "hydrogen bonds"
+        ],
+        "correct_answer": "polar covalent bonds",
+        "explanation": "The nitrogen atom in ammonia shares electrons with hydrogen atoms unequally, creating polar covalent bonds."
+    },
+    {
+        "chapter": "2",
+        "question_number": "11",
+        "question": "When an atom donates an electron to another atom, it becomes",
+        "options": [
+            "an ion",
+            "an anion",
+            "nonpolar",
+            "all of the above"
+        ],
+        "correct_answer": "an ion",
+        "explanation": "When an atom donates or accepts an electron, it becomes an ion, which is a charged particle."
+    },
+    {
+        "chapter": "2",
+        "question_number": "12",
+        "question": "A substance formed of crystals of equal numbers of cations and anions held together by ionic bonds is called a(n) ________.",
+        "options": [
+            "noble gas",
+            "salt",
+            "electrolyte",
+            "dipole"
+        ],
+        "correct_answer": "salt",
+        "explanation": "Salts are ionic compounds formed by the combination of cations and anions in a crystal lattice."
+    },
+    {
+        "chapter": "2",
+        "question_number": "13",
+        "question": "Which of the following statements about chemical bonds is true?",
+        "options": [
+            "Ionic bonds are stronger than Covalent bonds.",
+            "Hydrogen bonds occur between two atoms of hydrogen.",
+            "Bonding readily occurs between nonpolar and polar molecules.",
+            "A molecule of water is unlikely to bond with an ion."
+        ],
+        "correct_answer": "Bonding readily occurs between nonpolar and polar molecules.",
+        "explanation": "Polar molecules can interact with nonpolar molecules through weak interactions, facilitating bonding."
+    },
+    {
+        "chapter": "2",
+        "question_number": "14",
+        "question": "The energy stored in a foot of snow on a steep roof is ________.",
+        "options": [
+            "potential energy",
+            "kinetic energy",
+            "radiant energy",
+            "activation energy"
+        ],
+        "correct_answer": "potential energy",
+        "explanation": "Potential energy is stored energy, such as the energy in an object positioned to fall."
+    },
+    {
+        "chapter": "2",
+        "question_number": "15",
+        "question": "The bonding of calcium, phosphorus, and other elements produces mineral crystals that are found in bone. This is an example of a(n) ________ reaction.",
+        "options": [
+            "catabolic",
+            "synthesis",
+            "decomposition",
+            "exchange"
+        ],
+        "correct_answer": "synthesis",
+        "explanation": "A synthesis reaction combines smaller components into larger, more complex structures, such as bone minerals."
+    },
+    {
+        "chapter": "2",
+        "question_number": "16",
+        "question": "AB → A + B is a general notation for a(n) ________ reaction.",
+        "options": [
+            "anabolic",
+            "endergonic",
+            "decomposition",
+            "exchange"
+        ],
+        "correct_answer": "decomposition",
+        "explanation": "Decomposition reactions break down larger molecules into smaller components, as represented by AB → A + B."
+    },
+    {
+        "chapter": "2",
+        "question_number": "17",
+        "question": "________ reactions release energy.",
+        "options": [
+            "Catabolic",
+            "Exergonic",
+            "Decomposition",
+            "Catabolic, exergonic, and decomposition"
+        ],
+        "correct_answer": "Catabolic, exergonic, and decomposition",
+        "explanation": "All these reactions release energy by breaking down molecules or bonds."
+    },
+    {
+        "chapter": "2",
+        "question_number": "18",
+        "question": "Which of the following combinations of atoms is most likely to result in a chemical reaction?",
+        "options": [
+            "hydrogen and hydrogen",
+            "hydrogen and helium",
+            "helium and helium",
+            "neon and helium"
+        ],
+        "correct_answer": "hydrogen and hydrogen",
+        "explanation": "Hydrogen atoms readily react to form H2 molecules, while helium and neon are inert noble gases."
+    },
+    {
+        "chapter": "2",
+        "question_number": "19",
+        "question": "Chewing a bite of bread mixes it with saliva and facilitates its chemical breakdown. This is most likely due to the fact that ________.",
+        "options": [
+            "the inside of the mouth maintains a very high temperature",
+            "chewing stores potential energy",
+            "chewing facilitates synthesis reactions",
+            "saliva contains enzymes"
+        ],
+        "correct_answer": "saliva contains enzymes",
+        "explanation": "Saliva contains enzymes like amylase that chemically break down carbohydrates in bread."
+    },
+    {
+        "chapter": "2",
+        "question_number": "20",
+        "question": "CH4 is methane. This compound is ________.",
+        "options": [
+            "inorganic",
+            "organic",
+            "reactive",
+            "a crystal"
+        ],
+        "correct_answer": "organic",
+        "explanation": "Methane is an organic compound because it contains carbon bonded to hydrogen."
+    },
+    {
+        "chapter": "2",
+        "question_number": "21",
+        "question": "Which of the following is most likely to be found evenly distributed in water in a homogeneous solution?",
+        "options": [
+            "sodium ions and chloride ions",
+            "NaCl molecules",
+            "salt crystals",
+            "red blood cells"
+        ],
+        "correct_answer": "sodium ions and chloride ions",
+        "explanation": "In a solution, NaCl dissociates into sodium and chloride ions, which are evenly distributed in water."
+    },
+    {
+        "chapter": "2",
+        "question_number": "22",
+        "question": "Jenny mixes up a batch of pancake batter, then stirs in some chocolate chips. As she is waiting for the first few pancakes to cook, she notices the chocolate chips sinking to the bottom of the clear glass mixing bowl. The chocolate-chip batter is an example of a ________.",
+        "options": [
+            "solvent",
+            "solute",
+            "solution",
+            "suspension"
+        ],
+        "correct_answer": "suspension",
+        "explanation": "A suspension contains particles that are not evenly distributed and tend to settle over time, like chocolate chips in batter."
+    },
+    {
+        "chapter": "2",
+        "question_number": "23",
+        "question": "A substance dissociates into K+ and Cl– in solution. The substance is a(n) ________.",
+        "options": [
+            "acid",
+            "base",
+            "salt",
+            "buffer"
+        ],
+        "correct_answer": "salt",
+        "explanation": "Salts dissociate into cations and anions in solution, such as potassium (K+) and chloride (Cl–)."
+    },
+    {
+        "chapter": "2",
+        "question_number": "24",
+        "question": "Ty is three years old and as a result of a \u201cstomach bug\u201d has been vomiting for about 24 hours. His blood pH is 7.48. What does this mean?",
+        "options": [
+            "Ty\u2019s blood is slightly acidic.",
+            "Ty\u2019s blood is slightly alkaline.",
+            "Ty\u2019s blood is highly acidic.",
+            "Ty\u2019s blood is within the normal range"
+        ],
+        "correct_answer": "Ty\u2019s blood is slightly alkaline.",
+        "explanation": "A blood pH of 7.48 is slightly above the normal range (7.35–7.45), indicating mild alkalosis."
+    },
+    {
+        "chapter": "2",
+        "question_number": "25",
+        "question": "C6H12O6 is the chemical formula for a ________.",
+        "options": [
+            "polymer of carbohydrate",
+            "pentose monosaccharide",
+            "hexose monosaccharide",
+            "all of the above"
+        ],
+        "correct_answer": "hexose monosaccharide",
+        "explanation": "C6H12O6 represents a hexose monosaccharide, such as glucose or fructose."
+    },
+    {
+        "chapter": "2",
+        "question_number": "26",
+        "question": "What organic compound do brain cells primarily rely on for fuel?",
+        "options": [
+            "glucose",
+            "glycogen",
+            "galactose",
+            "glycerol"
+        ],
+        "correct_answer": "glucose",
+        "explanation": "Brain cells primarily rely on glucose as their main source of energy."
+    },
+    {
+        "chapter": "2",
+        "question_number": "27",
+        "question": "Which of the following is a functional group that is part of a building block of proteins?",
+        "options": [
+            "phosphate",
+            "adenine",
+            "amino",
+            "ribose"
+        ],
+        "correct_answer": "amino",
+        "explanation": "The amino group (-NH2) is a functional group found in amino acids, the building blocks of proteins."
+    },
+    {
+        "chapter": "2",
+        "question_number": "28",
+        "question": "A pentose sugar is a part of the monomer used to build which type of macromolecule?",
+        "options": [
+            "polysaccharides",
+            "nucleic acids",
+            "phosphorylated glucose",
+            "glycogen"
+        ],
+        "correct_answer": "nucleic acids",
+        "explanation": "Pentose sugars, such as ribose and deoxyribose, are components of nucleotides, which are the monomers of nucleic acids."
+    },
+    {
+        "chapter": "2",
+        "question_number": "29",
+        "question": "A phospholipid ________.",
+        "options": [
+            "has both polar and nonpolar regions",
+            "is made up of a triglyceride bonded to a phosphate group",
+            "is a building block of ATP",
+            "can donate both cations and anions in solution"
+        ],
+        "correct_answer": "has both polar and nonpolar regions",
+        "explanation": "Phospholipids have a hydrophilic (polar) head and hydrophobic (nonpolar) tails, making them amphipathic."
+    },
+    {
+        "chapter": "2",
+        "question_number": "30",
+        "question": "In DNA, nucleotide bonding forms a compound with a characteristic shape known as a(n) ________.",
+        "options": [
+            "beta chain",
+            "pleated sheet",
+            "alpha helix",
+            "double helix"
+        ],
+        "correct_answer": "double helix",
+        "explanation": "DNA's structure is a double helix, formed by complementary base pairing between nucleotides."
+    },
+    {
+        "chapter": "2",
+        "question_number": "31",
+        "question": "Uracil ________.",
+        "options": [
+            "contains nitrogen",
+            "is a pyrimidine",
+            "is found in RNA",
+            "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "Uracil is a nitrogen-containing pyrimidine base found in RNA."
+    },
+    {
+        "chapter": "2",
+        "question_number": "32",
+        "question": "The ability of an enzyme\u2019s active sites to bind only substrates of compatible shape and charge is known as ________.",
+        "options": [
+            "selectivity",
+            "specificity",
+            "subjectivity",
+            "specialty"
+        ],
+        "correct_answer": "specificity",
+        "explanation": "Enzymes exhibit specificity, meaning their active sites bind only to substrates with compatible shapes and charges."
+    }
+]

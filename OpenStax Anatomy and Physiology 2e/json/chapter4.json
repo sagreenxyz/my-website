@@ -1,0 +1,296 @@
+{
+    "chapter": 4,
+    "review_questions": [
+      {
+        "question_number": 7,
+        "question_text": "Which of the following is not a type of tissue?",
+        "options": [
+          "muscle",
+          "nervous",
+          "embryonic",
+          "epithelial"
+        ],
+        "correct_answer": "embryonic",
+        "explanation": "The four basic types of tissues in the body are muscle, nervous, epithelial, and connective. Embryonic tissue is a classification based on developmental stage, not a fundamental tissue type in the adult organism."
+      },
+      {
+        "question_number": 8,
+        "question_text": "The process by which a less specialized cell matures into a more specialized cell is called ________.",
+        "options": [
+          "differentiation",
+          "maturation",
+          "modification",
+          "specialization"
+        ],
+        "correct_answer": "differentiation",
+        "explanation": "Differentiation is the process during which a less specialized cell becomes more specialized in its structure and function."
+      },
+      {
+        "question_number": 9,
+        "question_text": "Differentiated cells in a developing embryo derive from ________.",
+        "options": [
+          "endothelium, mesothelium, and epithelium",
+          "ectoderm, mesoderm, and endoderm",
+          "connective tissue, epithelial tissue, and muscle tissue",
+          "epidermis, mesoderm, and endothelium"
+        ],
+        "correct_answer": "ectoderm, mesoderm, and endoderm",
+        "explanation": "During embryonic development, the three primary germ layers—ectoderm, mesoderm, and endoderm—give rise to all the different types of differentiated cells and tissues in the body."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Which of the following lines the body cavities exposed to the external environment?",
+        "options": [
+          "mesothelium",
+          "lamina propria",
+          "mesenteries",
+          "mucosa"
+        ],
+        "correct_answer": "mucosa",
+        "explanation": "Mucous membranes (mucosa) line body cavities that open to the external environment, such as the digestive, respiratory, and urogenital tracts. Mesothelium lines serous membranes, lamina propria is connective tissue underlying epithelium, and mesenteries are folds of peritoneum."
+      },
+      {
+        "question_number": 11,
+        "question_text": "In observing epithelial cells under a microscope, the cells are arranged in a single layer and look tall and narrow, and the nucleus is located close to the basal side of the cell. The specimen is what type of epithelial tissue?",
+        "options": [
+          "columnar",
+          "stratified",
+          "squamous",
+          "transitional"
+        ],
+        "correct_answer": "columnar",
+        "explanation": "Simple columnar epithelium consists of a single layer of tall, column-shaped cells with nuclei typically located near the base of the cell."
+      },
+      {
+        "question_number": 12,
+        "question_text": "Which of the following is the epithelial tissue that lines the interior of blood vessels?",
+        "options": [
+          "columnar",
+          "pseudostratified",
+          "simple squamous",
+          "transitional"
+        ],
+        "correct_answer": "simple squamous",
+        "explanation": "The interior of blood vessels is lined by endothelium, which is a type of simple squamous epithelium. Its thin, flat cells allow for efficient diffusion and filtration."
+      },
+      {
+        "question_number": 13,
+        "question_text": "Which type of epithelial tissue specializes in moving particles across its surface?",
+        "options": [
+          "transitional",
+          "stratified columnar",
+          "pseudostratified ciliated columnar",
+          "stratified squamous"
+        ],
+        "correct_answer": "pseudostratified ciliated columnar",
+        "explanation": "Pseudostratified ciliated columnar epithelium has cilia on its apical surface that beat in a coordinated manner to move mucus and trapped particles along the surface of the tissue, such as in the respiratory tract."
+      },
+      {
+        "question_number": 14,
+        "question_text": "The ________ exocrine gland stores its secretion until the glandular cell ruptures, whereas the ________ gland releases its apical region and reforms.",
+        "options": [
+          "holocrine; apocrine",
+          "eccrine; endocrine",
+          "apocrine; holocrine",
+          "eccrine; apocrine"
+        ],
+        "correct_answer": "holocrine; apocrine",
+        "explanation": "Holocrine glands accumulate their secretion within the cell until the cell ruptures and dies, releasing the secretion and cellular debris. Apocrine glands release their secretion along with the apical portion of the cell, which then repairs itself and continues to secrete."
+      },
+      {
+        "question_number": 15,
+        "question_text": "Connective tissue is made of which three essential components?",
+        "options": [
+          "cells, ground substance, and carbohydrate fibers",
+          "cells, ground substance, and protein fibers",
+          "collagen, ground substance, and protein fibers",
+          "matrix, ground substance, and fluid"
+        ],
+        "correct_answer": "cells, ground substance, and protein fibers",
+        "explanation": "All connective tissues share three basic components: cells, ground substance (the extracellular matrix surrounding the cells), and protein fibers (such as collagen, elastic, and reticular fibers)."
+      },
+      {
+        "question_number": 16,
+        "question_text": "Under the microscope, a tissue specimen shows cells located in spaces scattered in a transparent background. This is probably ________.",
+        "options": [
+          "loose connective tissue",
+          "a tendon",
+          "bone",
+          "hyaline cartilage"
+        ],
+        "correct_answer": "hyaline cartilage",
+        "explanation": "Hyaline cartilage is characterized by chondrocytes (cells) located in lacunae (spaces) within a smooth, glassy, and transparent extracellular matrix."
+      },
+      {
+        "question_number": 17,
+        "question_text": "Which connective tissue specializes in storage of fat?",
+        "options": [
+          "tendon",
+          "adipose tissue",
+          "reticular tissue",
+          "dense connective tissue"
+        ],
+        "correct_answer": "adipose tissue",
+        "explanation": "Adipose tissue, also known as fat tissue, is specialized for the storage of lipids (fats) in adipocytes."
+      },
+      {
+        "question_number": 18,
+        "question_text": "Ligaments connect bones together and withstand a lot of stress. What type of connective tissue should you expect ligaments to contain?",
+        "options": [
+          "areolar tissue",
+          "adipose tissue",
+          "dense regular connective tissue",
+          "dense irregular connective tissue"
+        ],
+        "correct_answer": "dense regular connective tissue",
+        "explanation": "Ligaments require strength to withstand tension in a specific direction (connecting bones at joints). Dense regular connective tissue has collagen fibers arranged in parallel bundles, providing high tensile strength in one direction."
+      },
+      {
+        "question_number": 19,
+        "question_text": "In adults, new connective tissue cells originate from the ________.",
+        "options": [
+          "mesoderm",
+          "mesenchyme",
+          "ectoderm",
+          "endoderm"
+        ],
+        "correct_answer": "mesenchyme",
+        "explanation": "Mesenchyme is the embryonic connective tissue that gives rise to all other connective tissues. In adults, mesenchymal stem cells persist and can differentiate into new connective tissue cells when needed for repair or maintenance."
+      },
+      {
+        "question_number": 20,
+        "question_text": "In bone, the main cells are ________.",
+        "options": [
+          "fibroblasts",
+          "chondrocytes",
+          "lymphocytes",
+          "osteocytes"
+        ],
+        "correct_answer": "osteocytes",
+        "explanation": "Osteocytes are the mature bone cells that are embedded in the bone matrix and maintain its structure. Fibroblasts are found in fibrous connective tissue, chondrocytes are the main cells in cartilage, and lymphocytes are immune cells found in blood and lymphoid tissues."
+      },
+      {
+        "question_number": 21,
+        "question_text": "Striations, cylindrical cells, and multiple nuclei are observed in ________.",
+        "options": [
+          "skeletal muscle only",
+          "cardiac muscle only",
+          "smooth muscle only",
+          "skeletal and cardiac muscles"
+        ],
+        "correct_answer": "skeletal muscle only",
+        "explanation": "Skeletal muscle tissue is characterized by striated (banded) appearance, long cylindrical cells (fibers), and multiple nuclei located peripherally. Cardiac muscle also has striations and is composed of branched cells, typically with one or two centrally located nuclei. Smooth muscle lacks striations and has spindle-shaped cells with a single, central nucleus."
+      },
+      {
+        "question_number": 22,
+        "question_text": "The cells of muscles, myocytes, develop from ________.",
+        "options": [
+          "myoblasts",
+          "endoderm",
+          "fibrocytes",
+          "chondrocytes"
+        ],
+        "correct_answer": "myoblasts",
+        "explanation": "Muscle cells (myocytes) develop from precursor cells called myoblasts. During development, myoblasts fuse to form the multinucleated muscle fibers of skeletal muscle. Endoderm is a primary germ layer, fibrocytes are cells in fibrous connective tissue, and chondrocytes are cells in cartilage."
+      },
+      {
+        "question_number": 23,
+        "question_text": "Skeletal muscle is composed of very hard working cells. Which organelles do you expect to find in abundance in skeletal muscle cell?",
+        "options": [
+          "nuclei",
+          "striations",
+          "golgi bodies",
+          "mitochondria"
+        ],
+        "correct_answer": "mitochondria",
+        "explanation": "Skeletal muscle cells require a large amount of energy in the form of ATP to contract. Mitochondria are the organelles responsible for generating ATP through cellular respiration, so they are abundant in hard-working muscle cells."
+      },
+      {
+        "question_number": 24,
+        "question_text": "The cells responsible for the transmission of the nerve impulse are ________.",
+        "options": [
+          "neurons",
+          "oligodendrocytes",
+          "astrocytes",
+          "microglia"
+        ],
+        "correct_answer": "neurons",
+        "explanation": "Neurons, also known as nerve cells, are specialized cells that generate and transmit electrical signals called nerve impulses, allowing for communication within the nervous system."
+      },
+      {
+        "question_number": 25,
+        "question_text": "The nerve impulse travels down a(n) ________, away from the cell body.",
+        "options": [
+          "dendrite",
+          "axon",
+          "microglia",
+          "collagen fiber"
+        ],
+        "correct_answer": "axon",
+        "explanation": "A neuron typically has dendrites that receive signals and an axon that transmits the nerve impulse away from the cell body towards other neurons or target cells. Microglia are immune cells of the nervous system, and collagen fibers are found in connective tissue."
+      },
+      {
+        "question_number": 26,
+        "question_text": "Which of the following central nervous system cells regulate ions, regulate the uptake and/or breakdown of some neurotransmitters, and contribute to the formation of the blood-brain barrier?",
+        "options": [
+          "microglia",
+          "neuroglia",
+          "oligodendrocytes",
+          "astrocytes"
+        ],
+        "correct_answer": "astrocytes",
+        "explanation": "Astrocytes are a type of neuroglia (glial cell) in the central nervous system that perform a variety of supportive functions, including regulating the ionic environment, influencing the uptake and breakdown of neurotransmitters, and contributing to the blood-brain barrier."
+      },
+      {
+        "question_number": 27,
+        "question_text": "Which of the following processes is not a cardinal sign of inflammation?",
+        "options": [
+          "redness",
+          "heat",
+          "fever",
+          "swelling"
+        ],
+        "correct_answer": "fever",
+        "explanation": "The four cardinal signs of inflammation are redness (rubor), heat (calor), swelling (tumor), and pain (dolor). Fever is a systemic response that can accompany inflammation but is not considered one of the four cardinal local signs."
+      },
+      {
+        "question_number": 28,
+        "question_text": "When a mast cell reacts to an irritation, which of the following chemicals does it release?",
+        "options": [
+          "collagen",
+          "histamine",
+          "hyaluronic acid",
+          "meylin"
+        ],
+        "correct_answer": "histamine",
+        "explanation": "Mast cells are involved in the inflammatory response and release histamine when they detect injury or irritation. Histamine causes vasodilation and increased permeability of blood vessels, contributing to the signs of inflammation."
+      },
+      {
+        "question_number": 29,
+        "question_text": "Atrophy refers to ________.",
+        "options": [
+          "loss of elasticity",
+          "loss of mass",
+          "loss of rigidity",
+          "loss of permeability"
+        ],
+        "correct_answer": "loss of mass",
+        "explanation": "Atrophy is the wasting away or decrease in size of a tissue or organ, resulting in a loss of mass. It can occur due to disuse, denervation, loss of blood supply, or other pathological conditions."
+      },
+      {
+        "question_number": 30,
+        "question_text": "Individuals can slow the rate of aging by modifying all of these lifestyle aspects except for ________.",
+        "options": [
+          "diet",
+          "exercise",
+          "genetic factors",
+          "stress"
+        ],
+        "correct_answer": "genetic factors",
+        "explanation": "Lifestyle factors such as diet, exercise, and stress management can significantly influence the rate of aging. However, an individual's genetic makeup is inherited and generally cannot be modified to slow down the aging process, although it plays a role in longevity."
+      }
+    ]
+  }
+  
+  
+  

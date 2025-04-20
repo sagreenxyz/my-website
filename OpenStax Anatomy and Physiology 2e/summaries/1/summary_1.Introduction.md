@@ -1,0 +1,3 @@
+# Summary: Chapter 1 Introduction - An Introduction to the Human Body
+
+This introductory section lays the foundation for the study of human anatomy and physiology. It defines anatomy (structure) and physiology (function) and emphasizes their interconnectedness. The chapter will explore the different levels of organization within the human body, from chemicals to the whole organism. It will also introduce the concept of homeostasis – the maintenance of a stable internal environment – and the terminology used to describe the body's regions, directions, planes, and cavities, which are essential for clear communication in the field.

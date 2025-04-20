@@ -1,0 +1,320 @@
+{
+    "chapter": 10,
+    "review_questions": [
+      {
+        "question_number": 4,
+        "question_text": "Muscle that has a striped appearance is described as being ________.",
+        "options": [
+          "elastic",
+          "nonstriated",
+          "excitable",
+          "striated"
+        ],
+        "correct_answer": "striated",
+        "explanation": "Muscle tissue that exhibits a banded or striped appearance under a microscope is called striated muscle. This includes skeletal and cardiac muscle."
+      },
+      {
+        "question_number": 5,
+        "question_text": "Which element is important in directly triggering contraction?",
+        "options": [
+          "sodium (Na+)",
+          "calcium (Ca++)",
+          "potassium (K+)",
+          "chloride (Cl-)"
+        ],
+        "correct_answer": "calcium (Ca++)",
+        "explanation": "Calcium ions play a critical role in triggering muscle contraction by binding to troponin, which leads to the exposure of myosin-binding sites on actin."
+      },
+      {
+        "question_number": 6,
+        "question_text": "Which of the following properties is not common to all three muscle tissues?",
+        "options": [
+          "excitability",
+          "the need for ATP",
+          "at rest, uses shielding proteins to cover actin-binding sites",
+          "elasticity"
+        ],
+        "correct_answer": "at rest, uses shielding proteins to cover actin-binding sites",
+        "explanation": "Excitability, the need for ATP, and elasticity are common to all three muscle tissues (skeletal, cardiac, and smooth). However, smooth muscle does not use troponin-tropomyosin complexes as its primary mechanism for regulating contraction; it uses calmodulin and myosin light-chain kinase."
+      },
+      {
+        "question_number": 7,
+        "question_text": "The correct order for the smallest to the largest unit of organization in muscle tissue is ________.",
+        "options": [
+          "fascicle, filament, muscle fiber, myofibril",
+          "filament, myofibril, muscle fiber, fascicle",
+          "muscle fiber, fascicle, filament, myofibril",
+          "myofibril, muscle fiber, filament, fascicle"
+        ],
+        "correct_answer": "filament, myofibril, muscle fiber, fascicle",
+        "explanation": "The organization of skeletal muscle tissue from smallest to largest is: filament (actin or myosin), myofibril (bundles of filaments), muscle fiber (a single muscle cell containing myofibrils), and fascicle (bundles of muscle fibers)."
+      },
+      {
+        "question_number": 8,
+        "question_text": "Depolarization of the sarcolemma means ________.",
+        "options": [
+          "the inside of the membrane has become less negative as sodium ions accumulate",
+          "the outside of the membrane has become less negative as sodium ions accumulate",
+          "the inside of the membrane has become more negative as sodium ions accumulate",
+          "the sarcolemma has completely lost any electrical charge"
+        ],
+        "correct_answer": "the inside of the membrane has become less negative as sodium ions accumulate",
+        "explanation": "Depolarization of the sarcolemma (muscle fiber membrane) occurs when the inside of the membrane becomes less negative (moves towards a positive charge) due to the influx of positive ions, primarily sodium (Na+), through voltage-gated channels."
+      },
+      {
+        "question_number": 9,
+        "question_text": "In relaxed muscle, the myosin-binding site on actin is blocked by ________.",
+        "options": [
+          "titin",
+          "troponin",
+          "myoglobin",
+          "tropomyosin"
+        ],
+        "correct_answer": "tropomyosin",
+        "explanation": "In relaxed muscle, the protein tropomyosin physically blocks the myosin-binding sites on the actin filaments, preventing cross-bridge formation and muscle contraction. Tropomyosin is held in place by troponin."
+      },
+      {
+        "question_number": 10,
+        "question_text": "According to the sliding filament model, binding sites on actin open when ________.",
+        "options": [
+          "creatine phosphate levels rise",
+          "ATP levels rise",
+          "acetylcholine levels rise",
+          "calcium ion levels rise"
+        ],
+        "correct_answer": "calcium ion levels rise",
+        "explanation": "According to the sliding filament model, when calcium ion levels rise in the sarcoplasm, calcium binds to troponin, causing a conformational change in the troponin-tropomyosin complex. This shift moves tropomyosin away from the myosin-binding sites on actin, allowing cross-bridge formation and muscle contraction."
+      },
+      {
+        "question_number": 11,
+        "question_text": "The cell membrane of a muscle fiber is called ________.",
+        "options": [
+          "myofibril",
+          "sarcolemma",
+          "sarcoplasm",
+          "myofilament"
+        ],
+        "correct_answer": "sarcolemma",
+        "explanation": "The cell membrane of a muscle fiber (muscle cell) is called the sarcolemma. Myofibrils are contractile units within the muscle fiber, sarcoplasm is the cytoplasm of a muscle fiber, and myofilaments are the protein filaments (actin and myosin) within myofibrils."
+      },
+      {
+        "question_number": 12,
+        "question_text": "Muscle relaxation occurs when ________.",
+        "options": [
+          "calcium ions are actively transported out of the sarcoplasmic reticulum",
+          "calcium ions diffuse out of the sarcoplasmic reticulum",
+          "calcium ions are actively transported into the sarcoplasmic reticulum",
+          "calcium ions diffuse into the sarcoplasmic reticulum"
+        ],
+        "correct_answer": "calcium ions are actively transported into the sarcoplasmic reticulum",
+        "explanation": "Muscle relaxation occurs when the nerve stimulation ceases, and calcium ions are actively transported from the sarcoplasm back into the sarcoplasmic reticulum. This removal of calcium allows tropomyosin to block the myosin-binding sites on actin, and the muscle relaxes."
+      },
+      {
+        "question_number": 13,
+        "question_text": "During muscle contraction, the cross-bridge detaches when ________.",
+        "options": [
+          "the myosin head binds to an ADP molecule",
+          "the myosin head binds to an ATP molecule",
+          "calcium ions bind to troponin",
+          "calcium ions bind to actin"
+        ],
+        "correct_answer": "the myosin head binds to an ATP molecule",
+        "explanation": "During the cross-bridge cycle of muscle contraction, the myosin head detaches from the actin filament when a new molecule of ATP binds to the myosin head. This binding causes a conformational change in myosin, reducing its affinity for actin."
+      },
+      {
+        "question_number": 14,
+        "question_text": "Thin and thick filaments are organized into functional units called ________.",
+        "options": [
+          "myofibrils",
+          "myofilaments",
+          "T-tubules",
+          "sarcomeres"
+        ],
+        "correct_answer": "sarcomeres",
+        "explanation": "In skeletal and cardiac muscle, the thin (actin) and thick (myosin) filaments are arranged into repeating functional units called sarcomeres. The sarcomere is the basic contractile unit of striated muscle."
+      },
+      {
+        "question_number": 15,
+        "question_text": "During which phase of a twitch in a muscle fiber is tension the greatest?",
+        "options": [
+          "resting phase",
+          "repolarization phase",
+          "contraction phase",
+          "relaxation phase"
+        ],
+        "correct_answer": "contraction phase",
+        "explanation": "A muscle twitch consists of three phases: the latent period, the contraction phase, and the relaxation phase. Tension in the muscle fiber reaches its peak during the contraction phase, when cross-bridge cycling is maximal."
+      },
+      {
+        "question_number": 16,
+        "question_text": "Muscle fatigue is caused by ________.",
+        "options": [
+          "buildup of ATP and lactic acid levels",
+          "exhaustion of energy reserves and buildup of lactic acid levels",
+          "buildup of ATP and pyruvic acid levels",
+          "exhaustion of energy reserves and buildup of pyruvic acid levels"
+        ],
+        "correct_answer": "exhaustion of energy reserves and buildup of lactic acid levels",
+        "explanation": "Muscle fatigue is a complex phenomenon with multiple contributing factors. Key factors include the depletion of energy reserves (such as ATP and glycogen) and the accumulation of metabolic byproducts, particularly lactic acid, during sustained or intense muscle activity."
+      },
+      {
+        "question_number": 17,
+        "question_text": "A sprinter would experience muscle fatigue sooner than a marathon runner due to ________.",
+        "options": [
+          "anaerobic metabolism in the muscles of the sprinter",
+          "anaerobic metabolism in the muscles of the marathon runner",
+          "aerobic metabolism in the muscles of the sprinter",
+          "glycolysis in the muscles of the marathon runner"
+        ],
+        "correct_answer": "anaerobic metabolism in the muscles of the sprinter",
+        "explanation": "Sprinters rely heavily on anaerobic metabolism (glycolysis) to generate ATP quickly for short bursts of intense activity. This process produces lactic acid as a byproduct, which contributes to muscle fatigue. Marathon runners primarily use aerobic metabolism, which is more efficient and produces less lactic acid, allowing them to sustain activity for longer periods."
+      },
+      {
+        "question_number": 18,
+        "question_text": "What aspect of creatine phosphate allows it to supply energy to muscles?",
+        "options": [
+          "ATPase activity",
+          "phosphate bonds",
+          "carbon bonds",
+          "hydrogen bonds"
+        ],
+        "correct_answer": "phosphate bonds",
+        "explanation": "Creatine phosphate (CP) stores high-energy phosphate bonds. When ATP levels are low, the phosphate group from CP can be quickly transferred to ADP to regenerate ATP, providing a rapid source of energy for muscle contraction."
+      },
+      {
+        "question_number": 19,
+        "question_text": "Drug X blocks ATP regeneration from ADP and phosphate. How will muscle cells respond to this drug?",
+        "options": [
+          "by absorbing ATP from the bloodstream",
+          "by using ADP as an energy source",
+          "by using glycogen as an energy source",
+          "none of the above"
+        ],
+        "correct_answer": "by using glycogen as an energy source",
+        "explanation": "If ATP regeneration from ADP and phosphate is blocked, muscle cells will initially try to utilize their existing ATP stores. Once those are depleted, they would attempt to break down glycogen through glycolysis to produce ATP. However, this process ultimately requires the regeneration of ATP from ADP, so the drug would severely limit the muscle's ability to sustain activity. While glycogen can be used, the blockage of ATP regeneration will still lead to functional impairment."
+      },
+      {
+        "question_number": 20,
+        "question_text": "The muscles of a professional sprinter are most likely to have ________.",
+        "options": [
+          "80 percent fast-twitch muscle fibers and 20 percent slow-twitch muscle fibers",
+          "20 percent fast-twitch muscle fibers and 80 percent slow-twitch muscle fibers",
+          "50 percent fast-twitch muscle fibers and 50 percent slow-twitch muscle fibers",
+          "40 percent fast-twitch muscle fibers and 60 percent slow-twitch muscle fibers"
+        ],
+        "correct_answer": "80 percent fast-twitch muscle fibers and 20 percent slow-twitch muscle fibers",
+        "explanation": "Professional sprinters require powerful, rapid muscle contractions for short durations. Their muscles typically have a higher percentage of fast-twitch muscle fibers (Type II), which are specialized for quick, forceful contractions but fatigue more easily, compared to slow-twitch fibers (Type I)."
+      },
+      {
+        "question_number": 21,
+        "question_text": "The muscles of a professional marathon runner are most likely to have ________.",
+        "options": [
+          "80 percent fast-twitch muscle fibers and 20 percent slow-twitch muscle fibers",
+          "20 percent fast-twitch muscle fibers and 80 percent slow-twitch muscle fibers",
+          "50 percent fast-twitch muscle fibers and 50 percent slow-twitch muscle fibers",
+          "40 percent fast-twitch muscle fibers and 60 percent slow-twitch muscle fibers"
+        ],
+        "correct_answer": "20 percent fast-twitch muscle fibers and 80 percent slow-twitch muscle fibers",
+        "explanation": "Professional marathon runners need muscles that can sustain prolonged activity without fatiguing quickly. Their muscles typically have a higher percentage of slow-twitch muscle fibers (Type I), which are more resistant to fatigue and rely on aerobic metabolism."
+      },
+      {
+        "question_number": 22,
+        "question_text": "Which of the following statements is true?",
+        "options": [
+          "Fast fibers have a small diameter.",
+          "Fast fibers contain loosely packed myofibrils.",
+          "Fast fibers have large glycogen reserves.",
+          "Fast fibers have many mitochondria."
+        ],
+        "correct_answer": "Fast fibers have large glycogen reserves.",
+        "explanation": "Fast fibers (fast-twitch muscle fibers) typically have a larger diameter than slow fibers, densely packed myofibrils, large glycogen reserves for anaerobic metabolism, and fewer mitochondria compared to slow fibers as they primarily rely on glycolysis."
+      },
+      {
+        "question_number": 23,
+        "question_text": "Which of the following statements is false?",
+        "options": [
+          "Slow fibers have a small network of capillaries.",
+          "Slow fibers contain the pigment myoglobin.",
+          "Slow fibers contain a large number of mitochondria.",
+          "Slow fibers contract for extended periods."
+        ],
+        "correct_answer": "Slow fibers have a small network of capillaries.",
+        "explanation": "Slow fibers (slow-twitch muscle fibers) are adapted for aerobic metabolism and sustained activity. They have an extensive network of capillaries to supply oxygen, contain the oxygen-binding pigment myoglobin (giving them a red appearance), have a large number of mitochondria for ATP production, and can contract for extended periods without fatiguing easily."
+      },
+      {
+        "question_number": 24,
+        "question_text": "Cardiac muscles differ from skeletal muscles in that they ________.",
+        "options": [
+          "are striated",
+          "utilize aerobic metabolism",
+          "contain myofibrils",
+          "contain intercalated discs"
+        ],
+        "correct_answer": "contain intercalated discs",
+        "explanation": "Cardiac muscle, like skeletal muscle, is striated, utilizes aerobic metabolism, and contains myofibrils. However, cardiac muscle uniquely contains intercalated discs, specialized junctions that facilitate the coordinated contraction of heart muscle cells."
+      },
+      {
+        "question_number": 25,
+        "question_text": "If cardiac muscle cells were prevented from undergoing aerobic metabolism, they ultimately would ________.",
+        "options": [
+          "undergo glycolysis",
+          "synthesize ATP",
+          "stop contracting",
+          "start contracting"
+        ],
+        "correct_answer": "stop contracting",
+        "explanation": "Cardiac muscle cells rely heavily on aerobic metabolism for ATP production to sustain their continuous contractile activity. If aerobic metabolism were prevented, they would not be able to generate enough ATP to maintain contraction and would eventually stop contracting, leading to heart failure."
+      },
+      {
+        "question_number": 26,
+        "question_text": "Smooth muscles differ from skeletal and cardiac muscles in that they ________.",
+        "options": [
+          "lack myofibrils",
+          "are under voluntary control",
+          "lack myosin",
+          "lack actin"
+        ],
+        "correct_answer": "lack myofibrils",
+        "explanation": "Smooth muscle tissue differs from skeletal and cardiac muscle in that it lacks the organized arrangement of sarcomeres, which results in the absence of myofibrils and striations. Smooth muscle is also under involuntary control."
+      },
+      {
+        "question_number": 27,
+        "question_text": "Which of the following statements describes smooth muscle cells?",
+        "options": [
+          "They are resistant to fatigue.",
+          "They have a rapid onset of contractions.",
+          "They cannot exhibit tetanus.",
+          "They primarily use anaerobic metabolism."
+        ],
+        "correct_answer": "They are resistant to fatigue.",
+        "explanation": "Smooth muscle cells are known for their resistance to fatigue, which allows them to maintain prolonged contractions, such as those in the walls of blood vessels and the digestive tract. They have a slower onset of contraction compared to skeletal muscle and can exhibit tetanus under certain conditions. While they can use anaerobic metabolism, they primarily rely on aerobic pathways for sustained activity."
+      },
+      {
+        "question_number": 28,
+        "question_text": "From which embryonic cell type does muscle tissue develop?",
+        "options": [
+          "ganglion cells",
+          "myotube cells",
+          "myoblast cells",
+          "satellite cells"
+        ],
+        "correct_answer": "myoblast cells",
+        "explanation": "All types of muscle tissue (skeletal, cardiac, and smooth) develop from mesodermal cells called myoblasts during embryonic development. Myoblasts proliferate and differentiate to form muscle fibers."
+      },
+      {
+        "question_number": 29,
+        "question_text": "Which cell type helps to repair injured muscle fibers?",
+        "options": [
+          "ganglion cells",
+          "myotube cells",
+          "myoblast cells",
+          "satellite cells"
+        ],
+        "correct_answer": "satellite cells",
+        "explanation": "Satellite cells are muscle stem cells located between the sarcolemma and basal lamina of muscle fibers. They can become activated in response to muscle injury, proliferate, and differentiate to form new muscle fibers or fuse with damaged fibers to aid in repair and regeneration."
+      }
+    ]
+  }
+  
+  
+  

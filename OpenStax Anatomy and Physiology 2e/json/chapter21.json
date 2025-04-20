@@ -1,0 +1,416 @@
+{
+    "chapter": 21,
+    "review_questions": [
+      {
+        "question_number": 5,
+        "question_text": "Which of the following cells is phagocytic?",
+        "options": [
+          "plasma cell",
+          "macrophage",
+          "B cell",
+          "NK cell"
+        ],
+        "correct_answer": "macrophage",
+        "explanation": "Macrophages are phagocytic cells of the innate immune system that engulf and digest cellular debris, pathogens, and foreign substances."
+      },
+      {
+        "question_number": 6,
+        "question_text": "Which structure allows lymph from the lower right limb to enter the bloodstream?",
+        "options": [
+          "thoracic duct",
+          "right lymphatic duct",
+          "right lymphatic trunk",
+          "left lymphatic trunk"
+        ],
+        "correct_answer": "right lymphatic duct",
+        "explanation": "Lymph from the lower right limb drains into the right lymphatic trunk, which then empties into the bloodstream via the right lymphatic duct at the junction of the right subclavian and internal jugular veins."
+      },
+      {
+        "question_number": 7,
+        "question_text": "Which of the following cells is important in the innate immune response?",
+        "options": [
+          "B cells",
+          "T cells",
+          "macrophages",
+          "plasma cells"
+        ],
+        "correct_answer": "macrophages",
+        "explanation": "Macrophages are key cells of the innate immune system. They perform phagocytosis, release cytokines, and present antigens to cells of the adaptive immune system."
+      },
+      {
+        "question_number": 8,
+        "question_text": "Which of the following cells would be most active in early, antiviral immune responses the first time one is exposed to pathogen?",
+        "options": [
+          "macrophage",
+          "T cell",
+          "neutrophil",
+          "natural killer cell"
+        ],
+        "correct_answer": "natural killer cell",
+        "explanation": "Natural killer (NK) cells are part of the innate immune system and are crucial for early defense against viral infections. They can recognize and kill virus-infected cells without prior sensitization."
+      },
+      {
+        "question_number": 9,
+        "question_text": "Which of the lymphoid nodules is most likely to see food antigens first?",
+        "options": [
+          "tonsils",
+          "Peyer’s patches",
+          "bronchus-associated lymphoid tissue",
+          "mucosa-associated lymphoid tissue"
+        ],
+        "correct_answer": "tonsils",
+        "explanation": "Tonsils are located in the pharynx and are part of the mucosa-associated lymphoid tissue (MALT) in the oral cavity. They are strategically positioned to encounter antigens from food and air entering the body."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Which of the following signs is not characteristic of inflammation?",
+        "options": [
+          "redness",
+          "pain",
+          "cold",
+          "swelling"
+        ],
+        "correct_answer": "cold",
+        "explanation": "The four cardinal signs of inflammation are redness (rubor), heat (calor), swelling (tumor), and pain (dolor). Sometimes a fifth sign, loss of function (functio laesa), is also included. Cold is not a characteristic sign; in fact, increased blood flow causes heat."
+      },
+      {
+        "question_number": 11,
+        "question_text": "Which of the following is not important in the antiviral innate immune response?",
+        "options": [
+          "interferons",
+          "natural killer cells",
+          "complement",
+          "microphages"
+        ],
+        "correct_answer": "microphages",
+        "explanation": "Interferons and natural killer (NK) cells are crucial for the early innate immune response to viral infections. Complement can also be activated by viruses. Microphages is an older term primarily referring to neutrophils and eosinophils, which are more significant in bacterial and parasitic infections, respectively, compared to the initial response to viruses."
+      },
+      {
+        "question_number": 12,
+        "question_text": "Enhanced phagocytosis of a cell by the binding of a specific protein is called ________.",
+        "options": [
+          "endocytosis",
+          "opsonization",
+          "anaphylaxis",
+          "complement activation"
+        ],
+        "correct_answer": "opsonization",
+        "explanation": "Opsonization is the process by which pathogens or foreign particles are coated with opsonins (such as antibodies or complement proteins) that enhance their recognition and phagocytosis by phagocytes like macrophages and neutrophils."
+      },
+      {
+        "question_number": 13,
+        "question_text": "Which of the following leads to the redness of inflammation?",
+        "options": [
+          "increased vascular permeability",
+          "anaphylactic shock",
+          "increased blood flow",
+          "complement activation"
+        ],
+        "correct_answer": "increased blood flow",
+        "explanation": "The redness (rubor) associated with inflammation is caused by vasodilation, which leads to increased blood flow to the injured or infected area."
+      },
+      {
+        "question_number": 14,
+        "question_text": "T cells that secrete cytokines that help antibody responses are called ________.",
+        "options": [
+          "Th1",
+          "Th2",
+          "regulatory T cells",
+          "thymocytes"
+        ],
+        "correct_answer": "Th2",
+        "explanation": "Helper T cells, specifically Th2 cells, secrete cytokines that promote the proliferation, differentiation, and antibody production by B cells, which are crucial for humoral immunity."
+      },
+      {
+        "question_number": 15,
+        "question_text": "The taking in of antigen and digesting it for later presentation is called ________.",
+        "options": [
+          "antigen presentation",
+          "antigen processing",
+          "endocytosis",
+          "exocytosis"
+        ],
+        "correct_answer": "antigen processing",
+        "explanation": "Antigen processing involves the internalization of an antigen (often through endocytosis) and its enzymatic breakdown into smaller fragments (peptides) that can then be displayed on the surface of antigen-presenting cells (APCs) bound to MHC molecules. Antigen presentation is the display of these processed antigens."
+      },
+      {
+        "question_number": 16,
+        "question_text": "Why is clonal expansion so important?",
+        "options": [
+          "to select for specific cells",
+          "to secrete cytokines",
+          "to kill target cells",
+          "to increase the numbers of specific cells"
+        ],
+        "correct_answer": "to increase the numbers of specific cells",
+        "explanation": "Clonal expansion is the rapid proliferation of lymphocytes (B and T cells) that have been activated by binding to their specific antigen. This process is essential to generate a large population of antigen-specific immune cells needed to effectively combat the infection or threat."
+      },
+      {
+        "question_number": 17,
+        "question_text": "The elimination of self-reactive thymocytes is called ________.",
+        "options": [
+          "positive selection.",
+          "negative selection.",
+          "tolerance.",
+          "clonal selection."
+        ],
+        "correct_answer": "negative selection.",
+        "explanation": "Negative selection is a crucial process in the thymus during T cell maturation. It involves the elimination (through apoptosis) of thymocytes that bind too strongly to self-antigens presented on MHC molecules, ensuring self-tolerance and preventing autoimmune reactions."
+      },
+      {
+        "question_number": 18,
+        "question_text": "Which type of T cell is most effective against viruses?",
+        "options": [
+          "Th1",
+          "Th2",
+          "cytotoxic T cells",
+          "regulatory T cells"
+        ],
+        "correct_answer": "cytotoxic T cells",
+        "explanation": "Cytotoxic T cells (Tc cells) are the primary T cells involved in cell-mediated immunity against viruses and other intracellular pathogens. They can recognize and kill infected cells by inducing apoptosis."
+      },
+      {
+        "question_number": 19,
+        "question_text": "Removing functionality from a B cell without killing it is called ________.",
+        "options": [
+          "clonal selection",
+          "clonal expansion",
+          "clonal deletion",
+          "clonal anergy"
+        ],
+        "correct_answer": "clonal anergy",
+        "explanation": "Clonal anergy is a state of functional inactivation induced in lymphocytes (B or T cells) that encounter their specific antigen under certain conditions, such as the absence of necessary costimulatory signals. The cell is not killed but becomes unresponsive to the antigen."
+      },
+      {
+        "question_number": 20,
+        "question_text": "Which class of antibody crosses the placenta in pregnant people?",
+        "options": [
+          "IgM",
+          "IgA",
+          "IgE",
+          "IgG"
+        ],
+        "correct_answer": "IgG",
+        "explanation": "IgG is the only class of antibody that can cross the placenta from the mother to the developing fetus, providing passive immunity to the newborn during the first few months of life."
+      },
+      {
+        "question_number": 21,
+        "question_text": "Which class of antibody has no known function other than as an antigen receptor?",
+        "options": [
+          "IgM",
+          "IgA",
+          "IgE",
+          "IgD"
+        ],
+        "correct_answer": "IgD",
+        "explanation": "IgD is found on the surface of naive B cells and acts as an antigen receptor, playing a role in B cell activation. Its other functions are not well-defined compared to other antibody classes."
+      },
+      {
+        "question_number": 22,
+        "question_text": "When does class switching occur?",
+        "options": [
+          "primary response",
+          "secondary response",
+          "tolerance",
+          "memory response"
+        ],
+        "correct_answer": "primary response",
+        "explanation": "Class switching (isotype switching) is the process by which B cells change the class of antibody they produce (e.g., from IgM to IgG, IgA, or IgE) while retaining the same antigen specificity. This typically occurs during the primary immune response and is influenced by cytokines secreted by helper T cells."
+      },
+      {
+        "question_number": 23,
+        "question_text": "Which class of antibody is found in mucus?",
+        "options": [
+          "IgM",
+          "IgA",
+          "IgE",
+          "IgD"
+        ],
+        "correct_answer": "IgA",
+        "explanation": "IgA is the main class of antibody found in mucosal secretions, such as mucus, saliva, tears, and breast milk. It plays a crucial role in mucosal immunity, protecting the body from pathogens at these entry points."
+      },
+      {
+        "question_number": 24,
+        "question_text": "Which enzymes in macrophages are important for clearing intracellular bacteria?",
+        "options": [
+          "metabolic",
+          "mitochondrial",
+          "nuclear",
+          "lysosomal"
+        ],
+        "correct_answer": "lysosomal",
+        "explanation": "Macrophages engulf and destroy intracellular bacteria within phagolysosomes, which are formed by the fusion of phagosomes (containing the bacteria) with lysosomes. Lysosomes contain various hydrolytic enzymes that are essential for breaking down and clearing the bacteria."
+      },
+      {
+        "question_number": 25,
+        "question_text": "What type of chronic lung disease is caused by a Mycobacterium?",
+        "options": [
+          "asthma",
+          "emphysema",
+          "tuberculosis",
+          "leprosy"
+        ],
+        "correct_answer": "tuberculosis",
+        "explanation": "Tuberculosis (TB) is a chronic infectious disease primarily affecting the lungs, caused by the bacterium Mycobacterium tuberculosis."
+      },
+      {
+        "question_number": 26,
+        "question_text": "Which type of immune response is most directly effective against bacteria?",
+        "options": [
+          "natural killer cells",
+          "complement",
+          "cytotoxic T cells",
+          "helper T cells"
+        ],
+        "correct_answer": "complement",
+        "explanation": "The complement system, particularly through the classical pathway (activated by antibodies bound to bacteria) and the alternative pathway, is very effective against bacteria. It can lead to bacterial lysis, opsonization, and inflammation."
+      },
+      {
+        "question_number": 27,
+        "question_text": "What is the reason that you have to be immunized with a new influenza vaccine each year?",
+        "options": [
+          "the vaccine is only protective for a year",
+          "mutation",
+          "macrophage oxidative metabolism",
+          "memory response"
+        ],
+        "correct_answer": "mutation",
+        "explanation": "Influenza viruses are prone to frequent mutations in their genetic material, leading to changes in their surface proteins (antigenic drift and shift). These changes can result in new strains of the virus that are not effectively recognized by the antibodies produced in response to previous vaccinations or infections, necessitating a new vaccine each year."
+      },
+      {
+        "question_number": 28,
+        "question_text": "Which type of immune response works in concert with cytotoxic T cells against virally infected cells?",
+        "options": [
+          "natural killer cells",
+          "complement",
+          "antibodies",
+          "memory"
+        ],
+        "correct_answer": "natural killer cells",
+        "explanation": "Natural killer (NK) cells are another component of the immune system that can recognize and kill virally infected cells. They work alongside cytotoxic T cells, often using different mechanisms of recognition, to eliminate virus-infected cells."
+      },
+      {
+        "question_number": 29,
+        "question_text": "Which type of hypersensitivity involves soluble antigen-antibody complexes?",
+        "options": [
+          "type I",
+          "type II",
+          "type III",
+          "type IV"
+        ],
+        "correct_answer": "type III",
+        "explanation": "Type III hypersensitivity (immune complex hypersensitivity) is characterized by the formation of soluble antigen-antibody complexes that circulate in the blood and can deposit in various tissues, leading to inflammation and tissue damage."
+      },
+      {
+        "question_number": 30,
+        "question_text": "What causes the delay in delayed hypersensitivity?",
+        "options": [
+          "inflammation",
+          "cytokine release",
+          "recruitment of immune cells",
+          "histamine release"
+        ],
+        "correct_answer": "recruitment of immune cells",
+        "explanation": "Delayed hypersensitivity (Type IV) is a T cell-mediated response. The delay (typically 24-72 hours) occurs because it takes time for the antigen to be processed and presented to T cells, for T cells to become activated and proliferate, and for these cells to migrate to the site of antigen exposure and exert their effects through cytokine release."
+      },
+      {
+        "question_number": 31,
+        "question_text": "Which of the following is a critical feature of immediate hypersensitivity?",
+        "options": [
+          "inflammation",
+          "cytotoxic T cells",
+          "recruitment of immune cells",
+          "histamine release"
+        ],
+        "correct_answer": "histamine release",
+        "explanation": "Immediate hypersensitivity (Type I) is mediated by IgE antibodies bound to mast cells and basophils. Upon subsequent exposure to the allergen, cross-linking of IgE on these cells triggers the rapid release of histamine and other inflammatory mediators, leading to the immediate onset of allergic symptoms."
+      },
+      {
+        "question_number": 32,
+        "question_text": "Which of the following is an autoimmune disease of the heart?",
+        "options": [
+          "rheumatoid arthritis",
+          "lupus",
+          "rheumatic fever",
+          "Hashimoto’s thyroiditis"
+        ],
+        "correct_answer": "rheumatic fever",
+        "explanation": "Rheumatic fever is an inflammatory disease that can develop as a complication of inadequately treated strep throat or scarlet fever caused by Streptococcus bacteria. The immune response can mistakenly attack the body's own tissues, including the heart (rheumatic carditis), joints, brain, and skin."
+      },
+      {
+        "question_number": 33,
+        "question_text": "What drug is used to counteract the effects of anaphylactic shock?",
+        "options": [
+          "epinephrine",
+          "antihistamines",
+          "antibiotics",
+          "aspirin"
+        ],
+        "correct_answer": "epinephrine",
+        "explanation": "Anaphylactic shock is a severe, life-threatening allergic reaction. Epinephrine (adrenaline) is the primary drug used to counteract its effects by causing vasoconstriction, bronchodilation, and reducing vascular permeability."
+      },
+      {
+        "question_number": 34,
+        "question_text": "Which of the following terms means “many genes”?",
+        "options": [
+          "polymorphism",
+          "polygeny",
+          "polypeptide",
+          "multiple alleles"
+        ],
+        "correct_answer": "polygeny",
+        "explanation": "Polygeny refers to a trait or characteristic that is determined by the interaction of multiple genes. Polymorphism refers to the existence of multiple forms of a gene or DNA sequence. Polypeptide is a chain of amino acids. Multiple alleles refers to a gene having more than two possible alleles in a population."
+      },
+      {
+        "question_number": 35,
+        "question_text": "Why do we have natural antibodies?",
+        "options": [
+          "We don’t know why.",
+          "immunity to environmental bacteria",
+          "immunity to transplants",
+          "from clonal selection"
+        ],
+        "correct_answer": "immunity to environmental bacteria",
+        "explanation": "Natural antibodies are antibodies produced by the immune system without prior exposure to a specific antigen. They are thought to arise from exposure to environmental antigens, such as bacteria and viruses, that have structures similar to self-antigens or blood group antigens, providing a baseline level of immunity."
+      },
+      {
+        "question_number": 36,
+        "question_text": "Which type of cancer is associated with HIV disease?",
+        "options": [
+          "Kaposi’s sarcoma",
+          "melanoma",
+          "lymphoma",
+          "renal cell carcinoma"
+        ],
+        "correct_answer": "Kaposi’s sarcoma",
+        "explanation": "Kaposi's sarcoma is a type of cancer that develops from the lining of blood and lymph vessels. It is significantly more common in individuals with weakened immune systems, such as those with HIV/AIDS, and is associated with infection by human herpesvirus 8 (HHV-8)."
+      },
+      {
+        "question_number": 37,
+        "question_text": "How does cyclosporine A work?",
+        "options": [
+          "suppresses antibodies",
+          "suppresses T cells",
+          "suppresses macrophages",
+          "suppresses neutrophils"
+        ],
+        "correct_answer": "suppresses T cells",
+        "explanation": "Cyclosporine A is an immunosuppressant drug commonly used to prevent organ transplant rejection. It works by inhibiting the activation and proliferation of T cells, particularly helper T cells, which play a central role in initiating and coordinating immune responses."
+      },
+      {
+        "question_number": 38,
+        "question_text": "What disease is associated with bone marrow transplants?",
+        "options": [
+          "diabetes mellitus type I",
+          "melanoma",
+          "headache",
+          "graft-versus-host disease"
+        ],
+        "correct_answer": "graft-versus-host disease",
+        "explanation": "Graft-versus-host disease (GVHD) is a condition that can occur after a bone marrow or stem cell transplant when the transplanted immune cells (the graft) recognize the recipient's body (the host) as foreign and attack its tissues and organs."
+      }
+    ]
+  }
+  
+  
+  

@@ -1,0 +1,248 @@
+{
+    "chapter": 13,
+    "review_questions": [
+      {
+        "question_number": 13,
+        "question_text": "Aside from the nervous system, which other organ system develops out of the ectoderm?",
+        "options": [
+          "digestive",
+          "respiratory",
+          "integumentary",
+          "urinary"
+        ],
+        "correct_answer": "integumentary",
+        "explanation": "The ectoderm is one of the three primary germ layers in the early embryo. It gives rise to the nervous system and the epidermis of the integumentary system (skin, hair, nails)."
+      },
+      {
+        "question_number": 14,
+        "question_text": "Which primary vesicle of the embryonic nervous system does not differentiate into more vesicles at the secondary stage?",
+        "options": [
+          "prosencephalon",
+          "mesencephalon",
+          "diencephalon",
+          "rhombencephalon"
+        ],
+        "correct_answer": "mesencephalon",
+        "explanation": "The primary brain vesicles develop into secondary vesicles during further embryonic development. The prosencephalon (forebrain) becomes the telencephalon and diencephalon, and the rhombencephalon (hindbrain) becomes the metencephalon and myelencephalon. The mesencephalon (midbrain) does not further differentiate into secondary vesicles."
+      },
+      {
+        "question_number": 15,
+        "question_text": "Which adult structure(s) arises from the diencephalon?",
+        "options": [
+          "thalamus, hypothalamus, retina",
+          "midbrain, pons, medulla",
+          "pons and cerebellum",
+          "cerebrum"
+        ],
+        "correct_answer": "thalamus, hypothalamus, retina",
+        "explanation": "The diencephalon, a secondary brain vesicle, develops into the thalamus, hypothalamus, and the retina of the eye in the adult brain."
+      },
+      {
+        "question_number": 16,
+        "question_text": "Which non-nervous tissue develops from the neuroectoderm?",
+        "options": [
+          "respiratory mucosa",
+          "vertebral bone",
+          "digestive lining",
+          "craniofacial bone"
+        ],
+        "correct_answer": "craniofacial bone",
+        "explanation": "The neuroectoderm gives rise to the neural tube and neural crest cells. Neural crest cells are a multipotent population that migrates throughout the embryo and differentiates into various cell types, including some craniofacial bones and cartilage."
+      },
+      {
+        "question_number": 17,
+        "question_text": "Which structure is associated with the embryologic development of the peripheral nervous system?",
+        "options": [
+          "neural crest",
+          "neuraxis",
+          "rhombencephalon",
+          "neural tube"
+        ],
+        "correct_answer": "neural crest",
+        "explanation": "The neural crest is a transient embryonic structure that arises from the neuroectoderm and plays a crucial role in the development of many components of the peripheral nervous system (PNS), including sensory ganglia, autonomic ganglia, and Schwann cells."
+      },
+      {
+        "question_number": 18,
+        "question_text": "Which lobe of the cerebral cortex is responsible for generating motor commands?",
+        "options": [
+          "temporal",
+          "parietal",
+          "occipital",
+          "frontal"
+        ],
+        "correct_answer": "frontal",
+        "explanation": "The frontal lobe, located at the anterior part of the cerebral cortex, contains the primary motor cortex, which is responsible for generating motor commands that control voluntary movements."
+      },
+      {
+        "question_number": 19,
+        "question_text": "What region of the diencephalon coordinates homeostasis?",
+        "options": [
+          "thalamus",
+          "epithalamus",
+          "hypothalamus",
+          "subthalamus"
+        ],
+        "correct_answer": "hypothalamus",
+        "explanation": "The hypothalamus is a region of the diencephalon located inferior to the thalamus. It plays a vital role in coordinating homeostasis by regulating various bodily functions such as body temperature, hunger, thirst, and sleep-wake cycles."
+      },
+      {
+        "question_number": 20,
+        "question_text": "What level of the brain stem is the major input to the cerebellum?",
+        "options": [
+          "midbrain",
+          "pons",
+          "medulla",
+          "spinal cord"
+        ],
+        "correct_answer": "pons",
+        "explanation": "The pons, located in the brainstem between the midbrain and the medulla oblongata, serves as a major relay center for communication between the cerebrum and the cerebellum. It transmits information about motor commands from the cerebrum to the cerebellum."
+      },
+      {
+        "question_number": 21,
+        "question_text": "What region of the spinal cord contains motor neurons that direct the movement of skeletal muscles?",
+        "options": [
+          "anterior horn",
+          "posterior horn",
+          "lateral horn",
+          "alar plate"
+        ],
+        "correct_answer": "anterior horn",
+        "explanation": "The anterior horn (also known as the ventral horn) of the spinal cord contains the cell bodies of lower motor neurons that directly innervate skeletal muscles, controlling their movement."
+      },
+      {
+        "question_number": 22,
+        "question_text": "Brodmann’s areas map different regions of the ________ to particular functions.",
+        "options": [
+          "cerebellum",
+          "cerebral cortex",
+          "basal forebrain",
+          "corpus callosum"
+        ],
+        "correct_answer": "cerebral cortex",
+        "explanation": "Brodmann's areas are a cytoarchitectonic map of the cerebral cortex, dividing it into distinct regions based on their cellular structure. These areas have been associated with various brain functions."
+      },
+      {
+        "question_number": 23,
+        "question_text": "What blood vessel enters the cranium to supply the brain with fresh, oxygenated blood?",
+        "options": [
+          "common carotid artery",
+          "jugular vein",
+          "internal carotid artery",
+          "aorta"
+        ],
+        "correct_answer": "internal carotid artery",
+        "explanation": "The internal carotid arteries are major blood vessels that branch off from the common carotid arteries in the neck and enter the cranium to supply the anterior and middle portions of the brain with oxygenated blood."
+      },
+      {
+        "question_number": 24,
+        "question_text": "Which layer of the meninges surrounds and supports the sinuses that form the route through which blood drains from the CNS?",
+        "options": [
+          "dura mater",
+          "arachnoid mater",
+          "subarachnoid",
+          "pia mater"
+        ],
+        "correct_answer": "dura mater",
+        "explanation": "The dura mater is the outermost and toughest layer of the meninges. It has two layers, and the space between these layers contains the dural venous sinuses, which are large blood-filled spaces that drain blood from the brain and spinal cord."
+      },
+      {
+        "question_number": 25,
+        "question_text": "What type of glial cell is responsible for filtering blood to produce CSF at the choroid plexus?",
+        "options": [
+          "ependymal cell",
+          "astrocyte",
+          "oligodendrocyte",
+          "Schwann cell"
+        ],
+        "correct_answer": "ependymal cell",
+        "explanation": "Ependymal cells are specialized glial cells that line the ventricles of the brain and the central canal of the spinal cord. In the choroid plexus, a specialized structure within the ventricles, ependymal cells filter blood plasma to produce cerebrospinal fluid (CSF)."
+      },
+      {
+        "question_number": 26,
+        "question_text": "Which portion of the ventricular system is found within the diencephalon?",
+        "options": [
+          "lateral ventricles",
+          "third ventricle",
+          "cerebral aqueduct",
+          "fourth ventricle"
+        ],
+        "correct_answer": "third ventricle",
+        "explanation": "The third ventricle is a narrow cavity located within the diencephalon, between the left and right thalami. It is part of the interconnected ventricular system of the brain that contains cerebrospinal fluid."
+      },
+      {
+        "question_number": 27,
+        "question_text": "What condition causes a stroke?",
+        "options": [
+          "inflammation of meninges",
+          "lumbar puncture",
+          "infection of cerebral spinal fluid",
+          "disruption of blood to the brain"
+        ],
+        "correct_answer": "disruption of blood to the brain",
+        "explanation": "A stroke occurs when the blood supply to a part of the brain is interrupted or severely reduced, depriving brain tissue of oxygen and nutrients. This can be caused by a blocked artery (ischemic stroke) or a leaking or bursting blood vessel (hemorrhagic stroke)."
+      },
+      {
+        "question_number": 28,
+        "question_text": "What type of ganglion contains neurons that control homeostatic mechanisms of the body?",
+        "options": [
+          "sensory ganglion",
+          "dorsal root ganglion",
+          "autonomic ganglion",
+          "cranial nerve ganglion"
+        ],
+        "correct_answer": "autonomic ganglion",
+        "explanation": "Autonomic ganglia are clusters of nerve cell bodies in the peripheral nervous system that contain the cell bodies of postganglionic neurons in the autonomic pathways. These neurons innervate smooth muscle, cardiac muscle, and glands, controlling many of the body's homeostatic mechanisms."
+      },
+      {
+        "question_number": 29,
+        "question_text": "Which ganglion is responsible for cutaneous sensations of the face?",
+        "options": [
+          "otic ganglion",
+          "vestibular ganglion",
+          "geniculate ganglion",
+          "trigeminal ganglion"
+        ],
+        "correct_answer": "trigeminal ganglion",
+        "explanation": "The trigeminal ganglion (also known as the Gasserian ganglion) is a large sensory ganglion of the trigeminal nerve (cranial nerve V). It contains the cell bodies of sensory neurons that carry information about touch, temperature, pain, and pressure from the face to the brain."
+      },
+      {
+        "question_number": 30,
+        "question_text": "What is the name for a bundle of axons within a nerve?",
+        "options": [
+          "fascicle",
+          "tract",
+          "nerve root",
+          "epineurium"
+        ],
+        "correct_answer": "fascicle",
+        "explanation": "Within a nerve in the peripheral nervous system, axons are bundled together into groups called fascicles. Each fascicle is surrounded by a layer of connective tissue called the perineurium, and the entire nerve is enclosed by the epineurium."
+      },
+      {
+        "question_number": 31,
+        "question_text": "Which cranial nerve does not control functions in the head and neck?",
+        "options": [
+          "olfactory",
+          "trochlear",
+          "glossopharyngeal",
+          "vagus"
+        ],
+        "correct_answer": "vagus",
+        "explanation": "The vagus nerve (cranial nerve X) is unique among the cranial nerves in that it extends beyond the head and neck, innervating organs in the thorax and abdomen, including the heart, lungs, and digestive system. The olfactory (I), trochlear (IV), and glossopharyngeal (IX) nerves primarily control functions within the head and neck."
+      },
+      {
+        "question_number": 32,
+        "question_text": "Which of these structures is not under direct control of the peripheral nervous system?",
+        "options": [
+          "trigeminal ganglion",
+          "gastric plexus",
+          "sympathetic chain ganglia",
+          "cervical plexus"
+        ],
+        "correct_answer": "None of the above",
+        "explanation": "The peripheral nervous system (PNS) includes all neural structures outside the brain and spinal cord (central nervous system). The trigeminal ganglion, gastric plexus, sympathetic chain ganglia, and cervical plexus are all components of the PNS and are therefore under its direct control (as they *are* the PNS)."
+      }
+    ]
+  }
+  
+  
+  

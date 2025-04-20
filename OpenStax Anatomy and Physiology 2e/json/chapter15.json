@@ -1,0 +1,248 @@
+{
+    "chapter": 15,
+    "review_questions": [
+      {
+        "question_number": 7,
+        "question_text": "Which of these physiological changes would not be considered part of the sympathetic fight-or-flight response?",
+        "options": [
+          "increased heart rate",
+          "increased sweating",
+          "dilated pupils",
+          "increased stomach motility"
+        ],
+        "correct_answer": "increased stomach motility",
+        "explanation": "The sympathetic fight-or-flight response typically involves increased heart rate, increased sweating, and dilated pupils to prepare the body for action. Digestive activities, such as stomach motility, are usually decreased or inhibited during this response to conserve energy for more immediate needs."
+      },
+      {
+        "question_number": 8,
+        "question_text": "Which type of fiber could be considered the longest?",
+        "options": [
+          "preganglionic parasympathetic",
+          "preganglionic sympathetic",
+          "postganglionic parasympathetic",
+          "postganglionic sympathetic"
+        ],
+        "correct_answer": "preganglionic parasympathetic",
+        "explanation": "In the parasympathetic nervous system, preganglionic fibers originate in the brainstem or sacral spinal cord and extend to ganglia located near or within the target organs. This results in long preganglionic fibers and short postganglionic fibers. In contrast, the sympathetic system has short preganglionic fibers and long postganglionic fibers."
+      },
+      {
+        "question_number": 9,
+        "question_text": "Which signaling molecule is most likely responsible for an increase in digestive activity?",
+        "options": [
+          "epinephrine",
+          "norepinephrine",
+          "acetylcholine",
+          "adrenaline"
+        ],
+        "correct_answer": "acetylcholine",
+        "explanation": "Acetylcholine (ACh) is the primary neurotransmitter of the parasympathetic nervous system, which is often referred to as the 'rest and digest' system. Parasympathetic activity generally increases digestive functions, including motility and secretion, through the action of acetylcholine."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Which of these cranial nerves contains preganglionic parasympathetic fibers?",
+        "options": [
+          "optic, CN II",
+          "facial, CN VII",
+          "trigeminal, CN V",
+          "hypoglossal, CN XII"
+        ],
+        "correct_answer": "facial, CN VII",
+        "explanation": "Several cranial nerves carry preganglionic parasympathetic fibers, including the oculomotor nerve (CN III), the facial nerve (CN VII), the glossopharyngeal nerve (CN IX), and the vagus nerve (CN X). The facial nerve innervates glands in the head, such as salivary and lacrimal glands."
+      },
+      {
+        "question_number": 11,
+        "question_text": "Which of the following is not a target of a sympathetic preganglionic fiber?",
+        "options": [
+          "intermural ganglion",
+          "collateral ganglion",
+          "adrenal gland",
+          "chain ganglion"
+        ],
+        "correct_answer": "intermural ganglion",
+        "explanation": "Sympathetic preganglionic fibers originate in the thoracic and lumbar spinal cord and typically synapse in either the sympathetic chain ganglia (paravertebral ganglia) or the collateral ganglia (prevertebral ganglia). Some preganglionic fibers also directly innervate the adrenal medulla. Intermural ganglia are usually associated with the parasympathetic nervous system, located near or within the walls of target organs."
+      },
+      {
+        "question_number": 12,
+        "question_text": "Which of the following represents a sensory input that is not part of both the somatic and autonomic systems?",
+        "options": [
+          "vision",
+          "taste",
+          "baroreception",
+          "proprioception"
+        ],
+        "correct_answer": "baroreception",
+        "explanation": "While both the somatic and autonomic nervous systems receive sensory input, baroreception, the detection of blood pressure, is a type of sensory information that primarily drives autonomic reflexes to regulate cardiovascular function. Vision, taste, and proprioception have significant roles in the somatic sensory system leading to conscious perception and motor control, although they can also influence autonomic responses."
+      },
+      {
+        "question_number": 13,
+        "question_text": "What is the term for a reflex that does not include a CNS component?",
+        "options": [
+          "long reflex",
+          "visceral reflex",
+          "somatic reflex",
+          "short reflex"
+        ],
+        "correct_answer": "short reflex",
+        "explanation": "A short reflex is an autonomic reflex that involves a sensory neuron synapsing directly with a postganglionic neuron in an intramural ganglion, bypassing the central nervous system (CNS). Long reflexes involve sensory input to the CNS, integration, and a motor output."
+      },
+      {
+        "question_number": 14,
+        "question_text": "What neurotransmitter will result in constriction of the pupil?",
+        "options": [
+          "norepinephrine",
+          "acetylcholine",
+          "epinephrine",
+          "serotonin"
+        ],
+        "correct_answer": "acetylcholine",
+        "explanation": "Pupil constriction (miosis) is primarily mediated by the parasympathetic nervous system. Acetylcholine (ACh) released by postganglionic parasympathetic fibers binds to muscarinic receptors on the pupillary constrictor muscle of the iris, causing it to contract and the pupil to constrict."
+      },
+      {
+        "question_number": 15,
+        "question_text": "What gland produces a secretion that causes fight-or-flight responses in effectors?",
+        "options": [
+          "adrenal medulla",
+          "salivatory gland",
+          "reproductive gland",
+          "thymus"
+        ],
+        "correct_answer": "adrenal medulla",
+        "explanation": "The adrenal medulla, the inner part of the adrenal gland, is directly innervated by sympathetic preganglionic fibers. Upon stimulation, it releases epinephrine (adrenaline) and norepinephrine into the bloodstream, which act as hormones to produce widespread fight-or-flight responses in various target effectors throughout the body."
+      },
+      {
+        "question_number": 16,
+        "question_text": "Which of the following is an incorrect pairing?",
+        "options": [
+          "norepinephrine dilates the pupil",
+          "epinephrine increases blood pressure",
+          "acetylcholine decreases digestion",
+          "norepinephrine increases heart rate"
+        ],
+        "correct_answer": "acetylcholine decreases digestion",
+        "explanation": "The parasympathetic nervous system, through the release of acetylcholine (ACh), generally increases digestive activities, including salivation, stomach motility, and intestinal secretions. Therefore, the pairing 'acetylcholine decreases digestion' is incorrect."
+      },
+      {
+        "question_number": 17,
+        "question_text": "Which of these locations in the forebrain is the master control center for homeostasis through the autonomic and endocrine systems?",
+        "options": [
+          "hypothalamus",
+          "thalamus",
+          "amygdala",
+          "cerebral cortex"
+        ],
+        "correct_answer": "hypothalamus",
+        "explanation": "The hypothalamus, located in the diencephalon of the forebrain, is the major control center for the autonomic nervous system and plays a crucial role in regulating homeostasis through both autonomic and endocrine mechanisms."
+      },
+      {
+        "question_number": 18,
+        "question_text": "Which nerve projects to the hypothalamus to indicate the level of light stimuli in the retina?",
+        "options": [
+          "glossopharyngeal",
+          "oculomotor",
+          "optic",
+          "vagus"
+        ],
+        "correct_answer": "optic",
+        "explanation": "The optic nerve (cranial nerve II) carries visual information from the retina to the brain. A branch of the optic nerve projects to the suprachiasmatic nucleus (SCN) in the hypothalamus, which is the body's master biological clock and uses information about light levels to regulate circadian rhythms."
+      },
+      {
+        "question_number": 19,
+        "question_text": "What region of the limbic lobe is responsible for generating stress responses via the hypothalamus?",
+        "options": [
+          "hippocampus",
+          "amygdala",
+          "mammillary bodies",
+          "prefrontal cortex"
+        ],
+        "correct_answer": "amygdala",
+        "explanation": "The amygdala, a key component of the limbic system, is involved in processing emotions, particularly fear and stress. It has connections to the hypothalamus and can activate the hypothalamus to initiate stress responses through the autonomic nervous system and the endocrine system (HPA axis)."
+      },
+      {
+        "question_number": 20,
+        "question_text": "What is another name for the preganglionic sympathetic fibers that project to the heart?",
+        "options": [
+          "solitary tract",
+          "vasomotor nerve",
+          "vagus nerve",
+          "cardiac accelerator nerve"
+        ],
+        "correct_answer": "cardiac accelerator nerve",
+        "explanation": "The term 'cardiac accelerator nerve' typically refers to the postganglionic sympathetic fibers that innervate the heart and cause an increase in heart rate and contractility. However, in a broader sense, the sympathetic pathway to the heart, including the preganglionic fibers originating from the thoracic spinal cord, contributes to this effect and might be referred to in this context."
+      },
+      {
+        "question_number": 21,
+        "question_text": "What central fiber tract connects forebrain and brain stem structures with the hypothalamus?",
+        "options": [
+          "cardiac accelerator nerve",
+          "medial forebrain bundle",
+          "dorsal longitudinal fasciculus",
+          "corticospinal tract"
+        ],
+        "correct_answer": "medial forebrain bundle",
+        "explanation": "The medial forebrain bundle (MFB) is a major bidirectional fiber tract that runs through the hypothalamus and connects various structures in the forebrain (e.g., basal forebrain, cerebral cortex) and brainstem (e.g., ventral tegmental area) with the hypothalamus. It plays a crucial role in reward, motivation, and other behaviors and helps integrate autonomic and somatic functions."
+      },
+      {
+        "question_number": 22,
+        "question_text": "A drug that affects both divisions of the autonomic system is going to bind to, or block, which type of neurotransmitter receptor?",
+        "options": [
+          "nicotinic",
+          "muscarinic",
+          "α-adrenergic",
+          "β-adrenergic"
+        ],
+        "correct_answer": "nicotinic",
+        "explanation": "Acetylcholine (ACh) is the neurotransmitter used at the preganglionic synapses in both the sympathetic and parasympathetic nervous systems. Nicotinic receptors are the type of cholinergic receptors found on the postganglionic neurons in all autonomic ganglia. Therefore, a drug that affects both divisions would likely interact with nicotinic receptors."
+      },
+      {
+        "question_number": 23,
+        "question_text": "A drug is called an agonist if it ________.",
+        "options": [
+          "blocks a receptor",
+          "interferes with neurotransmitter reuptake",
+          "acts like the endogenous neurotransmitter by binding to its receptor",
+          "blocks the voltage-gated calcium ion channel"
+        ],
+        "correct_answer": "acts like the endogenous neurotransmitter by binding to its receptor",
+        "explanation": "An agonist is a substance that binds to a receptor and activates it, producing a response similar to that of the endogenous neurotransmitter or hormone that normally binds to the receptor."
+      },
+      {
+        "question_number": 24,
+        "question_text": "Which type of drug would be an antidote to atropine poisoning?",
+        "options": [
+          "nicotinic agonist",
+          "anticholinergic",
+          "muscarinic agonist",
+          "α-blocker"
+        ],
+        "correct_answer": "muscarinic agonist",
+        "explanation": "Atropine is an anticholinergic drug that specifically blocks muscarinic acetylcholine receptors. To counteract its effects, a muscarinic agonist, which would activate these receptors, would be used as an antidote."
+      },
+      {
+        "question_number": 25,
+        "question_text": "Which kind of drug would have anti-anxiety effects?",
+        "options": [
+          "nicotinic agonist",
+          "anticholinergic",
+          "muscarinic agonist",
+          "α-blocker"
+        ],
+        "correct_answer": "α-blocker",
+        "explanation": "While various drugs can have anti-anxiety effects, alpha-adrenergic blockers can sometimes help manage anxiety symptoms associated with sympathetic nervous system overactivity, such as increased heart rate and sweating. However, this is not the primary mechanism for most anti-anxiety medications."
+      },
+      {
+        "question_number": 26,
+        "question_text": "Which type of drug could be used to treat asthma by opening airways wider?",
+        "options": [
+          "sympatholytic drug",
+          "sympathomimetic drug",
+          "anticholinergic drug",
+          "parasympathomimetic drug"
+        ],
+        "correct_answer": "sympathomimetic drug",
+        "explanation": "Asthma involves the constriction of airways. Sympathomimetic drugs, which mimic the effects of the sympathetic nervous system, can activate beta-adrenergic receptors in the lungs, leading to bronchodilation (widening of the airways) and thus helping to relieve asthma symptoms."
+      }
+    ]
+  }
+  
+  
+  

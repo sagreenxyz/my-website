@@ -1,0 +1,176 @@
+{
+    "chapter": 27,
+    "review_questions": [
+      {
+        "question_number": 6,
+        "question_text": "What are male gametes called?",
+        "options": [
+          "ova",
+          "sperm",
+          "testes",
+          "testosterone"
+        ],
+        "correct_answer": "sperm",
+        "explanation": "Male gametes, the reproductive cells that carry genetic information from the male, are called sperm. Ova are female gametes, testes are the male gonads, and testosterone is a male sex hormone."
+      },
+      {
+        "question_number": 7,
+        "question_text": "Leydig cells ________.",
+        "options": [
+          "secrete testosterone",
+          "activate the sperm flagellum",
+          "support spermatogenesis",
+          "secrete seminal fluid"
+        ],
+        "correct_answer": "secrete testosterone",
+        "explanation": "Leydig cells, also known as interstitial cells, are located in the interstitial space surrounding the seminiferous tubules in the testes. Their primary function is to secrete testosterone, the main male sex hormone."
+      },
+      {
+        "question_number": 8,
+        "question_text": "Which hypothalamic hormone contributes to the regulation of the male reproductive system?",
+        "options": [
+          "luteinizing hormone",
+          "gonadotropin-releasing hormone",
+          "follicle-stimulating hormone",
+          "androgens"
+        ],
+        "correct_answer": "gonadotropin-releasing hormone",
+        "explanation": "Gonadotropin-releasing hormone (GnRH) is produced by the hypothalamus and plays a crucial role in regulating the male reproductive system. It stimulates the anterior pituitary gland to release luteinizing hormone (LH) and follicle-stimulating hormone (FSH), which then act on the testes."
+      },
+      {
+        "question_number": 9,
+        "question_text": "What is the function of the epididymis?",
+        "options": [
+          "sperm maturation and storage",
+          "produces the bulk of seminal fluid",
+          "provides nitric oxide needed for erections",
+          "spermatogenesis"
+        ],
+        "correct_answer": "sperm maturation and storage",
+        "explanation": "The epididymis is a long, coiled tube located on the posterior side of the testis. It is the site where sperm complete their maturation process and are stored until ejaculation."
+      },
+      {
+        "question_number": 10,
+        "question_text": "Spermatogenesis takes place in the ________.",
+        "options": [
+          "prostate gland",
+          "glans penis",
+          "seminiferous tubules",
+          "ejaculatory duct"
+        ],
+        "correct_answer": "seminiferous tubules",
+        "explanation": "Spermatogenesis, the process of sperm production, occurs within the walls of the seminiferous tubules, which are located inside the testes."
+      },
+      {
+        "question_number": 11,
+        "question_text": "What are the female gonads called?",
+        "options": [
+          "oocytes",
+          "ova",
+          "oviducts",
+          "ovaries"
+        ],
+        "correct_answer": "ovaries",
+        "explanation": "The female gonads, which produce eggs (ova) and female sex hormones, are called ovaries. Oocytes are immature eggs, and oviducts (fallopian tubes) transport the egg from the ovary to the uterus."
+      },
+      {
+        "question_number": 12,
+        "question_text": "When do the oogonia undergo mitosis?",
+        "options": [
+          "before birth",
+          "at puberty",
+          "at the beginning of each menstrual cycle",
+          "during fertilization"
+        ],
+        "correct_answer": "before birth",
+        "explanation": "Oogonia, the diploid stem cells in the ovaries that give rise to oocytes, undergo mitosis during fetal development before birth. After birth, no new oogonia are produced."
+      },
+      {
+        "question_number": 13,
+        "question_text": "From what structure does the corpus luteum originate?",
+        "options": [
+          "uterine corpus",
+          "dominant follicle",
+          "fallopian tube",
+          "corpus albicans"
+        ],
+        "correct_answer": "dominant follicle",
+        "explanation": "The corpus luteum is a temporary endocrine gland that develops in the ovary after ovulation from the remnants of the ovarian follicle (specifically the granulosa and theca cells) that released the oocyte."
+      },
+      {
+        "question_number": 14,
+        "question_text": "Where does fertilization of the egg by the sperm typically occur?",
+        "options": [
+          "vagina",
+          "uterus",
+          "uterine tube",
+          "ovary"
+        ],
+        "correct_answer": "uterine tube",
+        "explanation": "Fertilization, the fusion of a sperm and an egg, typically occurs in the uterine tube (also known as the fallopian tube or oviduct), usually in the ampulla, which is the widest part of the tube."
+      },
+      {
+        "question_number": 15,
+        "question_text": "Why do estrogen levels fall after menopause?",
+        "options": [
+          "The ovaries degrade.",
+          "There are no follicles left to produce estrogen.",
+          "The pituitary secretes a menopause-specific hormone.",
+          "The cells of the endometrium degenerate."
+        ],
+        "correct_answer": "There are no follicles left to produce estrogen.",
+        "explanation": "Menopause is characterized by the cessation of ovulation and menstruation, primarily due to the depletion of ovarian follicles. Follicles are the structures in the ovaries that produce estrogen, so when they are no longer present, estrogen levels significantly decline."
+      },
+      {
+        "question_number": 16,
+        "question_text": "The vulva includes the ________.",
+        "options": [
+          "lactiferous duct, rugae, and hymen",
+          "lactiferous duct, endometrium, and bulbourethral glands",
+          "mons pubis, endometrium, and hymen",
+          "mons pubis, labia majora, and Bartholin’s glands"
+        ],
+        "correct_answer": "mons pubis, labia majora, and Bartholin’s glands",
+        "explanation": "The vulva, or external female genitalia, includes the mons pubis, labia majora, labia minora, clitoris, and the vestibule containing the openings of the urethra and vagina, as well as glands like Bartholin's glands. Lactiferous ducts are in the mammary glands, rugae are folds in the vagina, the endometrium is the lining of the uterus, and bulbourethral glands are accessory glands in the male reproductive system."
+      },
+      {
+        "question_number": 17,
+        "question_text": "What controls whether an embryo will develop testes or ovaries?",
+        "options": [
+          "pituitary gland",
+          "hypothalamus",
+          "Y chromosome",
+          "presence or absence of estrogen"
+        ],
+        "correct_answer": "Y chromosome",
+        "explanation": "The sex of an embryo is genetically determined by the sex chromosomes inherited from the parents. The presence of a Y chromosome, specifically the SRY gene on the Y chromosome, initiates the development of testes. In the absence of a Y chromosome (typically in XX embryos), ovaries will develop."
+      },
+      {
+        "question_number": 18,
+        "question_text": "Without SRY expression, an embryo will develop ________.",
+        "options": [
+          "male reproductive structures",
+          "female reproductive structures",
+          "no reproductive structures",
+          "male reproductive structures 50 percent of the time and female reproductive structures 50 percent of the time"
+        ],
+        "correct_answer": "female reproductive structures",
+        "explanation": "The SRY (sex-determining region Y) gene, located on the Y chromosome, is the master switch that initiates the development of the testes in a male embryo. In the absence of SRY expression, the gonads will default to developing into ovaries, leading to the development of female reproductive structures."
+      },
+      {
+        "question_number": 19,
+        "question_text": "The timing of puberty can be influenced by which of the following?",
+        "options": [
+          "genes",
+          "stress",
+          "amount of body fat",
+          "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "The timing of puberty, the period of sexual maturation, is a complex process influenced by a combination of genetic factors, environmental factors such as stress, and physiological factors like nutrition and the amount of body fat, which can affect hormone production and signaling."
+      }
+    ]
+  }
+  
+  
+  

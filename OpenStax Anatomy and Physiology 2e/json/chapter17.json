@@ -1,0 +1,392 @@
+{
+    "chapter": 17,
+    "review_questions": [
+      {
+        "question_number": 6,
+        "question_text": "Endocrine glands ________.",
+        "options": [
+          "secrete hormones that travel through a duct to the target organs",
+          "release neurotransmitters into the synaptic cleft",
+          "secrete chemical messengers that travel in the bloodstream",
+          "include sebaceous glands and sweat glands"
+        ],
+        "correct_answer": "secrete chemical messengers that travel in the bloodstream",
+        "explanation": "Endocrine glands are ductless glands that secrete hormones directly into the surrounding tissue fluids, from where they enter the bloodstream and travel to target organs throughout the body."
+      },
+      {
+        "question_number": 7,
+        "question_text": "Chemical signaling that affects neighboring cells is called ________.",
+        "options": [
+          "autocrine",
+          "paracrine",
+          "endocrine",
+          "neuron"
+        ],
+        "correct_answer": "paracrine",
+        "explanation": "Paracrine signaling involves the release of chemical messengers that diffuse through the extracellular fluid and act on nearby target cells without entering the bloodstream or traveling long distances."
+      },
+      {
+        "question_number": 8,
+        "question_text": "A newly developed pesticide has been observed to bind to an intracellular hormone receptor. If ingested, residue from this pesticide could disrupt levels of ________.",
+        "options": [
+          "melatonin",
+          "thyroid hormone",
+          "growth hormone",
+          "insulin"
+        ],
+        "correct_answer": "thyroid hormone",
+        "explanation": "Intracellular hormone receptors typically bind to lipid-soluble hormones that can cross the cell membrane. These include steroid hormones (such as those produced by the gonads and adrenal cortex) and thyroid hormone (T3 and T4)."
+      },
+      {
+        "question_number": 9,
+        "question_text": "A small molecule binds to a G protein, preventing its activation. What direct effect will this have on signaling that involves cAMP?",
+        "options": [
+          "The hormone will not be able to bind to the hormone receptor.",
+          "Adenylyl cyclase will not be activated.",
+          "Excessive quantities of cAMP will be produced.",
+          "The phosphorylation cascade will be initiated."
+        ],
+        "correct_answer": "Adenylyl cyclase will not be activated.",
+        "explanation": "Many hormones exert their effects by binding to cell surface receptors that are coupled to G proteins. Activation of the G protein often leads to the activation of adenylyl cyclase, an enzyme that catalyzes the production of cyclic AMP (cAMP), a second messenger. If the G protein is prevented from activation, adenylyl cyclase will not be stimulated, and cAMP levels will not rise."
+      },
+      {
+        "question_number": 10,
+        "question_text": "A student is in a car accident, and although not hurt, immediately experiences pupil dilation, increased heart rate, and rapid breathing. What type of endocrine system stimulus did the student receive?",
+        "options": [
+          "humoral",
+          "hormonal",
+          "neural",
+          "positive feedback"
+        ],
+        "correct_answer": "neural",
+        "explanation": "The immediate physiological changes experienced in response to stress, such as pupil dilation, increased heart rate, and rapid breathing, are triggered by the sympathetic nervous system. This is an example of neural stimulation of the endocrine system, specifically the adrenal medulla releasing catecholamines."
+      },
+      {
+        "question_number": 11,
+        "question_text": "The hypothalamus is functionally and anatomically connected to the posterior pituitary lobe by a bridge of ________.",
+        "options": [
+          "blood vessels",
+          "nerve axons",
+          "cartilage",
+          "bone"
+        ],
+        "correct_answer": "nerve axons",
+        "explanation": "The hypothalamus and the posterior pituitary gland are connected by the hypothalamic-hypophyseal tract, which is a bundle of nerve axons that originate in the hypothalamus and extend into the posterior pituitary. Hormones produced in the hypothalamus (ADH and oxytocin) are transported down these axons to be stored and released by the posterior pituitary."
+      },
+      {
+        "question_number": 12,
+        "question_text": "Which of the following is an anterior pituitary hormone?",
+        "options": [
+          "ADH",
+          "oxytocin",
+          "TSH",
+          "cortisol"
+        ],
+        "correct_answer": "TSH",
+        "explanation": "Thyroid-stimulating hormone (TSH) is produced and secreted by the anterior pituitary gland. Antidiuretic hormone (ADH) and oxytocin are produced by the hypothalamus and stored in the posterior pituitary. Cortisol is a hormone produced by the adrenal cortex."
+      },
+      {
+        "question_number": 13,
+        "question_text": "How many hormones are produced by the posterior pituitary?",
+        "options": [
+          "0",
+          "1",
+          "2",
+          "6"
+        ],
+        "correct_answer": "0",
+        "explanation": "The posterior pituitary gland does not produce any hormones. It stores and releases two hormones, antidiuretic hormone (ADH) and oxytocin, which are produced by the hypothalamus."
+      },
+      {
+        "question_number": 14,
+        "question_text": "Which of the following hormones contributes to the regulation of the body’s fluid and electrolyte balance?",
+        "options": [
+          "adrenocorticotropic hormone",
+          "antidiuretic hormone",
+          "luteinizing hormone",
+          "all of the above"
+        ],
+        "correct_answer": "antidiuretic hormone",
+        "explanation": "Antidiuretic hormone (ADH), also known as vasopressin, plays a crucial role in regulating the body's fluid and electrolyte balance by controlling water reabsorption in the kidneys."
+      },
+      {
+        "question_number": 15,
+        "question_text": "Which of the following statements about the thyroid gland is true?",
+        "options": [
+          "It is located anterior to the trachea and inferior to the larynx.",
+          "The parathyroid glands are embedded within it.",
+          "It manufactures three hormones.",
+          "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "The thyroid gland is located in the anterior neck, inferior to the larynx and anterior to the trachea. The parathyroid glands are embedded in the posterior surface of the thyroid gland. The thyroid gland produces three main hormones: thyroxine (T4), triiodothyronine (T3), and calcitonin."
+      },
+      {
+        "question_number": 16,
+        "question_text": "The secretion of thyroid hormones is controlled by ________.",
+        "options": [
+          "TSH from the hypothalamus",
+          "TSH from the anterior pituitary",
+          "thyroxine from the anterior pituitary",
+          "thyroglobulin from the thyroid’s parafollicular cells"
+        ],
+        "correct_answer": "TSH from the anterior pituitary",
+        "explanation": "The secretion of thyroid hormones (T3 and T4) by the thyroid gland is primarily controlled by thyroid-stimulating hormone (TSH), which is released from the anterior pituitary gland in response to thyrotropin-releasing hormone (TRH) from the hypothalamus."
+      },
+      {
+        "question_number": 17,
+        "question_text": "The development of a goiter indicates that ________.",
+        "options": [
+          "the anterior pituitary is abnormally enlarged",
+          "there is hypertrophy of the thyroid’s follicle cells",
+          "there is an excessive accumulation of colloid in the thyroid follicles",
+          "the anterior pituitary is secreting excessive growth hormone"
+        ],
+        "correct_answer": "there is hypertrophy of the thyroid’s follicle cells",
+        "explanation": "A goiter is an enlargement of the thyroid gland. It can be caused by various conditions, including iodine deficiency, which leads to decreased production of thyroid hormones. This triggers increased secretion of TSH, resulting in hypertrophy (enlargement) of the thyroid follicle cells as they attempt to produce more hormone."
+      },
+      {
+        "question_number": 18,
+        "question_text": "Iodide ions cross from the bloodstream into follicle cells via ________.",
+        "options": [
+          "simple diffusion",
+          "facilitated diffusion",
+          "active transport",
+          "osmosis"
+        ],
+        "correct_answer": "active transport",
+        "explanation": "The uptake of iodide ions from the bloodstream into the follicle cells of the thyroid gland is an active process that requires energy. Iodide is transported against its concentration gradient via a sodium-iodide symporter on the basal membrane of the follicle cells."
+      },
+      {
+        "question_number": 19,
+        "question_text": "When blood calcium levels are low, PTH stimulates ________.",
+        "options": [
+          "urinary excretion of calcium by the kidneys",
+          "a reduction in calcium absorption from the intestines",
+          "the activity of osteoblasts",
+          "the activity of osteoclasts"
+        ],
+        "correct_answer": "the activity of osteoclasts",
+        "explanation": "Parathyroid hormone (PTH) is released by the parathyroid glands in response to low blood calcium levels. PTH increases blood calcium by stimulating osteoclasts to break down bone and release calcium into the bloodstream."
+      },
+      {
+        "question_number": 20,
+        "question_text": "Which of the following can result from hyperparathyroidism?",
+        "options": [
+          "increased bone deposition",
+          "fractures",
+          "convulsions",
+          "all of the above"
+        ],
+        "correct_answer": "fractures",
+        "explanation": "Hyperparathyroidism involves the excessive secretion of parathyroid hormone (PTH), leading to increased bone resorption and elevated blood calcium levels (hypercalcemia). The increased breakdown of bone can result in weakened bones and an increased risk of fractures."
+      },
+      {
+        "question_number": 21,
+        "question_text": "The adrenal glands are attached superiorly to which organ?",
+        "options": [
+          "thyroid",
+          "liver",
+          "kidneys",
+          "hypothalamus"
+        ],
+        "correct_answer": "kidneys",
+        "explanation": "The adrenal glands, also known as suprarenal glands, are located superiorly to each kidney, nestled within the retroperitoneal space."
+      },
+      {
+        "question_number": 22,
+        "question_text": "What secretory cell type is found in the adrenal medulla?",
+        "options": [
+          "chromaffin cells",
+          "neuroglial cells",
+          "follicle cells",
+          "oxyphil cells"
+        ],
+        "correct_answer": "chromaffin cells",
+        "explanation": "The adrenal medulla contains specialized secretory cells called chromaffin cells. These cells are modified postganglionic sympathetic neurons that release catecholamines, primarily epinephrine (adrenaline) and norepinephrine (noradrenaline), into the bloodstream in response to sympathetic stimulation."
+      },
+      {
+        "question_number": 23,
+        "question_text": "Cushing’s disease is a disorder caused by ________.",
+        "options": [
+          "abnormally low levels of cortisol",
+          "abnormally high levels of cortisol",
+          "abnormally low levels of aldosterone",
+          "abnormally high levels of aldosterone"
+        ],
+        "correct_answer": "abnormally high levels of cortisol",
+        "explanation": "Cushing's disease, or Cushing's syndrome, is a hormonal disorder caused by prolonged exposure of the body's tissues to abnormally high levels of the hormone cortisol."
+      },
+      {
+        "question_number": 24,
+        "question_text": "Which of the following responses is not part of the fight-or-flight response?",
+        "options": [
+          "pupil dilation",
+          "increased oxygen supply to the lungs",
+          "suppressed digestion",
+          "reduced mental activity"
+        ],
+        "correct_answer": "reduced mental activity",
+        "explanation": "The fight-or-flight response, mediated by the sympathetic nervous system and adrenal hormones, prepares the body for intense physical activity. It includes pupil dilation to enhance vision, increased oxygen supply to the lungs through bronchodilation, and suppressed digestion to redirect energy. Mental activity is typically increased, with heightened alertness and focus."
+      },
+      {
+        "question_number": 25,
+        "question_text": "What cells secrete melatonin?",
+        "options": [
+          "melanocytes",
+          "pinealocytes",
+          "suprachiasmatic nucleus cells",
+          "retinal cells"
+        ],
+        "correct_answer": "pinealocytes",
+        "explanation": "Melatonin is a hormone primarily secreted by the pineal gland, which is located in the brain. The main cells of the pineal gland responsible for melatonin synthesis and secretion are called pinealocytes."
+      },
+      {
+        "question_number": 26,
+        "question_text": "The production of melatonin is inhibited by ________.",
+        "options": [
+          "declining levels of light",
+          "exposure to bright light",
+          "the secretion of serotonin",
+          "the activity of pinealocytes"
+        ],
+        "correct_answer": "exposure to bright light",
+        "explanation": "Melatonin production and secretion by the pineal gland are regulated by light exposure. Darkness stimulates melatonin production, whereas exposure to bright light, especially blue light, inhibits its release. This helps regulate the body's sleep-wake cycle (circadian rhythm)."
+      },
+      {
+        "question_number": 27,
+        "question_text": "The gonads produce what class of hormones?",
+        "options": [
+          "amine hormones",
+          "peptide hormones",
+          "steroid hormones",
+          "catecholamines"
+        ],
+        "correct_answer": "steroid hormones",
+        "explanation": "The gonads, which are the testes in males and the ovaries in females, primarily produce steroid hormones. The testes produce androgens, such as testosterone, and the ovaries produce estrogens and progesterone."
+      },
+      {
+        "question_number": 28,
+        "question_text": "The production of FSH by the anterior pituitary is reduced by which hormone?",
+        "options": [
+          "estrogens",
+          "progesterone",
+          "relaxin",
+          "inhibin"
+        ],
+        "correct_answer": "inhibin",
+        "explanation": "Inhibin is a hormone secreted by the gonads (Sertoli cells in the testes and granulosa cells in the ovaries) that inhibits the release of follicle-stimulating hormone (FSH) from the anterior pituitary. This is part of a negative feedback loop regulating reproductive hormone levels."
+      },
+      {
+        "question_number": 29,
+        "question_text": "The function of the placental hormone human placental lactogen (hPL) is to ________.",
+        "options": [
+          "prepare the breasts for lactation",
+          "nourish the placenta",
+          "regulate the menstrual cycle",
+          "all of the above"
+        ],
+        "correct_answer": "prepare the breasts for lactation",
+        "explanation": "Human placental lactogen (hPL) is a hormone produced by the placenta during pregnancy. One of its primary functions is to prepare the mammary glands in the breasts for lactation."
+      },
+      {
+        "question_number": 30,
+        "question_text": "If an autoimmune disorder targets the alpha cells, production of which hormone would be directly affected?",
+        "options": [
+          "somatostatin",
+          "pancreatic polypeptide",
+          "insulin",
+          "glucagon"
+        ],
+        "correct_answer": "glucagon",
+        "explanation": "The pancreas contains clusters of endocrine cells called islets of Langerhans. Alpha cells within these islets are responsible for producing the hormone glucagon, which raises blood glucose levels."
+      },
+      {
+        "question_number": 31,
+        "question_text": "Which of the following statements about insulin is true?",
+        "options": [
+          "Insulin acts as a transport protein, carrying glucose across the cell membrane.",
+          "Insulin facilitates the movement of intracellular glucose transporters to the cell membrane.",
+          "Insulin stimulates the breakdown of stored glycogen into glucose.",
+          "Insulin stimulates the kidneys to reabsorb glucose into the bloodstream."
+        ],
+        "correct_answer": "Insulin facilitates the movement of intracellular glucose transporters to the cell membrane.",
+        "explanation": "Insulin promotes the uptake of glucose from the bloodstream into cells, particularly muscle and fat cells, by facilitating the translocation of intracellular glucose transporters (GLUT4) to the cell membrane."
+      },
+      {
+        "question_number": 32,
+        "question_text": "The walls of the atria produce which hormone?",
+        "options": [
+          "cholecystokinin",
+          "atrial natriuretic peptide",
+          "renin",
+          "calcitriol"
+        ],
+        "correct_answer": "atrial natriuretic peptide",
+        "explanation": "The walls of the atria of the heart contain endocrine cells that produce atrial natriuretic peptide (ANP) in response to increased blood volume or pressure. ANP helps to lower blood pressure by promoting vasodilation and increasing sodium and water excretion by the kidneys."
+      },
+      {
+        "question_number": 33,
+        "question_text": "The end result of the RAAS is to ________.",
+        "options": [
+          "reduce blood volume",
+          "increase blood glucose",
+          "reduce blood pressure",
+          "increase blood pressure"
+        ],
+        "correct_answer": "increase blood pressure",
+        "explanation": "The renin-angiotensin-aldosterone system (RAAS) is a hormonal cascade that ultimately leads to an increase in blood pressure by promoting vasoconstriction (through angiotensin II) and increasing sodium and water retention by the kidneys (through aldosterone)."
+      },
+      {
+        "question_number": 34,
+        "question_text": "Athletes may take synthetic EPO to boost their ________.",
+        "options": [
+          "blood calcium levels",
+          "secretion of growth hormone",
+          "blood oxygen levels",
+          "muscle mass"
+        ],
+        "correct_answer": "blood oxygen levels",
+        "explanation": "Erythropoietin (EPO) is a hormone produced by the kidneys that stimulates the production of red blood cells in the bone marrow. Red blood cells carry oxygen, so athletes may take synthetic EPO to increase their blood oxygen-carrying capacity, potentially enhancing endurance performance."
+      },
+      {
+        "question_number": 35,
+        "question_text": "Hormones produced by the thymus play a role in the ________.",
+        "options": [
+          "development of T cells",
+          "preparation of the body for childbirth",
+          "regulation of appetite",
+          "release of hydrochloric acid in the stomach"
+        ],
+        "correct_answer": "development of T cells",
+        "explanation": "The thymus gland produces hormones, such as thymosin, that are essential for the maturation and differentiation of T lymphocytes (T cells), a type of immune cell that plays a crucial role in cell-mediated immunity."
+      },
+      {
+        "question_number": 36,
+        "question_text": "The anterior pituitary gland develops from which embryonic germ layer?",
+        "options": [
+          "oral ectoderm",
+          "neural ectoderm",
+          "mesoderm",
+          "endoderm"
+        ],
+        "correct_answer": "oral ectoderm",
+        "explanation": "The anterior pituitary gland (adenohypophysis) develops from an upward growth of the oral ectoderm, known as Rathke's pouch, during embryonic development."
+      },
+      {
+        "question_number": 37,
+        "question_text": "In the elderly, decreased thyroid function causes ________.",
+        "options": [
+          "increased tolerance for cold",
+          "decreased basal metabolic rate",
+          "decreased body fat",
+          "osteoporosis"
+        ],
+        "correct_answer": "decreased basal metabolic rate",
+        "explanation": "Decreased thyroid function (hypothyroidism) in the elderly leads to a lower production of thyroid hormones, which are crucial for regulating metabolism. This results in a decreased basal metabolic rate, often leading to fatigue, weight gain, and increased sensitivity to cold."
+      }
+    ]
+  }
+  
+  
+  

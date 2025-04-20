@@ -1,0 +1,404 @@
+{
+    "chapter": 9,
+    "review_questions": [
+      {
+        "question_number": 20,
+        "question_text": "The joint between adjacent vertebrae that includes an invertebral disc is classified as which type of joint?",
+        "options": [
+          "diarthrosis",
+          "multiaxial",
+          "amphiarthrosis",
+          "synarthrosis"
+        ],
+        "correct_answer": "amphiarthrosis",
+        "explanation": "The joint between the bodies of adjacent vertebrae, containing an intervertebral disc, is a cartilaginous joint called a symphysis. Symphyses are classified functionally as amphiarthroses, allowing for slight movement."
+      },
+      {
+        "question_number": 21,
+        "question_text": "Which of these joints is classified as a synarthrosis?",
+        "options": [
+          "the pubic symphysis",
+          "the manubriosternal joint",
+          "an invertebral disc",
+          "the shoulder joint"
+        ],
+        "correct_answer": "the manubriosternal joint",
+        "explanation": "A synarthrosis is an immovable joint. The manubriosternal joint, a cartilaginous joint where the manubrium and body of the sternum meet, can fuse later in life to become a synostosis (a type of synarthrosis), although it is initially a symphysis (amphiarthrosis)."
+      },
+      {
+        "question_number": 22,
+        "question_text": "Which of these joints is classified as a biaxial diarthrosis?",
+        "options": [
+          "the metacarpophalangeal joint",
+          "the hip joint",
+          "the elbow joint",
+          "the pubic symphysis"
+        ],
+        "correct_answer": "the metacarpophalangeal joint",
+        "explanation": "A biaxial diarthrosis is a freely movable joint that allows movement in two planes. The metacarpophalangeal joints (knuckles) are condyloid joints, which are biaxial."
+      },
+      {
+        "question_number": 23,
+        "question_text": "Synovial joints ________.",
+        "options": [
+          "may be functionally classified as a synarthrosis",
+          "are joints where the bones are connected to each other by hyaline cartilage",
+          "may be functionally classified as an amphiarthrosis",
+          "are joints where the bones articulate with each other within a fluid-filled joint cavity"
+        ],
+        "correct_answer": "are joints where the bones articulate with each other within a fluid-filled joint cavity",
+        "explanation": "Synovial joints are characterized by the presence of a joint cavity filled with synovial fluid, where the articulating surfaces of the bones are covered by articular cartilage."
+      },
+      {
+        "question_number": 24,
+        "question_text": "Which type of fibrous joint connects the tibia and fibula?",
+        "options": [
+          "syndesmosis",
+          "symphysis",
+          "suture",
+          "gomphosis"
+        ],
+        "correct_answer": "syndesmosis",
+        "explanation": "A syndesmosis is a type of fibrous joint where two parallel bones are joined by fibrous connective tissue, allowing for slight movement. The joint between the tibia and fibula is an example, connected by the interosseous membrane."
+      },
+      {
+        "question_number": 25,
+        "question_text": "An example of a wide fibrous joint is ________.",
+        "options": [
+          "the interosseous membrane of the forearm",
+          "a gomphosis",
+          "a suture joint",
+          "a synostosis"
+        ],
+        "correct_answer": "the interosseous membrane of the forearm",
+        "explanation": "The interosseous membrane of the forearm, which connects the radius and ulna, is a wide sheet of fibrous connective tissue forming a syndesmosis, a type of fibrous joint."
+      },
+      {
+        "question_number": 26,
+        "question_text": "A gomphosis ________.",
+        "options": [
+          "is formed by an interosseous membrane",
+          "connects the tibia and fibula bones of the leg",
+          "contains a joint cavity",
+          "anchors a tooth to the jaw"
+        ],
+        "correct_answer": "anchors a tooth to the jaw",
+        "explanation": "A gomphosis is a specialized fibrous joint in which a cone-shaped peg (a tooth root) fits into a socket (the alveolus in the jaw bone). It is the joint that anchors a tooth to the jaw."
+      },
+      {
+        "question_number": 27,
+        "question_text": "A syndesmosis is ________.",
+        "options": [
+          "a narrow fibrous joint",
+          "the type of joint that unites bones of the skull",
+          "a fibrous joint that unites parallel bones",
+          "the type of joint that anchors the teeth in the jaws"
+        ],
+        "correct_answer": "a fibrous joint that unites parallel bones",
+        "explanation": "A syndesmosis is a fibrous joint where parallel bones, such as the radius and ulna or the tibia and fibula, are joined by fibrous connective tissue, allowing for slight movement."
+      },
+      {
+        "question_number": 28,
+        "question_text": "A cartilaginous joint ________.",
+        "options": [
+          "has a joint cavity",
+          "is called a symphysis when the bones are united by fibrocartilage",
+          "anchors the teeth to the jaws",
+          "is formed by a wide sheet of fibrous connective tissue"
+        ],
+        "correct_answer": "is called a symphysis when the bones are united by fibrocartilage",
+        "explanation": "A symphysis is a type of cartilaginous joint where the articulating bones are joined by fibrocartilage, such as the pubic symphysis and the intervertebral discs."
+      },
+      {
+        "question_number": 29,
+        "question_text": "A synchondrosis is ________.",
+        "options": [
+          "found at the pubic symphysis",
+          "where bones are connected together with fibrocartilage",
+          "a type of fibrous joint",
+          "found at the first sternocostal joint of the thoracic cage"
+        ],
+        "correct_answer": "found at the first sternocostal joint of the thoracic cage",
+        "explanation": "A synchondrosis is a type of cartilaginous joint where bones are joined by hyaline cartilage. The first sternocostal joint, where the first rib attaches to the manubrium of the sternum, is an example."
+      },
+      {
+        "question_number": 30,
+        "question_text": "Which of the following are joined by a symphysis?",
+        "options": [
+          "adjacent vertebrae",
+          "the first rib and the sternum",
+          "the end and shaft of a long bone",
+          "the radius and ulna bones"
+        ],
+        "correct_answer": "adjacent vertebrae",
+        "explanation": "The bodies of adjacent vertebrae are joined by intervertebral discs, which are made of fibrocartilage, classifying this joint as a symphysis."
+      },
+      {
+        "question_number": 31,
+        "question_text": "The epiphyseal plate of a growing long bone in a child is classified as a ________.",
+        "options": [
+          "synchondrosis",
+          "synostosis",
+          "symphysis",
+          "syndesmosis"
+        ],
+        "correct_answer": "synchondrosis",
+        "explanation": "The epiphyseal plate is a temporary cartilaginous joint where hyaline cartilage connects the epiphysis to the diaphysis of a growing long bone. This type of cartilaginous joint is classified as a synchondrosis."
+      },
+      {
+        "question_number": 32,
+        "question_text": "Which type of joint provides the greatest range of motion?",
+        "options": [
+          "ball-and-socket",
+          "hinge",
+          "condyloid",
+          "plane"
+        ],
+        "correct_answer": "ball-and-socket",
+        "explanation": "Ball-and-socket joints, such as the hip and shoulder joints, provide the greatest range of motion, allowing for movement in multiple planes and axes (multiaxial movements)."
+      },
+      {
+        "question_number": 33,
+        "question_text": "Which type of joint allows for only uniaxial movement?",
+        "options": [
+          "saddle joint",
+          "hinge joint",
+          "condyloid joint",
+          "ball-and-socket joint"
+        ],
+        "correct_answer": "hinge joint",
+        "explanation": "Hinge joints, such as the elbow and knee joints, allow for movement in only one plane, typically flexion and extension (uniaxial movement)."
+      },
+      {
+        "question_number": 34,
+        "question_text": "Which of the following is a type of synovial joint?",
+        "options": [
+          "a synostosis",
+          "a suture",
+          "a plane joint",
+          "a synchondrosis"
+        ],
+        "correct_answer": "a plane joint",
+        "explanation": "Plane joints (also known as gliding joints) are a type of synovial joint that allows for limited gliding or sliding movements between flat or slightly curved articular surfaces."
+      },
+      {
+        "question_number": 35,
+        "question_text": "A bursa ________.",
+        "options": [
+          "surrounds a tendon at the point where the tendon crosses a joint",
+          "secretes the lubricating fluid for a synovial joint",
+          "prevents friction between skin and bone, or a muscle tendon and bone",
+          "is the strong band of connective tissue that holds bones together at a synovial joint"
+        ],
+        "correct_answer": "prevents friction between skin and bone, or a muscle tendon and bone",
+        "explanation": "A bursa is a small, fluid-filled sac lined by synovial membrane. It is located between tendons and bones, or between skin and bone, to reduce friction and allow for smooth movement."
+      },
+      {
+        "question_number": 36,
+        "question_text": "At synovial joints, ________.",
+        "options": [
+          "the articulating ends of the bones are directly connected by fibrous connective tissue",
+          "the ends of the bones are enclosed within a space called a subcutaneous bursa",
+          "intrinsic ligaments are located entirely inside of the articular capsule",
+          "the joint cavity is filled with a thick, lubricating fluid"
+        ],
+        "correct_answer": "the joint cavity is filled with a thick, lubricating fluid",
+        "explanation": "Synovial joints are characterized by a joint cavity located between the articulating bones, which is filled with synovial fluid, a viscous, lubricating fluid secreted by the synovial membrane."
+      },
+      {
+        "question_number": 37,
+        "question_text": "At a synovial joint, the synovial membrane ________.",
+        "options": [
+          "forms the fibrous connective walls of the joint cavity",
+          "is the layer of cartilage that covers the articulating surfaces of the bones",
+          "forms the intracapsular ligaments",
+          "secretes the lubricating synovial fluid"
+        ],
+        "correct_answer": "secretes the lubricating synovial fluid",
+        "explanation": "The synovial membrane is the inner layer of the articular capsule in a synovial joint. Its primary function is to secrete synovial fluid into the joint cavity, which lubricates the joint and provides nutrients to the articular cartilage."
+      },
+      {
+        "question_number": 38,
+        "question_text": "Condyloid joints ________.",
+        "options": [
+          "are a type of ball-and-socket joint",
+          "include the radiocarpal joint",
+          "are a uniaxial diarthrosis joint",
+          "are found at the proximal radioulnar joint"
+        ],
+        "correct_answer": "include the radiocarpal joint",
+        "explanation": "Condyloid joints are a type of synovial joint where an oval-shaped condyle of one bone fits into an elliptical cavity of another bone. The radiocarpal joint (wrist joint) is an example of a condyloid joint."
+      },
+      {
+        "question_number": 39,
+        "question_text": "A meniscus is ________.",
+        "options": [
+          "a fibrocartilage pad that provides padding between bones",
+          "a fluid-filled space that prevents friction between a muscle tendon and underlying bone",
+          "the articular cartilage that covers the ends of a bone at a synovial joint",
+          "the lubricating fluid within a synovial joint"
+        ],
+        "correct_answer": "a fibrocartilage pad that provides padding between bones",
+        "explanation": "A meniscus is a crescent-shaped fibrocartilage pad found in some synovial joints, such as the knee. It helps to cushion the joint, improve the fit between the articulating bones, and provide stability."
+      },
+      {
+        "question_number": 40,
+        "question_text": "The joints between the articular processes of adjacent vertebrae can contribute to which movement?",
+        "options": [
+          "lateral flexion",
+          "circumduction",
+          "dorsiflexion",
+          "abduction"
+        ],
+        "correct_answer": "lateral flexion",
+        "explanation": "The joints between the superior and inferior articular processes of adjacent vertebrae (zygapophyseal joints) allow for movements such as flexion, extension, lateral flexion, and rotation of the vertebral column."
+      },
+      {
+        "question_number": 41,
+        "question_text": "Which motion moves the bottom of the foot away from the midline of the body?",
+        "options": [
+          "elevation",
+          "dorsiflexion",
+          "eversion",
+          "plantar flexion"
+        ],
+        "correct_answer": "eversion",
+        "explanation": "Eversion is the movement of the sole of the foot laterally, away from the midline of the body."
+      },
+      {
+        "question_number": 42,
+        "question_text": "Movement of a body region in a circular movement at a condyloid joint is what type of motion?",
+        "options": [
+          "rotation",
+          "elevation",
+          "abduction",
+          "circumduction"
+        ],
+        "correct_answer": "circumduction",
+        "explanation": "Circumduction is a circular movement of a limb or other body part, such as at a condyloid joint (e.g., the wrist or metacarpophalangeal joint), that involves a sequence of flexion, abduction, extension, and adduction."
+      },
+      {
+        "question_number": 43,
+        "question_text": "Supination is the motion that moves the ________.",
+        "options": [
+          "hand from the palm backward position to the palm forward position",
+          "foot so that the bottom of the foot faces the midline of the body",
+          "hand from the palm forward position to the palm backward position",
+          "scapula in an upward direction"
+        ],
+        "correct_answer": "hand from the palm backward position to the palm forward position",
+        "explanation": "Supination of the forearm is the motion that turns the palm of the hand to face anteriorly (forward) or superiorly (upward)."
+      },
+      {
+        "question_number": 44,
+        "question_text": "Movement at the shoulder joint that moves the upper limb laterally away from the body is called ________.",
+        "options": [
+          "elevation",
+          "eversion",
+          "abduction",
+          "lateral rotation"
+        ],
+        "correct_answer": "abduction",
+        "explanation": "Abduction is the movement of a limb or other body part away from the midline of the body. Movement of the upper limb laterally away from the body at the shoulder joint is abduction."
+      },
+      {
+        "question_number": 45,
+        "question_text": "The primary support for the glenohumeral joint is provided by the ________.",
+        "options": [
+          "coracohumeral ligament",
+          "glenoid labrum",
+          "rotator cuff muscles",
+          "subacromial bursa"
+        ],
+        "correct_answer": "rotator cuff muscles",
+        "explanation": "The rotator cuff muscles (supraspinatus, infraspinatus, teres minor, and subscapularis) and their tendons provide the primary dynamic support and stability for the glenohumeral (shoulder) joint."
+      },
+      {
+        "question_number": 46,
+        "question_text": "The proximal radioulnar joint ________.",
+        "options": [
+          "is supported by the annular ligament",
+          "contains an articular disc that strongly unites the bones",
+          "is supported by the ulnar collateral ligament",
+          "is a hinge joint that allows for flexion/extension of the forearm"
+        ],
+        "correct_answer": "is supported by the annular ligament",
+        "explanation": "The proximal radioulnar joint is a pivot joint that allows for pronation and supination of the forearm. It is supported by the annular ligament, which encircles the head of the radius and holds it in place against the ulna."
+      },
+      {
+        "question_number": 47,
+        "question_text": "Which statement is true concerning the knee joint?",
+        "options": [
+          "The lateral meniscus is an intrinsic ligament located on the lateral side of the knee joint.",
+          "Hyperextension is resisted by the posterior cruciate ligament.",
+          "The anterior cruciate ligament supports the knee when it is flexed and weight bearing.",
+          "The medial meniscus is attached to the tibial collateral ligament."
+        ],
+        "correct_answer": "The medial meniscus is attached to the tibial collateral ligament.",
+        "explanation": "The medial meniscus is attached to the tibial collateral ligament (medial collateral ligament), providing additional stability to the medial side of the knee joint."
+      },
+      {
+        "question_number": 48,
+        "question_text": "The ankle joint ________.",
+        "options": [
+          "is also called the subtalar joint",
+          "allows for gliding movements that produce inversion/eversion of the foot",
+          "is a uniaxial hinge joint",
+          "is supported by the tibial collateral ligament on the lateral side"
+        ],
+        "correct_answer": "is a uniaxial hinge joint",
+        "explanation": "The ankle joint (talocrural joint) is primarily a uniaxial hinge joint formed by the articulation of the tibia and fibula with the talus. It mainly allows for dorsiflexion and plantar flexion of the foot."
+      },
+      {
+        "question_number": 49,
+        "question_text": "Which region of the vertebral column has the greatest range of motion for axial rotation?",
+        "options": [
+          "sacral",
+          "cervical",
+          "lumbar",
+          "thoracic"
+        ],
+        "correct_answer": "cervical",
+        "explanation": "The cervical region of the vertebral column, particularly the atlantoaxial joint (between C1 and C2), has the greatest range of motion for axial rotation (twisting)."
+      },
+      {
+        "question_number": 50,
+        "question_text": "Intramembranous ossification ________.",
+        "options": [
+          "gives rise to the bones of the limbs",
+          "produces the bones of the top and sides of the skull",
+          "produces the bones of the face and base of the skull",
+          "involves the conversion of a hyaline cartilage model into bone"
+        ],
+        "correct_answer": "produces the bones of the top and sides of the skull",
+        "explanation": "Intramembranous ossification is the process by which bone develops directly from mesenchymal tissue without a cartilage precursor. It is responsible for the formation of the flat bones of the skull (cranial vault), the mandible, and the clavicles."
+      },
+      {
+        "question_number": 51,
+        "question_text": "Synovial joints ________.",
+        "options": [
+          "are derived from fontanelles",
+          "are produced by intramembranous ossification",
+          "develop at an interzone site",
+          "are produced by endochondral ossification"
+        ],
+        "correct_answer": "develop at an interzone site",
+        "explanation": "Synovial joints develop from mesenchyme. At the future joint site, a region called the interzone forms, which will give rise to the articular cartilage, the synovial membrane, and other joint structures."
+      },
+      {
+        "question_number": 52,
+        "question_text": "Endochondral ossification is ________.",
+        "options": [
+          "the process that replaces hyaline cartilage with bone tissue",
+          "the process by which mesenchyme differentiates directly into bone tissue",
+          "completed before birth",
+          "the process that gives rise to the joint interzone and future joint cavity"
+        ],
+        "correct_answer": "the process that replaces hyaline cartilage with bone tissue",
+        "explanation": "Endochondral ossification is the process by which most bones in the body, including long bones, are formed. It involves the development of a hyaline cartilage model that is gradually replaced by bone tissue."
+      }
+    ]
+  }
+  
+  
+  

@@ -1,0 +1,184 @@
+[
+    {
+        "chapter": "27",
+        "question_number": "6",
+        "question": "What are male gametes called?",
+        "options": [
+            "ova",
+            "sperm",
+            "testes",
+            "testosterone"
+        ],
+        "correct_answer": "sperm",
+        "explanation": "Male gametes are called sperm."
+    },
+    {
+        "chapter": "27",
+        "question_number": "7",
+        "question": "Leydig cells ________.",
+        "options": [
+            "secrete testosterone",
+            "activate the sperm flagellum",
+            "support spermatogenesis",
+            "secrete seminal fluid"
+        ],
+        "correct_answer": "secrete testosterone",
+        "explanation": "Leydig cells secrete testosterone, which is essential for the development of male secondary sexual characteristics and spermatogenesis."
+    },
+    {
+        "chapter": "27",
+        "question_number": "8",
+        "question": "Which hypothalamic hormone contributes to the regulation of the male reproductive system?",
+        "options": [
+            "luteinizing hormone",
+            "gonadotropin-releasing hormone",
+            "follicle-stimulating hormone",
+            "androgens"
+        ],
+        "correct_answer": "gonadotropin-releasing hormone",
+        "explanation": "Gonadotropin-releasing hormone (GnRH) is released by the hypothalamus and stimulates the pituitary gland to secrete luteinizing hormone (LH) and follicle-stimulating hormone (FSH), which regulate the male reproductive system."
+    },
+    {
+        "chapter": "27",
+        "question_number": "9",
+        "question": "What is the function of the epididymis?",
+        "options": [
+            "sperm maturation and storage",
+            "produces the bulk of seminal fluid",
+            "provides nitric oxide needed for erections",
+            "spermatogenesis"
+        ],
+        "correct_answer": "sperm maturation and storage",
+        "explanation": "The epididymis is responsible for the maturation and storage of sperm."
+    },
+    {
+        "chapter": "27",
+        "question_number": "10",
+        "question": "Spermatogenesis takes place in the ________.",
+        "options": [
+            "prostate gland",
+            "glans penis",
+            "seminiferous tubules",
+            "ejaculatory duct"
+        ],
+        "correct_answer": "seminiferous tubules",
+        "explanation": "Spermatogenesis, the process of sperm production, takes place in the seminiferous tubules of the testes."
+    },
+    {
+        "chapter": "27",
+        "question_number": "11",
+        "question": "What are the female gonads called?",
+        "options": [
+            "oocytes",
+            "ova",
+            "oviducts",
+            "ovaries"
+        ],
+        "correct_answer": "ovaries",
+        "explanation": "The female gonads are called ovaries, which produce eggs (ova) and secrete hormones such as estrogen and progesterone."
+    },
+    {
+        "chapter": "27",
+        "question_number": "12",
+        "question": "When do the oogonia undergo mitosis?",
+        "options": [
+            "before birth",
+            "at puberty",
+            "at the beginning of each menstrual cycle",
+            "during fertilization"
+        ],
+        "correct_answer": "before birth",
+        "explanation": "Oogonia undergo mitosis before birth to produce primary oocytes, which then enter meiosis and are arrested in prophase I until puberty."
+    },
+    {
+        "chapter": "27",
+        "question_number": "13",
+        "question": "From what structure does the corpus luteum originate?",
+        "options": [
+            "uterine corpus",
+            "dominant follicle",
+            "fallopian tube",
+            "corpus albicans"
+        ],
+        "correct_answer": "dominant follicle",
+        "explanation": "The corpus luteum originates from the dominant follicle after ovulation and secretes progesterone to maintain the uterine lining for potential pregnancy."
+    },
+    {
+        "chapter": "27",
+        "question_number": "14",
+        "question": "Where does fertilization of the egg by the sperm typically occur?",
+        "options": [
+            "vagina",
+            "uterus",
+            "uterine tube",
+            "ovary"
+        ],
+        "correct_answer": "uterine tube",
+        "explanation": "Fertilization of the egg by the sperm typically occurs in the uterine tube (fallopian tube)."
+    },
+    {
+        "chapter": "27",
+        "question_number": "15",
+        "question": "Why do estrogen levels fall after menopause?",
+        "options": [
+            "The ovaries degrade.",
+            "There are no follicles left to produce estrogen.",
+            "The pituitary secretes a menopause-specific hormone.",
+            "The cells of the endometrium degenerate."
+        ],
+        "correct_answer": "There are no follicles left to produce estrogen.",
+        "explanation": "After menopause, there are no follicles left in the ovaries to produce estrogen, leading to a decline in estrogen levels."
+    },
+    {
+        "chapter": "27",
+        "question_number": "16",
+        "question": "The vulva includes the ________.",
+        "options": [
+            "lactiferous duct, rugae, and hymen",
+            "lactiferous duct, endometrium, and bulbourethral glands",
+            "mons pubis, endometrium, and hymen",
+            "mons pubis, labia majora, and Bartholin\u2019s glands"
+        ],
+        "correct_answer": "mons pubis, labia majora, and Bartholin\u2019s glands",
+        "explanation": "The vulva includes the mons pubis, labia majora, and Bartholin's glands."
+    },
+    {
+        "chapter": "27",
+        "question_number": "17",
+        "question": "What controls whether an embryo will develop testes or ovaries?",
+        "options": [
+            "pituitary gland",
+            "hypothalamus",
+            "Y chromosome",
+            "presence or absence of estrogen"
+        ],
+        "correct_answer": "Y chromosome",
+        "explanation": "The presence of the Y chromosome, specifically the SRY gene, controls whether an embryo will develop testes or ovaries."
+    },
+    {
+        "chapter": "27",
+        "question_number": "18",
+        "question": "Without SRY expression, an embryo will develop ________.",
+        "options": [
+            "male reproductive structures",
+            "female reproductive structures",
+            "no reproductive structures",
+            "male reproductive structures 50 percent of the time and female reproductive structures 50 percent of the time"
+        ],
+        "correct_answer": "female reproductive structures",
+        "explanation": "Without SRY expression, an embryo will develop female reproductive structures by default."
+    },
+    {
+        "chapter": "27",
+        "question_number": "19",
+        "question": "The timing of puberty can be influenced by which of the following?",
+        "options": [
+            "genes",
+            "stress",
+            "amount of body fat",
+            "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "The timing of puberty can be influenced by genes, stress, and the amount of body fat."
+    }
+]

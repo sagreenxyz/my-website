@@ -1,0 +1,3 @@
+# Summary: Chapter 2 Introduction - The Chemical Level of Organization
+
+This introductory section introduces Chapter 2, which delves into the chemical foundation necessary for understanding human anatomy and physiology. It explains that the body is composed of chemicals and that all physiological processes are based on chemical reactions. The chapter will cover fundamental concepts including atomic structure, chemical bonding, the properties of water, acids and bases, and the major classes of organic molecules (carbohydrates, lipids, proteins, nucleic acids) that make up living matter. This knowledge forms the basis for understanding higher levels of organization like cells and tissues.

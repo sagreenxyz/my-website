@@ -1,0 +1,356 @@
+{
+    "chapter": 2,
+    "review_questions": [
+      {
+        "question_number": 4,
+        "question_text": "Together, just four elements make up more than 95 percent of the body’s mass. These include ________.",
+        "options": [
+          "calcium, magnesium, iron, and carbon",
+          "oxygen, calcium, iron, and nitrogen",
+          "sodium, chlorine, carbon, and hydrogen",
+          "oxygen, carbon, hydrogen, and nitrogen"
+        ],
+        "correct_answer": "oxygen, carbon, hydrogen, and nitrogen",
+        "explanation": "The four elements that make up the majority of the body's mass are oxygen, carbon, hydrogen, and nitrogen. They are essential components of water and the major organic molecules."
+      },
+      {
+        "question_number": 5,
+        "question_text": "The smallest unit of an element that still retains the distinctive behavior of that element is an ________.",
+        "options": [
+          "electron",
+          "atom",
+          "elemental particle",
+          "isotope"
+        ],
+        "correct_answer": "atom",
+        "explanation": "An atom is the smallest unit of an element that retains the chemical properties of that element. Electrons are subatomic particles, elemental particle is a broad term, and isotopes are variants of an element."
+      },
+      {
+        "question_number": 6,
+        "question_text": "The characteristic that gives an element its distinctive properties is its number of ________.",
+        "options": [
+          "protons",
+          "neutrons",
+          "electrons",
+          "atoms"
+        ],
+        "correct_answer": "protons",
+        "explanation": "The number of protons in the nucleus of an atom determines the element's atomic number and its unique chemical properties."
+      },
+      {
+        "question_number": 7,
+        "question_text": "On the periodic table of the elements, mercury (Hg) has an atomic number of 80 and a mass number of 200.59. It has seven stable isotopes. The most abundant of these probably have ________.",
+        "options": [
+          "about 80 neutrons each",
+          "fewer than 80 neutrons each",
+          "more than 80 neutrons each",
+          "more electrons than neutrons"
+        ],
+        "correct_answer": "more than 80 neutrons each",
+        "explanation": "The number of neutrons can be estimated by subtracting the atomic number (number of protons) from the mass number. In this case, approximately 200.59 - 80 = 120.59 neutrons. Therefore, the most abundant isotopes likely have more than 80 neutrons."
+      },
+      {
+        "question_number": 8,
+        "question_text": "Nitrogen has an atomic number of seven. How many electron shells does it likely have?",
+        "options": [
+          "one",
+          "two",
+          "three",
+          "four"
+        ],
+        "correct_answer": "two",
+        "explanation": "Nitrogen has 7 electrons. The first electron shell can hold up to 2 electrons, and the second shell can hold up to 8. Nitrogen will have 2 electrons in the first shell and 5 in the second, resulting in two electron shells."
+      },
+      {
+        "question_number": 9,
+        "question_text": "Which of the following is a molecule, but not a compound?",
+        "options": [
+          "H2O",
+          "2H",
+          "H2",
+          "H+"
+        ],
+        "correct_answer": "H2",
+        "explanation": "A molecule is formed when two or more atoms are chemically bonded together. A compound is a molecule made of atoms of different elements. H2 is a molecule consisting of two atoms of the same element (hydrogen), so it is a molecule but not a compound. H2O is a compound, 2H represents two separate atoms, and H+ is an ion."
+      },
+      {
+        "question_number": 10,
+        "question_text": "A molecule of ammonia contains one atom of nitrogen and three atoms of hydrogen. These are linked with ________.",
+        "options": [
+          "ionic bonds",
+          "nonpolar covalent bonds",
+          "polar covalent bonds",
+          "hydrogen bonds"
+        ],
+        "correct_answer": "polar covalent bonds",
+        "explanation": "Nitrogen and hydrogen have different electronegativities, meaning they do not share electrons equally. This unequal sharing results in polar covalent bonds, where the electrons are attracted more strongly to the nitrogen atom, creating partial charges on the atoms."
+      },
+      {
+        "question_number": 11,
+        "question_text": "When an atom donates an electron to another atom, it becomes ________.",
+        "options": [
+          "an ion",
+          "an anion",
+          "nonpolar",
+          "all of the above"
+        ],
+        "correct_answer": "an ion",
+        "explanation": "An ion is an atom or molecule that has gained or lost one or more electrons, giving it a net electrical charge. When an atom donates an electron, it loses a negative charge and becomes a positively charged ion (cation). An anion is a negatively charged ion (gains electrons). Nonpolar refers to a molecule with equal sharing of electrons."
+      },
+      {
+        "question_number": 12,
+        "question_text": "A substance formed of crystals of equal numbers of cations and anions held together by ionic bonds is called a(n) ________.",
+        "options": [
+          "noble gas",
+          "salt",
+          "electrolyte",
+          "dipole"
+        ],
+        "correct_answer": "salt",
+        "explanation": "A salt is an ionic compound formed from the reaction between an acid and a base. It consists of positively charged cations and negatively charged anions held together by ionic bonds in a crystal lattice. Electrolytes are substances that conduct electricity when dissolved in water, and many salts are electrolytes. A dipole refers to a molecule with a separation of charge. Noble gases are unreactive elements."
+      },
+      {
+        "question_number": 13,
+        "question_text": "Which of the following statements about chemical bonds is true?",
+        "options": [
+          "Ionic bonds are stronger than Covalent bonds.",
+          "Hydrogen bonds occur between two atoms of hydrogen.",
+          "Bonding readily occurs between nonpolar and polar molecules.",
+          "A molecule of water is unlikely to bond with an ion."
+        ],
+        "correct_answer": "Ionic bonds are stronger than Covalent bonds.",
+        "explanation": "In general, ionic bonds are considered stronger than individual covalent bonds. Hydrogen bonds are weak attractions between a hydrogen atom covalently bonded to an electronegative atom (like O, N, or F) and another electronegative atom. Nonpolar molecules do not readily bond with polar molecules, and water (a polar molecule) readily interacts with ions through ion-dipole interactions."
+      },
+      {
+        "question_number": 14,
+        "question_text": "The energy stored in a foot of snow on a steep roof is ________.",
+        "options": [
+          "potential energy",
+          "kinetic energy",
+          "radiant energy",
+          "activation energy"
+        ],
+        "correct_answer": "potential energy",
+        "explanation": "Potential energy is stored energy due to an object's position or state. The snow on the roof has gravitational potential energy due to its height above the ground."
+      },
+      {
+        "question_number": 15,
+        "question_text": "The bonding of calcium, phosphorus, and other elements produces mineral crystals that are found in bone. This is an example of a(n) ________ reaction.",
+        "options": [
+          "catabolic",
+          "synthesis",
+          "decomposition",
+          "exchange"
+        ],
+        "correct_answer": "synthesis",
+        "explanation": "A synthesis reaction involves the formation of larger molecules from smaller atoms or molecules. The bonding of elements to form mineral crystals is a process of building up larger structures."
+      },
+      {
+        "question_number": 16,
+        "question_text": " AB→A+B\n  is a general notation for a(n) ________ reaction.",
+        "options": [
+          "anabolic",
+          "endergonic",
+          "decomposition",
+          "exchange"
+        ],
+        "correct_answer": "decomposition",
+        "explanation": "The general notation AB → A + B represents a decomposition reaction, where a larger molecule (AB) is broken down into smaller components (A and B). Anabolic reactions build larger molecules, endergonic reactions absorb energy, and exchange reactions involve the swapping of components between molecules."
+      },
+      {
+        "question_number": 17,
+        "question_text": "________ reactions release energy.",
+        "options": [
+          "Catabolic",
+          "Exergonic",
+          "Decomposition",
+          "Catabolic, exergonic, and decomposition"
+        ],
+        "correct_answer": "Catabolic, exergonic, and decomposition",
+        "explanation": "Catabolic reactions involve the breakdown of complex molecules, which typically releases energy. Exergonic reactions are defined as those that release energy. Decomposition reactions, where larger molecules are broken down into smaller ones, are often catabolic and exergonic."
+      },
+      {
+        "question_number": 18,
+        "question_text": "Which of the following combinations of atoms is most likely to result in a chemical reaction?",
+        "options": [
+          "hydrogen and hydrogen",
+          "hydrogen and helium",
+          "helium and helium",
+          "neon and helium"
+        ],
+        "correct_answer": "hydrogen and hydrogen",
+        "explanation": "Hydrogen atoms are reactive and can readily form a covalent bond with each other to produce a stable hydrogen molecule (H2). Helium and neon are noble gases with full outer electron shells, making them very unreactive."
+      },
+      {
+        "question_number": 19,
+        "question_text": "Chewing a bite of bread mixes it with saliva and facilitates its chemical breakdown. This is most likely due to the fact that ________.",
+        "options": [
+          "the inside of the mouth maintains a very high temperature",
+          "chewing stores potential energy",
+          "chewing facilitates synthesis reactions",
+          "saliva contains enzymes"
+        ],
+        "correct_answer": "saliva contains enzymes",
+        "explanation": "Saliva contains enzymes, such as amylase, which are biological catalysts that speed up the chemical breakdown of carbohydrates (like starch in bread) into simpler sugars. Chewing increases the surface area of the food, allowing the enzymes to work more effectively."
+      },
+      {
+        "question_number": 20,
+        "question_text": "CH4 is methane. This compound is ________.",
+        "options": [
+          "inorganic",
+          "organic",
+          "reactive",
+          "a crystal"
+        ],
+        "correct_answer": "organic",
+        "explanation": "Organic compounds are generally defined as those containing carbon and hydrogen bonded together. Methane (CH4) fits this description. Inorganic compounds typically do not contain carbon-hydrogen bonds. While methane can react under certain conditions, it's not considered highly reactive in normal biological contexts. It is also a gas, not a crystal, at room temperature."
+      },
+      {
+        "question_number": 21,
+        "question_text": "Which of the following is most likely to be found evenly distributed in water in a homogeneous solution?",
+        "options": [
+          "sodium ions and chloride ions",
+          "NaCl molecules",
+          "salt crystals",
+          "red blood cells"
+        ],
+        "correct_answer": "sodium ions and chloride ions",
+        "explanation": "When sodium chloride (NaCl) dissolves in water, it dissociates into its constituent ions, sodium ions (Na+) and chloride ions (Cl-). These ions are surrounded by water molecules and become evenly distributed throughout the solution, forming a homogeneous mixture. NaCl molecules primarily exist as dissociated ions in water. Salt crystals are the solid form before dissolving. Red blood cells are large structures that form a suspension in blood, not a solution in water."
+      },
+      {
+        "question_number": 22,
+        "question_text": "Jenny mixes up a batch of pancake batter, then stirs in some chocolate chips. As she is waiting for the first few pancakes to cook, she notices the chocolate chips sinking to the bottom of the clear glass mixing bowl. The chocolate-chip batter is an example of a ________.",
+        "options": [
+          "solvent",
+          "solute",
+          "solution",
+          "suspension"
+        ],
+        "correct_answer": "suspension",
+        "explanation": "A suspension is a heterogeneous mixture in which large particles are dispersed in a liquid but will settle out over time due to gravity. The chocolate chips in the pancake batter are large particles that are not dissolved and will sink, indicating a suspension."
+      },
+      {
+        "question_number": 23,
+        "question_text": "A substance dissociates into K+ and Cl– in solution. The substance is a(n) ________.",
+        "options": [
+          "acid",
+          "base",
+          "salt",
+          "buffer"
+        ],
+        "correct_answer": "salt",
+        "explanation": "A salt is an ionic compound that dissociates in water into cations and anions other than H+ and OH-. Potassium chloride (KCl) dissociates into K+ and Cl- ions and is a salt. Acids release H+ ions, bases release OH- ions or accept H+ ions, and buffers resist changes in pH."
+      },
+      {
+        "question_number": 24,
+        "question_text": "Ty is three years old and as a result of a “stomach bug” has been vomiting for about 24 hours. His blood pH is 7.48. What does this mean?",
+        "options": [
+          "Ty’s blood is slightly acidic.",
+          "Ty’s blood is slightly alkaline.",
+          "Ty’s blood is highly acidic.",
+          "Ty’s blood is within the normal range"
+        ],
+        "correct_answer": "Ty’s blood is slightly alkaline.",
+        "explanation": "The normal pH range for human blood is approximately 7.35 to 7.45. A pH of 7.48 is slightly above this range, indicating that Ty's blood is slightly alkaline (also known as basic). A pH below 7.35 would be acidic."
+      },
+      {
+        "question_number": 25,
+        "question_text": "C6H12O6 is the chemical formula for a ________.",
+        "options": [
+          "polymer of carbohydrate",
+          "pentose monosaccharide",
+          "hexose monosaccharide",
+          "all of the above"
+        ],
+        "correct_answer": "hexose monosaccharide",
+        "explanation": "The chemical formula C6H12O6 represents a monosaccharide (simple sugar) with six carbon atoms. 'Hexose' indicates six carbons, and 'monosaccharide' means it's a single sugar unit. A pentose sugar has five carbons. A polymer of carbohydrate is a long chain of monosaccharides."
+      },
+      {
+        "question_number": 26,
+        "question_text": "What organic compound do brain cells primarily rely on for fuel?",
+        "options": [
+          "glucose",
+          "glycogen",
+          "galactose",
+          "glycerol"
+        ],
+        "correct_answer": "glucose",
+        "explanation": "Brain cells primarily rely on glucose, a simple sugar, for energy. Glucose is readily transported across the blood-brain barrier. Glycogen is a storage form of glucose found mainly in the liver and muscles. Galactose is another monosaccharide that is usually converted to glucose. Glycerol is a component of fats."
+      },
+      {
+        "question_number": 27,
+        "question_text": "Which of the following is a functional group that is part of a building block of proteins?",
+        "options": [
+          "phosphate",
+          "adenine",
+          "amino",
+          "ribose"
+        ],
+        "correct_answer": "amino",
+        "explanation": "Proteins are built from amino acids. Each amino acid contains an amino group (-NH2), a carboxyl group (-COOH), a hydrogen atom, and a unique side chain, all attached to a central carbon atom. Phosphate groups are part of nucleotides and phospholipids, adenine is a nitrogenous base in nucleotides, and ribose is a sugar found in RNA."
+      },
+      {
+        "question_number": 28,
+        "question_text": "A pentose sugar is a part of the monomer used to build which type of macromolecule?",
+        "options": [
+          "polysaccharides",
+          "nucleic acids",
+          "phosphorylated glucose",
+          "glycogen"
+        ],
+        "correct_answer": "nucleic acids",
+        "explanation": "Nucleic acids (DNA and RNA) are built from monomers called nucleotides. Each nucleotide consists of a pentose sugar (deoxyribose in DNA and ribose in RNA), a phosphate group, and a nitrogenous base. Polysaccharides are built from monosaccharides (like glucose, a hexose sugar). Phosphorylated glucose is a glucose molecule with a phosphate group added. Glycogen is a polysaccharide made of glucose units."
+      },
+      {
+        "question_number": 29,
+        "question_text": "A phospholipid ________.",
+        "options": [
+          "has both polar and nonpolar regions",
+          "is made up of a triglyceride bonded to a phosphate group",
+          "is a building block of ATP",
+          "can donate both cations and anions in solution"
+        ],
+        "correct_answer": "has both polar and nonpolar regions",
+        "explanation": "A phospholipid molecule has a hydrophilic (polar) head containing a phosphate group and two hydrophobic (nonpolar) fatty acid tails. This amphipathic nature allows phospholipids to form the lipid bilayer of cell membranes. Triglycerides have three fatty acids, not a phosphate group. Nucleotides are building blocks of ATP. Phospholipids do not primarily function as ion donors."
+      },
+      {
+        "question_number": 30,
+        "question_text": "In DNA, nucleotide bonding forms a compound with a characteristic shape known as a(n) ________.",
+        "options": [
+          "beta chain",
+          "pleated sheet",
+          "alpha helix",
+          "double helix"
+        ],
+        "correct_answer": "double helix",
+        "explanation": "The structure of DNA is a double helix, which resembles a twisted ladder. This shape is formed by the specific bonding patterns between the nitrogenous bases of the nucleotides in the two strands of DNA."
+      },
+      {
+        "question_number": 31,
+        "question_text": "Uracil ________.",
+        "options": [
+          "contains nitrogen",
+          "is a pyrimidine",
+          "is found in RNA",
+          "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "Uracil is one of the five main nitrogenous bases used in the synthesis of nucleic acids. It is a pyrimidine, meaning it has a single-ring structure, and it is found in RNA, where it replaces thymine."
+      },
+      {
+        "question_number": 32,
+        "question_text": "The ability of an enzyme’s active sites to bind only substrates of compatible shape and charge is known as ________.",
+        "options": [
+          "selectivity",
+          "specificity",
+          "subjectivity",
+          "specialty"
+        ],
+        "correct_answer": "specificity",
+        "explanation": "Enzyme specificity refers to the ability of an enzyme to bind to only one or a very limited number of substrates. This is due to the unique three-dimensional shape and chemical properties of the enzyme's active site, which is complementary to the shape and charge of its specific substrate(s)."
+      }
+    ]
+  }
+  
+  
+  

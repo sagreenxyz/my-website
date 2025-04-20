@@ -1,0 +1,3 @@
+# Summary: Chapter 4 Introduction - The Tissue Level of Organization
+
+This introductory section introduces Chapter 4, which explores the tissue level of organization in the human body. It explains that tissues are groups of similar cells working together to perform specific functions. The chapter will delve into the four primary tissue types—epithelial, connective, muscle, and nervous tissue—examining their structures, functions, locations, and how they contribute to the overall organization and function of organs and the body as a whole. The concept of histology, the microscopic study of tissues, is also introduced.

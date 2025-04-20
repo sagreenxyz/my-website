@@ -1,0 +1,327 @@
+[
+    {
+        "chapter": "23",
+        "question_number": "8",
+        "question": "Which of these organs is not considered an accessory digestive structure?",
+        "options": [
+            "mouth",
+            "salivary glands",
+            "pancreas",
+            "liver"
+        ],
+        "correct_answer": "mouth",
+        "explanation": "The mouth is not considered an accessory digestive structure because it is part of the main digestive tract."
+    },
+    {
+        "chapter": "23",
+        "question_number": "9",
+        "question": "Which of the following organs is supported by a layer of adventitia rather than serosa?",
+        "options": [
+            "esophagus",
+            "stomach",
+            "small intestine",
+            "large intestine"
+        ],
+        "correct_answer": "esophagus",
+        "explanation": "The esophagus is supported by a layer of adventitia rather than serosa."
+    },
+    {
+        "chapter": "23",
+        "question_number": "10",
+        "question": "Which of the following membranes covers the stomach?",
+        "options": [
+            "falciform ligament",
+            "mesocolon",
+            "parietal peritoneum",
+            "visceral peritoneum"
+        ],
+        "correct_answer": "visceral peritoneum",
+        "explanation": "The visceral peritoneum covers the stomach."
+    },
+    {
+        "chapter": "23",
+        "question_number": "11",
+        "question": "Which of these processes occurs in the mouth?",
+        "options": [
+            "ingestion",
+            "mechanical digestion",
+            "chemical digestion",
+            "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "Ingestion, mechanical digestion, and chemical digestion all occur in the mouth."
+    },
+    {
+        "chapter": "23",
+        "question_number": "12",
+        "question": "Which of these processes occurs throughout most of the alimentary canal?",
+        "options": [
+            "ingestion",
+            "propulsion",
+            "segmentation",
+            "absorption"
+        ],
+        "correct_answer": "propulsion",
+        "explanation": "Propulsion occurs throughout most of the alimentary canal."
+    },
+    {
+        "chapter": "23",
+        "question_number": "13",
+        "question": "Which of the following stimuli activates sensors in the walls of digestive organs?",
+        "options": [
+            "breakdown products of digestion",
+            "distension",
+            "pH of chyme",
+            "all of the above"
+        ],
+        "correct_answer": "all of the above",
+        "explanation": "Breakdown products of digestion, distension, and pH of chyme all activate sensors in the walls of digestive organs."
+    },
+    {
+        "chapter": "23",
+        "question_number": "14",
+        "question": "Which of these statements about reflexes in the GI tract is false?",
+        "options": [
+            "Short reflexes are provoked by nerves near the GI tract.",
+            "Short reflexes are mediated by the enteric nervous system.",
+            "Food that distends the stomach initiates long reflexes.",
+            "Long reflexes can be provoked by stimuli originating outside the GI tract."
+        ],
+        "correct_answer": "Food that distends the stomach initiates long reflexes.",
+        "explanation": "Food that distends the stomach initiates short reflexes, not long reflexes."
+    },
+    {
+        "chapter": "23",
+        "question_number": "15",
+        "question": "Which of these ingredients in saliva is responsible for activating salivary amylase?",
+        "options": [
+            "mucus",
+            "phosphate ions",
+            "chloride ions",
+            "urea"
+        ],
+        "correct_answer": "chloride ions",
+        "explanation": "Chloride ions in saliva are responsible for activating salivary amylase."
+    },
+    {
+        "chapter": "23",
+        "question_number": "16",
+        "question": "Which of these statements about the pharynx is true?",
+        "options": [
+            "It extends from the nasal and oral cavities superiorly to the esophagus anteriorly.",
+            "The oropharynx is continuous superiorly with the nasopharynx.",
+            "The nasopharynx is involved in digestion.",
+            "The laryngopharynx is composed partially of cartilage."
+        ],
+        "correct_answer": "The oropharynx is continuous superiorly with the nasopharynx.",
+        "explanation": "The oropharynx is continuous superiorly with the nasopharynx."
+    },
+    {
+        "chapter": "23",
+        "question_number": "17",
+        "question": "Which structure is located where the esophagus penetrates the diaphragm?",
+        "options": [
+            "esophageal hiatus",
+            "cardiac orifice",
+            "upper esophageal sphincter",
+            "lower esophageal sphincter"
+        ],
+        "correct_answer": "esophageal hiatus",
+        "explanation": "The esophageal hiatus is the structure located where the esophagus penetrates the diaphragm."
+    },
+    {
+        "chapter": "23",
+        "question_number": "18",
+        "question": "Which phase of deglutition involves contraction of the longitudinal muscle layer of the muscularis?",
+        "options": [
+            "voluntary phase",
+            "buccal phase",
+            "pharyngeal phase",
+            "esophageal phase"
+        ],
+        "correct_answer": "esophageal phase",
+        "explanation": "The esophageal phase of deglutition involves contraction of the longitudinal muscle layer of the muscularis."
+    },
+    {
+        "chapter": "23",
+        "question_number": "19",
+        "question": "Which of these cells secrete hormones?",
+        "options": [
+            "parietal cells",
+            "mucous neck cells",
+            "enteroendocrine cells",
+            "chief cells"
+        ],
+        "correct_answer": "enteroendocrine cells",
+        "explanation": "Enteroendocrine cells secrete hormones."
+    },
+    {
+        "chapter": "23",
+        "question_number": "20",
+        "question": "Where does the majority of chemical digestion in the stomach occur?",
+        "options": [
+            "fundus and body",
+            "cardia and fundus",
+            "body and pylorus",
+            "body"
+        ],
+        "correct_answer": "fundus and body",
+        "explanation": "The majority of chemical digestion in the stomach occurs in the fundus and body."
+    },
+    {
+        "chapter": "23",
+        "question_number": "21",
+        "question": "During gastric emptying, chyme is released into the duodenum through the ________.",
+        "options": [
+            "esophageal hiatus",
+            "pyloric antrum",
+            "pyloric canal",
+            "pyloric sphincter"
+        ],
+        "correct_answer": "pyloric sphincter",
+        "explanation": "During gastric emptying, chyme is released into the duodenum through the pyloric sphincter."
+    },
+    {
+        "chapter": "23",
+        "question_number": "22",
+        "question": "Parietal cells secrete ________.",
+        "options": [
+            "gastrin",
+            "hydrochloric acid",
+            "pepsin",
+            "pepsinogen"
+        ],
+        "correct_answer": "hydrochloric acid",
+        "explanation": "Parietal cells secrete hydrochloric acid."
+    },
+    {
+        "chapter": "23",
+        "question_number": "23",
+        "question": "In which part of the alimentary canal does most digestion occur?",
+        "options": [
+            "stomach",
+            "proximal small intestine",
+            "distal small intestine",
+            "ascending colon"
+        ],
+        "correct_answer": "proximal small intestine",
+        "explanation": "Most digestion occurs in the proximal small intestine."
+    },
+    {
+        "chapter": "23",
+        "question_number": "24",
+        "question": "Which of these is most associated with villi?",
+        "options": [
+            "haustra",
+            "lacteals",
+            "bacterial flora",
+            "intestinal glands"
+        ],
+        "correct_answer": "lacteals",
+        "explanation": "Lacteals are most associated with villi."
+    },
+    {
+        "chapter": "23",
+        "question_number": "25",
+        "question": "What is the role of the small intestine\u2019s MALT?",
+        "options": [
+            "secreting mucus",
+            "buffering acidic chyme",
+            "activating pepsin",
+            "preventing bacteria from entering the bloodstream"
+        ],
+        "correct_answer": "preventing bacteria from entering the bloodstream",
+        "explanation": "The small intestine's MALT prevents bacteria from entering the bloodstream."
+    },
+    {
+        "chapter": "23",
+        "question_number": "26",
+        "question": "Which part of the large intestine attaches to the appendix?",
+        "options": [
+            "cecum",
+            "ascending colon",
+            "transverse colon",
+            "descending colon"
+        ],
+        "correct_answer": "cecum",
+        "explanation": "The cecum is the part of the large intestine that attaches to the appendix."
+    },
+    {
+        "chapter": "23",
+        "question_number": "27",
+        "question": "Which of these statements about bile is true?",
+        "options": [
+            "About 500 mL is secreted daily.",
+            "Its main function is the denaturation of proteins.",
+            "It is synthesized in the gallbladder.",
+            "Bile salts are recycled."
+        ],
+        "correct_answer": "Bile salts are recycled.",
+        "explanation": "Bile salts are recycled."
+    },
+    {
+        "chapter": "23",
+        "question_number": "28",
+        "question": "Pancreatic juice ________.",
+        "options": [
+            "deactivates bile.",
+            "is secreted by pancreatic islet cells.",
+            "buffers chyme.",
+            "is released into the cystic duct."
+        ],
+        "correct_answer": "buffers chyme.",
+        "explanation": "Pancreatic juice buffers chyme."
+    },
+    {
+        "chapter": "23",
+        "question_number": "29",
+        "question": "Where does the chemical digestion of starch begin?",
+        "options": [
+            "mouth",
+            "esophagus",
+            "stomach",
+            "small intestine"
+        ],
+        "correct_answer": "mouth",
+        "explanation": "The chemical digestion of starch begins in the mouth."
+    },
+    {
+        "chapter": "23",
+        "question_number": "30",
+        "question": "Which of these is involved in the chemical digestion of protein?",
+        "options": [
+            "pancreatic amylase",
+            "trypsin",
+            "sucrase",
+            "pancreatic nuclease"
+        ],
+        "correct_answer": "trypsin",
+        "explanation": "Trypsin is involved in the chemical digestion of protein."
+    },
+    {
+        "chapter": "23",
+        "question_number": "31",
+        "question": "Where are most fat-digesting enzymes produced?",
+        "options": [
+            "small intestine",
+            "gallbladder",
+            "liver",
+            "pancreas"
+        ],
+        "correct_answer": "pancreas",
+        "explanation": "Most fat-digesting enzymes are produced in the pancreas."
+    },
+    {
+        "chapter": "23",
+        "question_number": "32",
+        "question": "Which of these nutrients is absorbed mainly in the duodenum?",
+        "options": [
+            "glucose",
+            "iron",
+            "sodium",
+            "water"
+        ],
+        "correct_answer": "iron",
+        "explanation": "Iron is absorbed mainly in the duodenum."
+    }
+]

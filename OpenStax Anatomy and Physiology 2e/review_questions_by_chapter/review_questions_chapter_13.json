@@ -1,0 +1,262 @@
+[
+    {
+        "chapter": "13",
+        "question_number": "13",
+        "question": "Aside from the nervous system, which other organ system develops out of the ectoderm?",
+        "options": [
+            "digestive",
+            "respiratory",
+            "integumentary",
+            "urinary"
+        ],
+        "correct_answer": "integumentary",
+        "explanation": "The integumentary system, including the skin, develops from the ectoderm along with the nervous system."
+    },
+    {
+        "chapter": "13",
+        "question_number": "14",
+        "question": "Which primary vesicle of the embryonic nervous system does not differentiate into more vesicles at the secondary stage?",
+        "options": [
+            "prosencephalon",
+            "mesencephalon",
+            "diencephalon",
+            "rhombencephalon"
+        ],
+        "correct_answer": "mesencephalon",
+        "explanation": "The mesencephalon remains undivided during the secondary stage of embryonic nervous system development."
+    },
+    {
+        "chapter": "13",
+        "question_number": "15",
+        "question": "Which adult structure(s) arises from the diencephalon?",
+        "options": [
+            "thalamus, hypothalamus, retina",
+            "midbrain, pons, medulla",
+            "pons and cerebellum",
+            "cerebrum"
+        ],
+        "correct_answer": "thalamus, hypothalamus, retina",
+        "explanation": "The diencephalon gives rise to the thalamus, hypothalamus, and retina in the adult brain."
+    },
+    {
+        "chapter": "13",
+        "question_number": "16",
+        "question": "Which non-nervous tissue develops from the neuroectoderm?",
+        "options": [
+            "respiratory mucosa",
+            "vertebral bone",
+            "digestive lining",
+            "craniofacial bone"
+        ],
+        "correct_answer": "craniofacial bone",
+        "explanation": "Craniofacial bones develop from the neuroectoderm, which is a specialized part of the ectoderm."
+    },
+    {
+        "chapter": "13",
+        "question_number": "17",
+        "question": "Which structure is associated with the embryologic development of the peripheral nervous system?",
+        "options": [
+            "neural crest",
+            "neuraxis",
+            "rhombencephalon",
+            "neural tube"
+        ],
+        "correct_answer": "neural crest",
+        "explanation": "The neural crest is a group of cells that develop from the embryonic ectoderm and give rise to the peripheral nervous system."
+    },
+    {
+        "chapter": "13",
+        "question_number": "18",
+        "question": "Which lobe of the cerebral cortex is responsible for generating motor commands?",
+        "options": [
+            "temporal",
+            "parietal",
+            "occipital",
+            "frontal"
+        ],
+        "correct_answer": "frontal",
+        "explanation": "The frontal lobe of the cerebral cortex is responsible for generating motor commands."
+    },
+    {
+        "chapter": "13",
+        "question_number": "19",
+        "question": "What region of the diencephalon coordinates homeostasis?",
+        "options": [
+            "thalamus",
+            "epithalamus",
+            "hypothalamus",
+            "subthalamus"
+        ],
+        "correct_answer": "hypothalamus",
+        "explanation": "The hypothalamus is the region of the diencephalon that coordinates homeostasis."
+    },
+    {
+        "chapter": "13",
+        "question_number": "20",
+        "question": "What level of the brain stem is the major input to the cerebellum?",
+        "options": [
+            "midbrain",
+            "pons",
+            "medulla",
+            "spinal cord"
+        ],
+        "correct_answer": "pons",
+        "explanation": "The pons is the level of the brain stem that serves as the major input to the cerebellum."
+    },
+    {
+        "chapter": "13",
+        "question_number": "21",
+        "question": "What region of the spinal cord contains motor neurons that direct the movement of skeletal muscles?",
+        "options": [
+            "anterior horn",
+            "posterior horn",
+            "lateral horn",
+            "alar plate"
+        ],
+        "correct_answer": "anterior horn",
+        "explanation": "The anterior horn of the spinal cord contains motor neurons that direct the movement of skeletal muscles."
+    },
+    {
+        "chapter": "13",
+        "question_number": "22",
+        "question": "Brodmann\u2019s areas map different regions of the ________ to particular functions.",
+        "options": [
+            "cerebellum",
+            "cerebral cortex",
+            "basal forebrain",
+            "corpus callosum"
+        ],
+        "correct_answer": "cerebral cortex",
+        "explanation": "Brodmann's areas map different regions of the cerebral cortex to particular functions."
+    },
+    {
+        "chapter": "13",
+        "question_number": "23",
+        "question": "What blood vessel enters the cranium to supply the brain with fresh, oxygenated blood?",
+        "options": [
+            "common carotid artery",
+            "jugular vein",
+            "internal carotid artery",
+            "aorta"
+        ],
+        "correct_answer": "internal carotid artery",
+        "explanation": "The internal carotid artery enters the cranium to supply the brain with fresh, oxygenated blood."
+    },
+    {
+        "chapter": "13",
+        "question_number": "24",
+        "question": "Which layer of the meninges surrounds and supports the sinuses that form the route through which blood drains from the CNS?",
+        "options": [
+            "dura mater",
+            "arachnoid mater",
+            "subarachnoid",
+            "pia mater"
+        ],
+        "correct_answer": "dura mater",
+        "explanation": "The dura mater surrounds and supports the sinuses that form the route through which blood drains from the CNS."
+    },
+    {
+        "chapter": "13",
+        "question_number": "25",
+        "question": "What type of glial cell is responsible for filtering blood to produce CSF at the choroid plexus?",
+        "options": [
+            "ependymal cell",
+            "astrocyte",
+            "oligodendrocyte",
+            "Schwann cell"
+        ],
+        "correct_answer": "ependymal cell",
+        "explanation": "Ependymal cells are responsible for filtering blood to produce cerebrospinal fluid (CSF) at the choroid plexus."
+    },
+    {
+        "chapter": "13",
+        "question_number": "26",
+        "question": "Which portion of the ventricular system is found within the diencephalon?",
+        "options": [
+            "lateral ventricles",
+            "third ventricle",
+            "cerebral aqueduct",
+            "fourth ventricle"
+        ],
+        "correct_answer": "third ventricle",
+        "explanation": "The third ventricle is the portion of the ventricular system found within the diencephalon."
+    },
+    {
+        "chapter": "13",
+        "question_number": "27",
+        "question": "What condition causes a stroke?",
+        "options": [
+            "inflammation of meninges",
+            "lumbar puncture",
+            "infection of cerebral spinal fluid",
+            "disruption of blood to the brain"
+        ],
+        "correct_answer": "disruption of blood to the brain",
+        "explanation": "A stroke is caused by a disruption of blood flow to the brain."
+    },
+    {
+        "chapter": "13",
+        "question_number": "28",
+        "question": "What type of ganglion contains neurons that control homeostatic mechanisms of the body?",
+        "options": [
+            "sensory ganglion",
+            "dorsal root ganglion",
+            "autonomic ganglion",
+            "cranial nerve ganglion"
+        ],
+        "correct_answer": "autonomic ganglion",
+        "explanation": "Autonomic ganglia contain neurons that control homeostatic mechanisms of the body."
+    },
+    {
+        "chapter": "13",
+        "question_number": "29",
+        "question": "Which ganglion is responsible for cutaneous sensations of the face?",
+        "options": [
+            "otic ganglion",
+            "vestibular ganglion",
+            "geniculate ganglion",
+            "trigeminal ganglion"
+        ],
+        "correct_answer": "trigeminal ganglion",
+        "explanation": "The trigeminal ganglion is responsible for cutaneous sensations of the face."
+    },
+    {
+        "chapter": "13",
+        "question_number": "30",
+        "question": "What is the name for a bundle of axons within a nerve?",
+        "options": [
+            "fascicle",
+            "tract",
+            "nerve root",
+            "epineurium"
+        ],
+        "correct_answer": "fascicle",
+        "explanation": "A fascicle is a bundle of axons within a nerve."
+    },
+    {
+        "chapter": "13",
+        "question_number": "31",
+        "question": "Which cranial nerve does not control functions in the head and neck?",
+        "options": [
+            "olfactory",
+            "trochlear",
+            "glossopharyngeal",
+            "vagus"
+        ],
+        "correct_answer": "vagus",
+        "explanation": "The vagus nerve does not control functions in the head and neck; it extends to the thorax and abdomen."
+    },
+    {
+        "chapter": "13",
+        "question_number": "32",
+        "question": "Which of these structures is not under direct control of the peripheral nervous system?",
+        "options": [
+            "trigeminal ganglion",
+            "gastric plexus",
+            "sympathetic chain ganglia",
+            "cervical plexus"
+        ],
+        "correct_answer": "gastric plexus",
+        "explanation": "The gastric plexus is not under direct control of the peripheral nervous system; it is part of the enteric nervous system."
+    }
+]

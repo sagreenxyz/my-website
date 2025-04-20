@@ -1,0 +1,301 @@
+[
+    {
+        "chapter": "8",
+        "question_number": "10",
+        "question": "Which part of the clavicle articulates with the manubrium?",
+        "options": [
+            "shaft",
+            "sternal end",
+            "acromial end",
+            "coracoid process"
+        ],
+        "correct_answer": "sternal end",
+        "explanation": "The sternal end of the clavicle articulates with the manubrium of the sternum to form the sternoclavicular joint."
+    },
+    {
+        "chapter": "8",
+        "question_number": "11",
+        "question": "A shoulder separation results from injury to the ________.",
+        "options": [
+            "glenohumeral joint",
+            "costoclavicular joint",
+            "acromioclavicular joint",
+            "sternoclavicular joint"
+        ],
+        "correct_answer": "acromioclavicular joint",
+        "explanation": "A shoulder separation occurs when the acromioclavicular joint is injured, often due to trauma or a fall."
+    },
+    {
+        "chapter": "8",
+        "question_number": "12",
+        "question": "Which feature lies between the spine and superior border of the scapula?",
+        "options": [
+            "suprascapular notch",
+            "glenoid cavity",
+            "superior angle",
+            "supraspinous fossa"
+        ],
+        "correct_answer": "supraspinous fossa",
+        "explanation": "The supraspinous fossa is a concave depression located between the spine and the superior border of the scapula."
+    },
+    {
+        "chapter": "8",
+        "question_number": "13",
+        "question": "What structure is an extension of the spine of the scapula?",
+        "options": [
+            "acromion",
+            "coracoid process",
+            "supraglenoid tubercle",
+            "glenoid cavity"
+        ],
+        "correct_answer": "acromion",
+        "explanation": "The acromion is a bony process that extends laterally from the spine of the scapula and forms the highest point of the shoulder."
+    },
+    {
+        "chapter": "8",
+        "question_number": "14",
+        "question": "Name the short, hook-like bony process of the scapula that projects anteriorly.",
+        "options": [
+            "acromial process",
+            "clavicle",
+            "coracoid process",
+            "glenoid fossa"
+        ],
+        "correct_answer": "coracoid process",
+        "explanation": "The coracoid process is a short, hook-like bony projection from the scapula that projects anteriorly."
+    },
+    {
+        "chapter": "8",
+        "question_number": "15",
+        "question": "How many bones are there in the upper limbs combined?",
+        "options": [
+            "20",
+            "30",
+            "40",
+            "60"
+        ],
+        "correct_answer": "60",
+        "explanation": "There are 30 bones in each upper limb, making a total of 60 bones in the upper limbs combined."
+    },
+    {
+        "chapter": "8",
+        "question_number": "16",
+        "question": "Which bony landmark is located on the lateral side of the proximal humerus?",
+        "options": [
+            "greater tubercle",
+            "trochlea",
+            "lateral epicondyle",
+            "lesser tubercle"
+        ],
+        "correct_answer": "greater tubercle",
+        "explanation": "The greater tubercle is a prominent bony landmark located on the lateral side of the proximal humerus."
+    },
+    {
+        "chapter": "8",
+        "question_number": "17",
+        "question": "Which region of the humerus articulates with the radius as part of the elbow joint?",
+        "options": [
+            "trochlea",
+            "styloid process",
+            "capitulum",
+            "olecranon process"
+        ],
+        "correct_answer": "capitulum",
+        "explanation": "The capitulum is a rounded region of the humerus that articulates with the head of the radius as part of the elbow joint."
+    },
+    {
+        "chapter": "8",
+        "question_number": "18",
+        "question": "Which is the lateral-most carpal bone of the proximal row?",
+        "options": [
+            "trapezium",
+            "hamate",
+            "pisiform",
+            "scaphoid"
+        ],
+        "correct_answer": "scaphoid",
+        "explanation": "The scaphoid is the lateral-most carpal bone of the proximal row, located near the base of the thumb."
+    },
+    {
+        "chapter": "8",
+        "question_number": "19",
+        "question": "The radius bone ________.",
+        "options": [
+            "is found on the medial side of the forearm",
+            "has a head that articulates with the radial notch of the ulna",
+            "does not articulate with any of the carpal bones",
+            "has the radial tuberosity located near its distal end"
+        ],
+        "correct_answer": "has a head that articulates with the radial notch of the ulna",
+        "explanation": "The head of the radius articulates with the radial notch of the ulna, allowing for rotational movement of the forearm."
+    },
+    {
+        "chapter": "8",
+        "question_number": "20",
+        "question": "How many bones fuse in adulthood to form the hip bone?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct_answer": "3",
+        "explanation": "The hip bone is formed by the fusion of three bones: the ilium, ischium, and pubis."
+    },
+    {
+        "chapter": "8",
+        "question_number": "21",
+        "question": "Which component forms the superior part of the hip bone?",
+        "options": [
+            "ilium",
+            "pubis",
+            "ischium",
+            "sacrum"
+        ],
+        "correct_answer": "ilium",
+        "explanation": "The ilium is the largest and most superior part of the hip bone."
+    },
+    {
+        "chapter": "8",
+        "question_number": "22",
+        "question": "Which of the following supports body weight when sitting?",
+        "options": [
+            "iliac crest",
+            "ischial tuberosity",
+            "ischiopubic ramus",
+            "pubic body"
+        ],
+        "correct_answer": "ischial tuberosity",
+        "explanation": "The ischial tuberosity is a bony prominence that supports body weight when sitting."
+    },
+    {
+        "chapter": "8",
+        "question_number": "23",
+        "question": "The ischial spine is found between which of the following structures?",
+        "options": [
+            "inferior pubic ramus and ischial ramus",
+            "pectineal line and arcuate line",
+            "lesser sciatic notch and greater sciatic notch",
+            "anterior superior iliac spine and posterior superior iliac spine"
+        ],
+        "correct_answer": "lesser sciatic notch and greater sciatic notch",
+        "explanation": "The ischial spine is a bony projection located between the lesser sciatic notch and the greater sciatic notch."
+    },
+    {
+        "chapter": "8",
+        "question_number": "24",
+        "question": "The pelvis ________.",
+        "options": [
+            "has a subpubic angle that is larger in females",
+            "consists of the two hip bones, but does not include the sacrum or coccyx",
+            "has an obturator foramen, an opening that is defined in part by the sacrospinous and sacrotuberous ligaments",
+            "has a space located inferior to the pelvic brim called the greater pelvis"
+        ],
+        "correct_answer": "has a subpubic angle that is larger in females",
+        "explanation": "The subpubic angle of the pelvis is larger in females to accommodate childbirth."
+    },
+    {
+        "chapter": "8",
+        "question_number": "25",
+        "question": "Which bony landmark of the femur serves as a site for muscle attachments?",
+        "options": [
+            "fovea capitis",
+            "lesser trochanter",
+            "head",
+            "medial condyle"
+        ],
+        "correct_answer": "lesser trochanter",
+        "explanation": "The lesser trochanter is a bony prominence on the femur that serves as a site for muscle attachments."
+    },
+    {
+        "chapter": "8",
+        "question_number": "26",
+        "question": "What structure contributes to the knee joint?",
+        "options": [
+            "lateral malleolus of the fibula",
+            "tibial tuberosity",
+            "medial condyle of the tibia",
+            "lateral epicondyle of the femur"
+        ],
+        "correct_answer": "medial condyle of the tibia",
+        "explanation": "The medial condyle of the tibia is one of the structures that contribute to the knee joint."
+    },
+    {
+        "chapter": "8",
+        "question_number": "27",
+        "question": "Which tarsal bone articulates with the tibia and fibula?",
+        "options": [
+            "calcaneus",
+            "cuboid",
+            "navicular",
+            "talus"
+        ],
+        "correct_answer": "talus",
+        "explanation": "The talus is the tarsal bone that articulates with the tibia and fibula to form the ankle joint."
+    },
+    {
+        "chapter": "8",
+        "question_number": "28",
+        "question": "What is the total number of bones found in the foot and toes?",
+        "options": [
+            "7",
+            "14",
+            "26",
+            "30"
+        ],
+        "correct_answer": "26",
+        "explanation": "There are 26 bones in the foot and toes, including the tarsal, metatarsal, and phalangeal bones."
+    },
+    {
+        "chapter": "8",
+        "question_number": "29",
+        "question": "The tibia ________.",
+        "options": [
+            "has an expanded distal end called the lateral malleolus",
+            "is not a weight-bearing bone",
+            "is firmly anchored to the fibula by an interosseous membrane",
+            "can be palpated (felt) under the skin only at its proximal and distal ends"
+        ],
+        "correct_answer": "is firmly anchored to the fibula by an interosseous membrane",
+        "explanation": "The tibia is firmly anchored to the fibula by an interosseous membrane, providing stability to the lower leg."
+    },
+    {
+        "chapter": "8",
+        "question_number": "30",
+        "question": "Which event takes place during the seventh week of development?",
+        "options": [
+            "appearance of the upper and lower limb buds",
+            "flattening of the distal limb bud into a paddle shape",
+            "the first appearance of hyaline cartilage models of future bones",
+            "the rotation of the limbs"
+        ],
+        "correct_answer": "the rotation of the limbs",
+        "explanation": "During the seventh week of development, the limbs undergo rotation, which positions the limbs correctly for future development."
+    },
+    {
+        "chapter": "8",
+        "question_number": "31",
+        "question": "During endochondral ossification of a long bone, ________.",
+        "options": [
+            "a primary ossification center will develop within the epiphysis",
+            "mesenchyme will differentiate directly into bone tissue",
+            "growth of the epiphyseal plate will produce bone lengthening",
+            "all epiphyseal plates will disappear before birth"
+        ],
+        "correct_answer": "growth of the epiphyseal plate will produce bone lengthening",
+        "explanation": "During endochondral ossification, the growth of the epiphyseal plate produces bone lengthening until the plate eventually fuses."
+    },
+    {
+        "chapter": "8",
+        "question_number": "32",
+        "question": "The clavicle ________.",
+        "options": [
+            "develops via intramembranous ossification",
+            "develops via endochondral ossification",
+            "is the last bone of the body to begin ossification",
+            "is fully ossified at the time of birth"
+        ],
+        "correct_answer": "develops via intramembranous ossification",
+        "explanation": "The clavicle is one of the few bones in the body that develops via intramembranous ossification, rather than endochondral ossification."
+    }
+]

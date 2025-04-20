@@ -1,0 +1,327 @@
+[
+    {
+        "chapter": "16",
+        "question_number": "9",
+        "question": "Which major section of the neurological exam is most likely to reveal damage to the cerebellum?",
+        "options": [
+            "cranial nerve exam",
+            "mental status exam",
+            "sensory exam",
+            "coordination exam"
+        ],
+        "correct_answer": "coordination exam",
+        "explanation": "The coordination exam assesses balance and motor coordination, which are functions of the cerebellum."
+    },
+    {
+        "chapter": "16",
+        "question_number": "10",
+        "question": "What function would most likely be affected by a restriction of a blood vessel in the cerebral cortex?",
+        "options": [
+            "language",
+            "gait",
+            "facial expressions",
+            "knee-jerk reflex"
+        ],
+        "correct_answer": "language",
+        "explanation": "The cerebral cortex is responsible for higher-order functions such as language, which would be affected by restricted blood flow."
+    },
+    {
+        "chapter": "16",
+        "question_number": "11",
+        "question": "Which major section of the neurological exam includes subtests that are sometimes considered a separate set of tests concerned with walking?",
+        "options": [
+            "mental status exam",
+            "cranial nerve exam",
+            "coordination exam",
+            "sensory exam"
+        ],
+        "correct_answer": "coordination exam",
+        "explanation": "The coordination exam includes subtests for walking, which assess motor coordination and balance."
+    },
+    {
+        "chapter": "16",
+        "question_number": "12",
+        "question": "Memory, emotional, language, and sensorimotor deficits together are most likely the result of what kind of damage?",
+        "options": [
+            "stroke",
+            "developmental disorder",
+            "whiplash",
+            "gunshot wound"
+        ],
+        "correct_answer": "stroke",
+        "explanation": "A stroke can cause widespread damage to the brain, leading to deficits in memory, emotion, language, and sensorimotor functions."
+    },
+    {
+        "chapter": "16",
+        "question_number": "13",
+        "question": "Where is language function localized in the majority of people?",
+        "options": [
+            "cerebellum",
+            "right cerebral hemisphere",
+            "hippocampus",
+            "left cerebral hemisphere"
+        ],
+        "correct_answer": "left cerebral hemisphere",
+        "explanation": "In the majority of people, language function is localized in the left cerebral hemisphere."
+    },
+    {
+        "chapter": "16",
+        "question_number": "14",
+        "question": "Which of the following could be elements of cytoarchitecture, as related to Brodmann’s microscopic studies of the cerebral cortex?",
+        "options": [
+            "connections to the cerebellum",
+            "activation by visual stimuli",
+            "number of neurons per square millimeter",
+            "number of gyri or sulci"
+        ],
+        "correct_answer": "number of neurons per square millimeter",
+        "explanation": "Cytoarchitecture refers to the cellular composition of the brain, including the number of neurons per square millimeter."
+    },
+    {
+        "chapter": "16",
+        "question_number": "15",
+        "question": "Which of the following could be a multimodal integrative area?",
+        "options": [
+            "primary visual cortex",
+            "premotor cortex",
+            "hippocampus",
+            "Wernicke’s area"
+        ],
+        "correct_answer": "Wernicke’s area",
+        "explanation": "Wernicke’s area is involved in the integration of auditory and language information, making it a multimodal integrative area."
+    },
+    {
+        "chapter": "16",
+        "question_number": "16",
+        "question": "Which is an example of episodic memory?",
+        "options": [
+            "how to bake a cake",
+            "your last birthday party",
+            "how old you are",
+            "needing to wear an oven mitt to take a cake out of the oven"
+        ],
+        "correct_answer": "your last birthday party",
+        "explanation": "Episodic memory involves the recollection of specific events or experiences, such as your last birthday party."
+    },
+    {
+        "chapter": "16",
+        "question_number": "17",
+        "question": "Which type of aphasia is more like hearing a foreign language spoken?",
+        "options": [
+            "receptive aphasia",
+            "expressive aphasia",
+            "conductive aphasia",
+            "Broca’s aphasia"
+        ],
+        "correct_answer": "receptive aphasia",
+        "explanation": "Receptive aphasia, also known as Wernicke’s aphasia, involves difficulty understanding spoken language, similar to hearing a foreign language."
+    },
+    {
+        "chapter": "16",
+        "question_number": "18",
+        "question": "What region of the cerebral cortex is associated with understanding language, both from another person and the language a person generates himself or herself?",
+        "options": [
+            "medial temporal lobe",
+            "ventromedial prefrontal cortex",
+            "superior temporal gyrus",
+            "postcentral gyrus"
+        ],
+        "correct_answer": "superior temporal gyrus",
+        "explanation": "The superior temporal gyrus, which includes Wernicke’s area, is associated with understanding both spoken and self-generated language."
+    },
+    {
+        "chapter": "16",
+        "question_number": "19",
+        "question": "Without olfactory sensation to complement gustatory stimuli, food will taste bland unless it is seasoned with which substance?",
+        "options": [
+            "salt",
+            "thyme",
+            "garlic",
+            "olive oil"
+        ],
+        "correct_answer": "salt",
+        "explanation": "Salt is a basic taste that can enhance the flavor of food even in the absence of olfactory sensation."
+    },
+    {
+        "chapter": "16",
+        "question_number": "20",
+        "question": "Which of the following cranial nerves is not part of the VOR?",
+        "options": [
+            "optic",
+            "oculomotor",
+            "abducens",
+            "vestibulocochlear"
+        ],
+        "correct_answer": "optic",
+        "explanation": "The vestibulo-ocular reflex (VOR) involves the oculomotor, abducens, and vestibulocochlear nerves, but not the optic nerve."
+    },
+    {
+        "chapter": "16",
+        "question_number": "21",
+        "question": "Which nerve is responsible for controlling the muscles that result in the gag reflex?",
+        "options": [
+            "trigeminal",
+            "facial",
+            "glossopharyngeal",
+            "vagus"
+        ],
+        "correct_answer": "glossopharyngeal",
+        "explanation": "The glossopharyngeal nerve controls the muscles involved in the gag reflex."
+    },
+    {
+        "chapter": "16",
+        "question_number": "22",
+        "question": "Which nerve is responsible for taste, as well as salivation, in the anterior oral cavity?",
+        "options": [
+            "facial",
+            "glossopharyngeal",
+            "vagus",
+            "hypoglossal"
+        ],
+        "correct_answer": "facial",
+        "explanation": "The facial nerve is responsible for taste and salivation in the anterior part of the oral cavity."
+    },
+    {
+        "chapter": "16",
+        "question_number": "23",
+        "question": "Which of the following nerves controls movements of the neck?",
+        "options": [
+            "oculomotor",
+            "vestibulocochlear",
+            "spinal accessory",
+            "hypoglossal"
+        ],
+        "correct_answer": "spinal accessory",
+        "explanation": "The spinal accessory nerve controls the muscles involved in neck movements."
+    },
+    {
+        "chapter": "16",
+        "question_number": "24",
+        "question": "Which of the following is not part of the corticospinal pathway?",
+        "options": [
+            "cerebellar deep white matter",
+            "midbrain",
+            "medulla",
+            "lateral column"
+        ],
+        "correct_answer": "cerebellar deep white matter",
+        "explanation": "The corticospinal pathway does not involve the cerebellar deep white matter."
+    },
+    {
+        "chapter": "16",
+        "question_number": "25",
+        "question": "Which subtest is directed at proprioceptive sensation?",
+        "options": [
+            "two-point discrimination",
+            "tactile movement",
+            "vibration",
+            "Romberg test"
+        ],
+        "correct_answer": "Romberg test",
+        "explanation": "The Romberg test assesses proprioceptive sensation by evaluating balance and stability."
+    },
+    {
+        "chapter": "16",
+        "question_number": "26",
+        "question": "What term describes the inability to lift the arm above the level of the shoulder?",
+        "options": [
+            "paralysis",
+            "paresis",
+            "fasciculation",
+            "fibrillation"
+        ],
+        "correct_answer": "paresis",
+        "explanation": "Paresis refers to partial paralysis or weakness, which can result in the inability to lift the arm above the shoulder."
+    },
+    {
+        "chapter": "16",
+        "question_number": "27",
+        "question": "Which type of reflex is the jaw-jerk reflex that is part of the cranial nerve exam for the vestibulocochlear nerve?",
+        "options": [
+            "visceral reflex",
+            "withdrawal reflex",
+            "stretch reflex",
+            "superficial reflex"
+        ],
+        "correct_answer": "stretch reflex",
+        "explanation": "The jaw-jerk reflex is a type of stretch reflex that is part of the cranial nerve exam."
+    },
+    {
+        "chapter": "16",
+        "question_number": "28",
+        "question": "Which of the following is a feature of both somatic and visceral senses?",
+        "options": [
+            "requires cerebral input",
+            "causes skeletal muscle contraction",
+            "projects to a ganglion near the target effector",
+            "involves an axon in the ventral nerve root"
+        ],
+        "correct_answer": "requires cerebral input",
+        "explanation": "Both somatic and visceral senses require input from the cerebral cortex for processing."
+    },
+    {
+        "chapter": "16",
+        "question_number": "29",
+        "question": "Which white matter structure carries information from the cerebral cortex to the cerebellum?",
+        "options": [
+            "cerebral peduncle",
+            "superior cerebellar peduncle",
+            "middle cerebellar peduncle",
+            "inferior cerebellar peduncle"
+        ],
+        "correct_answer": "middle cerebellar peduncle",
+        "explanation": "The middle cerebellar peduncle carries information from the cerebral cortex to the cerebellum."
+    },
+    {
+        "chapter": "16",
+        "question_number": "30",
+        "question": "Which region of the cerebellum receives proprioceptive input from the spinal cord?",
+        "options": [
+            "vermis",
+            "left hemisphere",
+            "flocculonodular lobe",
+            "right hemisphere"
+        ],
+        "correct_answer": "vermis",
+        "explanation": "The vermis of the cerebellum receives proprioceptive input from the spinal cord."
+    },
+    {
+        "chapter": "16",
+        "question_number": "31",
+        "question": "Which of the following tests cerebellar function related to gait?",
+        "options": [
+            "toe-to-finger",
+            "station",
+            "lah-kah-pah",
+            "finger-to-nose"
+        ],
+        "correct_answer": "station",
+        "explanation": "The station test assesses cerebellar function related to gait and balance."
+    },
+    {
+        "chapter": "16",
+        "question_number": "32",
+        "question": "Which of the following is not a cause of cerebellar ataxia?",
+        "options": [
+            "mercury from fish",
+            "drinking alcohol",
+            "antibiotics",
+            "hereditary degeneration of the cerebellum"
+        ],
+        "correct_answer": "antibiotics",
+        "explanation": "Antibiotics are not a known cause of cerebellar ataxia."
+    },
+    {
+        "chapter": "16",
+        "question_number": "33",
+        "question": "Which of the following functions cannot be attributed to the cerebellum?",
+        "options": [
+            "comparing motor commands and sensory feedback",
+            "associating sensory stimuli with learned behavior",
+            "coordinating complex movements",
+            "processing visual information"
+        ],
+        "correct_answer": "processing visual information",
+        "explanation": "The cerebellum is not primarily responsible for processing visual information."
+    }
+]

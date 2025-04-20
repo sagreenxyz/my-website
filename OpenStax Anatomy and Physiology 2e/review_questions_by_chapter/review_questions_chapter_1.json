@@ -1,0 +1,288 @@
+[
+    {
+        "chapter": "1",
+        "question_number": "6",
+        "question": "Which of the following specialties might focus on studying all of the structures of the ankle and foot?",
+        "options": [
+            "microscopic anatomy",
+            "muscle anatomy",
+            "regional anatomy",
+            "systemic anatomy"
+        ],
+        "correct_answer": "regional anatomy",
+        "explanation": "Regional anatomy focuses on the study of all structures in a specific area of the body, such as the ankle and foot."
+    },
+    {
+        "chapter": "1",
+        "question_number": "7",
+        "question": "A scientist wants to study how the body uses foods and fluids during a marathon run. This scientist is most likely a(n) ________.",
+        "options": [
+            "exercise physiologist",
+            "microscopic anatomist",
+            "regional physiologist",
+            "systemic anatomist"
+        ],
+        "correct_answer": "exercise physiologist",
+        "explanation": "Exercise physiology studies how the body responds to physical activity, including the use of foods and fluids during exercise."
+    },
+    {
+        "chapter": "1",
+        "question_number": "8",
+        "question": "The smallest independently functioning biological unit of an organism is a(n) ________.",
+        "options": [
+            "cell",
+            "molecule",
+            "organ",
+            "tissue"
+        ],
+        "correct_answer": "cell",
+        "explanation": "The cell is the basic unit of life and the smallest structure capable of performing all the functions necessary for life."
+    },
+    {
+        "chapter": "1",
+        "question_number": "9",
+        "question": "A collection of similar tissues that performs a specific function is an ________.",
+        "options": [
+            "organ",
+            "organelle",
+            "organism",
+            "organ system"
+        ],
+        "correct_answer": "organ",
+        "explanation": "An organ is made up of multiple tissue types that work together to perform a specific function."
+    },
+    {
+        "chapter": "1",
+        "question_number": "10",
+        "question": "The body system responsible for structural support and movement is the ________.",
+        "options": [
+            "cardiovascular system",
+            "endocrine system",
+            "muscular system",
+            "skeletal system"
+        ],
+        "correct_answer": "skeletal system",
+        "explanation": "The skeletal system provides structural support and works with the muscular system to enable movement."
+    },
+    {
+        "chapter": "1",
+        "question_number": "11",
+        "question": "Metabolism can be defined as the ________.",
+        "options": [
+            "adjustment by an organism to external or internal changes",
+            "process whereby all unspecialized cells become specialized to perform distinct functions",
+            "process whereby new cells are formed to replace worn-out cells",
+            "sum of all chemical reactions in an organism"
+        ],
+        "correct_answer": "sum of all chemical reactions in an organism",
+        "explanation": "Metabolism refers to the sum of all chemical reactions that occur within an organism to maintain life."
+    },
+    {
+        "chapter": "1",
+        "question_number": "12",
+        "question": "Adenosine triphosphate (ATP) is an important molecule because it ________.",
+        "options": [
+            "is the result of catabolism",
+            "releases energy in uncontrolled bursts",
+            "stores energy for use by body cells",
+            "All of the above"
+        ],
+        "correct_answer": "stores energy for use by body cells",
+        "explanation": "ATP stores energy in its high-energy phosphate bonds and releases it to power cellular processes."
+    },
+    {
+        "chapter": "1",
+        "question_number": "13",
+        "question": "Cancer cells can be characterized as \u201cgeneric\u201d cells that perform no specialized body function. Thus cancer cells lack ________.",
+        "options": [
+            "differentiation",
+            "reproduction",
+            "responsiveness",
+            "both reproduction and responsiveness"
+        ],
+        "correct_answer": "differentiation",
+        "explanation": "Cancer cells lack differentiation, meaning they do not develop into specialized cell types with specific functions."
+    },
+    {
+        "chapter": "1",
+        "question_number": "14",
+        "question": "Humans have the most urgent need for a continuous supply of ________.",
+        "options": [
+            "food",
+            "nitrogen",
+            "oxygen",
+            "water"
+        ],
+        "correct_answer": "oxygen",
+        "explanation": "Oxygen is essential for cellular respiration, which produces the energy needed for survival."
+    },
+    {
+        "chapter": "1",
+        "question_number": "15",
+        "question": "Which of the following statements about nutrients is true?",
+        "options": [
+            "All classes of nutrients are essential to human survival.",
+            "Because the body cannot store any micronutrients, they need to be consumed nearly every day.",
+            "Carbohydrates, lipids, and proteins are micronutrients.",
+            "Macronutrients are vitamins and minerals."
+        ],
+        "correct_answer": "All classes of nutrients are essential to human survival.",
+        "explanation": "Nutrients, including carbohydrates, lipids, proteins, vitamins, and minerals, are all essential for various bodily functions."
+    },
+    {
+        "chapter": "1",
+        "question_number": "16",
+        "question": "C.J. is stuck in their car during a bitterly cold blizzard. Their body responds to the cold by ________.",
+        "options": [
+            "increasing the blood to the hands and feet",
+            "becoming lethargic to conserve heat",
+            "breaking down stored energy",
+            "significantly increasing blood oxygen levels"
+        ],
+        "correct_answer": "breaking down stored energy",
+        "explanation": "In response to cold, the body breaks down stored energy to generate heat and maintain body temperature."
+    },
+    {
+        "chapter": "1",
+        "question_number": "17",
+        "question": "After you eat lunch, nerve cells in your stomach respond to the distension (the stimulus) resulting from the food. They relay this information to ________.",
+        "options": [
+            "a control center",
+            "a set point",
+            "effectors",
+            "sensors"
+        ],
+        "correct_answer": "a control center",
+        "explanation": "Nerve cells (sensors) relay information about stomach distension to a control center, which processes the information and initiates a response."
+    },
+    {
+        "chapter": "1",
+        "question_number": "18",
+        "question": "Stimulation of the heat-loss center causes ________.",
+        "options": [
+            "blood vessels in the skin to constrict",
+            "breathing to become slow and shallow",
+            "sweat glands to increase their output",
+            "All of the above"
+        ],
+        "correct_answer": "sweat glands to increase their output",
+        "explanation": "Stimulation of the heat-loss center activates sweat glands to increase their output, promoting heat loss through evaporation."
+    },
+    {
+        "chapter": "1",
+        "question_number": "19",
+        "question": "Which of the following is an example of a normal physiologic process that uses a positive feedback loop?",
+        "options": [
+            "blood pressure regulation",
+            "childbirth",
+            "regulation of fluid balance",
+            "temperature regulation"
+        ],
+        "correct_answer": "childbirth",
+        "explanation": "Childbirth involves a positive feedback loop where the release of oxytocin intensifies contractions, leading to the delivery of the baby."
+    },
+    {
+        "chapter": "1",
+        "question_number": "20",
+        "question": "What is the position of the body when it is in the \u201cnormal anatomical position?\u201d",
+        "options": [
+            "The person is prone with upper limbs, including palms, touching sides and lower limbs touching at sides.",
+            "The person is standing facing the observer, with upper limbs extended out at a ninety-degree angle from the torso and lower limbs in a wide stance with feet pointing laterally",
+            "The person is supine with upper limbs, including palms, touching sides and lower limbs touching at sides.",
+            "None of the above"
+        ],
+        "correct_answer": "None of the above",
+        "explanation": "In the normal anatomical position, the person is standing facing the observer, with upper limbs at the sides and palms facing forward."
+    },
+    {
+        "chapter": "1",
+        "question_number": "21",
+        "question": "To make a banana split, you halve a banana into two long, thin, right and left sides along the ________.",
+        "options": [
+            "coronal plane",
+            "longitudinal plane",
+            "midsagittal plane",
+            "transverse plane"
+        ],
+        "correct_answer": "midsagittal plane",
+        "explanation": "The midsagittal plane divides the body (or any structure) into equal right and left halves."
+    },
+    {
+        "chapter": "1",
+        "question_number": "22",
+        "question": "The lumbar region is ________.",
+        "options": [
+            "inferior to the gluteal region",
+            "inferior to the umbilical region",
+            "superior to the cervical region",
+            "superior to the popliteal region"
+        ],
+        "correct_answer": "superior to the popliteal region",
+        "explanation": "The lumbar region is located in the lower back, above the popliteal region (back of the knee)."
+    },
+    {
+        "chapter": "1",
+        "question_number": "23",
+        "question": "The heart is within the ________.",
+        "options": [
+            "cranial cavity",
+            "mediastinum",
+            "posterior (dorsal) cavity",
+            "All of the above"
+        ],
+        "correct_answer": "mediastinum",
+        "explanation": "The heart is located within the mediastinum, a central compartment in the thoracic cavity."
+    },
+    {
+        "chapter": "1",
+        "question_number": "24",
+        "question": "In 1901, Wilhelm R\u00f6ntgen was the first person to win the Nobel Prize for physics. For what discovery did he win?",
+        "options": [
+            "nuclear physics",
+            "radiopharmaceuticals",
+            "the link between radiation and cancer",
+            "X-rays"
+        ],
+        "correct_answer": "X-rays",
+        "explanation": "Wilhelm R\u00f6ntgen won the Nobel Prize for his discovery of X-rays, which revolutionized medical imaging."
+    },
+    {
+        "chapter": "1",
+        "question_number": "25",
+        "question": "Which of the following imaging techniques would be best to use to study the uptake of nutrients by rapidly multiplying cancer cells?",
+        "options": [
+            "CT",
+            "MRI",
+            "PET",
+            "ultrasonography"
+        ],
+        "correct_answer": "PET",
+        "explanation": "Positron emission tomography (PET) is used to observe metabolic processes, such as nutrient uptake, in rapidly multiplying cancer cells."
+    },
+    {
+        "chapter": "1",
+        "question_number": "26",
+        "question": "Which of the following imaging studies can be used most safely during pregnancy?",
+        "options": [
+            "CT scans",
+            "PET scans",
+            "ultrasounds",
+            "X-rays"
+        ],
+        "correct_answer": "ultrasounds",
+        "explanation": "Ultrasound imaging is considered safe during pregnancy as it does not use ionizing radiation."
+    },
+    {
+        "chapter": "1",
+        "question_number": "27",
+        "question": "What are two major disadvantages of MRI scans?",
+        "options": [
+            "release of radiation and poor quality images",
+            "high cost and the need for shielding from the magnetic signals",
+            "can only view metabolically active tissues and inadequate availability of equipment",
+            "release of radiation and the need for a patient to be confined to metal tube for up to 30 minutes"
+        ],
+        "correct_answer": "high cost and the need for shielding from the magnetic signals",
+        "explanation": "MRI scans are expensive and require special shielding to protect against the strong magnetic fields used in the imaging process."
+    }
+]

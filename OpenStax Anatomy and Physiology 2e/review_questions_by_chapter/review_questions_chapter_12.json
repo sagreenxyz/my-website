@@ -1,0 +1,327 @@
+[
+    {
+        "chapter": "12",
+        "question_number": "9",
+        "question": "Which of the following cavities contains a component of the central nervous system?",
+        "options": [
+            "abdominal",
+            "pelvic",
+            "cranial",
+            "thoracic"
+        ],
+        "correct_answer": "cranial",
+        "explanation": "The cranial cavity houses the brain, which is a component of the central nervous system."
+    },
+    {
+        "chapter": "12",
+        "question_number": "10",
+        "question": "Which structure predominates in the white matter of the brain?",
+        "options": [
+            "myelinated axons",
+            "neuronal cell bodies",
+            "ganglia of the parasympathetic nerves",
+            "bundles of dendrites from the enteric nervous system"
+        ],
+        "correct_answer": "myelinated axons",
+        "explanation": "White matter in the brain is primarily composed of myelinated axons, which facilitate rapid signal transmission."
+    },
+    {
+        "chapter": "12",
+        "question_number": "11",
+        "question": "Which part of a neuron transmits an electrical signal to a target cell?",
+        "options": [
+            "dendrites",
+            "soma",
+            "cell body",
+            "axon"
+        ],
+        "correct_answer": "axon",
+        "explanation": "The axon is the part of a neuron that transmits electrical signals to target cells."
+    },
+    {
+        "chapter": "12",
+        "question_number": "12",
+        "question": "Which term describes a bundle of axons in the peripheral nervous system?",
+        "options": [
+            "nucleus",
+            "ganglion",
+            "tract",
+            "nerve"
+        ],
+        "correct_answer": "nerve",
+        "explanation": "In the peripheral nervous system, a bundle of axons is called a nerve."
+    },
+    {
+        "chapter": "12",
+        "question_number": "13",
+        "question": "Which functional division of the nervous system would be responsible for the physiological changes seen during exercise (e.g., increased heart rate and sweating)?",
+        "options": [
+            "somatic",
+            "autonomic",
+            "enteric",
+            "central"
+        ],
+        "correct_answer": "autonomic",
+        "explanation": "The autonomic nervous system regulates involuntary physiological changes, such as increased heart rate and sweating during exercise."
+    },
+    {
+        "chapter": "12",
+        "question_number": "14",
+        "question": "What type of glial cell provides myelin for the axons in a tract?",
+        "options": [
+            "oligodendrocyte",
+            "astrocyte",
+            "Schwann cell",
+            "satellite cell"
+        ],
+        "correct_answer": "oligodendrocyte",
+        "explanation": "Oligodendrocytes provide myelin for axons in the central nervous system, forming the myelin sheath."
+    },
+    {
+        "chapter": "12",
+        "question_number": "15",
+        "question": "Which part of a neuron contains the nucleus?",
+        "options": [
+            "dendrite",
+            "soma",
+            "axon",
+            "synaptic end bulb"
+        ],
+        "correct_answer": "soma",
+        "explanation": "The soma, or cell body, contains the nucleus and is responsible for maintaining the neuron's functions."
+    },
+    {
+        "chapter": "12",
+        "question_number": "16",
+        "question": "Which of the following substances is least able to cross the blood-brain barrier?",
+        "options": [
+            "water",
+            "sodium ions",
+            "glucose",
+            "white blood cells"
+        ],
+        "correct_answer": "white blood cells",
+        "explanation": "White blood cells are least able to cross the blood-brain barrier, which protects the brain from harmful substances."
+    },
+    {
+        "chapter": "12",
+        "question_number": "17",
+        "question": "What type of glial cell is the resident macrophage behind the blood-brain barrier?",
+        "options": [
+            "microglia",
+            "astrocyte",
+            "Schwann cell",
+            "satellite cell"
+        ],
+        "correct_answer": "microglia",
+        "explanation": "Microglia are the resident macrophages of the central nervous system, responsible for immune defense behind the blood-brain barrier."
+    },
+    {
+        "chapter": "12",
+        "question_number": "18",
+        "question": "What two types of macromolecules are the main components of myelin?",
+        "options": [
+            "carbohydrates and lipids",
+            "proteins and nucleic acids",
+            "lipids and proteins",
+            "carbohydrates and nucleic acids"
+        ],
+        "correct_answer": "lipids and proteins",
+        "explanation": "Myelin is primarily composed of lipids and proteins, which insulate axons and enhance signal transmission."
+    },
+    {
+        "chapter": "12",
+        "question_number": "19",
+        "question": "If a thermoreceptor is sensitive to temperature sensations, what would a chemoreceptor be sensitive to?",
+        "options": [
+            "light",
+            "sound",
+            "molecules",
+            "vibration"
+        ],
+        "correct_answer": "molecules",
+        "explanation": "Chemoreceptors are sensitive to chemical stimuli, such as molecules in the environment or body fluids."
+    },
+    {
+        "chapter": "12",
+        "question_number": "20",
+        "question": "Which of these locations is where the greatest level of integration is taking place in the example of testing the temperature of the shower?",
+        "options": [
+            "skeletal muscle",
+            "spinal cord",
+            "thalamus",
+            "cerebral cortex"
+        ],
+        "correct_answer": "cerebral cortex",
+        "explanation": "The cerebral cortex is responsible for the highest level of integration, such as interpreting sensory input like temperature."
+    },
+    {
+        "chapter": "12",
+        "question_number": "21",
+        "question": "How long does all the signaling through the sensory pathway, within the central nervous system, and through the motor command pathway take?",
+        "options": [
+            "1 to 2 minutes",
+            "1 to 2 seconds",
+            "fraction of a second",
+            "varies with graded potential"
+        ],
+        "correct_answer": "fraction of a second",
+        "explanation": "Signaling through the sensory and motor pathways occurs within a fraction of a second, enabling rapid responses."
+    },
+    {
+        "chapter": "12",
+        "question_number": "22",
+        "question": "What is the target of an upper motor neuron?",
+        "options": [
+            "cerebral cortex",
+            "lower motor neuron",
+            "skeletal muscle",
+            "thalamus"
+        ],
+        "correct_answer": "lower motor neuron",
+        "explanation": "The target of an upper motor neuron is a lower motor neuron, which then directly innervates skeletal muscles."
+    },
+    {
+        "chapter": "12",
+        "question_number": "23",
+        "question": "What ion enters a neuron causing depolarization of the cell membrane?",
+        "options": [
+            "sodium",
+            "chloride",
+            "potassium",
+            "phosphate"
+        ],
+        "correct_answer": "sodium",
+        "explanation": "Sodium ions enter the neuron during depolarization, making the inside of the cell less negative."
+    },
+    {
+        "chapter": "12",
+        "question_number": "24",
+        "question": "Voltage-gated Na+ channels open upon reaching what state?",
+        "options": [
+            "resting potential",
+            "threshold",
+            "repolarization",
+            "overshoot"
+        ],
+        "correct_answer": "threshold",
+        "explanation": "Voltage-gated Na+ channels open when the membrane potential reaches the threshold, initiating an action potential."
+    },
+    {
+        "chapter": "12",
+        "question_number": "25",
+        "question": "What does a ligand-gated channel require in order to open?",
+        "options": [
+            "increase in concentration of Na+ ions",
+            "binding of a neurotransmitter",
+            "increase in concentration of K+ ions",
+            "depolarization of the membrane"
+        ],
+        "correct_answer": "binding of a neurotransmitter",
+        "explanation": "A ligand-gated channel opens when a neurotransmitter binds to its receptor, allowing ions to flow through."
+    },
+    {
+        "chapter": "12",
+        "question_number": "26",
+        "question": "What does a mechanically gated channel respond to?",
+        "options": [
+            "physical stimulus",
+            "chemical stimulus",
+            "increase in resistance",
+            "decrease in resistance"
+        ],
+        "correct_answer": "physical stimulus",
+        "explanation": "Mechanically gated channels respond to physical stimuli, such as pressure or stretch, to open or close."
+    },
+    {
+        "chapter": "12",
+        "question_number": "27",
+        "question": "Which of the following voltages would most likely be measured during the relative refractory period?",
+        "options": [
+            "+30 mV",
+            "0 mV",
+            "-45 mV",
+            "-80 mV"
+        ],
+        "correct_answer": "-45 mV",
+        "explanation": "During the relative refractory period, the membrane potential is typically hyperpolarized, around -45 mV."
+    },
+    {
+        "chapter": "12",
+        "question_number": "28",
+        "question": "Which of the following is probably going to propagate an action potential fastest?",
+        "options": [
+            "a thin, unmyelinated axon",
+            "a thin, myelinated axon",
+            "a thick, unmyelinated axon",
+            "a thick, myelinated axon"
+        ],
+        "correct_answer": "a thick, myelinated axon",
+        "explanation": "A thick, myelinated axon propagates action potentials fastest due to its large diameter and insulation."
+    },
+    {
+        "chapter": "12",
+        "question_number": "29",
+        "question": "How much of a change in the membrane potential is necessary for the summation of postsynaptic potentials to result in an action potential being generated?",
+        "options": [
+            "+30 mV",
+            "+15 mV",
+            "+10 mV",
+            "-15 mV"
+        ],
+        "correct_answer": "+15 mV",
+        "explanation": "A change of approximately +15 mV is needed to depolarize the membrane to the threshold for an action potential."
+    },
+    {
+        "chapter": "12",
+        "question_number": "30",
+        "question": "A channel opens on a postsynaptic membrane that causes a negative ion to enter the cell. What type of graded potential is this?",
+        "options": [
+            "depolarizing",
+            "repolarizing",
+            "hyperpolarizing",
+            "non-polarizing"
+        ],
+        "correct_answer": "hyperpolarizing",
+        "explanation": "The entry of negative ions into the cell causes hyperpolarization, making the membrane potential more negative."
+    },
+    {
+        "chapter": "12",
+        "question_number": "31",
+        "question": "What neurotransmitter is released at the neuromuscular junction?",
+        "options": [
+            "norepinephrine",
+            "serotonin",
+            "dopamine",
+            "acetylcholine"
+        ],
+        "correct_answer": "acetylcholine",
+        "explanation": "Acetylcholine is the neurotransmitter released at the neuromuscular junction to stimulate muscle contraction."
+    },
+    {
+        "chapter": "12",
+        "question_number": "32",
+        "question": "What type of receptor requires an effector protein to initiate a signal?",
+        "options": [
+            "biogenic amine",
+            "ionotropic receptor",
+            "cholinergic system",
+            "metabotropic receptor"
+        ],
+        "correct_answer": "metabotropic receptor",
+        "explanation": "Metabotropic receptors require an effector protein, such as a G protein, to initiate a signal cascade."
+    },
+    {
+        "chapter": "12",
+        "question_number": "33",
+        "question": "Which of the following neurotransmitters is associated with inhibition exclusively?",
+        "options": [
+            "GABA",
+            "acetylcholine",
+            "glutamate",
+            "norepinephrine"
+        ],
+        "correct_answer": "GABA",
+        "explanation": "GABA (gamma-aminobutyric acid) is an inhibitory neurotransmitter that reduces neuronal excitability."
+    }
+]

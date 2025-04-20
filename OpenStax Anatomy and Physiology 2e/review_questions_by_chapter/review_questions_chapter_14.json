@@ -1,0 +1,197 @@
+[
+    {
+        "chapter": "14",
+        "question_number": "12",
+        "question": "What type of receptor cell is responsible for transducing pain stimuli?",
+        "options": [
+            "mechanoreceptor",
+            "nociceptor",
+            "osmoreceptor",
+            "photoreceptor"
+        ],
+        "correct_answer": "nociceptor",
+        "explanation": "Nociceptors are specialized sensory receptors that detect pain stimuli."
+    },
+    {
+        "chapter": "14",
+        "question_number": "13",
+        "question": "Which of these cranial nerves is part of the gustatory system?",
+        "options": [
+            "olfactory",
+            "trochlear",
+            "trigeminal",
+            "facial"
+        ],
+        "correct_answer": "facial",
+        "explanation": "The facial nerve (cranial nerve VII) is involved in transmitting taste sensations from the anterior two-thirds of the tongue."
+    },
+    {
+        "chapter": "14",
+        "question_number": "14",
+        "question": "Which submodality of taste is sensitive to the pH of saliva?",
+        "options": [
+            "umami",
+            "sour",
+            "bitter",
+            "sweet"
+        ],
+        "correct_answer": "sour",
+        "explanation": "The sour taste submodality is sensitive to the pH of saliva, detecting acidity."
+    },
+    {
+        "chapter": "14",
+        "question_number": "15",
+        "question": "Axons from which neuron in the retina make up the optic nerve?",
+        "options": [
+            "amacrine cells",
+            "photoreceptors",
+            "bipolar cells",
+            "retinal ganglion cells"
+        ],
+        "correct_answer": "retinal ganglion cells",
+        "explanation": "The axons of retinal ganglion cells converge to form the optic nerve."
+    },
+    {
+        "chapter": "14",
+        "question_number": "16",
+        "question": "What type of receptor cell is involved in the sensations of sound and balance?",
+        "options": [
+            "photoreceptor",
+            "chemoreceptor",
+            "mechanoreceptor",
+            "nociceptor"
+        ],
+        "correct_answer": "mechanoreceptor",
+        "explanation": "Mechanoreceptors are involved in detecting sound and balance through mechanical changes."
+    },
+    {
+        "chapter": "14",
+        "question_number": "17",
+        "question": "Which of these sensory modalities doesnotpass through the ventral posterior thalamus?",
+        "options": [
+            "gustatory",
+            "proprioception",
+            "audition",
+            "nociception"
+        ],
+        "correct_answer": "audition",
+        "explanation": "Auditory information is processed through the medial geniculate nucleus of the thalamus, not the ventral posterior thalamus."
+    },
+    {
+        "chapter": "14",
+        "question_number": "18",
+        "question": "Which nucleus in the medulla is connected to the inferior colliculus?",
+        "options": [
+            "solitary nucleus",
+            "vestibular nucleus",
+            "chief sensory nucleus",
+            "cochlear nucleus"
+        ],
+        "correct_answer": "cochlear nucleus",
+        "explanation": "The cochlear nucleus in the medulla is connected to the inferior colliculus, which is involved in auditory processing."
+    },
+    {
+        "chapter": "14",
+        "question_number": "19",
+        "question": "Visual stimuli in the upper-left visual field will be processed in what region of the primary visual cortex?",
+        "options": [
+            "inferior right",
+            "inferior left",
+            "superior right",
+            "superior left"
+        ],
+        "correct_answer": "inferior right",
+        "explanation": "Visual stimuli from the upper-left visual field are processed in the inferior right region of the primary visual cortex."
+    },
+    {
+        "chapter": "14",
+        "question_number": "20",
+        "question": "Which location on the body has the largest region of somatosensory cortex representing it, according to the sensory homunculus?",
+        "options": [
+            "lips",
+            "thigh",
+            "elbow",
+            "neck"
+        ],
+        "correct_answer": "lips",
+        "explanation": "The lips have a large representation in the somatosensory cortex, reflecting their high sensitivity."
+    },
+    {
+        "chapter": "14",
+        "question_number": "21",
+        "question": "Which of the following is a direct target of the vestibular ganglion?",
+        "options": [
+            "superior colliculus",
+            "cerebellum",
+            "thalamus",
+            "optic chiasm"
+        ],
+        "correct_answer": "cerebellum",
+        "explanation": "The vestibular ganglion sends direct projections to the cerebellum, which is involved in balance and coordination."
+    },
+    {
+        "chapter": "14",
+        "question_number": "22",
+        "question": "Which region of the frontal lobe is responsible for initiating movement by directly connecting to cranial and spinal motor neurons?",
+        "options": [
+            "prefrontal cortex",
+            "supplemental motor area",
+            "premotor cortex",
+            "primary motor cortex"
+        ],
+        "correct_answer": "primary motor cortex",
+        "explanation": "The primary motor cortex initiates voluntary movements by directly connecting to cranial and spinal motor neurons."
+    },
+    {
+        "chapter": "14",
+        "question_number": "23",
+        "question": "Which extrapyramidal tract incorporates equilibrium sensations with motor commands to aid in posture and movement?",
+        "options": [
+            "tectospinal tract",
+            "vestibulospinal tract",
+            "reticulospinal tract",
+            "corticospinal tract"
+        ],
+        "correct_answer": "vestibulospinal tract",
+        "explanation": "The vestibulospinal tract integrates equilibrium sensations with motor commands to maintain posture and balance."
+    },
+    {
+        "chapter": "14",
+        "question_number": "24",
+        "question": "Which region of gray matter in the spinal cord contains motor neurons that innervate skeletal muscles?",
+        "options": [
+            "ventral horn",
+            "dorsal horn",
+            "lateral horn",
+            "lateral column"
+        ],
+        "correct_answer": "ventral horn",
+        "explanation": "The ventral horn of the spinal cord contains motor neurons that innervate skeletal muscles."
+    },
+    {
+        "chapter": "14",
+        "question_number": "25",
+        "question": "What type of reflex can protect the foot when a painful stimulus is sensed?",
+        "options": [
+            "stretch reflex",
+            "gag reflex",
+            "withdrawal reflex",
+            "corneal reflex"
+        ],
+        "correct_answer": "withdrawal reflex",
+        "explanation": "The withdrawal reflex is a protective response that moves the foot away from a painful stimulus."
+    },
+    {
+        "chapter": "14",
+        "question_number": "26",
+        "question": "What is the name for the topographical representation of the sensory input to the somatosensory cortex?",
+        "options": [
+            "homunculus",
+            "homo sapiens",
+            "postcentral gyrus",
+            "primary cortex"
+        ],
+        "correct_answer": "homunculus",
+        "explanation": "The homunculus is a topographical representation of the sensory input to the somatosensory cortex."
+    }
+]
