@@ -90,6 +90,36 @@ const config = {
             position: 'left',
             label: 'Anatomy and Physiology',
           },
+          // Modify the Care Plans item to be a dropdown
+          {
+            type: 'dropdown',
+            label: 'Care Plans',
+            position: 'left',
+            items: [
+              {
+                label: 'Overview', // Link to the main care plans page
+                to: '/docs/care-plans',
+              },
+              {
+                label: 'Neurological', // The existing sub-menu item
+                to: '/docs/care-plans/neurological', // Link to the neurological index page
+              },
+              // Add links to the new sections
+              {
+                label: 'Cardiovascular',
+                to: '/docs/care-plans/cardiovascular',
+              },
+              {
+                label: 'Respiratory',
+                to: '/docs/care-plans/respiratory',
+              },
+              {
+                label: 'Musculoskeletal',
+                to: '/docs/care-plans/musculoskeletal',
+              },
+              // Add other care plan categories here in the future
+            ],
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
