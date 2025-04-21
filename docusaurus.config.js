@@ -80,6 +80,18 @@ const config = {
             position: 'left',
             label: 'OpenStax AP2e',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'summariesSidebar', // Matches the key in sidebars.js
+            position: 'left',
+            label: 'Summaries',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'carePlansSidebar', // Matches the key in sidebars.js
+            position: 'left',
+            label: 'Care Plans',
+          },
           // Modify the Care Plans item to be a dropdown
           {
             type: 'dropdown',
