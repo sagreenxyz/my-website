@@ -98,13 +98,12 @@ const config = {
             items: [
               {
                 label: 'Overview', // Link to the main care plans page
-                to: '/docs/care-plans',
+                to: '/docs/care-plans/index', // Explicitly link to the index page
               },
               {
                 label: 'Neurological', // The existing sub-menu item
                 to: '/docs/care-plans/neurological', // Link to the neurological index page
               },
-              // Add links to the new sections
               {
                 label: 'Cardiovascular',
                 to: '/docs/care-plans/cardiovascular',
