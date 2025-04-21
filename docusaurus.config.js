@@ -86,6 +86,12 @@ const config = {
           },
           {
             type: 'docSidebar',
+            sidebarId: 'openstaxAP2eSidebar', // Matches the key in sidebars.js
+            position: 'left',
+            label: 'OpenStax AP2e',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'anatomySidebar', // Matches the key in sidebars.js
             position: 'left',
             label: 'Anatomy and Physiology',
