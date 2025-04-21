@@ -5,9 +5,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'SAGreenXYZ',
+  tagline: 'The Official Documentation for SAGreenXYZ',
+  favicon: 'https://avatars.githubusercontent.com/u/984308?v=4',
 
   // Set the production url of your site here
   url: 'https://sagreenxyz.github.io', // Your GitHub Pages URL
@@ -74,12 +74,6 @@ const config = {
       navbar: {
         title: 'SAGreenXYZ',
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
           {
             type: 'docSidebar',
             sidebarId: 'openstaxAP2eSidebar', // Matches the key in sidebars.js
