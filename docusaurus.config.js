@@ -72,11 +72,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: 'SAGreenXYZ',
         items: [
           {
             type: 'docSidebar',
@@ -89,12 +85,6 @@ const config = {
             sidebarId: 'openstaxAP2eSidebar', // Matches the key in sidebars.js
             position: 'left',
             label: 'OpenStax AP2e',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'anatomySidebar', // Matches the key in sidebars.js
-            position: 'left',
-            label: 'Anatomy and Physiology',
           },
           // Modify the Care Plans item to be a dropdown
           {
@@ -126,11 +116,6 @@ const config = {
             ],
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {},
