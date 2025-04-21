@@ -98,7 +98,7 @@ const config = {
             items: [
               {
                 label: 'Overview', // Link to the main care plans page
-                to: '/docs/care-plans/index', // Explicitly link to the index page
+                to: '/docs/care-plans', // Revert to linking to the directory
               },
               {
                 label: 'Neurological', // The existing sub-menu item
