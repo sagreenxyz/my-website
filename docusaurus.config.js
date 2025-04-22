@@ -5,9 +5,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'SAGreenXYZ',
+  tagline: 'The Official Documentation for SAGreenXYZ',
+  favicon: 'https://avatars.githubusercontent.com/u/984308?v=4',
 
   // Set the production url of your site here
   url: 'https://sagreenxyz.github.io', // Your GitHub Pages URL
@@ -72,59 +72,33 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: 'SAGreenXYZ',
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'openstaxAP2eSidebar', // Matches the key in sidebars.js
             position: 'left',
-            label: 'Tutorial',
+            label: 'OpenStax AP2e',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'anatomySidebar', // Matches the key in sidebars.js
+            sidebarId: 'summariesSidebar', // Matches the key in sidebars.js
             position: 'left',
-            label: 'Anatomy and Physiology',
+            label: 'Summaries',
           },
-          // Modify the Care Plans item to be a dropdown
           {
             type: 'dropdown',
-            label: 'Care Plans',
+            label: 'Vignettes',
             position: 'left',
             items: [
               {
-                label: 'Overview', // Link to the main care plans page
-                to: '/docs/care-plans', // Revert to linking to the directory
-              },
-              {
                 label: 'Neurological', // The existing sub-menu item
-                to: '/docs/care-plans/neurological', // Link to the neurological index page
-              },
-              {
-                label: 'Cardiovascular',
-                to: '/docs/care-plans/cardiovascular',
-              },
-              {
-                label: 'Respiratory',
-                to: '/docs/care-plans/respiratory',
-              },
-              {
-                label: 'Musculoskeletal',
-                to: '/docs/care-plans/musculoskeletal',
+                to: '/docs/vignettes/neurological', // Link to the neurological index page
               },
               // Add other care plan categories here in the future
             ],
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {},
