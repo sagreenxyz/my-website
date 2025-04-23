@@ -76,6 +76,12 @@ const config = {
         items: [
           {
             type: 'docSidebar',
+            sidebarId: 'curriculumSidebar', // Matches the key in sidebars.js
+            position: 'left',
+            label: 'Curriculum',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'openstaxAP2eSidebar', // Matches the key in sidebars.js
             position: 'left',
             label: 'OpenStax AP2e',
