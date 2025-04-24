@@ -82,21 +82,32 @@ const config = {
               {
                 label: 'Curriculum',
                 // Change 'to' to point to the first item in the sidebar
-                to: '/docs/curriculum/Intro', // Assuming 'Intro.mdx' is the first item
+                to: '/docs/anatomy-physiology/curriculum/Intro', // Assuming 'Intro.mdx' is the first item
               },
               {
                 label: 'OpenStax Anatomy and Physiology 2e',
-                to: '/docs/openstax-ap2e',
+                to: '/docs/anatomy-physiology/openstax-ap2e',
               },
               {
                 label: 'Summaries',
-                to: '/docs/summaries/intro', // Assuming 'Intro.mdx' is the first item
+                to: '/docs/anatomy-physiology/summaries/intro', // Assuming 'Intro.mdx' is the first item
               },
               {
                 label: 'Flashcards',
-                to: '/docs/flashcards/chapter-9', // Assuming 'Intro.mdx' is the first item
+                to: '/docs/anatomy-physiology/flashcards/chapter-9', // Assuming 'Intro.mdx' is the first item
               }
             ],
+          },
+          {
+            type: 'dropdown',
+            label: 'Pathophysiology',
+            position: 'left',
+            items: [
+              {
+                label: 'Coursework',
+                to: '/docs/pathophysiology/intro', // Link to the care plans index page
+              },
+            ]
           },
           {
             type: 'dropdown',
