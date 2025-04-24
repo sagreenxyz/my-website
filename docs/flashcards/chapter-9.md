@@ -1,4 +1,3 @@
-```// filepath: /workspaces/my-website/docs/flashcards/chapter-9-joints.mdx
 ---
 title: Chapter 9 Flashcards - Joints
 ---
