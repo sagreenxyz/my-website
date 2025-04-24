@@ -75,33 +75,28 @@ const config = {
         title: 'SAGreenXYZ',
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'curriculumSidebar', // Matches the key in sidebars.js
+            type: 'dropdown',
+            label: 'Anatomy and Physiology',
             position: 'left',
-            label: 'Curriculum',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'openstaxAP2eSidebar', // Matches the key in sidebars.js
-            position: 'left',
-            label: 'OpenStax AP2e',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'summariesSidebar', // Matches the key in sidebars.js
-            position: 'left',
-            label: 'Summaries',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'flashcardsSidebar', // Matches the key in sidebars.js
-            position: 'left',
-            label: 'Flashcards',
-          },
-          {
-            to: '/docs/intro', // Link to the introduction page
-            label: 'Docs',
-            position: 'left',
+            items: [
+              {
+                label: 'Curriculum',
+                // Change 'to' to point to the first item in the sidebar
+                to: '/docs/curriculum/Intro', // Assuming 'Intro.mdx' is the first item
+              },
+              {
+                label: 'OpenStax Anatomy and Physiology 2e',
+                to: '/docs/openstax-ap2e',
+              },
+              {
+                label: 'Summaries',
+                to: '/docs/summaries/intro', // Assuming 'Intro.mdx' is the first item
+              },
+              {
+                label: 'Flashcards',
+                to: '/docs/flashcards/chapter-9', // Assuming 'Intro.mdx' is the first item
+              }
+            ],
           },
           {
             type: 'dropdown',
