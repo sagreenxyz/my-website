@@ -131,3 +131,86 @@ title: Chapter 9 Flashcards - Joints
 
 **Q: What is endochondral ossification?**
 **A:** The process by which a hyaline cartilage model is converted into bone (most limb bones form this way). Articular cartilage remains at joint surfaces. *(Etymology: endon = within, chondros = cartilage; os = bone, facere = to make)*
+
+---
+
+## Functional Classification Chart (Text-Based)
+
+*   **Functional Classification (Based on Movement)**
+    *   **Synarthrosis (Immobile)** *(Etymology: syn = together, arthron = joint, osis = condition)*
+        *   Examples: Skull Sutures, Gomphosis (Tooth Socket), Synchondrosis (Epiphyseal Plate, 1st Sternocostal)
+    *   **Amphiarthrosis (Slightly Movable)** *(Etymology: amphi = on both sides, arthron = joint, osis = condition)*
+        *   Examples: Syndesmosis (Distal Tibiofibular), Symphysis (Pubic Symphysis, Intervertebral Discs)
+    *   **Diarthrosis (Freely Movable)** *(Etymology: di = through/apart, arthron = joint, osis = condition)*
+        *   Examples: All Synovial Joints (Shoulder, Hip, Knee, Elbow, Wrist, etc.)
+
+---
+
+## Structural Classification Chart (Text-Based)
+
+*   **Structural Classification (Based on Connecting Material)**
+    *   **Fibrous Joints (Fibrous Connective Tissue)** *(Etymology: fibra = fiber)*
+        *   **Suture:** Example: Between skull bones (e.g., parietal-temporal) *(Etymology: sutura = seam)*
+        *   **Gomphosis:** Example: Tooth in jaw socket *(Etymology: gomphos = bolt/nail, osis = condition)*
+        *   **Syndesmosis:** Example: Distal tibiofibular joint, interosseous membrane (radius/ulna) *(Etymology: syn = together, desmos = band/ligament, osis = condition)*
+    *   **Cartilaginous Joints (Cartilage)** *(Etymology: cartilago = gristle)*
+        *   **Synchondrosis (Hyaline Cartilage):** Example: Epiphyseal plate (temporary), 1st sternocostal joint (permanent) *(Etymology: syn = together, chondros = cartilage, osis = condition)*
+        *   **Symphysis (Fibrocartilage):** Example: Pubic symphysis, intervertebral discs *(Etymology: syn = together, physis = growth)*
+    *   **Synovial Joints (Joint Cavity)** *(Etymology: syn = together, ovia = egg [referring to the fluid])*
+        *   **Pivot:** Example: Atlantoaxial joint (C1-C2), proximal radioulnar
+        *   **Hinge:** Example: Elbow, knee, interphalangeal
+        *   **Condyloid:** Example: Radiocarpal (wrist), metacarpophalangeal (knuckles 2-5) *(Etymology: kondylos = knuckle)*
+        *   **Saddle:** Example: First carpometacarpal (thumb)
+        *   **Plane (Gliding):** Example: Intercarpal, intertarsal, acromioclavicular
+        *   **Ball-and-Socket:** Example: Shoulder, hip
+
+---
+
+## Etymology Summary
+
+**Classifications & General Terms:**
+*   **Amphiarthrosis:** amphi = on both sides, arthron = joint, osis = condition
+*   **Articular:** articulus = joint
+*   **Cartilaginous:** cartilago = gristle
+*   **Diarthrosis:** di = through/apart, arthron = joint, osis = condition
+*   **Fibrous:** fibra = fiber
+*   **Synarthrosis:** syn = together, arthron = joint, osis = condition
+*   **Synovial:** syn = together, ovia = egg [referring to the fluid]
+
+**Specific Joint Types:**
+*   **Condyloid:** kondylos = knuckle
+*   **Gomphosis:** gomphos = bolt/nail, osis = condition
+*   **Suture:** sutura = seam
+*   **Symphysis:** syn = together, physis = growth
+*   **Synchondrosis:** syn = together, chondros = cartilage, osis = condition
+*   **Syndesmosis:** syn = together, desmos = band/ligament, osis = condition
+
+**Associated Structures:**
+*   **Bursa:** bursa = purse
+*   **Ligament:** ligamentum = band
+*   **Meniscus:** meniskos = crescent
+*   **Tendon:** tendo = to stretch
+
+**Body Movements:**
+*   **Abduction:** ab = away, ducere = to lead
+*   **Adduction:** ad = toward, ducere = to lead
+*   **Circumduction:** circum = around, ducere = to lead
+*   **Depression:** de = down, premere = to press
+*   **Dorsiflexion:** dorsum = back
+*   **Elevation:** elevare = to lift up
+*   **Eversion:** e = out, vertere = to turn
+*   **Extension:** ex = out, tendere = to stretch
+*   **Flexion:** flexio = bending
+*   **Inversion:** in = into, vertere = to turn
+*   **Opposition:** ob = against, ponere = to place
+*   **Plantar Flexion:** planta = sole of the foot
+*   **Pronation:** pronus = leaning forward
+*   **Protraction:** pro = forward, trahere = to draw
+*   **Reposition:** re = again, ponere = to place
+*   **Retraction:** re = back, trahere = to draw
+*   **Rotation:** rotare = to turn
+*   **Supination:** supinus = lying on the back
+
+**Development:**
+*   **Endochondral Ossification:** endon = within, chondros = cartilage; os = bone, facere = to make
+*   **Mesenchyme:** mesos = middle, enchyma = infusion
