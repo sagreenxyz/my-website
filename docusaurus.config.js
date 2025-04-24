@@ -93,6 +93,17 @@ const config = {
             label: 'Summaries',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'flashcardsSidebar', // Matches the key in sidebars.js
+            position: 'left',
+            label: 'Flashcards',
+          },
+          {
+            to: '/docs/intro', // Link to the introduction page
+            label: 'Docs',
+            position: 'left',
+          },
+          {
             type: 'dropdown',
             label: 'Vignettes',
             position: 'left',
