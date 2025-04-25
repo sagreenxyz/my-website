@@ -75,8 +75,8 @@ const config = {
         title: 'SAGreenXYZ',
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'openstaxAP2eSidebar', // Matches the key in sidebars.js
+            type: 'dropdown',
+            label: 'Anatomy and Physiology',
             position: 'left',
             label: 'OpenStax AP2e',
           },
@@ -86,6 +86,13 @@ const config = {
             position: 'left',
             label: 'Summaries',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'carePlansSidebar', // Matches the key in sidebars.js
+            position: 'left',
+            label: 'Care Plans',
+          },
+          // Modify the Care Plans item to be a dropdown
           {
             type: 'dropdown',
             label: 'Vignettes',
