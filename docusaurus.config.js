@@ -87,36 +87,13 @@ const config = {
             label: 'Summaries',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'carePlansSidebar', // Matches the key in sidebars.js
-            position: 'left',
-            label: 'Care Plans',
-          },
-          // Modify the Care Plans item to be a dropdown
-          {
             type: 'dropdown',
-            label: 'Care Plans',
+            label: 'Vignettes',
             position: 'left',
             items: [
               {
-                label: 'Overview', // Link to the main care plans page
-                to: '/docs/care-plans', // Revert to linking to the directory
-              },
-              {
                 label: 'Neurological', // The existing sub-menu item
-                to: '/docs/care-plans/neurological', // Link to the neurological index page
-              },
-              {
-                label: 'Cardiovascular',
-                to: '/docs/care-plans/cardiovascular',
-              },
-              {
-                label: 'Respiratory',
-                to: '/docs/care-plans/respiratory',
-              },
-              {
-                label: 'Musculoskeletal',
-                to: '/docs/care-plans/musculoskeletal',
+                to: '/docs/vignettes/neurological', // Link to the neurological index page
               },
               // Add other care plan categories here in the future
             ],
