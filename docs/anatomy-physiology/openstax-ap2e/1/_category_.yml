@@ -1,0 +1,7 @@
+label: 'Introduction' # The name displayed in the sidebar
+position: 2 # The order in the sidebar (lower numbers appear first)
+# You can add other options like:
+# link:
+#   type: generated-index
+#   title: Neurology Overview
+collapsed: true # Set to true if you want the category collapsed by default

@@ -78,34 +78,41 @@ const config = {
             type: 'dropdown',
             label: 'Anatomy and Physiology',
             position: 'left',
-            label: 'OpenStax AP2e',
+            items: [
+              {
+                label: 'OpenStax AP2e',
+                // Ensure the file docs/anatomy-physiology/openstax-ap2e/1/1.md (or .mdx) exists
+                to: '/docs/anatomy-physiology/openstax-ap2e',
+              },
+              {
+                label: 'Curriculum',
+                // Updated to point to an existing document based on provided context
+                to: '/docs/anatomy-physiology/curriculum/Intro'
+              },
+              {
+                label: 'Summaries',
+                // Updated to point to an existing document based on provided context
+                to: '/docs/anatomy-physiology/summaries/Intro'
+              },
+              {
+                label: 'Flashcards',
+                // Updated to point to an existing document based on provided context
+                to: '/docs/anatomy-physiology/flashcards/chapter-9'
+              },
+            ],
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'summariesSidebar', // Matches the key in sidebars.js
-            position: 'left',
-            label: 'Summaries',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'carePlansSidebar', // Matches the key in sidebars.js
-            position: 'left',
-            label: 'Care Plans',
-          },
-          // Modify the Care Plans item to be a dropdown
           {
             type: 'dropdown',
-            label: 'Vignettes',
+            label: 'Pathophysiology',
             position: 'left',
             items: [
               {
-                label: 'Neurological', // The existing sub-menu item
-                to: '/docs/vignettes/neurological', // Link to the neurological index page
+                label: 'Module 1', // The existing sub-menu item
+                to: '/docs/pathophysiology/module-1/1-1-intro-pathophysiology', // Link to the neurological index page
               },
-              // Add other care plan categories here in the future
             ],
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'right'},
         ],
       },
       footer: {},
