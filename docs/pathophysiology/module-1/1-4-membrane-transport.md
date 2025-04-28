@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Membrane Transport'
+sidebar_position: 4
+---
+
 # 1.4: Membrane Transport
 
 ## Overview

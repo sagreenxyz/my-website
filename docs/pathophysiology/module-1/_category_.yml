@@ -1,4 +1,4 @@
-label: 'Module 1' # The name displayed in the sidebar
+label: 'Module 1 - Introduction and Cell Biology' # The name displayed in the sidebar
 position: 1 # The order in the sidebar (lower numbers appear first)
 # You can add other options like:
 # link:

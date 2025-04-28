@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Cell Composition and Function'
+sidebar_position: 2
+---
+
 # 1.2: Cell Composition and Function
 
 ## Overview

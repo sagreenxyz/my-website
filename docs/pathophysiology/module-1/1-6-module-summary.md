@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Module 1 Summary'
+sidebar_position: 6
+---
+
 # Module 1 Summary
 
 ## Pathophysiology
