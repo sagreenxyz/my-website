@@ -1,19 +1,29 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+careplans:
+  label: Care Plans
+  permalink: /careplans
+  description: Care planning
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+neurology:
+  label: Neurology
+  permalink: /neurology
+  description: Neurology
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+OpenStax:
+  label: OpenStax
+  permalink: /openstax
+  description: OpenStax Textbooks
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+anatomy-physiology:
+  label: Anatomy and Physiology
+  permalink: /anatomy-physiology
+  description: Anatomy and Physiology
+
+nephrology:
+  label: Nephrology
+  permalink: /nephrology
+  description: Nephrology
+
+polycystic kidney disease:
+  label: Polycystic Kidney Disease
+  permalink: /polycystic-kidney-disease
+  description: Polycystic Kidney Disease
