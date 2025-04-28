@@ -107,11 +107,22 @@ const config = {
             position: 'left',
             items: [
               {
-                label: 'Module 1', // The existing sub-menu item
+                label: 'Lectures', // The existing sub-menu item
                 to: '/docs/pathophysiology/module-1/1-1-intro-pathophysiology', // Link to the neurological index page
               },
             ],
           },
+          {
+            type: 'dropdown',
+            label: 'Disorders',
+            position: 'left',
+            items: [
+              {
+                label: 'All Disorders', // The existing sub-menu item
+                to: '/docs/disorders', // Link to the neurological index page
+              },
+            ],
+          }, 
           {to: '/blog', label: 'Blog', position: 'right'},
         ],
       },
@@ -119,7 +130,7 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-      },
+      }, // Add comma here if you added properties below this line
     }),
 };
 
