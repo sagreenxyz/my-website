@@ -3,3 +3,14 @@ sagreenxyz:
   title: Enthusiast
   url: https://sagreenxyz.github.io
   image_url: https://github.com/sagreenxyz.png
+
+steven:
+  name: Steven J. Calahan
+  title: Rsearcher
+  image_url: https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=BeardLight&facialHairColor=Auburn&clotheType=BlazerShirt&eyeType=Side&eyebrowType=RaisedExcited&mouthType=Default&skinColor=Light
+
+brian:
+  name: Brian L. Smith
+  title: Researcher
+  image_url: https://api.dicebear.com/9.x/lorelei/svg?seed=Brian
+

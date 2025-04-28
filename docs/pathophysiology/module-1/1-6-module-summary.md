@@ -242,4 +242,8 @@
 ## Necrosis
 **Question:** Know the different types of necrosis.
 
-**Answer:** *Necrosis* is cell death in living tissue due to injury. Types include: Coagulative, Liquefactive, Caseous, and Gangrenous.
+**Answer:** *Necrosis* is cell death in living tissue due to injury, often causing inflammation. Types include:
+*   ***Coagulative Necrosis:*** Tissue architecture is preserved initially after cell death, often seen in hypoxic injury like myocardial infarction. The tissue becomes firm.
+*   ***Liquefactive Necrosis:*** Enzymatic digestion of dead cells results in a liquid mass. Common in brain infarcts and bacterial infections (pus formation).
+*   ***Caseous Necrosis:*** A combination of coagulative and liquefactive necrosis where dead tissue forms a soft, white, "cheese-like" debris. Characteristic of tuberculosis.
+*   ***Gangrenous Necrosis:*** A clinical term, usually referring to necrosis of a limb or large area due to ischemia (dry gangrene, primarily coagulative) which can become infected (wet gangrene, involving liquefactive necrosis).
