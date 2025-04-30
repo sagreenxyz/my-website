@@ -122,7 +122,18 @@ const config = {
                 to: '/docs/disorders', // Link to the neurological index page
               },
             ],
-          }, 
+          },
+          {
+            type: 'dropdown',
+            label: 'Random Topics',
+            position: 'left',
+            items: [
+              {
+                label: 'Cytology', // The existing sub-menu item
+                to: '/docs/random-topics/cytology', // Link to the neurological index page
+              },
+            ],
+          },
           {to: '/blog', label: 'Blog', position: 'right'},
         ],
       },
