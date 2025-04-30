@@ -6,6 +6,8 @@ tags: [pharmacology, neuroscience, gabapentin, gaba]
 
 Gabapentin is a medication commonly prescribed for a variety of conditions, including neuropathic pain, seizures, and restless legs syndrome. Its name sounds remarkably similar to GABA (gamma-aminobutyric acid), the primary inhibitory neurotransmitter in the central nervous system. This similarity often leads to the question: Is Gabapentin simply an analog of GABA?
 
+<!-- truncate -->
+
 ## What is Gabapentin Used For?
 
 Initially developed as an anti-epileptic drug, Gabapentin's uses have expanded significantly. It's frequently used to manage:

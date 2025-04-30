@@ -5,6 +5,10 @@ authors: sagreenxyz
 tags: ["genetics", "cancer", "leukemia", "Chronic Myeloid Leukemia", "Acute Lymphoblastic Leukemia", "tyrosine kinase inhibitor "]
 ---
 
+The Philadelphia chromosome is a specific genetic abnormality...
+
+<!-- truncate -->
+
 ## The Philadelphia Chromosome: A Landmark Discovery in Cancer Genetics
 
 The world of cancer research is marked by pivotal discoveries that fundamentally change our understanding and treatment of the disease. One such landmark is the discovery of the Philadelphia chromosome. It was the first consistent chromosome abnormality identified in a human cancer and paved the way for targeted cancer therapies.

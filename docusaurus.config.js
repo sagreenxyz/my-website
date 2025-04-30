@@ -92,7 +92,7 @@ const config = {
               {
                 label: 'Summaries',
                 // Updated to point to an existing document based on provided context
-                to: '/docs/anatomy-physiology/summaries/intro'
+                to: '/docs/anatomy-physiology/summaries/index'
               },
               {
                 label: 'Flashcards',

@@ -27,3 +27,186 @@ polycystic kidney disease:
   label: Polycystic Kidney Disease
   permalink: /polycystic-kidney-disease
   description: Polycystic Kidney Disease
+
+# Add any existing tags below if this file already exists
+# ... existing tags ...
+
+# Tags from 2025-04-28-normal-saline-hyperchlroemia.mdx
+idea pool:
+  label: Idea Pool
+  description: Collection of ideas and concepts.
+  permalink: /tags/idea-pool
+intravenous fluids:
+  label: Intravenous Fluids
+  description: Fluids administered directly into a vein.
+  permalink: /tags/intravenous-fluids
+normal saline:
+  label: Normal Saline
+  description: A common intravenous solution (0.9% NaCl).
+  permalink: /tags/normal-saline
+lactated ringers:
+  label: Lactated Ringer's
+  description: Another common intravenous solution.
+  permalink: /tags/lactated-ringers
+hyperchloremia:
+  label: Hyperchloremia
+  description: High levels of chloride in the blood.
+  permalink: /tags/hyperchloremia
+metabolic acidosis:
+  label: Metabolic Acidosis
+  description: A condition where the body produces too much acid or the kidneys don't remove enough.
+  permalink: /tags/metabolic-acidosis
+
+# Tags from substance-use-disorder-overview.mdx
+mental health:
+  label: Mental Health
+  description: Topics related to emotional, psychological, and social well-being.
+  permalink: /tags/mental-health
+addiction:
+  label: Addiction
+  description: Compulsive engagement in rewarding stimuli despite adverse consequences.
+  permalink: /tags/addiction
+substance use disorder:
+  label: Substance Use Disorder
+  description: A pattern of substance use leading to significant impairment or distress.
+  permalink: /tags/substance-use-disorder
+recovery:
+  label: Recovery
+  description: The process of overcoming addiction or mental health challenges.
+  permalink: /tags/recovery
+behavioral health:
+  label: Behavioral Health
+  description: The connection between behaviors and the health and well-being of the body, mind and spirit.
+  permalink: /tags/behavioral-health
+
+# Tags from chronic-stress-impact.mdx
+stress:
+  label: Stress
+  description: The body's response to challenges or demands.
+  permalink: /tags/stress
+chronic stress:
+  label: Chronic Stress
+  description: Prolonged and constant feeling of stress.
+  permalink: /tags/chronic-stress
+wellness:
+  label: Wellness
+  description: The state of being in good health, especially as an actively pursued goal.
+  permalink: /tags/wellness
+health impacts:
+  label: Health Impacts
+  description: Effects on physical or mental health.
+  permalink: /tags/health-impacts
+
+# Tags from metabolic-alkalosis-explained.mdx
+acid-base balance:
+  label: Acid-Base Balance
+  description: The balance between acidity and alkalinity in the body fluids.
+  permalink: /tags/acid-base-balance
+metabolic alkalosis:
+  label: Metabolic Alkalosis
+  description: A condition where the body has too much bicarbonate, leading to increased pH.
+  permalink: /tags/metabolic-alkalosis
+critical care:
+  label: Critical Care
+  description: Specialized care for patients with life-threatening conditions.
+  permalink: /tags/critical-care
+bicarbonate:
+  label: Bicarbonate
+  description: An important buffer in the blood that helps maintain pH.
+  permalink: /tags/bicarbonate
+electrolytes:
+  label: Electrolytes
+  description: Minerals in the body that have an electric charge.
+  permalink: /tags/electrolytes
+hypokalemia:
+  label: Hypokalemia
+  description: Low levels of potassium in the blood.
+  permalink: /tags/hypokalemia
+
+# Tags from polycystic-kidney-disease-overview.mdx
+kidney disease:
+  label: Kidney Disease
+  description: Conditions affecting the kidneys.
+  permalink: /tags/kidney-disease
+genetics:
+  label: Genetics
+  description: The study of heredity and the variation of inherited characteristics.
+  permalink: /tags/genetics
+
+# Tags from gabapentin-blog-post.md
+pharmacology:
+  label: Pharmacology
+  description: The branch of medicine concerned with the uses, effects, and modes of action of drugs.
+  permalink: /tags/pharmacology
+neuroscience:
+  label: Neuroscience
+  description: The scientific study of the nervous system.
+  permalink: /tags/neuroscience
+gabapentin:
+  label: Gabapentin
+  description: A medication used to treat epilepsy, neuropathic pain, and restless legs syndrome.
+  permalink: /tags/gabapentin
+gaba:
+  label: GABA
+  description: Gamma-aminobutyric acid, a neurotransmitter.
+  permalink: /tags/gaba
+
+# Tags from philadelphia-chromosome.md
+cancer:
+  label: Cancer
+  description: Diseases in which abnormal cells divide uncontrollably and destroy body tissue.
+  permalink: /tags/cancer
+leukemia:
+  label: Leukemia
+  description: Cancer of blood-forming tissues, hindering the body's ability to fight infection.
+  permalink: /tags/leukemia
+Chronic Myeloid Leukemia:
+  label: Chronic Myeloid Leukemia
+  description: A type of cancer that starts in certain blood-forming cells of the bone marrow.
+  permalink: /tags/chronic-myeloid-leukemia
+Acute Lymphoblastic Leukemia:
+  label: Acute Lymphoblastic Leukemia
+  description: A type of cancer of the blood and bone marrow that affects white blood cells.
+  permalink: /tags/acute-lymphoblastic-leukemia
+tyrosine kinase inhibitor:
+  label: Tyrosine Kinase Inhibitor
+  description: A type of targeted therapy drug used to treat certain cancers.
+  permalink: /tags/tyrosine-kinase-inhibitor
+
+# Tags from respiratory-acidosis-explained.mdx
+respiratory acidosis:
+  label: Respiratory Acidosis
+  description: A condition that occurs when the lungs can't remove enough carbon dioxide.
+  permalink: /tags/respiratory-acidosis
+pulmonology:
+  label: Pulmonology
+  description: A medical specialty dealing with diseases involving the respiratory tract.
+  permalink: /tags/pulmonology
+carbon dioxide:
+  label: Carbon Dioxide
+  description: A gas involved in respiration and acid-base balance.
+  permalink: /tags/carbon-dioxide
+hypoventilation:
+  label: Hypoventilation
+  description: Breathing at an abnormally slow rate, resulting in an increased amount of carbon dioxide in the blood.
+  permalink: /tags/hypoventilation
+ABG:
+  label: ABG
+  description: Arterial Blood Gas test, measuring oxygen and carbon dioxide levels in the blood.
+  permalink: /tags/abg
+
+# Tags from metabolic-acidosis-explained.mdx
+# (metabolic acidosis, critical care, bicarbonate already defined)
+anion gap:
+  label: Anion Gap
+  description: A value calculated using the results of an electrolyte panel, used to help differentiate causes of metabolic acidosis.
+  permalink: /tags/anion-gap
+
+# Tags from polycystic-kidney-disease.mdx
+# (kidney disease, genetics already defined)
+
+# Tags from openstax-ap2e copy.mdx and openstax-ap2e.mdx (Assuming generic tags if none specific were listed)
+# Add relevant tags if needed
+
+# Tags from care-planning.mdx (Assuming generic tags if none specific were listed)
+# Add relevant tags if needed
