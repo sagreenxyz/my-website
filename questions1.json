@@ -1,0 +1,355 @@
+{
+    "textbooks": [
+      {
+        "title": "Westcott Anatomy and Physiology 1",
+        "questions": [
+          {
+            "chapter": "Chapter 3",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "The diffusion of substances within a solution tends to move those substances ________ their concentration gradient.",
+                "options": ["down"],
+                "correct_answer": "down",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Ion pumps and phagocytosis are both examples of ________.",
+                "options": [
+                  "endocytosis",
+                  "facilitated transport",
+                  "active transport",
+                  "passive transport"
+                ],
+                "correct_answer": "active transport",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "The rough ER has its name due to what associated structures?",
+                "options": [
+                  "Ribosomes",
+                  "lysosomes",
+                  "peroxisomes",
+                  "Golgi apparatus"
+                ],
+                "correct_answer": "Ribosomes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Which of the following is a function of the rough ER?",
+                "options": [
+                  "They all help the cell resist compression and tension.",
+                  "production of proteins",
+                  "detoxification of certain substances",
+                  "synthesis of steroid hormones"
+                ],
+                "correct_answer": "production of proteins",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which of the following is a feature common to all three components of the cytoskeleton?",
+                "options": [
+                  "protein-lined membrane pores",
+                  "They are all polymers of protein subunits.",
+                  "They all help the cell resist compression and tension.",
+                  "They are all characterized by roughly spherical protein subunits."
+                ],
+                "correct_answer": "They are all polymers of protein subunits.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Which of the following sequences on a DNA molecule would be complementary to GCTTATAT?",
+                "options": [
+                  "CGAATATA",
+                  "TAGGCGCG",
+                  "ATCCGCGC",
+                  "GCTTATAT"
+                ],
+                "correct_answer": "CGAATATA",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Place the following structures in order from least complex to most complex:",
+                "options": [
+                  "G0",
+                  "chromatin, chromosome, DNA, nucleosome",
+                  "DNA, chromatin, nucleosome, chromosome",
+                  "DNA, nucleosome, chromatin, chromosome"
+                ],
+                "correct_answer": "DNA, nucleosome, chromatin, chromosome",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "How many “letters” of an RNA molecule, in sequence, does it take to provide the code for a single amino acid?",
+                "options": [
+                  "3",
+                  "1",
+                  "2",
+                  "4"
+                ],
+                "correct_answer": "3",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following is not made out of RNA?",
+                "options": [
+                  "tRNA",
+                  "the ribosome",
+                  "mRNA",
+                  "rRNA"
+                ],
+                "correct_answer": "the ribosome",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Transcription and translation take place in the ________ and ________, respectively.",
+                "options": [
+                  "untwisting the DNA helix",
+                  "nucleus; cytoplasm",
+                  "nucleolus; nucleus",
+                  "cytoplasm; nucleus"
+                ],
+                "correct_answer": "nucleus; cytoplasm",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which phase is characterized by preparation for DNA synthesis?",
+                "options": [
+                  "DNA, nucleosome, chromatin, chromosome",
+                  "G1",
+                  "S",
+                  "G2"
+                ],
+                "correct_answer": "G1",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Choose the correct order of phases in the cell cycle, starting with the phase where DNA is replicated.",
+                "options": [
+                  "ATP diffusion",
+                  "S, G2, M, G1",
+                  "G1, S, G2, M",
+                  "M, G1, S, G2"
+                ],
+                "correct_answer": "S, G2, M, G1",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which type of stem cell gives rise to red and white blood cells?",
+                "options": [
+                  "embryonic stem cells",
+                  "hematopoietic",
+                  "totipotent",
+                  "pluripotent"
+                ],
+                "correct_answer": "hematopoietic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Which of the following terms is used to describe the process of a cell becoming specialized?",
+                "options": [
+                  "oligopotency, pleuripotency, unipotency, multipotency",
+                  "differentiation",
+                  "reproduction",
+                  "cloning"
+                ],
+                "correct_answer": "differentiation",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Which of the following is not a difference between DNA and RNA?",
+                "options": [
+                  "DNA contains thymine whereas RNA contains uracil",
+                  "DNA contains deoxyribose and RNA contains ribose",
+                  "DNA contains alternating sugar-phosphate molecules whereas RNA does not contain sugars",
+                  "RNA is single stranded and DNA is double stranded"
+                ],
+                "correct_answer": "DNA contains alternating sugar-phosphate molecules whereas RNA does not contain sugars",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "The mitotic spindles arise from which cell structure?",
+                "options": [
+                  "metaphase",
+                  "centrosome",
+                  "centromere",
+                  "kinetochore"
+                ],
+                "correct_answer": "centrosome",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Which cell structure is responsible for pulling the chromosomes apart during anaphase?",
+                "options": [
+                  "cytoskeleton",
+                  "flagellum",
+                  "centriole",
+                  "mitotic spindle"
+                ],
+                "correct_answer": "mitotic spindle",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Which type of stem cell can differentiate into any type of human tissue?",
+                "options": [
+                  "multiplotent",
+                  "totipotent",
+                  "pluripotent",
+                  "unipotent"
+                ],
+                "correct_answer": "totipotent",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Which organelle is responsible for producing large amounts of ATP?",
+                "options": [
+                  "mitochondria",
+                  "endoplasmic reticulum",
+                  "cytoplasm",
+                  "lysosome"
+                ],
+                "correct_answer": "mitochondria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Which structure is responsible for modifying, sorting, and packaging proteins and lipids?",
+                "options": [
+                  "Golgi apparatus",
+                  "endoplasmic reticulum",
+                  "lysosome",
+                  "peroxisome"
+                ],
+                "correct_answer": "Golgi apparatus",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 23",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which of the following is NOT an accessory digestive organ?",
+                "options": [
+                  "spleen.",
+                  "liver.",
+                  "gallbladder.",
+                  "pancreas."
+                ],
+                "correct_answer": "spleen.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "The process by which food is broken down into smaller molecules that can be absorbed is called:",
+                "options": [
+                  "digestion.",
+                  "ingestion.",
+                  "absorption.",
+                  "propulsion."
+                ],
+                "correct_answer": "digestion.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "The layer of the alimentary canal wall responsible for segmentation and peristalsis is the:",
+                "options": [
+                  "muscularis externa.",
+                  "mucosa.",
+                  "submucosa.",
+                  "serosa."
+                ],
+                "correct_answer": "muscularis externa.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "The serous membrane lining the abdominal cavity is the:",
+                "options": [
+                  "parietal peritoneum.",
+                  "visceral peritoneum.",
+                  "mesentery.",
+                  "omentum."
+                ],
+                "correct_answer": "parietal peritoneum.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which salivary gland is located anterior to the ear?",
+                "options": [
+                  "parotid gland.",
+                  "submandibular gland.",
+                  "sublingual gland.",
+                  "buccal gland."
+                ],
+                "correct_answer": "parotid gland.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "The enzyme in saliva that begins starch digestion is:",
+                "options": [
+                  "salivary amylase.",
+                  "lingual lipase.",
+                  "pepsin.",
+                  "trypsin."
+                ],
+                "correct_answer": "salivary amylase.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "The process of swallowing is called:",
+                "options": [
+                  "deglutition.",
+                  "mastication.",
+                  "peristalsis.",
+                  "segmentation."
+                ],
+                "correct_answer": "deglutition.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which cells in the stomach secrete hydrochloric acid (HCl) and intrinsic factor?",
+                "options": [
+                  "parietal cells.",
+                  "chief cells.",
+                  "mucous neck cells.",
+                  "enteroendocrine cells."
+                ],
+                "correct_answer": "parietal cells.",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 25",
+            "review_questions": []
+          }
+        ]
+      }
+    ]
+  }
+}
