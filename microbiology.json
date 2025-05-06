@@ -1,0 +1,281 @@
+{
+    "textbooks": [
+      {
+        "title": "Microbiology",
+        "questions": [
+          {
+            "chapter": "Chapter 1",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which of the following foods is NOT made by fermentation?",
+                "options": [
+                  "beer",
+                  "bread",
+                  "cheese",
+                  "orange juice"
+                ],
+                "correct_answer": "orange juice",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Who is considered the “father of Western medicine”?",
+                "options": [
+                  "Marcus Terentius Varro",
+                  "Thucydides",
+                  "Antonie van Leeuwenhoek",
+                  "Hippocrates"
+                ],
+                "correct_answer": "Hippocrates",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Who was the first to observe “animalcules” under the microscope?",
+                "options": [
+                  "Antonie van Leeuwenhoek",
+                  "Ötzi the Iceman",
+                  "Marcus Terentius Varro",
+                  "Robert Koch"
+                ],
+                "correct_answer": "Antonie van Leeuwenhoek",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Who proposed that swamps might harbor tiny, disease-causing animals too small to see?",
+                "options": [
+                  "Thucydides",
+                  "Marcus Terentius Varro",
+                  "Hippocrates",
+                  "Louis Pasteur"
+                ],
+                "correct_answer": "Marcus Terentius Varro",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which of the following was NOT a kingdom in Linnaeus’s taxonomy?",
+                "options": [
+                  "animal",
+                  "mineral",
+                  "protist",
+                  "plant"
+                ],
+                "correct_answer": "protist",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Which of the following is a correct usage of binomial nomenclature?",
+                "options": [
+                  "Homo Sapiens",
+                  "homo sapiens",
+                  "Homo sapiens",
+                  "Homo Sapiens"
+                ],
+                "correct_answer": "Homo sapiens",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which scientist proposed adding a kingdom for protists?",
+                "options": [
+                  "Carolus Linnaeus",
+                  "Carl Woese",
+                  "Robert Whittaker",
+                  "Ernst Haeckel"
+                ],
+                "correct_answer": "Ernst Haeckel",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which of the following is NOT a domain in Woese and Fox’s phylogenetic tree?",
+                "options": [
+                  "Plantae",
+                  "Bacteria",
+                  "Archaea",
+                  "Eukarya"
+                ],
+                "correct_answer": "Plantae",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following is the standard resource for identifying bacteria?",
+                "options": [
+                  "Systema Naturae",
+                  "Bergey’s Manual of Determinative Bacteriology",
+                  "Woese and Fox’s phylogenetic tree",
+                  "Haeckel’s General Morphology of Organisms"
+                ],
+                "correct_answer": "Bergey’s Manual of Determinative Bacteriology",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which of the following types of microorganisms is photosynthetic?",
+                "options": [
+                  "yeast",
+                  "virus",
+                  "helminth",
+                  "alga"
+                ],
+                "correct_answer": "alga",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which of the following is a prokaryotic microorganism?",
+                "options": [
+                  "helminth",
+                  "protozoan",
+                  "cyanobacterium",
+                  "mold"
+                ],
+                "correct_answer": "cyanobacterium",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which of the following is acellular?",
+                "options": [
+                  "virus",
+                  "bacterium",
+                  "fungus",
+                  "protozoan"
+                ],
+                "correct_answer": "virus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which of the following is a type of fungal microorganism?",
+                "options": [
+                  "bacterium",
+                  "protozoan",
+                  "alga",
+                  "yeast"
+                ],
+                "correct_answer": "yeast",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Which of the following is not a subfield of microbiology?",
+                "options": [
+                  "bacteriology",
+                  "botany",
+                  "clinical microbiology",
+                  "virology"
+                ],
+                "correct_answer": "botany",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Thucydides is known as the father of _______________.",
+                "options": [
+                  "scientific history"
+                ],
+                "correct_answer": "scientific history",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Researchers think that Ötzi the Iceman may have been infected with _____ disease.",
+                "options": [
+                  "Lyme"
+                ],
+                "correct_answer": "Lyme",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "The process by which microbes turn grape juice into wine is called _______________.",
+                "options": [
+                  "fermentation"
+                ],
+                "correct_answer": "fermentation",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "In binomial nomenclature, an organism’s scientific name includes its ________ and __________.",
+                "options": [
+                  "genus, species"
+                ],
+                "correct_answer": "genus, species",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Haeckel proposed adding the kingdoms _________ and _________ to his phylogenetic tree.",
+                "options": [
+                  "Protista and Monera"
+                ],
+                "correct_answer": "Protista and Monera",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "___________ are organisms without membrane-bound nuclei.",
+                "options": [
+                  "Prokaryotes"
+                ],
+                "correct_answer": "Prokaryotes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "_______ are microorganisms that are not included in phylogenetic trees because they are acellular.",
+                "options": [
+                  "Viruses"
+                ],
+                "correct_answer": "Viruses",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "A _________ is a disease-causing microorganism.",
+                "options": [
+                  "pathogen"
+                ],
+                "correct_answer": "pathogen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "Multicellular parasitic worms studied by microbiologists are called __________.",
+                "options": [
+                  "helminths"
+                ],
+                "correct_answer": "helminths",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 24,
+                "question_text": "The study of viruses is __________.",
+                "options": [
+                  "virology"
+                ],
+                "correct_answer": "virology",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 25,
+                "question_text": "The cells of prokaryotic organisms lack a _________.",
+                "options": [
+                  "nucleus"
+                ],
+                "correct_answer": "nucleus",
+                "explanation": "Explanation not available."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
