@@ -308,18 +308,6 @@
               },
               {
                 "question_number": 29,
-                "question_text": "Which of the following foods is NOT made by fermentation?",
-                "options": [
-                  "cheese",
-                  "beer",
-                  "bread",
-                  "orange juice"
-                ],
-                "correct_answer": "orange juice",
-                "explanation": "Explanation not available."
-              },
-              {
-                "question_number": 30,
                 "question_text": "______ are plant-like organisms that can be either unicellular or multicellular, and derive energy via photosynthesis",
                 "options": [
                   "Eukaryotes",
@@ -331,7 +319,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 31,
+                "question_number": 30,
                 "question_text": "______ are acellular microorganisms that require a host to reproduce.",
                 "options": [
                   "Prions",
@@ -343,44 +331,8 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 32,
-                "question_text": "______ is the study of fungi.",
-                "options": [
-                  "Immunology",
-                  "Virology",
-                  "Mycology",
-                  "Parasitology"
-                ],
-                "correct_answer": "Mycology",
-                "explanation": "Explanation not available."
-              },
-              {
-                "question_number": 33,
-                "question_text": "Who proposed that swamps might harbor tiny, disease-causing animals too small to see?",
-                "options": [
-                  "Marcus Terentius Varro",
-                  "Louis Pasteur",
-                  "Thucydides",
-                  "Hippocrates"
-                ],
-                "correct_answer": "Marcus Terentius Varro",
-                "explanation": "Explanation not available."
-              },
-              {
-                "question_number": 34,
-                "question_text": "Which of the following was NOT a kingdom in Linnaeus’s taxonomy?",
-                "options": [
-                  "animal",
-                  "plant",
-                  "mineral",
-                  "protist"
-                ],
-                "correct_answer": "protist",
-                "explanation": "Explanation not available."
-              },
-              {
-                "question_number": 35,
-              "question_text": "What are helminths and why are they medically important? (check all that apply)",
+                "question_number": 31,
+                "question_text": "What are helminths and why are they medically important? (check all that apply)",
                 "options": [
                   "Helminths are worms. Helminths are eukaryotes. They can be human parasites.",
                   "Helminths are prokaryotes."
@@ -389,7 +341,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 36,
+                "question_number": 32,
                 "question_text": "Explain why some scientists think that it may be more appropriate to describe a 'web of life' instead of a 'tree of life.' (click all that apply",
                 "options": [
                   "A web would better show ways genes can be transferred from one taxonomic group to another. Because horizontal gene transfer is common, this does not fully represent the complexity involved in evolution. A tree suggests straightforward pathways of evolution from one branch to another.",
@@ -399,29 +351,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 37,
-                "question_text": "Which of the following is a prokaryotic microorganism?",
-                "options": [
-                  "A web would better show ways genes can be transferred from one taxonomic group to another. Because horizontal gene transfer is common, this does not fully represent the complexity involved in evolution. A tree suggests straightforward pathways of evolution from one branch to another.",
-                  "Because gene transfer is not common, this does not fully represent the complexity involved in evolution."
-                ],
-                "correct_answer": "A web would better show ways genes can be transferred from one taxonomic group to another. Because horizontal gene transfer is common, this does not fully represent the complexity involved in evolution. A tree suggests straightforward pathways of evolution from one branch to another.",
-                "explanation": "Explanation not available."
-              },
-              {
-                "question_number": 38,
-                "question_text": "Which of the following is a correct usage of the binomial nomenclature?",
-                "options": [
-                  "Homo SAPIENS",
-                  "homo sapiens",
-                  "Homo sapiens",
-                  "Homo Sapiens"
-                ],
-                "correct_answer": "Homo sapiens",
-                "explanation": "Explanation not available."
-              },
-              {
-                "question_number": 39,
+                "question_number": 33,
                 "question_text": "A system known as ______ ______, is a two-word naming system for identifying organisms by genus and specific epithet for:",
                 "options": [
                   "duo nomenclature",
@@ -433,7 +363,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 40,
+                "question_number": 34,
                 "question_text": "One millimeter can be shown as:",
                 "options": [
                   "= 0.000000001 m = 10−9 m",
@@ -445,7 +375,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 41,
+                "question_number": 35,
                 "question_text": "Fermentation by yeast produces ethanol and ______ gas.",
                 "options": [
                   "methane",
@@ -457,7 +387,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 42,
+                "question_number": 36,
                 "question_text": "Bacteria are prokaryotic because their genetic material (DNA) is not housed within a true ______",
                 "options": [
                   "ribosome",
@@ -469,7 +399,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 43,
+                "question_number": 37,
                 "question_text": "______ are protists that make up the backbone of many food webs by providing nutrients for other organisms.",
                 "options": [
                   "Plants",
@@ -481,7 +411,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 44,
+                "question_number": 38,
                 "question_text": "______ have been used to make pharmaceuticals, including penicillin.",
                 "options": [
                   "Plants",
@@ -493,7 +423,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 45,
+                "question_number": 39,
                 "question_text": "Viruses are ______ microorganisms, which means they are not composed of cells.",
                 "options": [
                   "productive",
@@ -505,7 +435,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 46,
+                "question_number": 40,
                 "question_text": "There are ______ nanometers in 530 meters.",
                 "options": [
                   "520,000,000",
@@ -517,7 +447,7 @@
                 "explanation": "Explanation not available."
               },
               {
-                "question_number": 47,
+                "question_number": 41,
                 "question_text": "Which of the following is true of the genetics of viruses?",
                 "options": [
                   "Viruses always contain DNA and force host cells to produce RNA.",
