@@ -27,3 +27,16 @@ This section describes the three types of muscle tissue, which are specialized f
     *   **Control:** Involuntary (controlled by the autonomic nervous system, hormones, local chemical factors).
 
 Muscle tissues convert chemical energy (ATP) into mechanical energy, enabling movement at various levels, from locomotion to the transport of substances within organs.
+
+Muscle tissue is essential for all types of body movement, both voluntary and involuntary.
+
+## Check Your Understanding
+
+1.  What is the primary, defining function of muscle tissue?
+2.  Name the three types of muscle tissue.
+3.  Create a table comparing the three muscle tissue types based on the following characteristics:
+    *   Location in the body
+    *   Cell shape and appearance (e.g., striations, number of nuclei)
+    *   Type of control (voluntary or involuntary)
+4.  What are intercalated discs, and in which specific type of muscle tissue are they found? What is their functional importance?
+5.  Which muscle tissue type has the greatest capacity for regeneration? Which has the least?

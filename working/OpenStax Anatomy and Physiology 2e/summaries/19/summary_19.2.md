@@ -29,3 +29,11 @@ This section examines the unique properties of cardiac muscle tissue and the hea
     *   Intervals (P-R, Q-T) and segments (S-T) provide information about conduction times and heart health.
 
 Cardiac muscle's unique structure and the intrinsic conduction system ensure coordinated, rhythmic contractions essential for pumping blood. The ECG provides a non-invasive view of this electrical activity.
+
+## Check Your Understanding
+
+1.  What are two key structural features of intercalated discs in cardiac muscle, and what is their function?
+2.  How does the source of Ca2+ for contraction differ between cardiac and skeletal muscle?
+3.  List the components of the heart's intrinsic conduction system in the correct order of signal propagation.
+4.  What is the role of the AV node in the conduction system?
+5.  What do the P wave, QRS complex, and T wave represent on an ECG?

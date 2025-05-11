@@ -26,3 +26,11 @@ This document summarizes the structure and function of the spleen, a major secon
     *   Flows into **sinusoids** (within red pulp).
     *   Blood collects in **venous sinuses**.
     *   Exits via the **splenic vein**.
+
+## Check Your Understanding
+
+1.  What are the two primary functions of the spleen?
+2.  Describe the location of the spleen.
+3.  What are the two main types of tissue found within the spleen, and what is the primary role of each?
+4.  How does red pulp contribute to the spleen's function?
+5.  What type of immune responses are primarily initiated in the white pulp?

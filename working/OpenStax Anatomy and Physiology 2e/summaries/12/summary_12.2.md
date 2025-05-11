@@ -26,3 +26,11 @@ This section describes the cellular components of nervous tissue: neurons (nerve
     *   **Schwann Cells (Neurolemmocytes):** Form myelin sheaths around axons in the PNS. One Schwann cell myelinates one segment of an axon. Also vital for regeneration of damaged peripheral nerve fibers.
 
 Nervous tissue comprises highly specialized neurons for signaling and diverse glial cells for support, insulation, and protection.
+
+## Check Your Understanding
+
+1.  What are the two principal cell types of nervous tissue?
+2.  List the four types of neuroglia found in the CNS and briefly state one function for each.
+3.  Name the two types of neuroglia found in the PNS and their primary functions.
+4.  Describe the main structural components of a typical neuron (cell body, dendrites, axon) and their functions.
+5.  What is the myelin sheath, and how does its presence affect nerve impulse transmission? Which glial cells form it in the CNS and PNS?

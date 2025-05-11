@@ -30,3 +30,13 @@ This section categorizes bones based on their shape and describes the general fe
         *   Act to protect tendons from excessive wear and tear and can alter the direction of pull of a tendon, improving mechanical advantage.
         *   Vary in number and location among individuals.
         *   Example: Patella (kneecap) is the largest and most consistent sesamoid bone. Others can be found in tendons of the hands and feet.
+
+The classification of bones by shape helps in understanding their varied roles and locations within the skeleton.
+
+## Check Your Understanding
+
+1.  What are the five main classifications of bones based on their shape?
+2.  Describe the general characteristics of a long bone and give two examples.
+3.  How do short bones differ from long bones in shape and function? Give an example of a short bone.
+4.  What is a sesamoid bone? Give an example.
+5.  Provide an example of a flat bone and an irregular bone, and briefly describe their typical functions.

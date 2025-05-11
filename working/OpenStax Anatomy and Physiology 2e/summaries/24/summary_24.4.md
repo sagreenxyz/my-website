@@ -38,4 +38,12 @@ This section covers the breakdown, synthesis, and interconversion of proteins an
 *   **Positive Nitrogen Balance:** Synthesis > Breakdown (e.g., growth, pregnancy, tissue repair).
 *   **Negative Nitrogen Balance:** Breakdown > Synthesis (e.g., starvation, illness, stress, poor protein intake).
 
+## Check Your Understanding
+
+1.  What are the two main fates of amino acids absorbed from digestion?
+2.  Describe the process of transamination in amino acid metabolism.
+3.  What happens during oxidative deamination, and what toxic byproduct is formed?
+4.  Why is the urea cycle important, and where does it primarily occur?
+5.  What does it mean to be in positive nitrogen balance versus negative nitrogen balance?
+
 Proteins serve crucial structural and functional roles. Amino acids can be interconverted, used for synthesis, or oxidized for energy after removal of the amine group, which is detoxified via the urea cycle in the liver.

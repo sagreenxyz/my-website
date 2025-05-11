@@ -24,3 +24,13 @@ This section explores the various factors that influence bone health, including 
     *   **Parathyroid Hormone (PTH):** Primarily regulates blood calcium; stimulates osteoclast activity (bone resorption) when blood calcium is low.
     *   **Calcitonin:** Primarily regulates blood calcium; inhibits osteoclast activity when blood calcium is high (less significant role in adults).
     *   **Glucocorticoids (e.g., Cortisol):** High levels (e.g., stress, medication) inhibit osteoblasts and increase bone resorption, leading to bone loss.
+
+Bone health is dynamic, influenced by mechanical stress, nutrition, and hormonal regulation, particularly concerning calcium homeostasis.
+
+## Check Your Understanding
+
+1.  What is bone remodeling? Which two bone cell types are primarily involved in this process?
+2.  Explain Wolff's Law in the context of bone remodeling.
+3.  Name two vitamins and two minerals crucial for bone health, and briefly state their role.
+4.  Describe the roles of Parathyroid Hormone (PTH) and Calcitonin in regulating blood calcium levels. Which one is released when blood calcium is low, and which when it's high?
+5.  How do growth hormone and sex hormones (testosterone/estrogens) influence bone growth and development?

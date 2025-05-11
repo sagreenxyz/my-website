@@ -33,4 +33,12 @@ This section describes the components of the cell between the plasma membrane an
 *   **Flagella:** Longer projections containing microtubules. Propel the whole cell (only sperm in humans).
 *   **Microvilli:** Finger-like extensions of the plasma membrane. Increase surface area for absorption (e.g., intestinal lining). Contain actin core.
 
+## Check Your Understanding
+
+1.  What are the three main components of the cytoplasm?
+2.  List three membranous organelles and briefly state the primary function of each.
+3.  Describe the difference in function between Rough ER (RER) and Smooth ER (SER).
+4.  What are the three types of protein filaments that make up the cytoskeleton, and what is a general function of the cytoskeleton?
+5.  What is the role of ribosomes, and where can they be found in the cell?
+
 The cytoplasm and its organelles work together to carry out the essential functions of the cell.

@@ -26,3 +26,11 @@ This chapter review consolidates the information presented about the cell, the f
 *   **3.7 Cell Differentiation:** Introduces the concept of how cells become specialized in structure and function through differential gene expression, starting from unspecialized stem cells.
 
 Understanding these cellular structures and processes is essential for comprehending physiology at all levels.
+
+## Check Your Understanding
+
+1.  Describe the basic structure of the cell membrane according to the fluid mosaic model (section 3.1).
+2.  Differentiate between passive and active transport across the cell membrane, providing one example of each (section 3.2).
+3.  Name three membranous organelles and state their primary function (section 3.3).
+4.  What are the two main steps of protein synthesis, and where does each occur (section 3.5)?
+5.  List the phases of interphase and the stages of mitosis (section 3.6).

@@ -24,3 +24,11 @@ This section describes leukocytes (White Blood Cells) and platelets, their types
 *   **Disorders:** Thrombocytosis (excess platelets), Thrombocytopenia (insufficient platelets, risk of bleeding).
 
 Leukocytes provide immunity, while platelets are critical for preventing blood loss.
+
+## Check Your Understanding
+
+1.  What is the primary function of leukocytes (WBCs)?
+2.  Name the three types of granulocytes and one key function for each.
+3.  Name the two types of agranulocytes and one key function for each.
+4.  What are platelets, and from what cells are they derived?
+5.  What is the main function of platelets?

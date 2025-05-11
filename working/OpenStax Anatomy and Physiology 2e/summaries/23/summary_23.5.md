@@ -40,3 +40,11 @@ This section details the anatomy and functions of the small and large intestines
 *   **Defecation:** Mass movements force feces into rectum, initiating the defecation reflex (spinal cord reflex). Stretching of rectal wall signals CNS. Parasympathetic signals cause sigmoid colon and rectum contraction, internal sphincter relaxation. External sphincter under voluntary control allows conscious decision to defecate. Valsalva's maneuver aids expulsion.
 
 The small intestine is highly adapted for digestion and absorption with a vast surface area, while the large intestine primarily absorbs water and electrolytes and eliminates indigestible waste.
+
+## Check Your Understanding
+
+1.  What are the three subdivisions of the small intestine, and what is a primary function of each?
+2.  List and briefly describe the three structural modifications of the small intestine that increase its surface area for absorption.
+3.  Compare the primary functions of the small intestine with those of the large intestine.
+4.  What are haustra and teniae coli, and in which part of the intestine are they found?
+5.  Describe the role of bacterial flora in the large intestine.

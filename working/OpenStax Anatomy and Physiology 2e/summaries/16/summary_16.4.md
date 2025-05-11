@@ -31,3 +31,11 @@ This section covers the assessment of sensory pathways (transmitting information
     *   **Plantar Response (Babinski Sign):** Stroking the sole of the foot. Normal response is toe flexion. Abnormal (Babinski sign present) is extension of the big toe and fanning of other toes, indicating UMN lesion in adults.
 
 The sensory and motor exams provide critical information for localizing lesions within the central and peripheral nervous systems.
+
+## Check Your Understanding
+
+1.  List three sensory modalities commonly tested in a neurological exam.
+2.  What is stereognosis, and what does it assess?
+3.  What are the key components evaluated during the motor exam (e.g., inspection, tone, strength, reflexes)?
+4.  How is muscle strength typically graded?
+5.  What is the significance of hyperreflexia versus hyporeflexia in deep tendon reflexes?

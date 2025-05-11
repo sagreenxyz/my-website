@@ -43,3 +43,11 @@ This section explores connective tissue, the most abundant and diverse primary t
 4.  **Blood:** Atypical connective tissue; fluid matrix (plasma) containing RBCs, WBCs, platelets. Fibers are soluble proteins visible during clotting. Transports respiratory gases, nutrients, wastes, hormones. Contained within blood vessels.
 
 Connective tissues provide the structural framework and support system for the entire body.
+
+## Check Your Understanding
+
+1.  What are the three common structural elements found in all connective tissues?
+2.  What are the two main components of the extracellular matrix in connective tissue? What is the general function of ground substance versus fibers?
+3.  List the four main classes of connective tissue.
+4.  For "Connective Tissue Proper," name its two subclasses. Then, for each subclass, name one specific type of tissue, its main cell type, and one primary function/location.
+5.  Name the three types of cartilage. How do they differ in terms of fiber composition and general properties/locations?

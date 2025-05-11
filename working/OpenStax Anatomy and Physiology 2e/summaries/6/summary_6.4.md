@@ -34,3 +34,13 @@ This section describes the processes of bone formation (ossification or osteogen
         *   Osteoclasts on the endosteal surface resorb bone lining the medullary cavity, widening it.
         *   Allows bone to thicken without becoming excessively heavy. Occurs throughout life in response to stress.
 *   **Bone Remodeling:** Continuous process throughout life involving bone resorption by osteoclasts and bone deposition by osteoblasts. Repairs microdamage, reshapes bone according to mechanical stress, and regulates calcium levels.
+
+Bone development is a complex process involving the formation of the bony skeleton in embryos and subsequent bone growth until early adulthood.
+
+## Check Your Understanding
+
+1.  What are the two main types of ossification (bone formation)?
+2.  Briefly describe the process of intramembranous ossification. Which types of bones are typically formed this way?
+3.  Outline the key steps involved in endochondral ossification. What type of tissue serves as the precursor model for bones formed by this process?
+4.  Explain how long bones grow in length (interstitial growth at the epiphyseal plate). What are the different zones of the epiphyseal plate?
+5.  How do bones grow in width (appositional growth)?

@@ -39,3 +39,11 @@ This section describes the two major metabolic states—absorptive and postabsor
     *   **Other Hormones:** Sympathetic nervous system (epinephrine/norepinephrine), cortisol, growth hormone also promote fat mobilization and gluconeogenesis, especially during prolonged fasting or stress.
 
 The body dynamically shifts between absorptive (storage) and postabsorptive (mobilization) states, orchestrated mainly by insulin and glucagon, to ensure continuous energy availability and stable blood glucose levels.
+
+## Check Your Understanding
+
+1.  What are the two major metabolic states of the body?
+2.  Describe the primary metabolic focus (anabolism or catabolism) during the absorptive state.
+3.  What happens to excess glucose, triglycerides, and amino acids during the absorptive state?
+4.  Which hormone is primarily responsible for directing the events of the absorptive state, and what are its main effects?
+5.  What is the primary goal of the postabsorptive state, and which hormone is key in mediating its events?

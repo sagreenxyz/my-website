@@ -43,3 +43,11 @@ This section introduces the concept of joints (articulations) and explains the t
     *   Characterized by articular cartilage, joint cavity, articular capsule, synovial fluid, and reinforcing ligaments.
 
 **Relationship:** There is often overlap between classifications. Fibrous joints are mostly synarthrotic. Cartilaginous joints are mostly amphiarthrotic. All synovial joints are diarthrotic. The structural classification provides a more precise way to categorize joints.
+
+## Check Your Understanding
+
+1.  What is the basic definition of a joint (articulation)?
+2.  List the three functional classifications of joints and describe the amount of movement each allows.
+3.  Provide an example for each functional classification of joints.
+4.  Which functional classification of joints is most common in the axial skeleton, and why?
+5.  Which functional classification of joints predominates in the appendicular skeleton, and why?

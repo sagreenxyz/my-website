@@ -16,3 +16,11 @@ This chapter review consolidates the information presented about the four primar
 *   **4.6 Tissue Injury and Aging:** Discusses inflammation as the initial response to injury. Explains tissue repair mechanisms: regeneration (replacement with same tissue) and fibrosis (scar formation). Covers factors affecting repair and the general effects of aging on tissues (thinning epithelia, loss of bone/muscle mass, decreased efficiency). Introduces tissue membranes (cutaneous, mucous, serous, synovial).
 
 The chapter highlights how these four tissue types combine in various ways to form all body organs and structures.
+
+## Check Your Understanding
+
+1.  What are the four primary tissue types introduced in section 4.1?
+2.  List three characteristics of epithelial tissue and one of its major functions (section 4.2).
+3.  What are the main components of the extracellular matrix in connective tissue (section 4.3)?
+4.  Name the three types of loose connective tissue proper.
+5.  What are the three types of muscle tissue, and state whether each is voluntary or involuntary (section 4.4)?

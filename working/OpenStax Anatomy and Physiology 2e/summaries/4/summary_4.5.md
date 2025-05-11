@@ -27,4 +27,12 @@ Nervous tissue is composed of two major cell types:
     *   **PNS Glia:** Satellite cells, Schwann cells (form myelin sheaths).
     *   Capable of mitosis (unlike most neurons).
 
-Nervous tissue forms the communication network of the body, enabling rapid coordination and control of physiological activities.
+Nervous tissue forms the body's primary communication network, enabling rapid control and coordination of body activities.
+
+## Check Your Understanding
+
+1.  What is the main function of nervous tissue?
+2.  What are the two major cell types that make up nervous tissue?
+3.  Describe the basic structure of a neuron, including its cell body (soma), dendrites, and axon. What is the primary function of each of these parts?
+4.  What is the general role of neuroglia (glial cells)? Name two examples of glial cells.
+5.  Where is nervous tissue predominantly found in the body (i.e., which organs comprise the nervous system)?

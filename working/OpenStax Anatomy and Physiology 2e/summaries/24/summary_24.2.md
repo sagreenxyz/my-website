@@ -44,4 +44,12 @@ This section focuses on the breakdown and synthesis of carbohydrates, particular
 *   **Glycogenolysis:** Breakdown of glycogen to release glucose when blood glucose levels drop. Occurs mainly in the liver (to release glucose into blood) and muscle (for its own use). Stimulated by glucagon and epinephrine.
 *   **Gluconeogenesis:** Synthesis of new glucose from non-carbohydrate sources (like amino acids, lactic acid, glycerol) when glucose levels are very low and glycogen stores are depleted. Occurs primarily in the liver.
 
+## Check Your Understanding
+
+1.  What are the three major pathways of cellular respiration for glucose metabolism?
+2.  Where does glycolysis occur, and what are its main products from one glucose molecule?
+3.  What happens to pyruvic acid under aerobic versus anaerobic conditions?
+4.  What are the main products of the Krebs cycle per molecule of acetyl-CoA?
+5.  What is the role of oxygen in the Electron Transport Chain and oxidative phosphorylation?
+
 Carbohydrate metabolism involves interconnected pathways that break down glucose to generate ATP (glycolysis, Krebs cycle, ETC) and pathways that store or synthesize glucose (glycogenesis, gluconeogenesis) to maintain energy homeostasis.

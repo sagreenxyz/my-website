@@ -26,3 +26,11 @@ This section describes various techniques used to create images of the internal 
     *   **Limitations:** Image quality depends on operator skill; sound waves do not penetrate bone or air well.
 
 Medical imaging techniques provide invaluable tools for diagnosing diseases and injuries by visualizing internal body structures and functions.
+
+## Check Your Understanding
+
+1.  Which imaging technique is best for visualizing bones and other dense structures using short-wavelength electromagnetic radiation?
+2.  How does Computed Tomography (CT) differ from a standard X-ray?
+3.  For what types of tissues is Magnetic Resonance Imaging (MRI) particularly useful, and what is one of its main advantages over CT?
+4.  What does Positron Emission Tomography (PET) primarily observe, and how does it work?
+5.  What is a major advantage of Ultrasonography, and in what common medical scenario is it used?

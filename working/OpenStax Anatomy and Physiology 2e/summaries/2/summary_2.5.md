@@ -28,4 +28,12 @@ This section describes the major classes of organic compounds—those containing
     *   Modified nucleotide (adenine, ribose, 3 phosphate groups).
     *   **Function:** Primary energy-transferring molecule in cells. Energy is released when the terminal high-energy phosphate bond is broken (ATP → ADP + Pi + Energy).
 
-Organic molecules provide the structural components, energy sources, and functional molecules necessary for life.
+These four classes of organic macromolecules perform a vast array of functions essential for cellular structure and activity.
+
+## Check Your Understanding
+
+1.  What element is the backbone of all organic molecules?
+2.  What are the monomers (building blocks) and general functions of carbohydrates? Give an example of a monosaccharide, a disaccharide, and a polysaccharide.
+3.  List the major types of lipids and describe one key function for each type. What is a common characteristic of lipids regarding their solubility in water?
+4.  What are the monomers of proteins? Describe the four levels of protein structure and explain why a protein's shape is crucial for its function.
+5.  What are the monomers of nucleic acids? Name the two main types of nucleic acids and state their primary functions. What is the role of ATP?

@@ -16,3 +16,11 @@ This section introduces the neurological exam as a clinical assessment tool used
 *   **Relationship to Symptoms:** The specific tests performed may be guided by the patient's reported symptoms (e.g., weakness, numbness, vision changes, dizziness).
 
 The neurological exam is a powerful diagnostic tool based on understanding the anatomical organization and functional localization within the nervous system.
+
+## Check Your Understanding
+
+1.  What is the primary purpose of the neurological exam?
+2.  Explain the principle of "localization of function" in the context of neurology.
+3.  List the five major sections of a typical neurological exam.
+4.  Which part of the exam would specifically assess higher cognitive functions like memory and language?
+5.  Which part of the exam would primarily test cerebellar function?

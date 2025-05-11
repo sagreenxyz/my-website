@@ -44,3 +44,13 @@ This section describes the structures derived from the epidermis that extend dow
     *   Secrete an oily substance called **sebum** via holocrine secretion (cell ruptures).
     *   **Sebum:** Softens and lubricates hair and skin, prevents water loss, has bactericidal properties.
     *   Activated at puberty by hormones. Blockage leads to acne.
+
+These accessory structures are integral to the skin's overall functions, including protection, sensation, and thermoregulation.
+
+## Check Your Understanding
+
+1.  What are the three main accessory structures of the skin discussed in this section?
+2.  Describe the basic structure of a hair, including the hair follicle, hair root, and hair shaft. What is the function of the arrector pili muscle?
+3.  What is the primary component of nails, and what is their main function? Name two parts of a nail.
+4.  Compare and contrast eccrine (merocrine) sweat glands and apocrine sweat glands in terms of their location, the composition of their secretion, and their primary function.
+5.  What do sebaceous glands secrete, and what are the main functions of this secretion?

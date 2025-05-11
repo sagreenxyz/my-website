@@ -42,3 +42,13 @@ This section details the macroscopic (gross) and microscopic anatomy of bone tis
     *   **Organic Components (approx. 35%):** Cells and osteoid (collagen fibers, ground substance). Provide flexibility and tensile strength.
     *   **Inorganic Components (approx. 65%):** Hydroxyapatite (mineral salts, primarily calcium phosphate). Provide hardness and resistance to compression.
 *   **Blood and Nerve Supply:** Bone is well vascularized and innervated. Nutrient arteries enter via nutrient foramina. Nerves accompany blood vessels, especially in the periosteum (source of pain in fractures).
+
+The intricate structure of bone, from its gross features to its microscopic components, is perfectly adapted for its supportive, protective, and metabolic functions.
+
+## Check Your Understanding
+
+1.  Describe the main components of a typical long bone's gross anatomy (diaphysis, epiphyses, membranes like periosteum and endosteum).
+2.  What is the difference between compact bone and spongy bone in terms of structure and location?
+3.  Name the four major types of bone cells and briefly describe the primary function of each.
+4.  What is an osteon (Haversian system)? Describe its main components (lamellae, central canal, lacunae, canaliculi).
+5.  What are trabeculae, and where are they found? How does their arrangement benefit spongy bone?

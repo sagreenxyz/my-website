@@ -45,3 +45,10 @@ This section lists important terminology related to the cellular level of organi
 *   **Telophase:** Final stage of mitosis where chromosomes decondense and nuclear envelopes reform.
 *   **Transcription:** Synthesis of RNA from a DNA template.
 *   **Translation:** Synthesis of protein from an mRNA template.
+
+## Check Your Understanding
+
+1.  Define "Ribosome" based on its function.
+2.  What is the role of the "Sodium-Potassium Pump" in cellular transport?
+3.  Briefly explain what occurs during "Telophase".
+4.  Differentiate between "Transcription" and "Translation".

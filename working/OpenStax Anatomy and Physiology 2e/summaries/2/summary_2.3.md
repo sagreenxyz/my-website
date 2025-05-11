@@ -20,3 +20,11 @@ This section explains how chemical bonds are formed, broken, or rearranged durin
     *   **Catalysts (Enzymes):** Substances that increase reaction rates without being chemically changed themselves. Enzymes are biological catalysts that lower the **activation energy** (energy needed to start a reaction).
 
 Chemical reactions are fundamental to all metabolic processes in the body.
+
+## Check Your Understanding
+
+1.  Define a chemical reaction.
+2.  What is the difference between a synthesis reaction and a decomposition reaction? Give an example of where each might occur in the body.
+3.  Explain the terms exergonic and endergonic in the context of chemical reactions.
+4.  List three factors that can influence the rate of a chemical reaction.
+5.  What is a catalyst, and how do enzymes function as biological catalysts?

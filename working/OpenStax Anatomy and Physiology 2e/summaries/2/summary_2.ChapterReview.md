@@ -21,3 +21,11 @@ This chapter review summarizes the fundamental chemical principles that underpin
     *   **Nucleic Acids:** DNA (deoxyribonucleic acid) and RNA (ribonucleic acid). Polymers of nucleotides (sugar, phosphate, base). DNA stores genetic code; RNA involved in protein synthesis. Introduces ATP (adenosine triphosphate) as the cell's main energy currency.
 
 Understanding these chemical building blocks and reactions is essential for comprehending biological processes.
+
+## Check Your Understanding
+
+1.  What are the three main subatomic particles, and what are their charges? (2.1)
+2.  Describe the difference between an ionic bond and a covalent bond. (2.2)
+3.  List three factors that can influence the rate of chemical reactions. (2.3)
+4.  Why is water considered the universal solvent, and why is this important for life? (2.4)
+5.  Name the four major classes of organic macromolecules and give one primary function for each. (2.5)

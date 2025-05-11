@@ -27,3 +27,11 @@ This section describes the process of milk production and secretion by the mamma
 *   **Benefits for Mother:** Stimulates uterine contraction (reducing postpartum bleeding), potential for faster return to pre-pregnancy weight, reduced risk of certain cancers (breast, ovarian), bonding.
 
 Lactation is a hormonally regulated process providing ideal nutrition and immune protection for the infant, initiated and maintained by infant suckling.
+
+## Check Your Understanding
+
+1.  Which hormone is primarily responsible for milk production (synthesis), and where is it produced?
+2.  What is the role of oxytocin in lactation, and what triggers its release?
+3.  How do estrogen and progesterone levels during pregnancy affect milk production?
+4.  Explain the milk ejection reflex (let-down reflex).
+5.  Name one key component of breast milk and one benefit it provides to the infant.

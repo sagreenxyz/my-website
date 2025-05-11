@@ -24,3 +24,11 @@ This section introduces the endocrine system, comparing it with the nervous syst
 *   (Note: Paracrines and autocrines are local chemical messengers, not considered true hormones if they don't circulate in blood).
 
 The endocrine system uses hormones circulating in the blood to regulate diverse physiological processes over longer time scales compared to the nervous system.
+
+## Check Your Understanding
+
+1.  Compare the nervous system and endocrine system in terms of signal type and speed of action.
+2.  What is a hormone, and how does it reach its target cells?
+3.  What defines a target cell for a specific hormone?
+4.  List three major endocrine glands.
+5.  Differentiate between endocrine and paracrine signaling.

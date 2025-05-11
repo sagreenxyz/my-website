@@ -33,3 +33,13 @@ This section describes the structure of the skin, which consists of two main lay
     *   **Melanin:** Primary pigment (yellow to reddish-brown to black); produced by melanocytes, amount influenced by genetics and sun exposure. Protects against UV radiation.
     *   **Carotene:** Yellow to orange pigment found in certain plants; accumulates in stratum corneum and hypodermis.
     *   **Hemoglobin:** Pinkish hue of fair skin reflects the crimson color of oxygenated hemoglobin in dermal capillaries.
+
+The skin is a complex organ with distinct layers, each contributing to its overall function in protecting the body.
+
+## Check Your Understanding
+
+1.  What are the two main layers of the skin? What type of tissue primarily composes each layer?
+2.  List the five layers of the epidermis in order from superficial to deep (or deep to superficial). Which layer is absent in thin skin?
+3.  What is the primary cell type in the epidermis, and what protein does it produce? What is the function of this protein?
+4.  Name two other cell types found in the epidermis and describe their primary function.
+5.  What are the two layers of the dermis? Which layer is responsible for fingerprints?

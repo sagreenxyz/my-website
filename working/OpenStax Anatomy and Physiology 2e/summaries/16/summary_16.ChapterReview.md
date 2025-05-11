@@ -13,3 +13,11 @@ This chapter review consolidates the information presented about the neurologica
 *   **16.5 Coordination and Gait:** Assesses cerebellar function and integration of sensory/motor systems. Coordination tests include finger-to-nose, heel-to-shin, and rapid alternating movements (testing for dysmetria, intention tremor, dysdiadochokinesia). Gait exam observes walking, turning, tandem gait, and includes the Romberg test (sensory vs. cerebellar ataxia).
 
 The neurological exam is a fundamental clinical skill integrating knowledge of neuroanatomy and physiology to diagnose and localize nervous system disorders.
+
+## Check Your Understanding
+
+1.  What are the five main sections of a neurological exam (16.1)?
+2.  List three aspects evaluated in the mental status exam (16.2).
+3.  Why is testing cranial nerves important in a neurological exam (16.3)?
+4.  What is the difference between an Upper Motor Neuron (UMN) sign and a Lower Motor Neuron (LMN) sign in the motor exam (16.4)? Give an example of each.
+5.  Name one test used to assess coordination and state what part of the brain it primarily evaluates (16.5).

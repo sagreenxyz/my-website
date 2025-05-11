@@ -19,3 +19,13 @@ This section outlines the primary physiological functions performed by the skele
     *   Red bone marrow, located within the cavities of certain bones (e.g., spongy bone of flat bones, epiphyses of long bones like femur and humerus), is the site of production for red blood cells, white blood cells, and platelets.
 *   **Triglyceride (Fat) Storage:**
     *   Yellow bone marrow, found in the medullary cavities of long bones in adults, consists primarily of adipose tissue and serves as a source of stored energy (triglycerides).
+
+The skeletal system provides the internal framework of the body, crucial for survival and movement.
+
+## Check Your Understanding
+
+1.  List the six primary functions of the skeletal system.
+2.  Explain how the skeletal system provides support and protection, giving an example for each.
+3.  How does the skeletal system facilitate movement?
+4.  What is hematopoiesis, and where does it primarily occur within the skeletal system?
+5.  Describe the role of bones in mineral and growth factor storage.

@@ -49,3 +49,11 @@ This section delves into the microscopic anatomy of skeletal muscle tissue, from
     5.  Binding opens ligand-gated ion channels permeable to Na⁺ and K⁺. More Na⁺ enters than K⁺ exits, causing local depolarization (**End Plate Potential - EPP**).
     6.  EPP spreads to adjacent sarcolemma and triggers opening of voltage-gated Na⁺ channels, initiating an **action potential (AP)** that propagates along the sarcolemma.
     7.  ACh effects are terminated by the enzyme **acetylcholinesterase (AChE)** in the synaptic cleft, breaking down ACh.
+
+## Check Your Understanding
+
+1.  Name the three connective tissue sheaths found in skeletal muscle and state what each surrounds.
+2.  What is a sarcomere? Describe its key components (A band, I band, Z disc, H zone, M line).
+3.  What are the two primary myofilaments, and what proteins are they mainly composed of?
+4.  What is the role of the Sarcoplasmic Reticulum (SR) and T-tubules in muscle contraction?
+5.  Outline the sequence of events that occur at the neuromuscular junction to initiate a muscle fiber action potential.

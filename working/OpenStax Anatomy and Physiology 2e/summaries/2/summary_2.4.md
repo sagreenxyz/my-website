@@ -35,4 +35,12 @@ This section discusses inorganic compounds—those generally lacking carbon (exc
     *   Systems that resist abrupt changes in pH by binding H+ when pH drops and releasing H+ when pH rises.
     *   Crucial for maintaining blood pH homeostasis (e.g., carbonic acid-bicarbonate buffer system).
 
-Inorganic compounds, especially water and electrolytes, play critical roles in maintaining the body's structure and function.
+The properties of inorganic compounds, especially water, and the maintenance of pH balance are critical for physiological functions.
+
+## Check Your Understanding
+
+1.  List four properties of water that make it essential for life.
+2.  What is a salt? How does it typically form?
+3.  Define an acid and a base according to their effect on H+ concentration.
+4.  Explain the pH scale. What does a pH of 3, 7, and 10 signify in terms of acidity/alkalinity?
+5.  What is a buffer system, and how does it help maintain pH homeostasis in the body?

@@ -15,3 +15,11 @@ This section outlines the fundamental processes necessary for maintaining human 
 *   **Reproduction:** Formation of a new organism from parent organisms (cellular or organismal level). Essential for species survival.
 
 These functions are interrelated and necessary for survival.
+
+## Check Your Understanding
+
+1.  Define metabolism and distinguish between anabolism and catabolism.
+2.  What is responsiveness, and why is it important for survival?
+3.  Explain the difference between growth and development.
+4.  List three of the key life functions described in this section.
+5.  Why is organization considered a key life function?

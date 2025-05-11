@@ -12,3 +12,11 @@ This chapter review consolidates the information presented about the structure a
 *   **3.6 Cellular Differentiation:** Introduces the concept of how cells specialize to perform specific functions, leading to the diverse cell types found in the body.
 
 The chapter emphasizes the cell as the basic structural and functional unit of the human body.
+
+## Check Your Understanding
+
+1.  What are the main components of the cell membrane as described by the fluid mosaic model (section 3.1)?
+2.  Compare and contrast passive and active transport mechanisms across the cell membrane, giving an example of each (section 3.2).
+3.  Name three key organelles found in the cytoplasm and briefly describe their function (section 3.3).
+4.  What is the primary role of the nucleus, and what are its main structural components (section 3.4)?
+5.  Outline the main phases of the cell cycle (section 3.5).

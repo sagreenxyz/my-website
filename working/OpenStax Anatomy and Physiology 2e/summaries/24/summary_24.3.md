@@ -40,4 +40,12 @@ This section details how the body processes, stores, and utilizes lipids (fats),
 *   Providing essential fatty acids (linoleic, linolenic).
 *   Absorption of fat-soluble vitamins.
 
+## Check Your Understanding
+
+1.  Why do lipids require lipoproteins for transport in the blood? Name two types of lipoproteins and their primary function.
+2.  What is lipolysis, and what are its products?
+3.  Briefly describe the process of beta-oxidation. What is its main product that enters the Krebs cycle?
+4.  Under what conditions does ketogenesis occur, and what are ketone bodies?
+5.  What is lipogenesis, and where does it primarily occur?
+
 Lipid metabolism involves the breakdown of fats (lipolysis, beta-oxidation) for energy, synthesis of fats (lipogenesis) for storage, and transport via lipoproteins. It is crucial for energy balance and provides building blocks for various essential molecules.

@@ -11,3 +11,11 @@ This section introduces the fundamental disciplines of anatomy and physiology an
     *   **Systemic Anatomy:** Study of structures comprising a discrete body system.
 *   **Physiology:** The scientific study of the chemistry and physics of the body's structures and how they function together to support life. Focuses on maintaining **homeostasis**.
 *   **Relationship:** Form (anatomy) dictates function (physiology). The specific arrangement and structure of body parts allow them to perform their specific roles. Understanding both is crucial for comprehending the human body.
+
+## Check Your Understanding
+
+1.  Define anatomy.
+2.  Define physiology.
+3.  Explain the difference between gross anatomy and microscopic anatomy.
+4.  What is homeostasis, and why is it a central concept in physiology?
+5.  Describe the principle of complementarity of structure and function.

@@ -29,3 +29,11 @@ This section describes the structure and function of the pituitary gland (hypoph
             *   **Prolactin (PRL):** Stimulates milk production by breasts. Release primarily controlled by inhibitory hormone PIH (dopamine) from hypothalamus. Levels rise toward end of pregnancy; suckling stimulates release.
 
 The hypothalamus-pituitary axis forms a critical link integrating neural and endocrine control of many body functions.
+
+## Check Your Understanding
+
+1.  How does the hypothalamus control the posterior pituitary versus the anterior pituitary?
+2.  Name the two hormones released from the posterior pituitary, their primary target organs, and their main effects.
+3.  What is the hypothalamic-hypophyseal portal system, and what is its significance?
+4.  List the six hormones produced by the anterior pituitary. For two of these hormones, state their target gland and the hormone(s) whose release they stimulate.
+5.  What is a tropic hormone? Name two tropic hormones released by the anterior pituitary.

@@ -12,3 +12,11 @@ This chapter review consolidates the foundational information presented about hu
 *   **1.6 Medical Imaging:** Briefly introduces common techniques used to visualize internal body structures (X-ray, CT, MRI, PET, ultrasound).
 
 The chapter establishes the framework and language necessary for studying the human body in subsequent chapters.
+
+## Check Your Understanding
+
+1.  What is the difference between anatomy and physiology (1.1)?
+2.  List the levels of structural organization from smallest to largest (1.2).
+3.  Define homeostasis and explain the role of a negative feedback loop in maintaining it (1.4).
+4.  Describe the anatomical position (1.5).
+5.  Name one type of medical imaging and briefly state its primary use (1.6).

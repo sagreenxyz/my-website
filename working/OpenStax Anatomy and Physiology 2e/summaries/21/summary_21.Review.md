@@ -38,3 +38,11 @@ This chapter review summarizes the key concepts regarding the anatomy and functi
     *   Cancer Immunology: Immune surveillance can eliminate cancer cells. Tumors express antigens but can evade immune attack. Immunotherapies aim to boost anti-cancer immunity (checkpoint inhibitors, CAR-T cells).
 
 The lymphatic and immune systems work together to protect the body from pathogens and abnormal cells, involving complex interactions between innate and adaptive components.
+
+## Check Your Understanding
+
+1.  What are the three main functions of the lymphatic system (21.1)?
+2.  Name two types of phagocytic cells involved in the innate immune response (21.2).
+3.  Differentiate between MHC I and MHC II molecules in terms of which cells display them and which T cells recognize them (21.3).
+4.  What are the main roles of plasma cells and memory B cells in humoral immunity (21.4)?
+5.  Give an example of an immunodeficiency and an autoimmune disorder (21.6).

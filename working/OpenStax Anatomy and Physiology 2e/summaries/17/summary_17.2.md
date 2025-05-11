@@ -47,3 +47,11 @@ This section details the chemical nature of hormones, their mechanisms of action
 
 *   Water-soluble hormones circulate freely in blood. Lipid-soluble hormones circulate bound to plasma proteins.
 *   Hormones are degraded by enzymes (in target cells or blood/liver) or excreted by kidneys. Half-life varies.
+
+## Check Your Understanding
+
+1.  What are the two major chemical classifications of hormones? Give an example of each.
+2.  How do water-soluble hormones typically exert their effects on target cells (receptor location, use of second messengers)?
+3.  How do lipid-soluble hormones typically exert their effects on target cells (receptor location, mechanism of action)?
+4.  Name and briefly describe the three types of stimuli that control hormone release.
+5.  Define synergism and antagonism as they relate to hormone interactions.

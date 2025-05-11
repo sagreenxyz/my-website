@@ -50,4 +50,16 @@ Based on two criteria: number of cell layers and shape of cells at the apical su
         *   **Holocrine:** Accumulate products until cell ruptures (e.g., sebaceous glands).
         *   **Apocrine:** Accumulate products at apical portion, which pinches off (controversial in humans; possibly mammary glands).
 
-Epithelial tissues are diverse and essential for covering, lining, and glandular functions throughout the body.
+Epithelial tissues are diverse and play critical roles in protection, secretion, absorption, excretion, filtration, diffusion, and sensory reception.
+
+## Check Your Understanding
+
+1.  List five special characteristics of epithelial tissue that distinguish it from other tissue types.
+2.  How are epithelial tissues classified? (Hint: two criteria)
+3.  Describe the structure, function, and a common location for:
+    *   Simple squamous epithelium
+    *   Stratified squamous epithelium
+    *   Simple cuboidal epithelium
+    *   Pseudostratified columnar epithelium
+4.  What is glandular epithelium? Distinguish between exocrine and endocrine glands based on their structure and how they release their products.
+5.  Name two types of cell junctions commonly found in epithelia and explain the function of each.

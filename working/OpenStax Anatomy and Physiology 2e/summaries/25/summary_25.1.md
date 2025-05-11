@@ -39,3 +39,11 @@ This section describes the typical physical properties and chemical composition 
     *   **Leukocytes (Pyuria):** Urinary tract infection (UTI).
 
 Urinalysis, the examination of urine's physical and chemical properties, is a valuable diagnostic tool providing insights into metabolic state, kidney function, and potential diseases.
+
+## Check Your Understanding
+
+1.  What pigment is responsible for the normal yellow color of urine, and from what is it derived?
+2.  What might persistent cloudiness in a urine sample indicate?
+3.  What is the typical pH range of urine, and what dietary factors can influence it?
+4.  Define specific gravity in the context of urine. What does a high specific gravity generally indicate?
+5.  List three physical characteristics of urine that are routinely assessed.

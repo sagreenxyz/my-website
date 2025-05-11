@@ -34,4 +34,12 @@ This section discusses the body's response to tissue injury, including inflammat
 *   Circulation may decrease, impairing nutrient/oxygen delivery for repair.
 *   Increased risk of cancer due to accumulated DNA damage/mutations.
 
-Tissue repair is a complex process involving inflammation and either regeneration or fibrosis, influenced by tissue type, injury severity, and age.
+The body's ability to repair damaged tissue is crucial for maintaining health and function.
+
+## Check Your Understanding
+
+1.  What are the two main processes by which tissue repair occurs? Define each.
+2.  Describe the three major steps involved in tissue repair following an injury (inflammation, organization, regeneration/fibrosis).
+3.  What is granulation tissue, and what role does it play in the organization phase of repair?
+4.  List three factors that can affect the success and rate of tissue repair.
+5.  Compare the regenerative capacity of the four primary tissue types (epithelial, connective, muscle, nervous). Which generally regenerates best, and which poorly?

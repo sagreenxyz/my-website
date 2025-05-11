@@ -31,3 +31,11 @@ This section describes the mechanical and electrical events occurring during one
     *   *Stroke Volume (SV):* Volume ejected per beat (SV = EDV - ESV).
 
 The cardiac cycle involves coordinated pressure and volume changes within the heart chambers, driven by muscle contraction/relaxation and regulated by valve action, resulting in the pumping of blood.
+
+## Check Your Understanding
+
+1.  What are the two main phases of the cardiac cycle for the ventricles?
+2.  Describe what happens during the "Ventricular Filling" phase. What is EDV?
+3.  What events cause the first heart sound ("lub") and the second heart sound ("dub")?
+4.  Explain "isovolumetric contraction" and "isovolumetric relaxation."
+5.  Define Stroke Volume (SV) and how it relates to EDV and ESV.

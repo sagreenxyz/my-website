@@ -54,3 +54,11 @@ This section describes the components of the peripheral nervous system (PNS), wh
 *   Process involves Schwann cells forming a regeneration tube to guide axon growth. CNS axons typically do not regenerate effectively due to inhibitory factors and lack of Schwann cells.
 
 The PNS connects the CNS to the rest of the body, mediating sensory input and motor output.
+
+## Check Your Understanding
+
+1.  List the three ways sensory receptors are classified and give an example for each classification method.
+2.  What is the difference between an unencapsulated and an encapsulated simple receptor?
+3.  Describe the connective tissue sheaths that structure a peripheral nerve.
+4.  What is a mixed nerve? Are spinal nerves typically sensory, motor, or mixed?
+5.  What is a dermatome?

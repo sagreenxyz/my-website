@@ -10,3 +10,9 @@ This section contains review questions designed to test comprehension of the key
 *   Overview of protein synthesis (transcription and translation).
 *   The cell cycle, including interphase and mitosis (prophase, metaphase, anaphase, telophase) and cytokinesis.
 *   Concept of cellular differentiation.
+
+## Check Your Understanding
+
+1.  For each of the key topics listed above (cell membrane, transport, organelles, nucleus, protein synthesis, cell cycle, differentiation), formulate one specific question that tests deeper understanding beyond a simple definition.
+2.  Choose one organelle and describe how its structure relates to its function.
+3.  Explain the importance of the cell cycle for an organism.

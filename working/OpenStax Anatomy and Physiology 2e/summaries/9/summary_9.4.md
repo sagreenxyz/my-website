@@ -21,6 +21,14 @@ All synovial joints share these structural characteristics:
     *   **Intracapsular:** Deep to the capsule (but covered by synovial membrane).
 6.  **Nerves and Blood Vessels:** Richly supplied with sensory nerve fibers (detect pain, stretch, position) and blood vessels (supply synovial membrane).
 
+## Check Your Understanding
+
+1.  What are the six distinguishing features of a synovial joint?
+2.  Describe the two layers of the articular capsule.
+3.  What is synovial fluid, and what are its main functions?
+4.  Explain the difference between capsular, extracapsular, and intracapsular reinforcing ligaments.
+5.  Why is a rich supply of nerves and blood vessels important for synovial joints?
+
 ## Accessory Structures (Not present in all synovial joints):
 
 *   **Fatty Pads:** Cushions between fibrous layer and synovial membrane or bone.

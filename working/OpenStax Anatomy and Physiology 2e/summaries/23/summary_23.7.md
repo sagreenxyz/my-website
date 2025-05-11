@@ -60,4 +60,12 @@ This section provides a detailed examination of the chemical breakdown (digestio
 *   **Electrolytes:** Absorbed mostly along the small intestine via diffusion and active transport (e.g., Na+ coupled to glucose/amino acids, Ca2+ regulated by Vitamin D and PTH).
 *   **Water:** ~9 L enter GI tract daily; ~95% absorbed, mostly in the small intestine, by osmosis following solute absorption (especially Na+). Remaining water absorbed in the large intestine.
 
+## Check Your Understanding
+
+1.  Where does carbohydrate digestion begin, and what enzyme is involved? What are the final absorbable products of carbohydrate digestion?
+2.  Describe the key steps in protein digestion, naming at least one enzyme active in the stomach and one in the small intestine.
+3.  Explain the role of bile salts and pancreatic lipase in lipid digestion.
+4.  How are lipids absorbed into the small intestinal epithelial cells and then transported into the lymphatic system?
+5.  How are nucleic acids digested and absorbed?
+
 Chemical digestion reduces complex food molecules to simple monomers via specific enzymes, and absorption transports these monomers, along with vitamins, minerals, and water, across the intestinal epithelium into blood or lymph.

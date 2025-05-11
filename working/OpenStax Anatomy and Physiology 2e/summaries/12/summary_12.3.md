@@ -32,4 +32,12 @@ This section explains the electrical properties of neurons that allow them to co
 *   **Graded Potentials:** Short-lived, localized changes in membrane potential (depolarization or hyperpolarization). Magnitude varies with stimulus strength. Decay with distance. Occur on dendrites/cell bodies.
 *   **Action Potentials (Nerve Impulses):** Brief, large, long-distance reversals of membrane potential (-70mV to +30mV). All-or-none events. Do not decay with distance. Occur on axons.
 
-Understanding membrane potentials is key to understanding how neurons generate and transmit signals.
+The ability of neurons to generate and propagate electrical signals is fundamental to nervous system function and relies on the electrochemical gradients across their membranes.
+
+## Check Your Understanding
+
+1.  What is resting membrane potential, and what is its approximate value in a typical neuron?
+2.  Explain the roles of Na+ and K+ ions and the sodium-potassium pump in establishing and maintaining the resting membrane potential.
+3.  Describe the difference between leakage (non-gated) channels and gated channels. Name the three main types of gated channels.
+4.  What is a graded potential? How does it differ from an action potential in terms of amplitude and distance traveled?
+5.  Define depolarization, repolarization, and hyperpolarization.

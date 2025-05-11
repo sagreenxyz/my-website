@@ -26,3 +26,11 @@ This document summarizes the key functions and structural components of the huma
 *   **Lymph Flow:**
     *   Mechanism: Not pumped by the heart. Driven by body movements, skeletal muscle contractions, and breathing.
     *   Direction: One-way flow towards the heart ensured by valves in lymphatic vessels. Path: Capillaries -> Vessels -> Trunks -> Ducts -> Subclavian Veins.
+
+## Check Your Understanding
+
+1.  List the three major functions of the lymphatic system.
+2.  What is lymph, and how is it formed?
+3.  Describe the structure of lymphatic capillaries that allows them to take up interstitial fluid.
+4.  Name the two major lymphatic ducts and indicate which areas of the body each one drains.
+5.  What mechanisms help propel lymph through the lymphatic vessels?

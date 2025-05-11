@@ -32,3 +32,11 @@ This section introduces the nervous system as the body's master controlling and 
         *   **Parasympathetic Division:** Conserves energy, promotes housekeeping functions during rest ("rest and digest").
 
 The nervous system provides rapid control and integration of body functions through electrical and chemical signals.
+
+## Check Your Understanding
+
+1.  What are the three basic functions of the nervous system?
+2.  Describe the main components of the Central Nervous System (CNS) and the Peripheral Nervous System (PNS).
+3.  What is the difference between the sensory (afferent) and motor (efferent) divisions of the PNS?
+4.  Compare and contrast the Somatic Nervous System and the Autonomic Nervous System.
+5.  What are the two subdivisions of the Autonomic Nervous System, and what are their general roles?

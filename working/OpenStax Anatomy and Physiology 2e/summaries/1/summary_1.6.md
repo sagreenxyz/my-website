@@ -38,3 +38,11 @@ This section introduces the standardized language used in anatomy and medicine t
     *   **Regions (9):** More specific; includes umbilical, epigastric, hypogastric, right/left hypochondriac, right/left lumbar, right/left iliac (inguinal).
 
 Using standardized anatomical terminology ensures clear communication in healthcare and biological sciences.
+
+## Check Your Understanding
+
+1.  Describe the anatomical position. Why is it important?
+2.  Name the three main body planes and describe how each divides the body.
+3.  Using directional terms, describe the relationship between: a) the elbow and the wrist, b) the nose and the ears.
+4.  What are the two main subdivisions of the dorsal body cavity, and what does each contain?
+5.  What is a serous membrane, and what is its function? Give an example.

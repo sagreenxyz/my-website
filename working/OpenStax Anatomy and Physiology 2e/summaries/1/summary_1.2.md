@@ -12,3 +12,11 @@ This section describes the hierarchical levels of organization within the human 
 6.  **Organismal Level:** All organ systems work together to maintain the life and health of the organism (a human being).
 
 Understanding these levels provides a framework for studying anatomy and physiology.
+
+## Check Your Understanding
+
+1.  List the six levels of structural organization of the human body from simplest to most complex.
+2.  What is the smallest independently functioning unit of life?
+3.  Define "tissue" in the context of structural organization.
+4.  Give an example of the organ level and the organ system level.
+5.  How do these levels of organization relate to each other?

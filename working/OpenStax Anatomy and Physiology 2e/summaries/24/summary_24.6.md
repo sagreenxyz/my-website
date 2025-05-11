@@ -33,4 +33,12 @@ This section explores how the body manages energy intake and expenditure, mainta
 *   **Heat-Loss Mechanisms (When Hot):** Vasodilation of cutaneous blood vessels, enhanced sweating (evaporation), behavioral changes (reducing activity, seeking shade/AC).
 *   **Fever:** Controlled hyperthermia, often due to infection. Pyrogens reset the hypothalamic set point upwards.
 
+## Check Your Understanding
+
+1.  What does the concept of "energy balance" refer to?
+2.  Define Basal Metabolic Rate (BMR). Name two factors that can influence BMR.
+3.  What is Total Metabolic Rate (TMR), and how does it differ from BMR?
+4.  How does the body primarily store excess energy?
+5.  List two mechanisms the body uses to increase heat production and two mechanisms to promote heat loss.
+
 Energy balance dictates body weight, while metabolic rate reflects energy expenditure. Precise thermoregulation, orchestrated by the hypothalamus, maintains core temperature through balancing heat production and loss.

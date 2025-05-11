@@ -30,3 +30,11 @@ This section covers the structures and functions of the reproductive organs resp
 *   **Ejaculation:** Sympathetic reflex causing contraction of ducts and glands, expelling semen.
 
 The system is designed for continuous sperm production and delivery, regulated by a complex interplay of hormones.
+
+## Check Your Understanding
+
+1.  What are the two primary functions of the testes?
+2.  Trace the path of sperm from the seminiferous tubules to the urethra.
+3.  Name the three accessory glands of the male reproductive system and state one major contribution of each to semen.
+4.  Why is temperature regulation important for the scrotum?
+5.  What is spermatogenesis, and where does it occur?

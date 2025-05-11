@@ -15,3 +15,12 @@ This chapter review consolidates the fundamental chemical principles essential f
 *   **2.5 ATP:** Describes adenosine triphosphate as the main energy-transfer molecule used directly by cells for work.
 
 The chapter emphasizes how the body's structure and function are ultimately based on chemical interactions.
+
+## Check Your Understanding
+
+1.  What is an ion, and how is it formed? (2.1)
+2.  Compare and contrast polar covalent bonds and nonpolar covalent bonds. (2.1)
+3.  What is an enzyme, and how does it affect chemical reactions? (2.2)
+4.  Explain the pH scale and the role of buffers in the body. (2.3)
+5.  List the four levels of protein structure and briefly describe one. (2.4)
+6.  What is the primary role of ATP in cells? (2.5)

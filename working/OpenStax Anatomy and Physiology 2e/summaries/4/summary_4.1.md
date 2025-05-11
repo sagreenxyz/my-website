@@ -29,3 +29,13 @@ This section introduces the concept of tissues as groups of similar cells workin
         *   **Neuroglia (Glial Cells):** Support, insulate, and protect neurons.
 
 These four primary tissues combine in various ways to form all the organs and structures of the human body.
+
+The organization of cells into tissues is a fundamental concept in understanding the structure and function of organs and organ systems.
+
+## Check Your Understanding
+
+1.  Define "tissue." List the four principal tissue types found in the human body.
+2.  What are the three primary germ layers formed during embryonic development, and which primary tissue types arise from each?
+3.  What is histology?
+4.  Name the four main types of tissue membranes. For two of these membranes, describe their location and primary function.
+5.  Briefly, what is the main difference in function between epithelial tissue and connective tissue?

@@ -12,3 +12,12 @@ This chapter review consolidates the information presented about bone tissue and
 *   **6.6 Exercise, Nutrition, Hormones, and Bone Tissue:** Explores factors influencing bone health, including the role of mechanical stress (Wolff's Law), essential nutrients (calcium, vitamin D, vitamin K), and hormones (growth hormone, thyroid hormone, sex hormones, PTH, calcitonin) in bone growth and remodeling. Covers calcium homeostasis.
 
 The chapter emphasizes that bone is a dynamic, living tissue constantly undergoing remodeling in response to various stimuli.
+
+## Check Your Understanding
+
+1.  List three primary functions of the skeletal system mentioned in section 6.1.
+2.  Name the five classifications of bones based on shape (section 6.2).
+3.  What are the four types of bone cells discussed in section 6.3?
+4.  Briefly describe the difference between intramembranous and endochondral ossification (section 6.4).
+5.  What are the four major stages of bone repair after a fracture (section 6.5)?
+6.  According to section 6.6, name one hormone that promotes bone growth and one hormone involved in calcium homeostasis.

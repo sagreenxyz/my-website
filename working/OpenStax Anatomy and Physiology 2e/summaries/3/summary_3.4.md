@@ -38,3 +38,11 @@ This section explains the process by which the genetic information encoded in DN
     3.  **Termination:** Elongation continues until a stop codon (UAA, UAG, UGA) enters the A site. A release factor binds, causing the polypeptide chain to detach from the tRNA and the ribosomal subunits to separate.
 
 Protein synthesis is the central process linking genes (DNA) to cellular function (proteins). The synthesized polypeptide may undergo further folding and modification to become a functional protein.
+
+## Check Your Understanding
+
+1.  What are the two main stages of protein synthesis?
+2.  Describe the process of transcription, including the roles of DNA, RNA polymerase, and mRNA.
+3.  What is RNA processing, and why is it necessary in eukaryotes?
+4.  Explain the three main modifications that pre-mRNA undergoes during RNA processing.
+5.  What is the role of ribosomes and tRNA in translation?

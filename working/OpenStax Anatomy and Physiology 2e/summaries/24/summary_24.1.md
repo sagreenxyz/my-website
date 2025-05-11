@@ -37,4 +37,12 @@ This section introduces the fundamental concepts of metabolism, including the di
 *   Inside cells, these molecules are catabolized through various pathways (glycolysis, Krebs cycle, beta-oxidation) involving redox reactions to release energy, which is captured as ATP.
 *   Alternatively, nutrients can be used anabolically to build cellular structures or stored for later use (glycogen, fat).
 
+## Check Your Understanding
+
+1.  Define metabolism and distinguish between catabolism and anabolism.
+2.  What is the role of ATP in the cell? How does it store and release energy?
+3.  Explain the difference between substrate-level phosphorylation and oxidative phosphorylation.
+4.  In a redox reaction, what does it mean for a substance to be oxidized? What does it mean to be reduced?
+5.  Name two coenzymes that act as electron carriers in metabolic reactions.
+
 Metabolism encompasses the catabolic (energy-releasing) and anabolic (energy-requiring) reactions essential for life, centrally involving ATP as the energy currency and redox reactions for energy transfer.

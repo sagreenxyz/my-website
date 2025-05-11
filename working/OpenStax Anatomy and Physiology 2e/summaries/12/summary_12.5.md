@@ -58,3 +58,11 @@ This section focuses on the synapse, the junction where information is transmitt
         *   **Indirect:** Act through second messengers (G protein-linked receptors); slower, longer-lasting effects, modulate cell activity.
 
 Synapses allow for complex information processing through the release, reception, and integration of chemical signals.
+
+## Check Your Understanding
+
+1.  What is the difference between a presynaptic neuron and a postsynaptic neuron?
+2.  Compare and contrast electrical synapses and chemical synapses.
+3.  Outline the key steps involved in information transfer across a chemical synapse.
+4.  What is an EPSP, and how does it differ from an IPSP?
+5.  Explain temporal summation and spatial summation.

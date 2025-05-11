@@ -35,3 +35,11 @@ This section provides an overview of the major components of the adult central n
 *   **Spinal Nerves:** 31 pairs attach to cord via dorsal (sensory) and ventral (motor) roots.
 
 The CNS is the complex integration and command center of the nervous system.
+
+## Check Your Understanding
+
+1.  What are the four major regions of the adult brain?
+2.  What is the cerebral cortex, and what are its general functions?
+3.  Name the three parts of the diencephalon and state one major function of the hypothalamus.
+4.  List the three components of the brain stem and one function critical for survival that it controls.
+5.  Describe the general structure of gray matter and white matter in the spinal cord.

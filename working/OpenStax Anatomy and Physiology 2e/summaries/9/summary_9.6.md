@@ -45,4 +45,12 @@ This section provides a detailed look at the structure, articulating bones, move
     *   **Intracapsular Ligaments (Cruciates):** Anterior cruciate ligament (ACL) - prevents anterior tibial displacement; Posterior cruciate ligament (PCL) - prevents posterior tibial displacement.
     *   **Muscles:** Quadriceps (anteriorly), hamstrings (posteriorly).
 
+## Check Your Understanding
+
+1.  What are the articulating bones and key features of the Temporomandibular Joint (TMJ)?
+2.  Describe the primary stabilizing structures of the Glenohumeral (Shoulder) Joint. Why is it the least stable joint?
+3.  What type of joint is the elbow, and what are its main movements and stabilizing ligaments?
+4.  Explain why the Coxal (Hip) Joint is significantly more stable than the shoulder joint.
+5.  List two unique features of the TMJ and two unique features of the Hip Joint.
+
 This section emphasizes the trade-off between mobility and stability in synovial joint design.

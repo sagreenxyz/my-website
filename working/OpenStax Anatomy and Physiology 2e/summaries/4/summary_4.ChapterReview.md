@@ -18,3 +18,10 @@ This chapter review summarizes the key concepts regarding the four primary types
 *   **4.6 Tissue Injury and Aging:** Describes the processes of inflammation (redness, heat, swelling, pain) as the initial response to injury, followed by tissue repair (regeneration or fibrosis/scar formation). Discusses how aging affects tissue structure and function, leading to decreased efficiency and increased disease risk.
 
 Understanding histology and the characteristics of these four tissue types is fundamental to comprehending organ structure and function.
+
+## Check Your Understanding
+
+1.  What are the four primary types of tissues in the human body?
+2.  List three key characteristics of epithelial tissue.
+3.  How is epithelial tissue classified based on cell shape and number of layers?
+4.  Name two types of tissue membranes and their general locations.

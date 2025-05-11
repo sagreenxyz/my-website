@@ -24,4 +24,12 @@ This section describes the structure and function of the nucleus, the cell's con
     4.  **Ligation:** RNA primers are replaced with DNA nucleotides, and Okazaki fragments are joined together by DNA ligase.
 *   **Result:** Two identical DNA double helices are formed from the original one. Each new molecule is attached to its "sister" molecule at the centromere, forming sister chromatids.
 
+## Check Your Understanding
+
+1.  What are the main functions of the cell nucleus?
+2.  Describe the structure of the nuclear envelope and the role of nuclear pores.
+3.  What is chromatin, and how does it relate to chromosomes?
+4.  Briefly explain the overall process of DNA replication, including the roles of helicase and DNA polymerase.
+5.  Why is DNA replication referred to as "semiconservative"?
+
 The nucleus houses the genetic blueprint, and DNA replication ensures its faithful transmission to subsequent cell generations.

@@ -40,3 +40,13 @@ This section discusses different types of bone fractures and the physiological p
         *   Osteoblasts lay down compact bone on the exterior to reconstruct the original shape and strength.
         *   The repaired area may remain slightly thickened.
 *   **Factors Affecting Repair:** Age, fracture type/severity, blood supply, nutritional status, immobilization, presence of infection.
+
+Despite their strength, bones can fracture, but they have a remarkable capacity for self-repair.
+
+## Check Your Understanding
+
+1.  List three common types of bone fractures and briefly describe each (e.g., comminuted, greenstick, spiral).
+2.  What is the difference between an open (compound) fracture and a closed (simple) fracture?
+3.  Describe the four major stages involved in the repair of a simple bone fracture.
+4.  What is a hematoma in the context of fracture repair?
+5.  What roles do a fibrocartilaginous callus and a bony callus play in the healing process?

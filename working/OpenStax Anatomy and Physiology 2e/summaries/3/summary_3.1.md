@@ -36,4 +36,12 @@ This section describes the structure and function of the plasma membrane, the ou
         *   **Endocytosis:** Bringing substances *into* the cell (Phagocytosis - cell eating, Pinocytosis - cell drinking, Receptor-mediated endocytosis - specific).
         *   **Exocytosis:** Moving substances *out* of the cell. Vesicle fuses with plasma membrane, releasing contents.
 
+## Check Your Understanding
+
+1.  Describe the basic structure of the phospholipid bilayer. How do its hydrophilic and hydrophobic regions contribute to membrane function?
+2.  What are the two main types of membrane proteins, and how do they differ in their association with the membrane?
+3.  What is the glycocalyx, and what are two of its functions?
+4.  List three general functions of the plasma membrane.
+5.  Explain what "selective permeability" means in the context of the cell membrane.
+
 The cell membrane is a dynamic, fluid structure crucial for maintaining cell integrity and regulating interactions with the environment.

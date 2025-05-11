@@ -37,4 +37,16 @@ This section details the generation, propagation, and characteristics of action 
 
 *   Since APs are all-or-none, stimulus intensity is coded by the **frequency** of APs (number of APs per unit time). Stronger stimuli generate APs more frequently.
 
-Action potentials are the fundamental electrical signals for long-distance communication in the nervous system.
+Action potentials are the principal way neurons send signals over long distances, enabling rapid communication throughout the nervous system.
+
+## Check Your Understanding
+
+1.  What is an action potential (AP), and where on a neuron is it typically generated?
+2.  Describe the key events (ion movements and channel activities) that occur during each of the following phases of an action potential:
+    *   Resting state
+    *   Depolarization
+    *   Repolarization
+    *   Hyperpolarization
+3.  What is threshold? What happens if a neuron is depolarized to threshold?
+4.  Explain the all-or-none phenomenon of action potentials.
+5.  What is the difference between continuous conduction and saltatory conduction, and which is faster?

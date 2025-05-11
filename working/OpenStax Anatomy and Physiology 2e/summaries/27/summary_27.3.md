@@ -27,4 +27,12 @@ This section outlines the process of sexual differentiation during embryonic and
 *   Triggered by increased secretion of GnRH from hypothalamus, leading to increased FSH/LH from pituitary and sex hormones (testosterone/estrogen) from gonads.
 *   Results in development of secondary sexual characteristics and onset of fertility (spermatogenesis/menarche).
 
+## Check Your Understanding
+
+1.  What determines genetic sex at fertilization?
+2.  Name the two sets of primitive ducts present in the indifferent stage of embryonic development.
+3.  What is the role of the SRY gene in male development?
+4.  Which two key hormones secreted by the fetal testes are crucial for male differentiation, and what are their respective roles?
+5.  What happens to the Wolffian and Müllerian ducts in typical female development, and why?
+
 Sexual development follows a default female pathway unless directed otherwise by signals (SRY, testosterone, MIF) initiated by the Y chromosome.

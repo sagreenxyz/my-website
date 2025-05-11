@@ -40,3 +40,10 @@ This section categorizes and describes the various types of movements possible a
     *   **Elevation:** Lifting a body part superiorly (e.g., shrugging shoulders, closing mouth).
     *   **Depression:** Moving the elevated part inferiorly (opposite of elevation).
 *   **Opposition (Thumb):** Movement of the thumb to touch the tips of the other fingers on the same hand. Allows grasping. Unique to saddle joint of thumb (carpometacarpal joint).
+
+## Check Your Understanding
+
+1.  Define rotation as a type of body movement.
+2.  What is the difference between medial (internal) and lateral (external) rotation?
+3.  Provide two examples of joints where rotation occurs.
+4.  Besides the hip and shoulder, name another specific joint where rotation is a key movement.

@@ -42,3 +42,11 @@ This section covers the initial structures of the digestive tract involved in in
     2.  **Pharyngeal-Esophageal Phase (Involuntary):** Triggered by bolus stimulating receptors in oropharynx. Soft palate blocks nasopharynx; epiglottis blocks larynx; pharyngeal muscles contract, propelling bolus into esophagus; upper esophageal sphincter relaxes then contracts. Peristalsis moves bolus down esophagus; gastroesophageal sphincter relaxes to allow entry into stomach.
 
 The mouth initiates mechanical (chewing) and chemical (salivary amylase, lingual lipase) digestion and forms the bolus. The pharynx and esophagus primarily serve to propel the bolus towards the stomach via swallowing and peristalsis.
+
+## Check Your Understanding
+
+1.  What are the main functions of the tongue in digestion?
+2.  Name the three major extrinsic salivary glands. What are two key components of saliva and their functions?
+3.  Which parts of the pharynx are passageways for food?
+4.  Describe the two main phases of deglutition (swallowing).
+5.  What is the primary function of the esophagus, and what type of muscle is found in its muscularis externa?

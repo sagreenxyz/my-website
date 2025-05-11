@@ -23,3 +23,13 @@ This section describes how atoms interact and link together by forming chemical 
     *   Crucial for properties of water, protein structure (folding), and DNA structure (holding strands together). Individually weak, collectively strong.
 
 Chemical bonds hold atoms together, forming the molecules essential for life's structures and processes.
+
+The way atoms bond together dictates the structure and properties of molecules, which are fundamental to life.
+
+## Check Your Understanding
+
+1.  What is the octet rule, and how does it relate to chemical bonding?
+2.  Describe how an ionic bond is formed. What are cations and anions?
+3.  Explain the difference between a nonpolar covalent bond and a polar covalent bond, providing an example of a molecule with polar covalent bonds.
+4.  What are hydrogen bonds? Why are they important in biological molecules like water and proteins, despite being relatively weak?
+5.  Distinguish between a solution, a colloid, and a suspension.

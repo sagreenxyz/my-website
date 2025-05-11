@@ -19,4 +19,12 @@ This section introduces the fundamental chemical concepts of elements and atoms,
 *   **Electron Shells:** Regions around the nucleus where electrons are likely to be found. Each shell holds a specific maximum number of electrons (e.g., 1st shell: 2, 2nd shell: 8, 3rd shell: 18, but stable with 8).
 *   **Valence Shell:** The outermost electron shell. Electrons in this shell (**valence electrons**) determine the atom's chemical reactivity and bonding properties. Atoms tend to interact to achieve a stable, filled valence shell (usually 8 electrons - **octet rule**).
 
-Understanding atoms and elements is fundamental to understanding chemical bonds and reactions in the body.
+A fundamental understanding of atoms, elements, and energy is crucial for comprehending the chemical reactions that underpin all physiological processes.
+
+## Check Your Understanding
+
+1.  Define matter and energy. Distinguish between kinetic energy and potential energy.
+2.  What are the three main subatomic particles? Describe their electrical charge and location within an atom.
+3.  What defines an element? How is the atomic number of an element different from its mass number?
+4.  Explain the concept of isotopes. How do radioisotopes differ from stable isotopes?
+5.  What is a molecule versus a compound?

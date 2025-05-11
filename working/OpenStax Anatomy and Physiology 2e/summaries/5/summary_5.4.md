@@ -30,3 +30,13 @@ This section discusses common conditions affecting the skin, including cancers, 
     *   Reduced melanocyte and dendritic cell activity (paler skin, lower immunity).
     *   Reduced sweat and sebum production (dry skin, difficulty regulating temperature).
     *   Thinning hair, graying hair.
+
+Understanding these common skin pathologies is important for prevention, early detection, and treatment.
+
+## Check Your Understanding
+
+1.  What is the single most important risk factor for skin cancer?
+2.  Name the three major types of skin cancer, and state which cell type each originates from. Which is the most dangerous, and why?
+3.  What is the ABCD(E) rule used for in the context of skin cancer?
+4.  How are burns classified? Describe the tissue damage associated with first-degree, second-degree, and third-degree burns.
+5.  What are the two most critical systemic concerns when treating a patient with severe burns, and why?

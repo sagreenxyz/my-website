@@ -13,3 +13,11 @@ This section focuses on erythrocytes (Red Blood Cells), their structure, functio
     *   **Polycythemia:** Excess RBCs, increasing blood viscosity.
 
 Erythrocytes are specialized cells crucial for oxygen delivery throughout the body.
+
+## Check Your Understanding
+
+1.  Describe the typical structure of an erythrocyte (RBC) and explain how its shape is advantageous for its function.
+2.  What is hemoglobin, and what is its primary role?
+3.  What is erythropoiesis, and which hormone primarily stimulates it?
+4.  What is the approximate lifespan of an RBC, and what happens to its components when it is broken down?
+5.  Define anemia.

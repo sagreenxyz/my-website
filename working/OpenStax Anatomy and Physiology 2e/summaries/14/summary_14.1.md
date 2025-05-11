@@ -31,3 +31,11 @@ This section explores how sensory information is detected by receptors and proce
     *   **Pattern Recognition:** Ability to recognize familiar patterns (e.g., face, melody).
 
 Sensory perception involves a complex interplay of receptor activation, pathway transmission, and cortical interpretation.
+
+## Check Your Understanding
+
+1.  Distinguish between sensation and perception.
+2.  What is transduction in the context of sensory receptors?
+3.  Explain the difference between phasic and tonic receptors, providing an example of each.
+4.  What are the three main levels of sensory processing?
+5.  Define "spatial discrimination" and explain how receptive field size influences it.

@@ -24,3 +24,11 @@ This section details the mental status exam, which assesses higher cognitive fun
 *   **Mood and Affect:** Observation of the patient's emotional state.
 
 The mental status exam provides valuable information about cerebral function and can help localize lesions or identify diffuse cognitive impairment.
+
+## Check Your Understanding
+
+1.  What are the four common aspects of orientation assessed in a mental status exam?
+2.  Differentiate between short-term memory and long-term memory.
+3.  List three components of language function that are typically assessed.
+4.  What is praxis, and what might a deficit in praxis (apraxia) indicate?
+5.  Give an example of how abstract reasoning might be tested.
