@@ -30,3 +30,13 @@ This section describes the complex structure of the skull, including its constit
     *   **Paranasal Sinuses:** Air-filled cavities within certain cranial and facial bones (frontal, sphenoid, ethmoid, maxillary). Lighten the skull, enhance voice resonance, warm/humidify inhaled air. Lined with mucous membrane.
     *   **Hyoid Bone:** U-shaped bone in the anterior neck, inferior to mandible. Does not articulate directly with any other bone. Anchored by ligaments and muscles. Acts as a movable base for the tongue and attachment site for neck muscles involved in swallowing and speech.
     *   **Auditory Ossicles (6):** Malleus, incus, stapes (2 each) within middle ear cavities in temporal bones. Transmit sound vibrations.
+
+The skull is a complex structure composed of many fused bones and some mobile bones, crucial for protecting the brain and housing sensory organs.
+
+## Check Your Understanding
+
+1.  What are the two main sets of bones that form the skull? What is the primary function of each set?
+2.  Name four cranial bones and one important feature or function of each.
+3.  Name two facial bones and state their general location or function.
+4.  What are sutures? Name one major suture of the skull.
+5.  What are paranasal sinuses? List two functions they serve.

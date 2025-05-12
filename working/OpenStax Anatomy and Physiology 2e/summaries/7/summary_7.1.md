@@ -22,3 +22,13 @@ This section introduces the two major divisions of the adult human skeleton: the
         *   **Upper Limbs (60 bones):** Humerus (2), Radius (2), Ulna (2), Carpals (16), Metacarpals (10), Phalanges (28).
         *   **Pelvic Girdle (2 bones):** Hip bones (2, each formed by fusion of ilium, ischium, pubis). Attach lower limbs to axial skeleton (sacrum).
         *   **Lower Limbs (60 bones):** Femur (2), Patella (2), Tibia (2), Fibula (2), Tarsals (14), Metatarsals (10), Phalanges (28).
+
+The axial skeleton is fundamental for protecting vital organs and providing a central support structure for the body.
+
+## Check Your Understanding
+
+1.  What are the three major regions of the axial skeleton?
+2.  List two primary functions of the axial skeleton.
+3.  How many bones typically make up the adult axial skeleton?
+4.  Which part of the axial skeleton protects the brain?
+5.  Which parts of the axial skeleton are involved in protecting the spinal cord and thoracic organs?

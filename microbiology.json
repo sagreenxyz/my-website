@@ -682,6 +682,798 @@
                 ],
                 "correct_answer": "Gram stain",
                 "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "You place a specimen under the microscope and notice that parts of the specimen begin to emit light immediately. These materials can be described as _____________.",
+                "options": [
+                  "fluorescent",
+                  "transparent",
+                  "opaque",
+                  "phosphorescent"
+                ],
+                "correct_answer": "fluorescent",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": ". There is some debate over who invented the microscope. Explain why this debate exists and what factors help some individuals get more credit for their roles than others. (check all that apply)",
+                "options": [
+                  "Galileo, Antonie van Leeuwenhoek and Robert Hooke seem to gain the most popularity with this debate.",
+                  "The work of Hans Janssen and Zaccharias Janssen was not published.",
+                  "Leeuwenhoek and Hooke published their work.",
+                  "The work of Hans Janssen and Zaccharias Janssen was published."
+                ],
+                "correct_answer": "Galileo, Antonie van Leeuwenhoek and Robert Hooke seem to gain the most popularity with this debate. AND The work of Hans Janssen and Zaccharias Janssen was not published. AND Leeuwenhoek and Hooke published their work.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "Specimens for TEM are prepared by doing which of the following?",
+                "options": [
+                  "sputter coating with a substance such as gold to repel electrons.",
+                  "dehydrating the specimen in ethanol and then coating it in a material that will repel electrons.",
+                  "using chemical fixation, followed by standard staining techniques such as the Gram stain.",
+                  "using an ultramicrotome to cut very thin sections from samples embedded in plastic resin."
+                ],
+                "correct_answer": "using an ultramicrotome to cut very thin sections from samples embedded in plastic resin.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "Electromagnetic radiation (EMR), a type of energy that is all around us can be found in the form of:",
+                "options": [
+                  "X rays",
+                  "Radio Waves",
+                  "Visible light",
+                  "all of these are types of EMR"
+                ],
+                "correct_answer": "all of these are types of EMR",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "The lowest frequency of visible light appears as the color ___________ .",
+                "options": [
+                  "yellow",
+                  "violet",
+                  "blue",
+                  "red"
+                ],
+                "correct_answer": "red",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 24,
+                "question_text": "When endospores are stained using the Schaeffer-Fulton method, which of the following correctly describes how they appear after staining?",
+                "options": [
+                  "The entire cell appears pink except for a clear area representing the endospore.",
+                  "The entire cell appears green because the endospore surrounds all the vegetative material.",
+                  "The entire cell appears pink because the endospore surrounds all the vegetative material.",
+                  "The endospore appears green within a pink cell, because only the endospore retained the primary stain."
+                ],
+                "correct_answer": "The endospore appears green within a pink cell, because only the endospore retained the primary stain.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Light can change speed when passing through one material to the next.",
+                "options": [
+                  "This question has no answer",
+                  "This is sometimes true",
+                  "This is false",
+                  "This is true"
+                ],
+                "correct_answer": "This is true",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 26,
+                "question_text": "Compared with air, water has a(n) ___________ refractive index.",
+                "options": [
+                  "zero",
+                  "lower",
+                  "higher",
+                  "equal"
+                ],
+                "correct_answer": "higher",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 27,
+                "question_text": "Which of the following has the highest energy?",
+                "options": [
+                  "light with an intermediate wavelength",
+                  "light with a short wavelength",
+                  "light with a long wavelength",
+                  "It is impossible to tell from the information given."
+                ],
+                "correct_answer": "light with a short wavelength",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 28,
+                "question_text": "Differential staining techniques commonly used in clinical settings include:",
+                "options": [
+                  "none of these",
+                  "Ectospore staining",
+                  "both of these",
+                  "Gram staining"
+                ],
+                "correct_answer": "Gram staining",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 29,
+                "question_text": "Why can electron microscopes achieve higher resolutions than light microscopes?",
+                "options": [
+                  "Using electrons are less expensive and better and light.",
+                  "Electron microscopes have rheostats and adjusting this makes for better resolution.",
+                  "Resolution is higher when there are longer wavelengths.",
+                  "Resolution is higher when there are shorter wavelengths."
+                ],
+                "correct_answer": "Resolution is higher when there are shorter wavelengths.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 30,
+                "question_text": "Certain______________ dyes absorb ultraviolet or blue light and then use the energy to emit photons of a different color, giving off light rather than simply vibrating. This",
+                "options": [
+                  "fluorescent",
+                  "cosmic",
+                  "gamma",
+                  "violet"
+                ],
+                "correct_answer": "fluorescent",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 31,
+                "question_text": "A magnification of 10⨯ means that the image appears _____ times the size of the object as viewed with the naked eye.",
+                "options": [
+                  "100",
+                  "10",
+                  "1",
+                  "1000"
+                ],
+                "correct_answer": "10",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 32,
+                "question_text": "Which of these are examples of light microscopes?",
+                "options": [
+                  "brightfield microscopes",
+                  "all of these are types of light microscopes",
+                  "darkfield microscope",
+                  "phase-contrast microscopes"
+                ],
+                "correct_answer": "all of these are types of light microscopes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 33,
+                "question_text": "If a 10⨯ objective lens is selected and the ocular lens is 10⨯, the total magnification would be",
+                "options": [
+                  "10,000",
+                  "10",
+                  "100",
+                  "1,000"
+                ],
+                "correct_answer": "100",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 34,
+                "question_text": "If less-than-maximal light levels are needed, the amount of light striking the specimen can be easily adjusted by opening or closing a_______________ between the condenser and the specimen.",
+                "options": [
+                  "rheostat",
+                  "illuminator",
+                  "condenser",
+                  "diaphragm"
+                ],
+                "correct_answer": "diaphragm",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 35,
+                "question_text": "_______________ occurs when a wave bounces off of a material.",
+                "options": [
+                  "Absorbance occurs",
+                  "Transmittance",
+                  "Refraction",
+                  "Reflection"
+                ],
+                "correct_answer": "Reflection",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 36,
+                "question_text": "Which would be the best choice for viewing internal structures of a living protist such as a Paramecium?",
+                "options": [
+                  "a brightfield microscope with a stain",
+                  "a brightfield microscope without a stain",
+                  "a darkfield microscope",
+                  "a transmission electron microscope"
+                ],
+                "correct_answer": "a darkfield microscope",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 37,
+                "question_text": "Which type of microscope is especially useful for viewing thick structures such as biofilms?",
+                "options": [
+                  "a scanning electron microscopes",
+                  "a confocal scanning laser microscope",
+                  "an atomic force microscope",
+                  "a transmission electron microscope"
+                ],
+                "correct_answer": "a confocal scanning laser microscope",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 38,
+                "question_text": "What type of microscope uses an annular stop?",
+                "options": [
+                  "a scanning electron microscope",
+                  "a phase-contrast microscope",
+                  "a darkfield microscope",
+                  "brightfield microscope"
+                ],
+                "correct_answer": "a phase-contrast microscope",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "3",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which of the following individuals argued in favor of the theory of spontaneous generation?",
+                "options": [
+                  "Francesco Redi",
+                  "Louis Pasteur",
+                  "John Needham",
+                  "Lazzaro Spallanzani"
+                ],
+                "correct_answer": "John Needham",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Which of the following individuals is credited for definitively refuting the theory of spontaneous generation using broth in swan-neck flask?",
+                "options": [
+                  "Aristotle",
+                  "Jan Baptista van Helmont",
+                  "John Needham",
+                  "Louis Pasteur"
+                ],
+                "correct_answer": "Louis Pasteur",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Which of the following scientists experimented with raw meat, maggots, and flies in an attempt to disprove the theory of spontaneous generation?",
+                "options": [
+                  "Aristotle",
+                  "Lazzaro Spallanzani",
+                  "Antonie van Leeuwenhoek",
+                  "Francesco Redi"
+                ],
+                "correct_answer": "Francesco Redi",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Which of the following individuals did not contribute to the establishment of cell theory?",
+                "options": [
+                  "Girolamo Fracastoro",
+                  "Matthias Schleiden",
+                  "Robert Remak",
+                  "Robert Hooke"
+                ],
+                "correct_answer": "Girolamo Fracastoro",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Whose proposal of the endosymbiotic theory of mitochondrial and chloroplast origin was ultimately accepted by the greater scientific community?",
+                "options": [
+                  "Rudolf Virchow",
+                  "Ignaz Semmelweis",
+                  "Lynn Margulis",
+                  "Theodor Schwann"
+                ],
+                "correct_answer": "Lynn Margulis",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Which of the following developed a set of postulates for determining whether a particular disease is caused by a particular pathogen?",
+                "options": [
+                  "John Snow",
+                  "Robert Koch",
+                  "Joseph Lister",
+                  "Louis Pasteur"
+                ],
+                "correct_answer": "Robert Koch",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which of the following terms refers to a prokaryotic cell that is comma shaped?",
+                "options": [
+                  "coccus",
+                  "coccobacilli",
+                  "vibrio",
+                  "spirillum"
+                ],
+                "correct_answer": "vibrio",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which bacterial structures are important for adherence to surfaces? (Select all that apply.)",
+                "options": [
+                  "endospores",
+                  "cell walls",
+                  "fimbriae",
+                  "capsules",
+                  "flagella"
+                ],
+                "correct_answer": "fimbriae AND capsules",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following cell wall components is unique to gram-negative cells?",
+                "options": [
+                  "lipopolysaccharide",
+                  "teichoic acid",
+                  "mycolic acid",
+                  "peptidoglycan"
+                ],
+                "correct_answer": "lipopolysaccharide",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which of the following terms refers to a bacterial cell having a single tuft of flagella at one end?",
+                "options": [
+                  "monotrichous",
+                  "amphitrichous",
+                  "peritrichous",
+                  "lophotrichous"
+                ],
+                "correct_answer": "lophotrichous",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Bacterial cell walls are primarily composed of which of the following?",
+                "options": [
+                  "phospholipid",
+                  "protein",
+                  "carbohydrate",
+                  "peptidoglycan"
+                ],
+                "correct_answer": "peptidoglycan",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which of the following organelles is not part of the endomembrane system?",
+                "options": [
+                  "endoplasmic reticulum",
+                  "Golgi apparatus",
+                  "lysosome",
+                  "peroxisome"
+                ],
+                "correct_answer": "peroxisome",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which type of cytoskeletal fiber is important in the formation of the nuclear lamina?",
+                "options": [
+                  "microfilaments",
+                  "intermediate filaments",
+                  "microtubules",
+                  "fibronectin"
+                ],
+                "correct_answer": "intermediate filaments",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Sugar groups may be added to proteins in which of the following?",
+                "options": [
+                  "smooth endoplasmic reticulum",
+                  "rough endoplasmic reticulum",
+                  "Golgi apparatus",
+                  "lysosome"
+                ],
+                "correct_answer": "Golgi apparatus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Which of the following structures of a eukaryotic cell is not likely derived from endosymbiotic bacterium?",
+                "options": [
+                  "mitochondrial DNA",
+                  "mitochondrial ribosomes",
+                  "inner membrane",
+                  "outer membrane"
+                ],
+                "correct_answer": "outer membrane",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Which type of nutrient uptake involves the engulfment of small dissolved molecules into vesicles?",
+                "options": [
+                  "active transport",
+                  "pinocytosis",
+                  "receptor-mediated endocytosis",
+                  "facilitated diffusion"
+                ],
+                "correct_answer": "pinocytosis",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Which of the following is not composed of microtubules?",
+                "options": [
+                  "desmosomes",
+                  "centrioles",
+                  "eukaryotic flagella",
+                  "eukaryotic cilia"
+                ],
+                "correct_answer": "desmosomes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Exposure to air is necessary for microbial growth.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Bacteria have 80S ribosomes each composed of a 60S large subunit and a 40S small subunit.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Mitochondria in eukaryotic cells contain ribosomes that are structurally similar to those found in prokaryotic cells.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "The assertion that “life only comes from life” was stated by Louis Pasteur in regard to his experiments that definitively refuted the theory of ___________.",
+                "options": [
+                  "spontaneous generation"
+                ],
+                "correct_answer": "spontaneous generation",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "John Snow is known as the Father of _____________.",
+                "options": [
+                  "epidemiology"
+                ],
+                "correct_answer": "epidemiology",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "The ____________ theory states that disease may originate from proximity to decomposing matter and is not due to person-to-person contact.",
+                "options": [
+                  "miasma"
+                ],
+                "correct_answer": "miasma",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 24,
+                "question_text": "The scientist who first described cells was _____________.",
+                "options": [
+                  "Robert Hooke"
+                ],
+                "correct_answer": "Robert Hooke",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Prokaryotic cells that are rod-shaped are called _____________.",
+                "options": [
+                  "bacilli"
+                ],
+                "correct_answer": "bacilli",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 26,
+                "question_text": "The type of inclusion containing polymerized inorganic phosphate is called _____________.",
+                "options": [
+                  "volutin (or metachromatic granule)"
+                ],
+                "correct_answer": "volutin (or metachromatic granule)",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 27,
+                "question_text": "Peroxisomes typically produce _____________, a harsh chemical that helps break down molecules.",
+                "options": [
+                  "hydrogen peroxide"
+                ],
+                "correct_answer": "hydrogen peroxide",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 28,
+                "question_text": "Microfilaments are composed of _____________ monomers.",
+                "options": [
+                  "actin"
+                ],
+                "correct_answer": "actin",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 29,
+                "question_text": "Who was earliest recorded scholar to articulate the theory of spontaneous generation?",
+                "options": [
+                  "Aedesia",
+                  "Agamemnon",
+                  "Acrion",
+                  "Aristotle"
+                ],
+                "correct_answer": "Aristotle",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 30,
+                "question_text": "_____________   _____________ experimental setup consisted of an open container, a container sealed with a cork top, and a container covered in mesh that let in air but not flies.",
+                "options": [
+                  "Francesco Redi’s",
+                  "Galileo Galilei's",
+                  "Marc Amelius's",
+                  "Marina Gamba's"
+                ],
+                "correct_answer": "Francesco Redi’s",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 31,
+                "question_text": "Which of the following are anchored into the plasma membrane by a basal body composed of nine triplets of microtubules?",
+                "options": [
+                  "prokaryotic flagella only",
+                  "eukaryotic cilia only",
+                  "eukaryotic flagella",
+                  "eukaryotic cilia"
+                ],
+                "correct_answer": "eukaryotic flagella AND eukaryotic cilia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 32,
+                "question_text": "The English scientist Robert Hooke first used the term “__________” in 1665 to describe the small chambers within cork that he observed under a microscope of his own design.",
+                "options": [
+                  "ribosomes",
+                  "organisms",
+                  "cells",
+                  "microsomes"
+                ],
+                "correct_answer": "cells",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 33,
+                "question_text": "Who definitively refuted the long-disputed theory of spontaneous generation?",
+                "options": [
+                  "Lazzaro Spallanzani",
+                  "Galileo Galilei",
+                  "Louis Pasteur",
+                  "Marie Curie"
+                ],
+                "correct_answer": "Louis Pasteur",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 34,
+                "question_text": "Which of the following is not part of the endomembrane system?",
+                "options": [
+                  "the Golgi apparatus",
+                  "mitochondria",
+                  "lysosomes",
+                  "the rough endoplasmic reticulum"
+                ],
+                "correct_answer": "mitochondria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 35,
+                "question_text": "In what decade did we recognize the modern cell theory?",
+                "options": [
+                  "1950s",
+                  "1840s",
+                  "1850s",
+                  "1940s"
+                ],
+                "correct_answer": "1850s",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 36,
+                "question_text": "Eukaryotic cells possess a _____________, which is surrounded by a complex nuclear membrane that houses the ___________ .",
+                "options": [
+                  "microglia, mitochondria",
+                  "nucleus, DNA",
+                  "mitochondria, prokaryotes",
+                  "DNA, nucleus"
+                ],
+                "correct_answer": "nucleus, DNA",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 37,
+                "question_text": "Who was the first scientist to articulate the endosymbiotic hypothesis?",
+                "options": [
+                  "Konstantin Mereschkowski",
+                  "Ivan Wallin",
+                  "Andreas Schimper",
+                  "Robert Brown"
+                ],
+                "correct_answer": "Konstantin Mereschkowski",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 38,
+                "question_text": "Which of the following individuals did not contribute to the establishment of cell theory?",
+                "options": [
+                  "Matthias Schleiden",
+                  "Girolamo Fracastoro",
+                  "Robert Hooke",
+                  "Robert Remak"
+                ],
+                "correct_answer": "Girolamo Fracastoro",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 39,
+                "question_text": "In 1745, John Needham (1713–1781) published a report of his own experiments, in which he briefly boiled broth infused with plant or animal matter, hoping to kill all preexisting microbes.  He then sealed the flasks. After a few days, Needham observed that the broth had become cloudy and a single drop contained numerous microscopic creatures. He argued that the new microbes must have arisen spontaneously.\n\nWhat is the likely explanation for this result?",
+                "options": [
+                  "Needham likely did not boil the broth enough to kill all preexisting microbes.",
+                  "All of the existing microbes had been killed",
+                  "None of these",
+                  "Spontaneous generation"
+                ],
+                "correct_answer": "Needham likely did not boil the broth enough to kill all preexisting microbes.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 40,
+                "question_text": "Which of the following terms refers to a prokaryotic cell that is spiral shaped?",
+                "options": [
+                  "vibrio",
+                  "coccus",
+                  "spirillum",
+                  "coccobacilli"
+                ],
+                "correct_answer": "spirillum",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 41,
+                "question_text": "_____________ is a form of transport used by bacteria, but not by eukaryotic cells, to move materials across the cell membrane and into the cell.",
+                "options": [
+                  "Group translocation",
+                  "Lysification",
+                  "Ciliated translocation",
+                  "Solo translocation"
+                ],
+                "correct_answer": "Group translocation",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 42,
+                "question_text": "Which bacterial structures are important for adherence to surfaces?",
+                "options": [
+                  "cell walls",
+                  "fimbriae & flagella",
+                  "flagella & endospores",
+                  "endospores"
+                ],
+                "correct_answer": "fimbriae & flagella",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 43,
+                "question_text": "Who conducted studies to track the source of cholera outbreaks in London which ultimately resulted in the first known public health response to an epidemic?",
+                "options": [
+                  "John Snow",
+                  "Louis Pasteur",
+                  "Ignaz Semmelweis",
+                  "Joseph Lister"
+                ],
+                "correct_answer": "John Snow",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 44,
+                "question_text": "_________________ cells lack a nucleus.",
+                "options": [
+                  "Eukaryotic",
+                  "Prokaryotic",
+                  "Plant",
+                  "Animal"
+                ],
+                "correct_answer": "Prokaryotic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 45,
+                "question_text": "When the concentration of solutes is greater on one side of the membrane, water diffuses across the membrane from the side with the lower concentration (more water) to the side with the higher concentration (less water) until the concentrations on both sides become equal. This diffusion of water is called _____________ .",
+                "options": [
+                  "potential",
+                  "membrane",
+                  "osmosis",
+                  "diffusion"
+                ],
+                "correct_answer": "osmosis",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 46,
+                "question_text": "Mitochondria are unable to survive outside of eukaryotic cells. If they originated from ancestral prokaryotes, as proposed by the endosymbiotic theory, then why can’t they survive independently?",
+                "options": [
+                  "Over time, mitochondria and their host cells evolved to be dependent on each other.",
+                  "Mitochondrial genes transferred to the cell nucleus.",
+                  "The mitochondrion might not have all its genes therefore, it cannot perform all its functions if it is removed from the eukaryotic cell.",
+                  "There should be no reason for the mitochondria to not survive independently."
+                ],
+                "correct_answer": "Over time, mitochondria and their host cells evolved to be dependent on each other. AND Mitochondrial genes transferred to the cell nucleus. AND The mitochondrion might not have all its genes therefore, it cannot perform all its functions if it is removed from the eukaryotic cell.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 47,
+                "question_text": "Ribosomes are structures responsible for ________________ synthesis.",
+                "options": [
+                  "protein",
+                  "carbohydrate",
+                  "all of these",
+                  "lipid"
+                ],
+                "correct_answer": "protein",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 48,
+                "question_text": "Which best describes the function of cristae?",
+                "options": [
+                  "They increase the surface area for reactions associated with cellular respiration.",
+                  "They increase the capacity of the mitochondria to synthesize ATP",
+                  "They provide a location for the light reactions of photosynthesis in plant cells.",
+                  "They are compartments for digestive enzyme storage in eukaryotic cells."
+                ],
+                "correct_answer": "They increase the surface area for reactions associated with cellular respiration. AND They increase the capacity of the mitochondria to synthesize ATP",
+                "explanation": "Explanation not available."
               }
             ]
           }

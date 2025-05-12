@@ -31,3 +31,13 @@ This section describes the structure and function of the thoracic cage (rib cage
 *   **Costal Cartilages:**
     *   Bars of hyaline cartilage connecting the anterior ends of ribs 1-10 to the sternum (directly or indirectly).
     *   Provide flexibility to the thoracic cage.
+
+The thoracic cage forms a protective enclosure for vital organs and plays a crucial role in breathing.
+
+## Check Your Understanding
+
+1.  What are the three main components of the thoracic cage?
+2.  Describe the three parts of the sternum.
+3.  How many pairs of ribs are there? Distinguish between true ribs, false ribs, and floating ribs based on their sternal attachments.
+4.  What is the primary function of the thoracic cage?
+5.  How does the thoracic cage contribute to the process of breathing?

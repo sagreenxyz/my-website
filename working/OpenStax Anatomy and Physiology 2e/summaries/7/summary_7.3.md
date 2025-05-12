@@ -42,3 +42,13 @@ This section details the structure, function, and regional characteristics of th
     *   Composed of:
         *   **Annulus Fibrosus:** Outer ring of fibrocartilage.
         *   **Nucleus Pulposus:** Inner gelatinous core (remnant of notochord).
+
+The vertebral column is a flexible, segmented rod that provides central support for the body and protects the spinal cord.
+
+## Check Your Understanding
+
+1.  List the five regions of the vertebral column and state the number of vertebrae typically found in each region in an adult.
+2.  What are the primary and secondary curvatures of the spine? Which regions exhibit each type?
+3.  Describe the basic structure of a typical vertebra, including the body, vertebral arch (pedicles and laminae), and common processes.
+4.  What are intervertebral discs? Describe their structure (annulus fibrosus and nucleus pulposus) and state their main functions.
+5.  Name the first two cervical vertebrae and describe one unique feature of each that relates to its function.
