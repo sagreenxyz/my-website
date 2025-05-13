@@ -1476,6 +1476,364 @@
                 "explanation": "Explanation not available."
               }
             ]
+          },
+          {
+            "chapter": "4",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "The term prokaryotes refers to which of the following?",
+                "options": [
+                  "very small organisms",
+                  "unicellular organisms that have no nucleus",
+                  "multicellular organisms",
+                  "cells that resemble animal cells more than plant cells"
+                ],
+                "correct_answer": "unicellular organisms that have no nucleus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "The term microbiota refers to which of the following?",
+                "options": [
+                  "all microorganisms of the same species",
+                  "all of the microorganisms involved in a symbiotic relationship",
+                  "all microorganisms in a certain region of the human body",
+                  "all microorganisms in a certain geographic region"
+                ],
+                "correct_answer": "all microorganisms in a certain region of the human body",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Which of the following refers to the type of interaction between two prokaryotic populations in which one population benefits and the other is not affected?",
+                "options": [
+                  "mutualism",
+                  "commensalism",
+                  "parasitism",
+                  "neutralism"
+                ],
+                "correct_answer": "commensalism",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Which of the following describes Proteobacteria in domain Bacteria?",
+                "options": [
+                  "phylum",
+                  "class",
+                  "species",
+                  "genus"
+                ],
+                "correct_answer": "phylum",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which of the following Alphaproteobacteria is the cause of Rocky Mountain spotted fever and typhus?",
+                "options": [
+                  "Bartonella",
+                  "Coxiella",
+                  "Rickettsia",
+                  "Ehrlichia",
+                  "Brucella"
+                ],
+                "correct_answer": "Rickettsia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Class Betaproteobacteria includes all but which of the following genera?",
+                "options": [
+                  "Neisseria.",
+                  "Bordetella.",
+                  "Leptothrix.",
+                  "Campylobacter."
+                ],
+                "correct_answer": "Campylobacter.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Haemophilus influenzae is a common cause of which of the following?",
+                "options": [
+                  "influenza",
+                  "dysentery",
+                  "upper respiratory tract infections",
+                  "hemophilia"
+                ],
+                "correct_answer": "upper respiratory tract infections",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which of the following is the organelle that spirochetes use to propel themselves?",
+                "options": [
+                  "plasma membrane",
+                  "axial filament",
+                  "pilum",
+                  "fimbria"
+                ],
+                "correct_answer": "axial filament",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following bacteria are the most prevalent in the human gut?",
+                "options": [
+                  "cyanobacteria",
+                  "staphylococci",
+                  "Borrelia",
+                  "Bacteroides"
+                ],
+                "correct_answer": "Bacteroides",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which of the following refers to photosynthesis performed by bacteria with the use of water as the donor of electrons?",
+                "options": [
+                  "oxygenic",
+                  "anoxygenic",
+                  "heterotrophic",
+                  "phototrophic"
+                ],
+                "correct_answer": "oxygenic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which of the following bacterial species is classified as high G+C gram-positive?",
+                "options": [
+                  "Corynebacterium diphtheriae",
+                  "Staphylococcus aureus",
+                  "Bacillus anthracis",
+                  "Streptococcus pneumonia"
+                ],
+                "correct_answer": "Corynebacterium diphtheriae",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "The term “deeply branching” refers to which of the following?",
+                "options": [
+                  "the cellular shape of deeply branching bacteria",
+                  "the position in the evolutionary tree of deeply branching bacteria",
+                  "the ability of deeply branching bacteria to live in deep ocean waters",
+                  "the pattern of growth in culture of deeply branching bacteria"
+                ],
+                "correct_answer": "the position in the evolutionary tree of deeply branching bacteria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which of these deeply branching bacteria is considered a polyextremophile?",
+                "options": [
+                  "Aquifex pyrophilus",
+                  "Deinococcus radiodurans",
+                  "Staphylococcus aureus",
+                  "Mycobacterium tuberculosis"
+                ],
+                "correct_answer": "Deinococcus radiodurans",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Archaea and Bacteria are most similar in terms of their ________.",
+                "options": [
+                  "genetics",
+                  "cell wall structure",
+                  "ecology",
+                  "unicellular structure"
+                ],
+                "correct_answer": "unicellular structure",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Which of the following is true of archaea that produce methane?",
+                "options": [
+                  "They reduce carbon dioxide in the presence of nitrogen.",
+                  "They live in the most extreme environments.",
+                  "They are always anaerobes.",
+                  "They have been discovered on Mars."
+                ],
+                "correct_answer": "They live in the most extreme environments.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Among prokaryotes, there are some that can live in every environment on earth.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "When prokaryotes live as interacting communities in which one population benefits to the harm of the other, the type of symbiosis is called ________.",
+                "options": [
+                  "parasitism"
+                ],
+                "correct_answer": "parasitism",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "The domain ________ does not include prokaryotes.",
+                "options": [
+                  "Eukarya"
+                ],
+                "correct_answer": "Eukarya",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Pathogenic bacteria that are part of the transient microbiota can sometimes be eliminated by ________ therapy.",
+                "options": [
+                  "antibiotic"
+                ],
+                "correct_answer": "antibiotic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Nitrogen-fixing bacteria provide other organisms with usable nitrogen in the form of ________.",
+                "options": [
+                  "ammonia"
+                ],
+                "correct_answer": "ammonia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "Rickettsias are ________ intracellular bacteria.",
+                "options": [
+                  "obligate"
+                ],
+                "correct_answer": "obligate",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "The species ________, which belongs to Epsilonproteobacteria, causes peptic ulcers of the stomach and duodenum.",
+                "options": [
+                  "Helicobacter pylori"
+                ],
+                "correct_answer": "Helicobacter pylori",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "The genus Salmonella belongs to the class ________ and includes pathogens that cause salmonellosis and typhoid fever.",
+                "options": [
+                  "Gammaproteobacteria"
+                ],
+                "correct_answer": "Gammaproteobacteria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 24,
+                "question_text": "The bacterium that causes syphilis is called ________.",
+                "options": [
+                  "Treponema pallidum pallidum"
+                ],
+                "correct_answer": "Treponema pallidum pallidum",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Bacteria in the genus Rhodospirillum that use hydrogen for oxidation and fix nitrogen are ________ bacteria.",
+                "options": [
+                  "purple nonsulfur"
+                ],
+                "correct_answer": "purple nonsulfur",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 26,
+                "question_text": "Streptococcus is the ________ of bacteria that is responsible for many human diseases.",
+                "options": [
+                  "genus"
+                ],
+                "correct_answer": "genus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 27,
+                "question_text": "One species of Streptococcus, S. pyogenes, is a classified as a ________ pathogen due to the characteristic production of pus in infections it causes.",
+                "options": [
+                  "pyogenic"
+                ],
+                "correct_answer": "pyogenic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 28,
+                "question_text": "Cutibacterium belongs to ________ G+C gram-positive bacteria. One of its species is used in the food industry and another causes acne.",
+                "options": [
+                  "high"
+                ],
+                "correct_answer": "high",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 29,
+                "question_text": "The length of the branches of the evolutionary tree characterizes the evolutionary ________ between organisms.",
+                "options": [
+                  "distance"
+                ],
+                "correct_answer": "distance",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 30,
+                "question_text": "The deeply branching bacteria are thought to be the form of life closest to the last universal ________ ________.",
+                "options": [
+                  "common ancestor"
+                ],
+                "correct_answer": "common ancestor",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 31,
+                "question_text": "Many of the deeply branching bacteria are aquatic and hyperthermophilic, found near underwater volcanoes and thermal ocean ________.",
+                "options": [
+                  "vents"
+                ],
+                "correct_answer": "vents",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 32,
+                "question_text": "The deeply branching bacterium Deinococcus radiodurans is able to survive exposure to high doses of ________.",
+                "options": [
+                  "ionizing radiation"
+                ],
+                "correct_answer": "ionizing radiation",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 33,
+                "question_text": "________ is a genus of Archaea. Its optimal environmental temperature ranges from 70 °C to 80 °C, and its optimal pH is 2–3. It oxidizes sulfur and produces sulfuric acid.",
+                "options": [
+                  "Sulfolobus"
+                ],
+                "correct_answer": "Sulfolobus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 34,
+                "question_text": "________ was once thought to be the cause of periodontal disease, but, more recently, the causal relationship between this archaean and the disease was not confirmed.",
+                "options": [
+                  "Methanobrevibacter oralis"
+                ],
+                "correct_answer": "Methanobrevibacter oralis",
+                "explanation": "Explanation not available."
+              }
+            ]
           }
         ]
       }
