@@ -1836,7 +1836,7 @@
             ]
           },
           {
-            "chapter": "Lab 2",
+            "chapter": "Lab 2 Practical",
             "review_questions": [
               {
                 "question_number": 1,
@@ -1956,6 +1956,131 @@
                   "Heterotrophs"
                 ],
                 "correct_answer": "can move using cilia or flagella AND Heterotrophs",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Lab 2 Quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Engineers at what University developed this Robo-thread?",
+                "options": [
+                  "Harvard",
+                  "MIT",
+                  "Princeton",
+                  "UCLA"
+                ],
+                "correct_answer": "MIT",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "This device is controlled by:",
+                "options": [
+                  "aluminium",
+                  "glucose",
+                  "proteins",
+                  "magnetism"
+                ],
+                "correct_answer": "magnetism",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "What is a downfall with conventional passive guidewire?",
+                "options": [
+                  "Can damage vessel linings",
+                  "Both of these",
+                  "It can cause friction",
+                  "neither of these"
+                ],
+                "correct_answer": "Both of these",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "What are some of the benefits to this new technology (mark all that might apply)?",
+                "options": [
+                  "Made of Carbohydrates",
+                  "Flexible",
+                  "Precision & Activation",
+                  "Little to no friction"
+                ],
+                "correct_answer": "Flexible AND Precision & Activation AND Little to no friction",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "What is the difference between these two images?",
+                "options": [
+                  "The image on the left is coated with hydrogen",
+                  "The image on the left is coated with hydrogel",
+                  "The image on the right is coated with hydrogen",
+                  "The image on the right is coated with hydrogel"
+                ],
+                "correct_answer": "The image on the left is coated with hydrogel",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "What is being discussed in this second video?",
+                "options": [
+                  "none of these",
+                  "3-D printing of metal",
+                  "3-D printing of plastics",
+                  "3-D printing of living organisms"
+                ],
+                "correct_answer": "3-D printing of living organisms",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "How are the 3-D portions of this object able to communicate with the cells living on the surface?",
+                "options": [
+                  "DNA",
+                  "chemical signals",
+                  "microglia",
+                  "subcutaneous fascia"
+                ],
+                "correct_answer": "chemical signals",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "This allows for what to occur?",
+                "options": [
+                  "Neither of these",
+                  "Control over UV radiation",
+                  "Control over gene expression",
+                  "Both of these"
+                ],
+                "correct_answer": "Control over gene expression",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "These colors represent:",
+                "options": [
+                  "nothing pertaining to the 3-D printing",
+                  "a response to the chemical signals",
+                  "DNA",
+                  "a way to separate the various microorganisms"
+                ],
+                "correct_answer": "a response to the chemical signals",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "What does HLM stand for?",
+                "options": [
+                  "Hybrid Living Materials",
+                  "Hybrid Living Matter",
+                  "Hydro Living Material",
+                  "Hydro Living Matter"
+                ],
+                "correct_answer": "Hybrid Living Materials",
                 "explanation": "Explanation not available."
               }
             ]
