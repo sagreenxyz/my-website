@@ -19,6 +19,13 @@ This section introduces the ubiquity and diversity of prokaryotes (Archaea and B
     *   **Commensalism:** One population benefits, the other is unaffected.
     *   **Neutralism:** Neither population is affected.
     *   **Parasitism:** One population (parasite) benefits, the other (host) is harmed.
+
+||harmed|unaffected|benefitted|
+|---|---|---|---|
+|**harmed**||amensalism|parasitism (pathogenic)|
+|**unaffected**||neutralism|commensalism|
+|**benefitted**|||mutualism|
+
 *   **Microbiomes:**
     *   **Definition:** All prokaryotic and eukaryotic microorganisms associated with a certain organism or environment.
     *   **Human Microbiome:**

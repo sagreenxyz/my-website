@@ -2084,6 +2084,505 @@
                 "explanation": "Explanation not available."
               }
             ]
+          },
+          {
+            "chapter": "5",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which genus includes the causative agent for malaria?",
+                "options": [
+                  "Euglena",
+                  "Paramecium",
+                  "Plasmodium",
+                  "Trypanosoma"
+                ],
+                "correct_answer": "Plasmodium",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Which protist is a concern because of its ability to contaminate water supplies and cause diarrheal illness?",
+                "options": [
+                  "Plasmodium vivax",
+                  "Toxoplasma gondii",
+                  "Giardia lamblia",
+                  "Trichomonas vaginalis"
+                ],
+                "correct_answer": "Giardia lamblia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "A fluke is classified within which of the following?",
+                "options": [
+                  "Nematoda",
+                  "Rotifera",
+                  "Platyhelminthes",
+                  "Annelida"
+                ],
+                "correct_answer": "Platyhelminthes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "A nonsegmented worm is found during a routine colonoscopy of an individual who reported having abdominal cramps, nausea, and vomiting. This worm is likely which of the following?",
+                "options": [
+                  "nematode",
+                  "fluke",
+                  "trematode",
+                  "annelid"
+                ],
+                "correct_answer": "nematode",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "A segmented worm has male and female reproductive organs in each segment. Some use hooks to attach to the intestinal wall. Which type of worm is this?",
+                "options": [
+                  "fluke",
+                  "nematode",
+                  "cestode",
+                  "annelid"
+                ],
+                "correct_answer": "cestode",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Mushrooms are a type of which of the following?",
+                "options": [
+                  "conidia",
+                  "ascus",
+                  "polar tubule",
+                  "basidiocarp"
+                ],
+                "correct_answer": "basidiocarp",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which of the following is the most common cause of human yeast infections?",
+                "options": [
+                  "Candida albicans",
+                  "Blastomyces dermatitidis",
+                  "Cryptococcus neoformans",
+                  "Aspergillus fumigatus"
+                ],
+                "correct_answer": "Candida albicans",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which of the following is an ascomycete fungus associated with bat droppings that can cause a respiratory infection if inhaled?",
+                "options": [
+                  "Candida albicans",
+                  "Histoplasma capsulatum",
+                  "Rhizopus stolonifera",
+                  "Trichophyton rubrum"
+                ],
+                "correct_answer": "Histoplasma capsulatum",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which polysaccharide found in red algal cell walls is a useful solidifying agent?",
+                "options": [
+                  "chitin",
+                  "cellulose",
+                  "phycoerythrin",
+                  "agar"
+                ],
+                "correct_answer": "agar",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which is the term for the hard outer covering of some dinoflagellates?",
+                "options": [
+                  "theca",
+                  "thallus",
+                  "mycelium",
+                  "shell"
+                ],
+                "correct_answer": "theca",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which protists are associated with red tides?",
+                "options": [
+                  "red algae",
+                  "brown algae",
+                  "dinoflagellates",
+                  "green algae"
+                ],
+                "correct_answer": "dinoflagellates",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "You encounter a lichen with leafy structures. Which term describes this lichen?",
+                "options": [
+                  "crustose",
+                  "foliose",
+                  "fruticose",
+                  "agarose"
+                ],
+                "correct_answer": "foliose",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which of the following is the term for the outer layer of a lichen?",
+                "options": [
+                  "the cortex",
+                  "the medulla",
+                  "the thallus",
+                  "the theca"
+                ],
+                "correct_answer": "the cortex",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "The fungus in a lichen is which of the following?",
+                "options": [
+                  "a basidiomycete",
+                  "an ascomycete",
+                  "a zygomycete",
+                  "an apicomplexan"
+                ],
+                "correct_answer": "an ascomycete",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "The plasma membrane of a protist is called the __________.",
+                "options": [
+                  "plasmalemma"
+                ],
+                "correct_answer": "plasmalemma",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Animals belong to the same supergroup as the kingdom __________.",
+                "options": [
+                  "Fungi"
+                ],
+                "correct_answer": "Fungi",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Flukes are in class _________.",
+                "options": [
+                  "Trematoda"
+                ],
+                "correct_answer": "Trematoda",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "A species of worm in which there are distinct male and female individuals is described as _________.",
+                "options": [
+                  "dioecious"
+                ],
+                "correct_answer": "dioecious",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Nonseptate hyphae are also called _________.",
+                "options": [
+                  "coenocytic"
+                ],
+                "correct_answer": "coenocytic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Unicellular fungi are called _________.",
+                "options": [
+                  "yeasts"
+                ],
+                "correct_answer": "yeasts",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "Some fungi have proven medically useful because they can be used to produce _________.",
+                "options": [
+                  "antibiotics"
+                ],
+                "correct_answer": "antibiotics",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "Structures in chloroplasts used to synthesize and store starch are called ________.",
+                "options": [
+                  "pyrenoids"
+                ],
+                "correct_answer": "pyrenoids",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "Algae with chloroplasts with three or four membranes are a result of ________ ________.",
+                "options": [
+                  "secondary endosymbiosis"
+                ],
+                "correct_answer": "secondary endosymbiosis",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 5 Quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Paramecium spp. have hair-like appendages called ____________ for locomotion.",
+                "options": [
+                  "cilia",
+                  "microglia",
+                  "flagella",
+                  "vacuoles"
+                ],
+                "correct_answer": "cilia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Who are the closest relatives to Amoebozoas?",
+                "options": [
+                  "Archaeplastidia",
+                  "Chromalveolata",
+                  "Rhizaria",
+                  "Opisthokonta"
+                ],
+                "correct_answer": "Opisthokonta",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Which protist is a concern because of its ability to contaminate water supplies and cause diarrheal illness?",
+                "options": [
+                  "Toxoplasma gondii",
+                  "Trichomonas vaginalis",
+                  "Giardia lamblia",
+                  "Plasmodium vivax"
+                ],
+                "correct_answer": "Giardia lamblia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Lichens attach to a surface using which structure?",
+                "options": [
+                  "cilia",
+                  "flagella",
+                  "rhizines",
+                  "capsules"
+                ],
+                "correct_answer": "rhizines",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Phylum__________________ (the roundworms) is a diverse group containing more than 15,000 species, of which several are important human parasites",
+                "options": [
+                  "Helminths",
+                  "Trichinella",
+                  "Dirofilaria",
+                  "Nematoda"
+                ],
+                "correct_answer": "Nematoda",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "When a population of _________________ becomes particularly dense, a red tide (a type of harmful algal bloom) can occur.",
+                "options": [
+                  "microglia",
+                  "dinoflagellates",
+                  "bacteria",
+                  "viruses"
+                ],
+                "correct_answer": "dinoflagellates",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which of the following is a distinguishing feature of apicomplexans?",
+                "options": [
+                  "have cell walls with substantial cellulose",
+                  "intracellular parasites with apical organelles",
+                  "may be photosynthetic or heterotrophic and have flagella",
+                  "have calcium carbonate shells"
+                ],
+                "correct_answer": "intracellular parasites with apical organelles",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "The life cycle of Schistosoma spp. includes several species of water snails, which serve as secondary hosts. The parasite is transmitted to humans through contact with contaminated water and takes up residence in the _____________ of the ______________ system.",
+                "options": [
+                  "veins, respiratory",
+                  "muscles, respiratory",
+                  "veins, digestive",
+                  "muscles, digestive"
+                ],
+                "correct_answer": "veins, digestive",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Most multicellular fungal bodies, commonly called molds, are made up of filaments called _____________ .",
+                "options": [
+                  "hyphae",
+                  "septate",
+                  "thallus",
+                  "mycelium"
+                ],
+                "correct_answer": "hyphae",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "_______________ is a protozoal mechanism of asexual reproduction whereby the nucleus of a cell divides repeatedly before the cytoplasm of the cell divides.",
+                "options": [
+                  "Phagocytosis",
+                  "Trophozoite",
+                  "Pyrenoid",
+                  "Schizogony"
+                ],
+                "correct_answer": "Schizogony",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Fungal cell walls contain___________ , as opposed to the cellulose found in the cell walls of plants and many protists.",
+                "options": [
+                  "lipids",
+                  "chitin",
+                  "spores",
+                  "carbon"
+                ],
+                "correct_answer": "chitin",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "The types of algae are mainly grouped according to which of the following?",
+                "options": [
+                  "where they are found",
+                  "their pigment types",
+                  "the size of their cells",
+                  "their chloroplast types"
+                ],
+                "correct_answer": "their pigment types",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "______________ are unicellular fungi that are _______________intracellular parasites.",
+                "options": [
+                  "Ascomycota, falcultative",
+                  "Microsporidia, falcutative",
+                  "Ascomycota, obligate",
+                  "Microsporidia, obligate"
+                ],
+                "correct_answer": "Microsporidia, obligate",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Some algae, the seaweeds, are macroscopic and may be confused with _________________ .",
+                "options": [
+                  "animals",
+                  "animals",
+                  "bacteria",
+                  "plants"
+                ],
+                "correct_answer": "plants",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "The protozoal disease malaria was responsible for 584,000 deaths worldwide (primarily children in Africa) in 2013, according to the World Health Organization.  Malaria is a ___________________ microbe.",
+                "options": [
+                  "Prokaryotic",
+                  "Eukaryotic",
+                  "Viral",
+                  "Bacterial"
+                ],
+                "correct_answer": "Eukaryotic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "A fluke is classified within which of the following?",
+                "options": [
+                  "Platyhelminthes",
+                  "Rotifera",
+                  "Nematoda",
+                  "Annelida"
+                ],
+                "correct_answer": "Platyhelminthes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "A _______________ is a combination of two organisms, a green alga or cyanobacterium and fungus, living in a symbiotic relationship",
+                "options": [
+                  "bacteria",
+                  "lichen",
+                  "symbiosis",
+                  "algae"
+                ],
+                "correct_answer": "lichen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Mushrooms are a type of which of the following?",
+                "options": [
+                  "basidiocarp",
+                  "conidia",
+                  "ascus",
+                  "polar tubule"
+                ],
+                "correct_answer": "basidiocarp",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "A nonsegmented worm is found during a routine colonoscopy of an individual who reported having abdominal cramps, nausea, and vomiting. This worm is likely which of the following?",
+                "options": [
+                  "nematode",
+                  "fluke",
+                  "annelid",
+                  "trematode"
+                ],
+                "correct_answer": "nematode",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "The source of agar, which is typically used in the microbiology laboratory, is which of the following?",
+                "options": [
+                  "red algae",
+                  "green algae",
+                  "brown algae",
+                  "lichen"
+                ],
+                "correct_answer": "red algae",
+                "explanation": "Explanation not available."
+              }
+            ]
           }
         ]
       }

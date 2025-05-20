@@ -25,7 +25,7 @@ This section introduces viruses, detailing their general characteristics as acel
     *   Based on: genomics (DNA/RNA, ss/ds), capsid structure, envelope presence, host range, Baltimore classification system (based on mRNA synthesis pathway).
     *   Not included in the traditional tree of life because they are acellular.
 *   **Viral Life Cycles (General Overview):**
-    *   Virus genome enters host cell and directs production of viral components.
+    *   Virus genome enters host cell and directs production of viral components.ypion
     *   New virions are assembled in the host cell.
     *   New virions are released to infect other host cells.
 *   **Types of Viruses (Based on Host):**
