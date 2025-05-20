@@ -2583,6 +2583,251 @@
                 "explanation": "Explanation not available."
               }
             ]
+          },
+          {
+            "chapter": "Chapter 4 Quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Plants and animals also rely heavily on prokaryotes for ________________ fixation.",
+                "options": [
+                  "carbon",
+                  "helium",
+                  "nitrogen",
+                  "hydrogen"
+                ],
+                "correct_answer": "nitrogen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Any interaction between different species that are associated with each other within a community is called_______________ .",
+                "options": [
+                  "endocytosis",
+                  "symbiosis",
+                  "mitochondria",
+                  "bacteriods"
+                ],
+                "correct_answer": "symbiosis",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "When two species benefit from each other, the symbiosis is called_____________ .",
+                "options": [
+                  "Amensalism",
+                  "Neutralism",
+                  "Mutualism",
+                  "Parasitism"
+                ],
+                "correct_answer": "Mutualism",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Which best describes the class Halobacteria?",
+                "options": [
+                  "archaeans that require highly saline environments",
+                  "archaeans that require methane-rich environments",
+                  "bacteria that require highly saline environments",
+                  "bacteria that require highly arid environments"
+                ],
+                "correct_answer": "archaeans that require highly saline environments",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "The term microbiota refers to which of the following:",
+                "options": [
+                  "all of the microorganisms involved in a symbiotic relationship",
+                  "all microorganisms in a certain geographic region",
+                  "all microorganisms in a certain region of the human body",
+                  "all microorganisms of the same species"
+                ],
+                "correct_answer": "all microorganisms in a certain region of the human body",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Methanobrevibacter oralis is an example of which type of organism?",
+                "options": [
+                  "an archaean that takes advantage of the conditions caused by periodontal disease to grow; may or may not affect disease progression",
+                  "a bacterium that takes advantage of the conditions caused by immunosuppression, as can occur during cancer treatment",
+                  "a pathogenic bacterium",
+                  "a pathogenic archaean"
+                ],
+                "correct_answer": "an archaean that takes advantage of the conditions caused by periodontal disease to grow; may or may not affect disease progression",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "The classification of prokaryotes was initially based on their shape, staining patterns, and biochemical or physiological differences.  We can also use __________________  __________________ to determine their classification.",
+                "options": [
+                  "mitochondrial ribosomes",
+                  "nucleotide sequences",
+                  "cellular membranes",
+                  "golgi bodies"
+                ],
+                "correct_answer": "nucleotide sequences",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "The class Bacilli includes:",
+                "options": [
+                  "only rod bacterial species.",
+                  "both rod-shaped and spherical bacterial species.",
+                  "only spherical bacterial species.",
+                  "neither rod-shaped and spherical bacterial species."
+                ],
+                "correct_answer": "both rod-shaped and spherical bacterial species.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "What is the name of the class of organisms capable of living in low-nutrient environments such as deep oceanic sediments, glacial ice, or deep undersurface soil?",
+                "options": [
+                  "Oligotrophs",
+                  "None of these",
+                  "Homeotrophs",
+                  "Heterotrophs"
+                ],
+                "correct_answer": "Oligotrophs",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "This class of organisms require a copious amount of organic nutrients.",
+                "options": [
+                  "Alphaproteobacteria",
+                  "Betaproteobacteria",
+                  "Gammaproteobacteria",
+                  "Epsilonproteobacteria"
+                ],
+                "correct_answer": "Betaproteobacteria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "This class of bacteria are characterized by their long, spiral-shaped then bodies.",
+                "options": [
+                  "Cytophaga",
+                  "Spirochetes",
+                  "Fusobacteria",
+                  "Chlamydia is"
+                ],
+                "correct_answer": "Spirochetes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "All living organisms are classified into three domains of life:",
+                "options": [
+                  "Eukarya",
+                  "Bacteria",
+                  "Archaea",
+                  "All of these"
+                ],
+                "correct_answer": "All of these",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "The____________________ are found in aquatic environments, inhabiting freshwater, saltwater, and brackish water.",
+                "options": [
+                  "Fusobacterium",
+                  "Leptospira",
+                  "Planctomycetes",
+                  "Bacteroides"
+                ],
+                "correct_answer": "Planctomycetes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "The class ___________ consists of high G+C bacteria.",
+                "options": [
+                  "Actinobacteria",
+                  "Alphaproteobacteria",
+                  "Bacteriophylla",
+                  "Archaea"
+                ],
+                "correct_answer": "Actinobacteria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Another large, diverse group of phototrophic bacteria compose the phylum_________________ ; they get their blue-green color from the chlorophyll contained in their cells.  Scientists hypothesize that this group played a critical role in the change of our planet’s anoxic atmosphere 1–2 billion years ago to the oxygen-rich environment we have today.",
+                "options": [
+                  "Borrelia",
+                  "Treponema",
+                  "Cyanobacteria",
+                  "Bacteroides"
+                ],
+                "correct_answer": "Cyanobacteria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "The genus ____________________ is an important cause of a diverse group of infectious diseases.  It is  is represented by bacilli covered with a mycolic acid coat.",
+                "options": [
+                  "Corynebacterium",
+                  "Mycobacterium",
+                  "Gardnerella",
+                  "Bifidobacterium"
+                ],
+                "correct_answer": "Mycobacterium",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "The term prokaryotes refers to which of the following?",
+                "options": [
+                  "very small organisms",
+                  "cells that resemble animal cells more than plant cells",
+                  "unicellular organisms that have no nucleus",
+                  "multicellular organisms"
+                ],
+                "correct_answer": "unicellular organisms that have no nucleus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "_______________________ is represented by strictly anaerobic organisms with an optimal growth temperature of 85 °C.",
+                "options": [
+                  "Euryarchaeota",
+                  "Thermoproteus",
+                  "Methanococci",
+                  "Halobacteria"
+                ],
+                "correct_answer": "Thermoproteus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "The __________________ bacteria are a large and diverse category of bacteria that do not represent a taxon but, rather, a group of bacteria that use sunlight as their primary source of energy.",
+                "options": [
+                  "autotrophic",
+                  "oligotrophic",
+                  "phototrophic",
+                  "mesotrophic"
+                ],
+                "correct_answer": "phototrophic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "A toga is which of the following?",
+                "options": [
+                  "an outer membrane found in a taxon within the deeply branching bacteria",
+                  "an unusual cell wall found in some archaeans",
+                  "a structure produced by the fungus Tolypocladium inflatum that has medicinal uses",
+                  "an outer peptidoglycan layer found in a taxon within the proteobacteria"
+                ],
+                "correct_answer": "an outer membrane found in a taxon within the deeply branching bacteria",
+                "explanation": "Explanation not available."
+              }
+            ]
           }
         ]
       }
