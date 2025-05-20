@@ -1,0 +1,3166 @@
+{
+    "textbooks": [
+      {
+        "title": "Microbiology",
+        "questions": [
+          {
+            "chapter": "1",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which of the following foods is NOT made by fermentation?",
+                "options": [
+                  "beer",
+                  "bread",
+                  "cheese",
+                  "orange juice"
+                ],
+                "correct_answer": "orange juice",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Who is considered the “father of Western medicine”?",
+                "options": [
+                  "Marcus Terentius Varro",
+                  "Thucydides",
+                  "Antonie van Leeuwenhoek",
+                  "Hippocrates"
+                ],
+                "correct_answer": "Hippocrates",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Who was the first to observe “animalcules” under the microscope?",
+                "options": [
+                  "Antonie van Leeuwenhoek",
+                  "Ötzi the Iceman",
+                  "Marcus Terentius Varro",
+                  "Robert Koch"
+                ],
+                "correct_answer": "Antonie van Leeuwenhoek",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Who proposed that swamps might harbor tiny, disease-causing animals too small to see?",
+                "options": [
+                  "Thucydides",
+                  "Marcus Terentius Varro",
+                  "Hippocrates",
+                  "Louis Pasteur"
+                ],
+                "correct_answer": "Marcus Terentius Varro",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which of the following was NOT a kingdom in Linnaeus’s taxonomy?",
+                "options": [
+                  "animal",
+                  "mineral",
+                  "protist",
+                  "plant"
+                ],
+                "correct_answer": "protist",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Which of the following is a correct usage of binomial nomenclature?",
+                "options": [
+                  "Homo Sapiens",
+                  "homo sapiens",
+                  "Homo sapiens",
+                  "Homo Sapiens"
+                ],
+                "correct_answer": "Homo sapiens",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which scientist proposed adding a kingdom for protists?",
+                "options": [
+                  "Carolus Linnaeus",
+                  "Carl Woese",
+                  "Robert Whittaker",
+                  "Ernst Haeckel"
+                ],
+                "correct_answer": "Ernst Haeckel",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which of the following is NOT a domain in Woese and Fox’s phylogenetic tree?",
+                "options": [
+                  "Plantae",
+                  "Bacteria",
+                  "Archaea",
+                  "Eukarya"
+                ],
+                "correct_answer": "Plantae",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following is the standard resource for identifying bacteria?",
+                "options": [
+                  "Systema Naturae",
+                  "Bergey’s Manual of Determinative Bacteriology",
+                  "Woese and Fox’s phylogenetic tree",
+                  "Haeckel’s General Morphology of Organisms"
+                ],
+                "correct_answer": "Bergey’s Manual of Determinative Bacteriology",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which of the following types of microorganisms is photosynthetic?",
+                "options": [
+                  "yeast",
+                  "virus",
+                  "helminth",
+                  "alga"
+                ],
+                "correct_answer": "alga",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which of the following is a prokaryotic microorganism?",
+                "options": [
+                  "helminth",
+                  "protozoan",
+                  "cyanobacterium",
+                  "mold"
+                ],
+                "correct_answer": "cyanobacterium",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which of the following is acellular?",
+                "options": [
+                  "virus",
+                  "bacterium",
+                  "fungus",
+                  "protozoan"
+                ],
+                "correct_answer": "virus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which of the following is a type of fungal microorganism?",
+                "options": [
+                  "bacterium",
+                  "protozoan",
+                  "alga",
+                  "yeast"
+                ],
+                "correct_answer": "yeast",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Which of the following is not a subfield of microbiology?",
+                "options": [
+                  "bacteriology",
+                  "botany",
+                  "clinical microbiology",
+                  "virology"
+                ],
+                "correct_answer": "botany",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Thucydides is known as the father of _______________.",
+                "options": [
+                  "scientific history"
+                ],
+                "correct_answer": "scientific history",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Researchers think that Ötzi the Iceman may have been infected with _____ disease.",
+                "options": [
+                  "Lyme"
+                ],
+                "correct_answer": "Lyme",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "The process by which microbes turn grape juice into wine is called _______________.",
+                "options": [
+                  "fermentation"
+                ],
+                "correct_answer": "fermentation",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "In binomial nomenclature, an organism’s scientific name includes its ________ and __________.",
+                "options": [
+                  "genus, species"
+                ],
+                "correct_answer": "genus, species",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Haeckel proposed adding the kingdoms _________ and _________ to his phylogenetic tree.",
+                "options": [
+                  "Protista and Monera"
+                ],
+                "correct_answer": "Protista and Monera",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "___________ are organisms without membrane-bound nuclei.",
+                "options": [
+                  "Prokaryotes"
+                ],
+                "correct_answer": "Prokaryotes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "_______ are microorganisms that are not included in phylogenetic trees because they are acellular.",
+                "options": [
+                  "Viruses"
+                ],
+                "correct_answer": "Viruses",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "A _________ is a disease-causing microorganism.",
+                "options": [
+                  "pathogen"
+                ],
+                "correct_answer": "pathogen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "Multicellular parasitic worms studied by microbiologists are called __________.",
+                "options": [
+                  "helminths"
+                ],
+                "correct_answer": "helminths",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 24,
+                "question_text": "The study of viruses is __________.",
+                "options": [
+                  "virology"
+                ],
+                "correct_answer": "virology",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 25,
+                "question_text": "The cells of prokaryotic organisms lack a _________.",
+                "options": [
+                  "nucleus"
+                ],
+                "correct_answer": "nucleus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 26,
+                "question_text": "The study of fungi is __________.",
+                "options": [
+                  "mycology"
+                ],
+                "correct_answer": "mycology",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 27,
+                "question_text": "Antoine van Leeuwenhoek, using a microscope, was the first to actually describe observations of bacteria, in",
+                "options": [
+                  "1875",
+                  "1675",
+                  "1575",
+                  "1775"
+                ],
+                "correct_answer": "1675",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 28,
+                "question_text": "_______ _______ developed a taxonomic system for categorizing organisms into related groups.",
+                "options": [
+                  "Charles Darwin",
+                  "Robert Koch",
+                  "Louis Pasteur",
+                  "Carolus Linnaeus"
+                ],
+                "correct_answer": "Carolus Linnaeus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 29,
+                "question_text": "______ are plant-like organisms that can be either unicellular or multicellular, and derive energy via photosynthesis",
+                "options": [
+                  "Eukaryotes",
+                  "Protozoa",
+                  "Algae",
+                  "Archae"
+                ],
+                "correct_answer": "Algae",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 30,
+                "question_text": "______ are acellular microorganisms that require a host to reproduce.",
+                "options": [
+                  "Prions",
+                  "Viruses",
+                  "Bacteria",
+                  "Pathogens"
+                ],
+                "correct_answer": "Viruses",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 31,
+                "question_text": "What are helminths and why are they medically important? (check all that apply)",
+                "options": [
+                  "Helminths are worms. Helminths are eukaryotes. They can be human parasites.",
+                  "Helminths are prokaryotes."
+                ],
+                "correct_answer": "Helminths are worms. Helminths are eukaryotes. They can be human parasites.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 32,
+                "question_text": "Explain why some scientists think that it may be more appropriate to describe a 'web of life' instead of a 'tree of life.' (click all that apply",
+                "options": [
+                  "A web would better show ways genes can be transferred from one taxonomic group to another. Because horizontal gene transfer is common, this does not fully represent the complexity involved in evolution. A tree suggests straightforward pathways of evolution from one branch to another.",
+                  "Because gene transfer is not common, this does not fully represent the complexity involved in evolution."
+                ],
+                "correct_answer": "A web would better show ways genes can be transferred from one taxonomic group to another. Because horizontal gene transfer is common, this does not fully represent the complexity involved in evolution. A tree suggests straightforward pathways of evolution from one branch to another.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 33,
+                "question_text": "A system known as ______ ______, is a two-word naming system for identifying organisms by genus and specific epithet for:",
+                "options": [
+                  "duo nomenclature",
+                  "bi nomenclature",
+                  "trinomial nomenclature",
+                  "binomial nomenclature"
+                ],
+                "correct_answer": "binomial nomenclature",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 34,
+                "question_text": "One millimeter can be shown as:",
+                "options": [
+                  "= 0.000000001 m = 10−9 m",
+                  "= 0.01 m = 10−2 m",
+                  "= 0.001 m = 10−3 m",
+                  "= 0.000001 m = 10−6 m"
+                ],
+                "correct_answer": "= 0.001 m = 10−3 m",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 35,
+                "question_text": "Fermentation by yeast produces ethanol and ______ gas.",
+                "options": [
+                  "methane",
+                  "oxygen",
+                  "ATP",
+                  "carbon dioxide"
+                ],
+                "correct_answer": "carbon dioxide",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 36,
+                "question_text": "Bacteria are prokaryotic because their genetic material (DNA) is not housed within a true ______",
+                "options": [
+                  "ribosome",
+                  "golgi",
+                  "nucleus",
+                  "cell"
+                ],
+                "correct_answer": "nucleus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 37,
+                "question_text": "______ are protists that make up the backbone of many food webs by providing nutrients for other organisms.",
+                "options": [
+                  "Plants",
+                  "Pathogens",
+                  "Parotids",
+                  "Protozoa"
+                ],
+                "correct_answer": "Protozoa",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 38,
+                "question_text": "______ have been used to make pharmaceuticals, including penicillin.",
+                "options": [
+                  "Plants",
+                  "Bacteria",
+                  "Algae",
+                  "Molds"
+                ],
+                "correct_answer": "Molds",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 39,
+                "question_text": "Viruses are ______ microorganisms, which means they are not composed of cells.",
+                "options": [
+                  "productive",
+                  "plentiful",
+                  "anucleuar",
+                  "acellular"
+                ],
+                "correct_answer": "acellular",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 40,
+                "question_text": "There are ______ nanometers in 530 meters.",
+                "options": [
+                  "520,000,000",
+                  "520,000,000,000,000",
+                  "520,000,000,000",
+                  "520,000 "
+                ],
+                "correct_answer": "520,000,000,000",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 41,
+                "question_text": "Which of the following is true of the genetics of viruses?",
+                "options": [
+                  "Viruses always contain DNA and force host cells to produce RNA.",
+                  "Viruses always contain RNA and force host cells to produce DNA.",
+                  "Viruses can contain either DNA or RNA, but not both.",
+                  "Viruses always contain DNA and RNA."
+                ],
+                "correct_answer": "Viruses can contain either DNA or RNA, but not both.",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "2",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which of the following has the highest energy?",
+                "options": [
+                  "light with a long wavelength",
+                  "light with an intermediate wavelength",
+                  "light with a short wavelength",
+                  "It is impossible to tell from the information given."
+                ],
+                "correct_answer": "light with a short wavelength",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "You place a specimen under the microscope and notice that parts of the specimen begin to emit light immediately. These materials can be described as _____________.",
+                "options": [
+                  "fluorescent",
+                  "phosphorescent",
+                  "transparent",
+                  "opaque"
+                ],
+                "correct_answer": "fluorescent",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Who was the first to describe “cells” in dead cork tissue?",
+                "options": [
+                  "Hans Janssen",
+                  "Zaccharias Janssen",
+                  "Antonie van Leeuwenhoek",
+                  "Robert Hooke"
+                ],
+                "correct_answer": "Robert Hooke",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Who is the probable inventor of the compound microscope?",
+                "options": [
+                  "Girolamo Fracastoro",
+                  "Zaccharias Janssen",
+                  "Antonie van Leeuwenhoek",
+                  "Robert Hooke"
+                ],
+                "correct_answer": "Zaccharias Janssen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which would be the best choice for viewing internal structures of a living protist such as a Paramecium?",
+                "options": [
+                  "a brightfield microscope with a stain",
+                  "a brightfield microscope without a stain",
+                  "a darkfield microscope",
+                  "a transmission electron microscope"
+                ],
+                "correct_answer": "a darkfield microscope",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Which type of microscope is especially useful for viewing thick structures such as biofilms?",
+                "options": [
+                  "a transmission electron microscope",
+                  "a scanning electron microscopes",
+                  "a phase-contrast microscope",
+                  "a confocal scanning laser microscope",
+                  "an atomic force microscope"
+                ],
+                "correct_answer": "a confocal scanning laser microscope",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which type of microscope would be the best choice for viewing very small surface structures of a cell?",
+                "options": [
+                  "a transmission electron microscope",
+                  "a scanning electron microscope",
+                  "a brightfield microscope",
+                  "a darkfield microscope",
+                  "a phase-contrast microscope"
+                ],
+                "correct_answer": "a scanning electron microscope",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "What type of microscope uses an annular stop?",
+                "options": [
+                  "a transmission electron microscope",
+                  "a scanning electron microscope",
+                  "a brightfield microscope",
+                  "a darkfield microscope",
+                  "a phase-contrast microscope"
+                ],
+                "correct_answer": "a phase-contrast microscope",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "What type of microscope uses a cone of light so that light only hits the specimen indirectly, producing a light image on a dark background?",
+                "options": [
+                  "a transmission electron microscope",
+                  "a scanning electron microscope",
+                  "a brightfield microscope",
+                  "a darkfield microscope",
+                  "a phase-contrast microscope"
+                ],
+                "correct_answer": "a darkfield microscope",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "What mordant is used in Gram staining?",
+                "options": [
+                  "crystal violet",
+                  "safranin",
+                  "acid-alcohol",
+                  "iodine"
+                ],
+                "correct_answer": "iodine",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "What is one difference between specimen preparation for a transmission electron microscope (TEM) and preparation for a scanning electron microscope (SEM)?",
+                "options": [
+                  "Only the TEM specimen requires sputter coating.",
+                  "Only the SEM specimen requires sputter-coating.",
+                  "Only the TEM specimen must be dehydrated.",
+                  "Only the SEM specimen must be dehydrated."
+                ],
+                "correct_answer": "Only the SEM specimen requires sputter-coating.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "When you see light bend as it moves from air into water, you are observing _________.",
+                "options": [
+                  "refraction",
+                  "reflection",
+                  "diffraction",
+                  "magnification"
+                ],
+                "correct_answer": "refraction",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "A microscope that uses multiple lenses is called a _________ microscope.",
+                "options": [
+                  "simple",
+                  "compound",
+                  "monocular",
+                  "electron"
+                ],
+                "correct_answer": "compound",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Chromophores that absorb and then emit light are called __________.",
+                "options": [
+                  "fluorochromes",
+                  "phosphors",
+                  "stains",
+                  "pigments"
+                ],
+                "correct_answer": "fluorochromes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "In a(n) _______ microscope, a probe located just above the specimen moves up and down in response to forces between the atoms and the tip of the probe.",
+                "options": [
+                  "scanning electron",
+                  "transmission electron",
+                  "atomic force",
+                  "confocal"
+                ],
+                "correct_answer": "atomic force",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "What is the total magnification of a specimen that is being viewed with a standard ocular lens and a 40⨯ objective lens?",
+                "options": [
+                  "40⨯",
+                  "400⨯",
+                  "4000⨯",
+                  "4⨯"
+                ],
+                "correct_answer": "400⨯",
+                "explanation": "Standard ocular lenses are typically 10⨯. Total magnification = ocular lens × objective lens = 10 × 40 = 400⨯."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Ziehl-Neelsen staining, a type of _______ staining, is diagnostic for Mycobacterium tuberculosis.",
+                "options": [
+                  "simple",
+                  "differential",
+                  "acid-fast",
+                  "negative"
+                ],
+                "correct_answer": "acid-fast",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "The _______ is used to differentiate bacterial cells based on the components of their cell walls.",
+                "options": [
+                  "Gram stain",
+                  "Ziehl-Neelsen stain",
+                  "endospore stain",
+                  "flagella stain"
+                ],
+                "correct_answer": "Gram stain",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "You place a specimen under the microscope and notice that parts of the specimen begin to emit light immediately. These materials can be described as _____________.",
+                "options": [
+                  "fluorescent",
+                  "transparent",
+                  "opaque",
+                  "phosphorescent"
+                ],
+                "correct_answer": "fluorescent",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": ". There is some debate over who invented the microscope. Explain why this debate exists and what factors help some individuals get more credit for their roles than others. (check all that apply)",
+                "options": [
+                  "Galileo, Antonie van Leeuwenhoek and Robert Hooke seem to gain the most popularity with this debate.",
+                  "The work of Hans Janssen and Zaccharias Janssen was not published.",
+                  "Leeuwenhoek and Hooke published their work.",
+                  "The work of Hans Janssen and Zaccharias Janssen was published."
+                ],
+                "correct_answer": "Galileo, Antonie van Leeuwenhoek and Robert Hooke seem to gain the most popularity with this debate. AND The work of Hans Janssen and Zaccharias Janssen was not published. AND Leeuwenhoek and Hooke published their work.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "Specimens for TEM are prepared by doing which of the following?",
+                "options": [
+                  "sputter coating with a substance such as gold to repel electrons.",
+                  "dehydrating the specimen in ethanol and then coating it in a material that will repel electrons.",
+                  "using chemical fixation, followed by standard staining techniques such as the Gram stain.",
+                  "using an ultramicrotome to cut very thin sections from samples embedded in plastic resin."
+                ],
+                "correct_answer": "using an ultramicrotome to cut very thin sections from samples embedded in plastic resin.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "Electromagnetic radiation (EMR), a type of energy that is all around us can be found in the form of:",
+                "options": [
+                  "X rays",
+                  "Radio Waves",
+                  "Visible light",
+                  "all of these are types of EMR"
+                ],
+                "correct_answer": "all of these are types of EMR",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "The lowest frequency of visible light appears as the color ___________ .",
+                "options": [
+                  "yellow",
+                  "violet",
+                  "blue",
+                  "red"
+                ],
+                "correct_answer": "red",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 24,
+                "question_text": "When endospores are stained using the Schaeffer-Fulton method, which of the following correctly describes how they appear after staining?",
+                "options": [
+                  "The entire cell appears pink except for a clear area representing the endospore.",
+                  "The entire cell appears green because the endospore surrounds all the vegetative material.",
+                  "The entire cell appears pink because the endospore surrounds all the vegetative material.",
+                  "The endospore appears green within a pink cell, because only the endospore retained the primary stain."
+                ],
+                "correct_answer": "The endospore appears green within a pink cell, because only the endospore retained the primary stain.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Light can change speed when passing through one material to the next.",
+                "options": [
+                  "This question has no answer",
+                  "This is sometimes true",
+                  "This is false",
+                  "This is true"
+                ],
+                "correct_answer": "This is true",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 26,
+                "question_text": "Compared with air, water has a(n) ___________ refractive index.",
+                "options": [
+                  "zero",
+                  "lower",
+                  "higher",
+                  "equal"
+                ],
+                "correct_answer": "higher",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 27,
+                "question_text": "Which of the following has the highest energy?",
+                "options": [
+                  "light with an intermediate wavelength",
+                  "light with a short wavelength",
+                  "light with a long wavelength",
+                  "It is impossible to tell from the information given."
+                ],
+                "correct_answer": "light with a short wavelength",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 28,
+                "question_text": "Differential staining techniques commonly used in clinical settings include:",
+                "options": [
+                  "none of these",
+                  "Ectospore staining",
+                  "both of these",
+                  "Gram staining"
+                ],
+                "correct_answer": "Gram staining",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 29,
+                "question_text": "Why can electron microscopes achieve higher resolutions than light microscopes?",
+                "options": [
+                  "Using electrons are less expensive and better and light.",
+                  "Electron microscopes have rheostats and adjusting this makes for better resolution.",
+                  "Resolution is higher when there are longer wavelengths.",
+                  "Resolution is higher when there are shorter wavelengths."
+                ],
+                "correct_answer": "Resolution is higher when there are shorter wavelengths.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 30,
+                "question_text": "Certain______________ dyes absorb ultraviolet or blue light and then use the energy to emit photons of a different color, giving off light rather than simply vibrating. This",
+                "options": [
+                  "fluorescent",
+                  "cosmic",
+                  "gamma",
+                  "violet"
+                ],
+                "correct_answer": "fluorescent",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 31,
+                "question_text": "A magnification of 10⨯ means that the image appears _____ times the size of the object as viewed with the naked eye.",
+                "options": [
+                  "100",
+                  "10",
+                  "1",
+                  "1000"
+                ],
+                "correct_answer": "10",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 32,
+                "question_text": "Which of these are examples of light microscopes?",
+                "options": [
+                  "brightfield microscopes",
+                  "all of these are types of light microscopes",
+                  "darkfield microscope",
+                  "phase-contrast microscopes"
+                ],
+                "correct_answer": "all of these are types of light microscopes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 33,
+                "question_text": "If a 10⨯ objective lens is selected and the ocular lens is 10⨯, the total magnification would be",
+                "options": [
+                  "10,000",
+                  "10",
+                  "100",
+                  "1,000"
+                ],
+                "correct_answer": "100",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 34,
+                "question_text": "If less-than-maximal light levels are needed, the amount of light striking the specimen can be easily adjusted by opening or closing a_______________ between the condenser and the specimen.",
+                "options": [
+                  "rheostat",
+                  "illuminator",
+                  "condenser",
+                  "diaphragm"
+                ],
+                "correct_answer": "diaphragm",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 35,
+                "question_text": "_______________ occurs when a wave bounces off of a material.",
+                "options": [
+                  "Absorbance occurs",
+                  "Transmittance",
+                  "Refraction",
+                  "Reflection"
+                ],
+                "correct_answer": "Reflection",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 36,
+                "question_text": "Which would be the best choice for viewing internal structures of a living protist such as a Paramecium?",
+                "options": [
+                  "a brightfield microscope with a stain",
+                  "a brightfield microscope without a stain",
+                  "a darkfield microscope",
+                  "a transmission electron microscope"
+                ],
+                "correct_answer": "a darkfield microscope",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 37,
+                "question_text": "Which type of microscope is especially useful for viewing thick structures such as biofilms?",
+                "options": [
+                  "a scanning electron microscopes",
+                  "a confocal scanning laser microscope",
+                  "an atomic force microscope",
+                  "a transmission electron microscope"
+                ],
+                "correct_answer": "a confocal scanning laser microscope",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 38,
+                "question_text": "What type of microscope uses an annular stop?",
+                "options": [
+                  "a scanning electron microscope",
+                  "a phase-contrast microscope",
+                  "a darkfield microscope",
+                  "brightfield microscope"
+                ],
+                "correct_answer": "a phase-contrast microscope",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "3",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which of the following individuals argued in favor of the theory of spontaneous generation?",
+                "options": [
+                  "Francesco Redi",
+                  "Louis Pasteur",
+                  "John Needham",
+                  "Lazzaro Spallanzani"
+                ],
+                "correct_answer": "John Needham",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Which of the following individuals is credited for definitively refuting the theory of spontaneous generation using broth in swan-neck flask?",
+                "options": [
+                  "Aristotle",
+                  "Jan Baptista van Helmont",
+                  "John Needham",
+                  "Louis Pasteur"
+                ],
+                "correct_answer": "Louis Pasteur",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Which of the following scientists experimented with raw meat, maggots, and flies in an attempt to disprove the theory of spontaneous generation?",
+                "options": [
+                  "Aristotle",
+                  "Lazzaro Spallanzani",
+                  "Antonie van Leeuwenhoek",
+                  "Francesco Redi"
+                ],
+                "correct_answer": "Francesco Redi",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Which of the following individuals did not contribute to the establishment of cell theory?",
+                "options": [
+                  "Girolamo Fracastoro",
+                  "Matthias Schleiden",
+                  "Robert Remak",
+                  "Robert Hooke"
+                ],
+                "correct_answer": "Girolamo Fracastoro",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Whose proposal of the endosymbiotic theory of mitochondrial and chloroplast origin was ultimately accepted by the greater scientific community?",
+                "options": [
+                  "Rudolf Virchow",
+                  "Ignaz Semmelweis",
+                  "Lynn Margulis",
+                  "Theodor Schwann"
+                ],
+                "correct_answer": "Lynn Margulis",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Which of the following developed a set of postulates for determining whether a particular disease is caused by a particular pathogen?",
+                "options": [
+                  "John Snow",
+                  "Robert Koch",
+                  "Joseph Lister",
+                  "Louis Pasteur"
+                ],
+                "correct_answer": "Robert Koch",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which of the following terms refers to a prokaryotic cell that is comma shaped?",
+                "options": [
+                  "coccus",
+                  "coccobacilli",
+                  "vibrio",
+                  "spirillum"
+                ],
+                "correct_answer": "vibrio",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which bacterial structures are important for adherence to surfaces? (Select all that apply.)",
+                "options": [
+                  "endospores",
+                  "cell walls",
+                  "fimbriae",
+                  "capsules",
+                  "flagella"
+                ],
+                "correct_answer": "fimbriae AND capsules",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following cell wall components is unique to gram-negative cells?",
+                "options": [
+                  "lipopolysaccharide",
+                  "teichoic acid",
+                  "mycolic acid",
+                  "peptidoglycan"
+                ],
+                "correct_answer": "lipopolysaccharide",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which of the following terms refers to a bacterial cell having a single tuft of flagella at one end?",
+                "options": [
+                  "monotrichous",
+                  "amphitrichous",
+                  "peritrichous",
+                  "lophotrichous"
+                ],
+                "correct_answer": "lophotrichous",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Bacterial cell walls are primarily composed of which of the following?",
+                "options": [
+                  "phospholipid",
+                  "protein",
+                  "carbohydrate",
+                  "peptidoglycan"
+                ],
+                "correct_answer": "peptidoglycan",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which of the following organelles is not part of the endomembrane system?",
+                "options": [
+                  "endoplasmic reticulum",
+                  "Golgi apparatus",
+                  "lysosome",
+                  "peroxisome"
+                ],
+                "correct_answer": "peroxisome",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which type of cytoskeletal fiber is important in the formation of the nuclear lamina?",
+                "options": [
+                  "microfilaments",
+                  "intermediate filaments",
+                  "microtubules",
+                  "fibronectin"
+                ],
+                "correct_answer": "intermediate filaments",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Sugar groups may be added to proteins in which of the following?",
+                "options": [
+                  "smooth endoplasmic reticulum",
+                  "rough endoplasmic reticulum",
+                  "Golgi apparatus",
+                  "lysosome"
+                ],
+                "correct_answer": "Golgi apparatus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Which of the following structures of a eukaryotic cell is not likely derived from endosymbiotic bacterium?",
+                "options": [
+                  "mitochondrial DNA",
+                  "mitochondrial ribosomes",
+                  "inner membrane",
+                  "outer membrane"
+                ],
+                "correct_answer": "outer membrane",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Which type of nutrient uptake involves the engulfment of small dissolved molecules into vesicles?",
+                "options": [
+                  "active transport",
+                  "pinocytosis",
+                  "receptor-mediated endocytosis",
+                  "facilitated diffusion"
+                ],
+                "correct_answer": "pinocytosis",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Which of the following is not composed of microtubules?",
+                "options": [
+                  "desmosomes",
+                  "centrioles",
+                  "eukaryotic flagella",
+                  "eukaryotic cilia"
+                ],
+                "correct_answer": "desmosomes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Exposure to air is necessary for microbial growth.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Bacteria have 80S ribosomes each composed of a 60S large subunit and a 40S small subunit.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Mitochondria in eukaryotic cells contain ribosomes that are structurally similar to those found in prokaryotic cells.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "The assertion that “life only comes from life” was stated by Louis Pasteur in regard to his experiments that definitively refuted the theory of ___________.",
+                "options": [
+                  "spontaneous generation"
+                ],
+                "correct_answer": "spontaneous generation",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "John Snow is known as the Father of _____________.",
+                "options": [
+                  "epidemiology"
+                ],
+                "correct_answer": "epidemiology",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "The ____________ theory states that disease may originate from proximity to decomposing matter and is not due to person-to-person contact.",
+                "options": [
+                  "miasma"
+                ],
+                "correct_answer": "miasma",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 24,
+                "question_text": "The scientist who first described cells was _____________.",
+                "options": [
+                  "Robert Hooke"
+                ],
+                "correct_answer": "Robert Hooke",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Prokaryotic cells that are rod-shaped are called _____________.",
+                "options": [
+                  "bacilli"
+                ],
+                "correct_answer": "bacilli",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 26,
+                "question_text": "The type of inclusion containing polymerized inorganic phosphate is called _____________.",
+                "options": [
+                  "volutin (or metachromatic granule)"
+                ],
+                "correct_answer": "volutin (or metachromatic granule)",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 27,
+                "question_text": "Peroxisomes typically produce _____________, a harsh chemical that helps break down molecules.",
+                "options": [
+                  "hydrogen peroxide"
+                ],
+                "correct_answer": "hydrogen peroxide",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 28,
+                "question_text": "Microfilaments are composed of _____________ monomers.",
+                "options": [
+                  "actin"
+                ],
+                "correct_answer": "actin",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 29,
+                "question_text": "Who was earliest recorded scholar to articulate the theory of spontaneous generation?",
+                "options": [
+                  "Aedesia",
+                  "Agamemnon",
+                  "Acrion",
+                  "Aristotle"
+                ],
+                "correct_answer": "Aristotle",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 30,
+                "question_text": "_____________   _____________ experimental setup consisted of an open container, a container sealed with a cork top, and a container covered in mesh that let in air but not flies.",
+                "options": [
+                  "Francesco Redi’s",
+                  "Galileo Galilei's",
+                  "Marc Amelius's",
+                  "Marina Gamba's"
+                ],
+                "correct_answer": "Francesco Redi’s",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 31,
+                "question_text": "Which of the following are anchored into the plasma membrane by a basal body composed of nine triplets of microtubules?",
+                "options": [
+                  "prokaryotic flagella only",
+                  "eukaryotic cilia only",
+                  "eukaryotic flagella",
+                  "eukaryotic cilia"
+                ],
+                "correct_answer": "eukaryotic flagella AND eukaryotic cilia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 32,
+                "question_text": "The English scientist Robert Hooke first used the term “__________” in 1665 to describe the small chambers within cork that he observed under a microscope of his own design.",
+                "options": [
+                  "ribosomes",
+                  "organisms",
+                  "cells",
+                  "microsomes"
+                ],
+                "correct_answer": "cells",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 33,
+                "question_text": "Who definitively refuted the long-disputed theory of spontaneous generation?",
+                "options": [
+                  "Lazzaro Spallanzani",
+                  "Galileo Galilei",
+                  "Louis Pasteur",
+                  "Marie Curie"
+                ],
+                "correct_answer": "Louis Pasteur",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 34,
+                "question_text": "Which of the following is not part of the endomembrane system?",
+                "options": [
+                  "the Golgi apparatus",
+                  "mitochondria",
+                  "lysosomes",
+                  "the rough endoplasmic reticulum"
+                ],
+                "correct_answer": "mitochondria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 35,
+                "question_text": "In what decade did we recognize the modern cell theory?",
+                "options": [
+                  "1950s",
+                  "1840s",
+                  "1850s",
+                  "1940s"
+                ],
+                "correct_answer": "1850s",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 36,
+                "question_text": "Eukaryotic cells possess a _____________, which is surrounded by a complex nuclear membrane that houses the ___________ .",
+                "options": [
+                  "microglia, mitochondria",
+                  "nucleus, DNA",
+                  "mitochondria, prokaryotes",
+                  "DNA, nucleus"
+                ],
+                "correct_answer": "nucleus, DNA",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 37,
+                "question_text": "Who was the first scientist to articulate the endosymbiotic hypothesis?",
+                "options": [
+                  "Konstantin Mereschkowski",
+                  "Ivan Wallin",
+                  "Andreas Schimper",
+                  "Robert Brown"
+                ],
+                "correct_answer": "Konstantin Mereschkowski",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 38,
+                "question_text": "Which of the following individuals did not contribute to the establishment of cell theory?",
+                "options": [
+                  "Matthias Schleiden",
+                  "Girolamo Fracastoro",
+                  "Robert Hooke",
+                  "Robert Remak"
+                ],
+                "correct_answer": "Girolamo Fracastoro",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 39,
+                "question_text": "In 1745, John Needham (1713–1781) published a report of his own experiments, in which he briefly boiled broth infused with plant or animal matter, hoping to kill all preexisting microbes.  He then sealed the flasks. After a few days, Needham observed that the broth had become cloudy and a single drop contained numerous microscopic creatures. He argued that the new microbes must have arisen spontaneously.\n\nWhat is the likely explanation for this result?",
+                "options": [
+                  "Needham likely did not boil the broth enough to kill all preexisting microbes.",
+                  "All of the existing microbes had been killed",
+                  "None of these",
+                  "Spontaneous generation"
+                ],
+                "correct_answer": "Needham likely did not boil the broth enough to kill all preexisting microbes.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 40,
+                "question_text": "Which of the following terms refers to a prokaryotic cell that is spiral shaped?",
+                "options": [
+                  "vibrio",
+                  "coccus",
+                  "spirillum",
+                  "coccobacilli"
+                ],
+                "correct_answer": "spirillum",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 41,
+                "question_text": "_____________ is a form of transport used by bacteria, but not by eukaryotic cells, to move materials across the cell membrane and into the cell.",
+                "options": [
+                  "Group translocation",
+                  "Lysification",
+                  "Ciliated translocation",
+                  "Solo translocation"
+                ],
+                "correct_answer": "Group translocation",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 42,
+                "question_text": "Which bacterial structures are important for adherence to surfaces?",
+                "options": [
+                  "cell walls",
+                  "fimbriae & flagella",
+                  "flagella & endospores",
+                  "endospores"
+                ],
+                "correct_answer": "fimbriae & flagella",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 43,
+                "question_text": "Who conducted studies to track the source of cholera outbreaks in London which ultimately resulted in the first known public health response to an epidemic?",
+                "options": [
+                  "John Snow",
+                  "Louis Pasteur",
+                  "Ignaz Semmelweis",
+                  "Joseph Lister"
+                ],
+                "correct_answer": "John Snow",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 44,
+                "question_text": "_________________ cells lack a nucleus.",
+                "options": [
+                  "Eukaryotic",
+                  "Prokaryotic",
+                  "Plant",
+                  "Animal"
+                ],
+                "correct_answer": "Prokaryotic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 45,
+                "question_text": "When the concentration of solutes is greater on one side of the membrane, water diffuses across the membrane from the side with the lower concentration (more water) to the side with the higher concentration (less water) until the concentrations on both sides become equal. This diffusion of water is called _____________ .",
+                "options": [
+                  "potential",
+                  "membrane",
+                  "osmosis",
+                  "diffusion"
+                ],
+                "correct_answer": "osmosis",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 46,
+                "question_text": "Mitochondria are unable to survive outside of eukaryotic cells. If they originated from ancestral prokaryotes, as proposed by the endosymbiotic theory, then why can’t they survive independently?",
+                "options": [
+                  "Over time, mitochondria and their host cells evolved to be dependent on each other.",
+                  "Mitochondrial genes transferred to the cell nucleus.",
+                  "The mitochondrion might not have all its genes therefore, it cannot perform all its functions if it is removed from the eukaryotic cell.",
+                  "There should be no reason for the mitochondria to not survive independently."
+                ],
+                "correct_answer": "Over time, mitochondria and their host cells evolved to be dependent on each other. AND Mitochondrial genes transferred to the cell nucleus. AND The mitochondrion might not have all its genes therefore, it cannot perform all its functions if it is removed from the eukaryotic cell.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 47,
+                "question_text": "Ribosomes are structures responsible for ________________ synthesis.",
+                "options": [
+                  "protein",
+                  "carbohydrate",
+                  "all of these",
+                  "lipid"
+                ],
+                "correct_answer": "protein",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 48,
+                "question_text": "Which best describes the function of cristae?",
+                "options": [
+                  "They increase the surface area for reactions associated with cellular respiration.",
+                  "They increase the capacity of the mitochondria to synthesize ATP",
+                  "They provide a location for the light reactions of photosynthesis in plant cells.",
+                  "They are compartments for digestive enzyme storage in eukaryotic cells."
+                ],
+                "correct_answer": "They increase the surface area for reactions associated with cellular respiration. AND They increase the capacity of the mitochondria to synthesize ATP",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "4",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "The term prokaryotes refers to which of the following?",
+                "options": [
+                  "very small organisms",
+                  "unicellular organisms that have no nucleus",
+                  "multicellular organisms",
+                  "cells that resemble animal cells more than plant cells"
+                ],
+                "correct_answer": "unicellular organisms that have no nucleus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "The term microbiota refers to which of the following?",
+                "options": [
+                  "all microorganisms of the same species",
+                  "all of the microorganisms involved in a symbiotic relationship",
+                  "all microorganisms in a certain region of the human body",
+                  "all microorganisms in a certain geographic region"
+                ],
+                "correct_answer": "all microorganisms in a certain region of the human body",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Which of the following refers to the type of interaction between two prokaryotic populations in which one population benefits and the other is not affected?",
+                "options": [
+                  "mutualism",
+                  "commensalism",
+                  "parasitism",
+                  "neutralism"
+                ],
+                "correct_answer": "commensalism",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Which of the following describes Proteobacteria in domain Bacteria?",
+                "options": [
+                  "phylum",
+                  "class",
+                  "species",
+                  "genus"
+                ],
+                "correct_answer": "phylum",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which of the following Alphaproteobacteria is the cause of Rocky Mountain spotted fever and typhus?",
+                "options": [
+                  "Bartonella",
+                  "Coxiella",
+                  "Rickettsia",
+                  "Ehrlichia",
+                  "Brucella"
+                ],
+                "correct_answer": "Rickettsia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Class Betaproteobacteria includes all but which of the following genera?",
+                "options": [
+                  "Neisseria.",
+                  "Bordetella.",
+                  "Leptothrix.",
+                  "Campylobacter."
+                ],
+                "correct_answer": "Campylobacter.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Haemophilus influenzae is a common cause of which of the following?",
+                "options": [
+                  "influenza",
+                  "dysentery",
+                  "upper respiratory tract infections",
+                  "hemophilia"
+                ],
+                "correct_answer": "upper respiratory tract infections",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which of the following is the organelle that spirochetes use to propel themselves?",
+                "options": [
+                  "plasma membrane",
+                  "axial filament",
+                  "pilum",
+                  "fimbria"
+                ],
+                "correct_answer": "axial filament",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following bacteria are the most prevalent in the human gut?",
+                "options": [
+                  "cyanobacteria",
+                  "staphylococci",
+                  "Borrelia",
+                  "Bacteroides"
+                ],
+                "correct_answer": "Bacteroides",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which of the following refers to photosynthesis performed by bacteria with the use of water as the donor of electrons?",
+                "options": [
+                  "oxygenic",
+                  "anoxygenic",
+                  "heterotrophic",
+                  "phototrophic"
+                ],
+                "correct_answer": "oxygenic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which of the following bacterial species is classified as high G+C gram-positive?",
+                "options": [
+                  "Corynebacterium diphtheriae",
+                  "Staphylococcus aureus",
+                  "Bacillus anthracis",
+                  "Streptococcus pneumonia"
+                ],
+                "correct_answer": "Corynebacterium diphtheriae",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "The term “deeply branching” refers to which of the following?",
+                "options": [
+                  "the cellular shape of deeply branching bacteria",
+                  "the position in the evolutionary tree of deeply branching bacteria",
+                  "the ability of deeply branching bacteria to live in deep ocean waters",
+                  "the pattern of growth in culture of deeply branching bacteria"
+                ],
+                "correct_answer": "the position in the evolutionary tree of deeply branching bacteria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which of these deeply branching bacteria is considered a polyextremophile?",
+                "options": [
+                  "Aquifex pyrophilus",
+                  "Deinococcus radiodurans",
+                  "Staphylococcus aureus",
+                  "Mycobacterium tuberculosis"
+                ],
+                "correct_answer": "Deinococcus radiodurans",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Archaea and Bacteria are most similar in terms of their ________.",
+                "options": [
+                  "genetics",
+                  "cell wall structure",
+                  "ecology",
+                  "unicellular structure"
+                ],
+                "correct_answer": "unicellular structure",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Which of the following is true of archaea that produce methane?",
+                "options": [
+                  "They reduce carbon dioxide in the presence of nitrogen.",
+                  "They live in the most extreme environments.",
+                  "They are always anaerobes.",
+                  "They have been discovered on Mars."
+                ],
+                "correct_answer": "They live in the most extreme environments.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Among prokaryotes, there are some that can live in every environment on earth.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "When prokaryotes live as interacting communities in which one population benefits to the harm of the other, the type of symbiosis is called ________.",
+                "options": [
+                  "parasitism"
+                ],
+                "correct_answer": "parasitism",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "The domain ________ does not include prokaryotes.",
+                "options": [
+                  "Eukarya"
+                ],
+                "correct_answer": "Eukarya",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Pathogenic bacteria that are part of the transient microbiota can sometimes be eliminated by ________ therapy.",
+                "options": [
+                  "antibiotic"
+                ],
+                "correct_answer": "antibiotic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Nitrogen-fixing bacteria provide other organisms with usable nitrogen in the form of ________.",
+                "options": [
+                  "ammonia"
+                ],
+                "correct_answer": "ammonia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "Rickettsias are ________ intracellular bacteria.",
+                "options": [
+                  "obligate"
+                ],
+                "correct_answer": "obligate",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "The species ________, which belongs to Epsilonproteobacteria, causes peptic ulcers of the stomach and duodenum.",
+                "options": [
+                  "Helicobacter pylori"
+                ],
+                "correct_answer": "Helicobacter pylori",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "The genus Salmonella belongs to the class ________ and includes pathogens that cause salmonellosis and typhoid fever.",
+                "options": [
+                  "Gammaproteobacteria"
+                ],
+                "correct_answer": "Gammaproteobacteria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 24,
+                "question_text": "The bacterium that causes syphilis is called ________.",
+                "options": [
+                  "Treponema pallidum pallidum"
+                ],
+                "correct_answer": "Treponema pallidum pallidum",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Bacteria in the genus Rhodospirillum that use hydrogen for oxidation and fix nitrogen are ________ bacteria.",
+                "options": [
+                  "purple nonsulfur"
+                ],
+                "correct_answer": "purple nonsulfur",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 26,
+                "question_text": "Streptococcus is the ________ of bacteria that is responsible for many human diseases.",
+                "options": [
+                  "genus"
+                ],
+                "correct_answer": "genus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 27,
+                "question_text": "One species of Streptococcus, S. pyogenes, is a classified as a ________ pathogen due to the characteristic production of pus in infections it causes.",
+                "options": [
+                  "pyogenic"
+                ],
+                "correct_answer": "pyogenic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 28,
+                "question_text": "Cutibacterium belongs to ________ G+C gram-positive bacteria. One of its species is used in the food industry and another causes acne.",
+                "options": [
+                  "high"
+                ],
+                "correct_answer": "high",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 29,
+                "question_text": "The length of the branches of the evolutionary tree characterizes the evolutionary ________ between organisms.",
+                "options": [
+                  "distance"
+                ],
+                "correct_answer": "distance",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 30,
+                "question_text": "The deeply branching bacteria are thought to be the form of life closest to the last universal ________ ________.",
+                "options": [
+                  "common ancestor"
+                ],
+                "correct_answer": "common ancestor",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 31,
+                "question_text": "Many of the deeply branching bacteria are aquatic and hyperthermophilic, found near underwater volcanoes and thermal ocean ________.",
+                "options": [
+                  "vents"
+                ],
+                "correct_answer": "vents",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 32,
+                "question_text": "The deeply branching bacterium Deinococcus radiodurans is able to survive exposure to high doses of ________.",
+                "options": [
+                  "ionizing radiation"
+                ],
+                "correct_answer": "ionizing radiation",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 33,
+                "question_text": "________ is a genus of Archaea. Its optimal environmental temperature ranges from 70 °C to 80 °C, and its optimal pH is 2–3. It oxidizes sulfur and produces sulfuric acid.",
+                "options": [
+                  "Sulfolobus"
+                ],
+                "correct_answer": "Sulfolobus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 34,
+                "question_text": "________ was once thought to be the cause of periodontal disease, but, more recently, the causal relationship between this archaean and the disease was not confirmed.",
+                "options": [
+                  "Methanobrevibacter oralis"
+                ],
+                "correct_answer": "Methanobrevibacter oralis",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Lab 2 Practical",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "What are some of the characteristics of microorganisms?",
+                "options": [
+                  "oldest living organisms",
+                  "most diverse organisms",
+                  "all of these",
+                  "most numerous organisms"
+                ],
+                "correct_answer": "all of these",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "What is a key difference between eukaryotes and prokaryotes?",
+                "options": [
+                  "Prokaryotes have DNA",
+                  "Eukaryotes have a nucleus",
+                  "Eukaryotes have DNA",
+                  "Prokaryotes are multi-cellular"
+                ],
+                "correct_answer": "Eukaryotes have a nucleus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "What is a key difference between eukaryotic cells genetic makeup and prokaryotic genetic makeup?",
+                "options": [
+                  "Prokaryotic cells have DNA that is linear",
+                  "Eukaryotic cells have DNA that is organized into rings",
+                  "Prokaryotic cells have DNA that is cut into multiple linear pieces",
+                  "Prokaryotic cells have DNA that is organized into rings"
+                ],
+                "correct_answer": "Prokaryotic cells have DNA that is organized into rings",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "What do we know about Archaea?",
+                "options": [
+                  "the are about 3.5 billion years old",
+                  "they contain a nucleus",
+                  "all of these",
+                  "the have a double membrane"
+                ],
+                "correct_answer": "the are about 3.5 billion years old",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Where can Methanogens thrive?",
+                "options": [
+                  "all of these",
+                  "swamps",
+                  "intestines",
+                  "mud"
+                ],
+                "correct_answer": "all of these",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Where to Extremophiles thrive?",
+                "options": [
+                  "Neither of these",
+                  "in temperatures above 113 degrees Celsius",
+                  "prefer to live non-saline water",
+                  "Both of these"
+                ],
+                "correct_answer": "in temperatures above 113 degrees Celsius",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "One potential bacterial benefit of horizontal gene transfer could be:",
+                "options": [
+                  "Antibiotic resistance",
+                  "none of these",
+                  "DNA destruction",
+                  "subcutaneous fascia"
+                ],
+                "correct_answer": "Antibiotic resistance",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which of the following are characteristics of Gram-Positive Bacteria?",
+                "options": [
+                  "a huge, diverse group",
+                  "all of these",
+                  "thick cell membranes",
+                  "some are colonial"
+                ],
+                "correct_answer": "all of these",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Cyanobacteria are the only Prokaryotes to:",
+                "options": [
+                  "use Carbon to make food",
+                  "use photosynthesis to make their own food",
+                  "use Nitrogen to make food",
+                  "none of these"
+                ],
+                "correct_answer": "use photosynthesis to make their own food",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Protozoa have which of these characteristics (choose all that apply):",
+                "options": [
+                  "are not parasitic",
+                  "Autotrophs",
+                  "can move using cilia or flagella",
+                  "Heterotrophs"
+                ],
+                "correct_answer": "can move using cilia or flagella AND Heterotrophs",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Lab 2 Quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Engineers at what University developed this Robo-thread?",
+                "options": [
+                  "Harvard",
+                  "MIT",
+                  "Princeton",
+                  "UCLA"
+                ],
+                "correct_answer": "MIT",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "This device is controlled by:",
+                "options": [
+                  "aluminium",
+                  "glucose",
+                  "proteins",
+                  "magnetism"
+                ],
+                "correct_answer": "magnetism",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "What is a downfall with conventional passive guidewire?",
+                "options": [
+                  "Can damage vessel linings",
+                  "Both of these",
+                  "It can cause friction",
+                  "neither of these"
+                ],
+                "correct_answer": "Both of these",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "What are some of the benefits to this new technology (mark all that might apply)?",
+                "options": [
+                  "Made of Carbohydrates",
+                  "Flexible",
+                  "Precision & Activation",
+                  "Little to no friction"
+                ],
+                "correct_answer": "Flexible AND Precision & Activation AND Little to no friction",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "What is the difference between these two images?",
+                "options": [
+                  "The image on the left is coated with hydrogen",
+                  "The image on the left is coated with hydrogel",
+                  "The image on the right is coated with hydrogen",
+                  "The image on the right is coated with hydrogel"
+                ],
+                "correct_answer": "The image on the left is coated with hydrogel",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "What is being discussed in this second video?",
+                "options": [
+                  "none of these",
+                  "3-D printing of metal",
+                  "3-D printing of plastics",
+                  "3-D printing of living organisms"
+                ],
+                "correct_answer": "3-D printing of living organisms",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "How are the 3-D portions of this object able to communicate with the cells living on the surface?",
+                "options": [
+                  "DNA",
+                  "chemical signals",
+                  "microglia",
+                  "subcutaneous fascia"
+                ],
+                "correct_answer": "chemical signals",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "This allows for what to occur?",
+                "options": [
+                  "Neither of these",
+                  "Control over UV radiation",
+                  "Control over gene expression",
+                  "Both of these"
+                ],
+                "correct_answer": "Control over gene expression",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "These colors represent:",
+                "options": [
+                  "nothing pertaining to the 3-D printing",
+                  "a response to the chemical signals",
+                  "DNA",
+                  "a way to separate the various microorganisms"
+                ],
+                "correct_answer": "a response to the chemical signals",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "What does HLM stand for?",
+                "options": [
+                  "Hybrid Living Materials",
+                  "Hybrid Living Matter",
+                  "Hydro Living Material",
+                  "Hydro Living Matter"
+                ],
+                "correct_answer": "Hybrid Living Materials",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "5",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which genus includes the causative agent for malaria?",
+                "options": [
+                  "Euglena",
+                  "Paramecium",
+                  "Plasmodium",
+                  "Trypanosoma"
+                ],
+                "correct_answer": "Plasmodium",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Which protist is a concern because of its ability to contaminate water supplies and cause diarrheal illness?",
+                "options": [
+                  "Plasmodium vivax",
+                  "Toxoplasma gondii",
+                  "Giardia lamblia",
+                  "Trichomonas vaginalis"
+                ],
+                "correct_answer": "Giardia lamblia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "A fluke is classified within which of the following?",
+                "options": [
+                  "Nematoda",
+                  "Rotifera",
+                  "Platyhelminthes",
+                  "Annelida"
+                ],
+                "correct_answer": "Platyhelminthes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "A nonsegmented worm is found during a routine colonoscopy of an individual who reported having abdominal cramps, nausea, and vomiting. This worm is likely which of the following?",
+                "options": [
+                  "nematode",
+                  "fluke",
+                  "trematode",
+                  "annelid"
+                ],
+                "correct_answer": "nematode",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "A segmented worm has male and female reproductive organs in each segment. Some use hooks to attach to the intestinal wall. Which type of worm is this?",
+                "options": [
+                  "fluke",
+                  "nematode",
+                  "cestode",
+                  "annelid"
+                ],
+                "correct_answer": "cestode",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Mushrooms are a type of which of the following?",
+                "options": [
+                  "conidia",
+                  "ascus",
+                  "polar tubule",
+                  "basidiocarp"
+                ],
+                "correct_answer": "basidiocarp",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which of the following is the most common cause of human yeast infections?",
+                "options": [
+                  "Candida albicans",
+                  "Blastomyces dermatitidis",
+                  "Cryptococcus neoformans",
+                  "Aspergillus fumigatus"
+                ],
+                "correct_answer": "Candida albicans",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which of the following is an ascomycete fungus associated with bat droppings that can cause a respiratory infection if inhaled?",
+                "options": [
+                  "Candida albicans",
+                  "Histoplasma capsulatum",
+                  "Rhizopus stolonifera",
+                  "Trichophyton rubrum"
+                ],
+                "correct_answer": "Histoplasma capsulatum",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which polysaccharide found in red algal cell walls is a useful solidifying agent?",
+                "options": [
+                  "chitin",
+                  "cellulose",
+                  "phycoerythrin",
+                  "agar"
+                ],
+                "correct_answer": "agar",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which is the term for the hard outer covering of some dinoflagellates?",
+                "options": [
+                  "theca",
+                  "thallus",
+                  "mycelium",
+                  "shell"
+                ],
+                "correct_answer": "theca",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which protists are associated with red tides?",
+                "options": [
+                  "red algae",
+                  "brown algae",
+                  "dinoflagellates",
+                  "green algae"
+                ],
+                "correct_answer": "dinoflagellates",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "You encounter a lichen with leafy structures. Which term describes this lichen?",
+                "options": [
+                  "crustose",
+                  "foliose",
+                  "fruticose",
+                  "agarose"
+                ],
+                "correct_answer": "foliose",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which of the following is the term for the outer layer of a lichen?",
+                "options": [
+                  "the cortex",
+                  "the medulla",
+                  "the thallus",
+                  "the theca"
+                ],
+                "correct_answer": "the cortex",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "The fungus in a lichen is which of the following?",
+                "options": [
+                  "a basidiomycete",
+                  "an ascomycete",
+                  "a zygomycete",
+                  "an apicomplexan"
+                ],
+                "correct_answer": "an ascomycete",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "The plasma membrane of a protist is called the __________.",
+                "options": [
+                  "plasmalemma"
+                ],
+                "correct_answer": "plasmalemma",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Animals belong to the same supergroup as the kingdom __________.",
+                "options": [
+                  "Fungi"
+                ],
+                "correct_answer": "Fungi",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Flukes are in class _________.",
+                "options": [
+                  "Trematoda"
+                ],
+                "correct_answer": "Trematoda",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "A species of worm in which there are distinct male and female individuals is described as _________.",
+                "options": [
+                  "dioecious"
+                ],
+                "correct_answer": "dioecious",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Nonseptate hyphae are also called _________.",
+                "options": [
+                  "coenocytic"
+                ],
+                "correct_answer": "coenocytic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Unicellular fungi are called _________.",
+                "options": [
+                  "yeasts"
+                ],
+                "correct_answer": "yeasts",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "Some fungi have proven medically useful because they can be used to produce _________.",
+                "options": [
+                  "antibiotics"
+                ],
+                "correct_answer": "antibiotics",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "Structures in chloroplasts used to synthesize and store starch are called ________.",
+                "options": [
+                  "pyrenoids"
+                ],
+                "correct_answer": "pyrenoids",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "Algae with chloroplasts with three or four membranes are a result of ________ ________.",
+                "options": [
+                  "secondary endosymbiosis"
+                ],
+                "correct_answer": "secondary endosymbiosis",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 5 Quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Paramecium spp. have hair-like appendages called ____________ for locomotion.",
+                "options": [
+                  "cilia",
+                  "microglia",
+                  "flagella",
+                  "vacuoles"
+                ],
+                "correct_answer": "cilia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Who are the closest relatives to Amoebozoas?",
+                "options": [
+                  "Archaeplastidia",
+                  "Chromalveolata",
+                  "Rhizaria",
+                  "Opisthokonta"
+                ],
+                "correct_answer": "Opisthokonta",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Which protist is a concern because of its ability to contaminate water supplies and cause diarrheal illness?",
+                "options": [
+                  "Toxoplasma gondii",
+                  "Trichomonas vaginalis",
+                  "Giardia lamblia",
+                  "Plasmodium vivax"
+                ],
+                "correct_answer": "Giardia lamblia",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Lichens attach to a surface using which structure?",
+                "options": [
+                  "cilia",
+                  "flagella",
+                  "rhizines",
+                  "capsules"
+                ],
+                "correct_answer": "rhizines",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Phylum__________________ (the roundworms) is a diverse group containing more than 15,000 species, of which several are important human parasites",
+                "options": [
+                  "Helminths",
+                  "Trichinella",
+                  "Dirofilaria",
+                  "Nematoda"
+                ],
+                "correct_answer": "Nematoda",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "When a population of _________________ becomes particularly dense, a red tide (a type of harmful algal bloom) can occur.",
+                "options": [
+                  "microglia",
+                  "dinoflagellates",
+                  "bacteria",
+                  "viruses"
+                ],
+                "correct_answer": "dinoflagellates",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which of the following is a distinguishing feature of apicomplexans?",
+                "options": [
+                  "have cell walls with substantial cellulose",
+                  "intracellular parasites with apical organelles",
+                  "may be photosynthetic or heterotrophic and have flagella",
+                  "have calcium carbonate shells"
+                ],
+                "correct_answer": "intracellular parasites with apical organelles",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "The life cycle of Schistosoma spp. includes several species of water snails, which serve as secondary hosts. The parasite is transmitted to humans through contact with contaminated water and takes up residence in the _____________ of the ______________ system.",
+                "options": [
+                  "veins, respiratory",
+                  "muscles, respiratory",
+                  "veins, digestive",
+                  "muscles, digestive"
+                ],
+                "correct_answer": "veins, digestive",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Most multicellular fungal bodies, commonly called molds, are made up of filaments called _____________ .",
+                "options": [
+                  "hyphae",
+                  "septate",
+                  "thallus",
+                  "mycelium"
+                ],
+                "correct_answer": "hyphae",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "_______________ is a protozoal mechanism of asexual reproduction whereby the nucleus of a cell divides repeatedly before the cytoplasm of the cell divides.",
+                "options": [
+                  "Phagocytosis",
+                  "Trophozoite",
+                  "Pyrenoid",
+                  "Schizogony"
+                ],
+                "correct_answer": "Schizogony",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Fungal cell walls contain___________ , as opposed to the cellulose found in the cell walls of plants and many protists.",
+                "options": [
+                  "lipids",
+                  "chitin",
+                  "spores",
+                  "carbon"
+                ],
+                "correct_answer": "chitin",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "The types of algae are mainly grouped according to which of the following?",
+                "options": [
+                  "where they are found",
+                  "their pigment types",
+                  "the size of their cells",
+                  "their chloroplast types"
+                ],
+                "correct_answer": "their pigment types",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "______________ are unicellular fungi that are _______________intracellular parasites.",
+                "options": [
+                  "Ascomycota, falcultative",
+                  "Microsporidia, falcutative",
+                  "Ascomycota, obligate",
+                  "Microsporidia, obligate"
+                ],
+                "correct_answer": "Microsporidia, obligate",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Some algae, the seaweeds, are macroscopic and may be confused with _________________ .",
+                "options": [
+                  "animals",
+                  "animals",
+                  "bacteria",
+                  "plants"
+                ],
+                "correct_answer": "plants",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "The protozoal disease malaria was responsible for 584,000 deaths worldwide (primarily children in Africa) in 2013, according to the World Health Organization.  Malaria is a ___________________ microbe.",
+                "options": [
+                  "Prokaryotic",
+                  "Eukaryotic",
+                  "Viral",
+                  "Bacterial"
+                ],
+                "correct_answer": "Eukaryotic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "A fluke is classified within which of the following?",
+                "options": [
+                  "Platyhelminthes",
+                  "Rotifera",
+                  "Nematoda",
+                  "Annelida"
+                ],
+                "correct_answer": "Platyhelminthes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "A _______________ is a combination of two organisms, a green alga or cyanobacterium and fungus, living in a symbiotic relationship",
+                "options": [
+                  "bacteria",
+                  "lichen",
+                  "symbiosis",
+                  "algae"
+                ],
+                "correct_answer": "lichen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Mushrooms are a type of which of the following?",
+                "options": [
+                  "basidiocarp",
+                  "conidia",
+                  "ascus",
+                  "polar tubule"
+                ],
+                "correct_answer": "basidiocarp",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "A nonsegmented worm is found during a routine colonoscopy of an individual who reported having abdominal cramps, nausea, and vomiting. This worm is likely which of the following?",
+                "options": [
+                  "nematode",
+                  "fluke",
+                  "annelid",
+                  "trematode"
+                ],
+                "correct_answer": "nematode",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "The source of agar, which is typically used in the microbiology laboratory, is which of the following?",
+                "options": [
+                  "red algae",
+                  "green algae",
+                  "brown algae",
+                  "lichen"
+                ],
+                "correct_answer": "red algae",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 4 Quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Plants and animals also rely heavily on prokaryotes for ________________ fixation.",
+                "options": [
+                  "carbon",
+                  "helium",
+                  "nitrogen",
+                  "hydrogen"
+                ],
+                "correct_answer": "nitrogen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Any interaction between different species that are associated with each other within a community is called_______________ .",
+                "options": [
+                  "endocytosis",
+                  "symbiosis",
+                  "mitochondria",
+                  "bacteriods"
+                ],
+                "correct_answer": "symbiosis",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "When two species benefit from each other, the symbiosis is called_____________ .",
+                "options": [
+                  "Amensalism",
+                  "Neutralism",
+                  "Mutualism",
+                  "Parasitism"
+                ],
+                "correct_answer": "Mutualism",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Which best describes the class Halobacteria?",
+                "options": [
+                  "archaeans that require highly saline environments",
+                  "archaeans that require methane-rich environments",
+                  "bacteria that require highly saline environments",
+                  "bacteria that require highly arid environments"
+                ],
+                "correct_answer": "archaeans that require highly saline environments",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "The term microbiota refers to which of the following:",
+                "options": [
+                  "all of the microorganisms involved in a symbiotic relationship",
+                  "all microorganisms in a certain geographic region",
+                  "all microorganisms in a certain region of the human body",
+                  "all microorganisms of the same species"
+                ],
+                "correct_answer": "all microorganisms in a certain region of the human body",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Methanobrevibacter oralis is an example of which type of organism?",
+                "options": [
+                  "an archaean that takes advantage of the conditions caused by periodontal disease to grow; may or may not affect disease progression",
+                  "a bacterium that takes advantage of the conditions caused by immunosuppression, as can occur during cancer treatment",
+                  "a pathogenic bacterium",
+                  "a pathogenic archaean"
+                ],
+                "correct_answer": "an archaean that takes advantage of the conditions caused by periodontal disease to grow; may or may not affect disease progression",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "The classification of prokaryotes was initially based on their shape, staining patterns, and biochemical or physiological differences.  We can also use __________________  __________________ to determine their classification.",
+                "options": [
+                  "mitochondrial ribosomes",
+                  "nucleotide sequences",
+                  "cellular membranes",
+                  "golgi bodies"
+                ],
+                "correct_answer": "nucleotide sequences",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "The class Bacilli includes:",
+                "options": [
+                  "only rod bacterial species.",
+                  "both rod-shaped and spherical bacterial species.",
+                  "only spherical bacterial species.",
+                  "neither rod-shaped and spherical bacterial species."
+                ],
+                "correct_answer": "both rod-shaped and spherical bacterial species.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "What is the name of the class of organisms capable of living in low-nutrient environments such as deep oceanic sediments, glacial ice, or deep undersurface soil?",
+                "options": [
+                  "Oligotrophs",
+                  "None of these",
+                  "Homeotrophs",
+                  "Heterotrophs"
+                ],
+                "correct_answer": "Oligotrophs",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "This class of organisms require a copious amount of organic nutrients.",
+                "options": [
+                  "Alphaproteobacteria",
+                  "Betaproteobacteria",
+                  "Gammaproteobacteria",
+                  "Epsilonproteobacteria"
+                ],
+                "correct_answer": "Betaproteobacteria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "This class of bacteria are characterized by their long, spiral-shaped then bodies.",
+                "options": [
+                  "Cytophaga",
+                  "Spirochetes",
+                  "Fusobacteria",
+                  "Chlamydia is"
+                ],
+                "correct_answer": "Spirochetes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "All living organisms are classified into three domains of life:",
+                "options": [
+                  "Eukarya",
+                  "Bacteria",
+                  "Archaea",
+                  "All of these"
+                ],
+                "correct_answer": "All of these",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "The____________________ are found in aquatic environments, inhabiting freshwater, saltwater, and brackish water.",
+                "options": [
+                  "Fusobacterium",
+                  "Leptospira",
+                  "Planctomycetes",
+                  "Bacteroides"
+                ],
+                "correct_answer": "Planctomycetes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "The class ___________ consists of high G+C bacteria.",
+                "options": [
+                  "Actinobacteria",
+                  "Alphaproteobacteria",
+                  "Bacteriophylla",
+                  "Archaea"
+                ],
+                "correct_answer": "Actinobacteria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Another large, diverse group of phototrophic bacteria compose the phylum_________________ ; they get their blue-green color from the chlorophyll contained in their cells.  Scientists hypothesize that this group played a critical role in the change of our planet’s anoxic atmosphere 1–2 billion years ago to the oxygen-rich environment we have today.",
+                "options": [
+                  "Borrelia",
+                  "Treponema",
+                  "Cyanobacteria",
+                  "Bacteroides"
+                ],
+                "correct_answer": "Cyanobacteria",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "The genus ____________________ is an important cause of a diverse group of infectious diseases.  It is  is represented by bacilli covered with a mycolic acid coat.",
+                "options": [
+                  "Corynebacterium",
+                  "Mycobacterium",
+                  "Gardnerella",
+                  "Bifidobacterium"
+                ],
+                "correct_answer": "Mycobacterium",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "The term prokaryotes refers to which of the following?",
+                "options": [
+                  "very small organisms",
+                  "cells that resemble animal cells more than plant cells",
+                  "unicellular organisms that have no nucleus",
+                  "multicellular organisms"
+                ],
+                "correct_answer": "unicellular organisms that have no nucleus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "_______________________ is represented by strictly anaerobic organisms with an optimal growth temperature of 85 °C.",
+                "options": [
+                  "Euryarchaeota",
+                  "Thermoproteus",
+                  "Methanococci",
+                  "Halobacteria"
+                ],
+                "correct_answer": "Thermoproteus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "The __________________ bacteria are a large and diverse category of bacteria that do not represent a taxon but, rather, a group of bacteria that use sunlight as their primary source of energy.",
+                "options": [
+                  "autotrophic",
+                  "oligotrophic",
+                  "phototrophic",
+                  "mesotrophic"
+                ],
+                "correct_answer": "phototrophic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "A toga is which of the following?",
+                "options": [
+                  "an outer membrane found in a taxon within the deeply branching bacteria",
+                  "an unusual cell wall found in some archaeans",
+                  "a structure produced by the fungus Tolypocladium inflatum that has medicinal uses",
+                  "an outer peptidoglycan layer found in a taxon within the proteobacteria"
+                ],
+                "correct_answer": "an outer membrane found in a taxon within the deeply branching bacteria",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 6 Homework",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Viruses are nonliving infectious agents.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Viruses only contain RNA.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Viruses are known as infectious agents because they need a host to gain ATP and to reproduce.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Viroids are only found in plants.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "A prion is comprised of a protein and RNA.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 6",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "The component(s) of a virus that is/are extended from the envelope for attachment is/are the:",
+                "options": [
+                  "capsomeres",
+                  "spikes",
+                  "nucleic acid",
+                  "viral whiskers"
+                ],
+                "correct_answer": "spikes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Which of the following does a virus lack? Select all that apply.",
+                "options": [
+                  "ribosomes",
+                  "metabolic processes",
+                  "nucleic acid",
+                  "glycoprotein"
+                ],
+                "correct_answer": "ribosomes AND metabolic processes",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "The envelope of a virus is derived from the host’s",
+                "options": [
+                  "nucleic acids",
+                  "membrane structures",
+                  "cytoplasm",
+                  "genome"
+                ],
+                "correct_answer": "membrane structures",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "In naming viruses, the family name ends with ________ and genus name ends with _________.",
+                "options": [
+                  "−virus; −viridae",
+                  "−viridae; −virus",
+                  "−virion; virus",
+                  "−virus; virion"
+                ],
+                "correct_answer": "−viridae; −virus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "What is another name for a nonenveloped virus?",
+                "options": [
+                  "enveloped virus",
+                  "provirus",
+                  "naked virus",
+                  "latent virus"
+                ],
+                "correct_answer": "naked virus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Which of the following leads to the destruction of the host cells?",
+                "options": [
+                  "lysogenic cycle",
+                  "lytic cycle",
+                  "prophage",
+                  "temperate phage"
+                ],
+                "correct_answer": "lytic cycle",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "A virus obtains its envelope during which of the following phases?",
+                "options": [
+                  "attachment",
+                  "penetration",
+                  "assembly",
+                  "release"
+                ],
+                "correct_answer": "release",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which of the following components is brought into a cell by HIV?",
+                "options": [
+                  "a DNA-dependent DNA polymerase",
+                  "RNA polymerase",
+                  "ribosome",
+                  "reverse transcriptase"
+                ],
+                "correct_answer": "reverse transcriptase",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "A positive-strand RNA virus:",
+                "options": [
+                  "must first be converted to a mRNA before it can be translated.",
+                  "can be used directly to translate viral proteins.",
+                  "will be degraded by host enzymes.",
+                  "is not recognized by host ribosomes."
+                ],
+                "correct_answer": "can be used directly to translate viral proteins.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "What is the name for the transfer of genetic information from one bacterium to another bacterium by a phage?",
+                "options": [
+                  "transduction",
+                  "penetration",
+                  "excision",
+                  "translation"
+                ],
+                "correct_answer": "transduction",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which of the followings cannot be used to culture viruses?",
+                "options": [
+                  "tissue culture",
+                  "liquid medium only",
+                  "embryo",
+                  "animal host"
+                ],
+                "correct_answer": "liquid medium only",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which of the following tests can be used to detect the presence of a specific virus?",
+                "options": [
+                  "EIA",
+                  "RT-PCR",
+                  "PCR",
+                  "all of the above"
+                ],
+                "correct_answer": "all of the above",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which of the following is NOT a cytopathic effect?",
+                "options": [
+                  "transformation",
+                  "cell fusion",
+                  "mononucleated cell",
+                  "inclusion bodies"
+                ],
+                "correct_answer": "mononucleated cell",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Which of these infectious agents do not have nucleic acid?",
+                "options": [
+                  "viroids",
+                  "viruses",
+                  "bacteria",
+                  "prions"
+                ],
+                "correct_answer": "prions",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Which of the following is true of prions?",
+                "options": [
+                  "They can be inactivated by boiling at 100 °C.",
+                  "They contain a capsid.",
+                  "They are a rogue form of protein, PrP.",
+                  "They can be reliably inactivated by an autoclave."
+                ],
+                "correct_answer": "They are a rogue form of protein, PrP.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "True or False: Scientists have identified viruses that are able to infect fungal cells.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "A virus that infects a bacterium is called a/an ___________________.",
+                "options": [
+                  "bacteriophage"
+                ],
+                "correct_answer": "bacteriophage",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "A/an __________ virus possesses characteristics of both a polyhedral and helical virus.",
+                "options": [
+                  "complex"
+                ],
+                "correct_answer": "complex",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "A virus containing only nucleic acid and a capsid is called a/an ___________________ virus or __________________ virus.",
+                "options": [
+                  "naked, nonenveloped"
+                ],
+                "correct_answer": "naked, nonenveloped",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "The ____________ _____________ on the bacteriophage allow for binding to the bacterial cell.",
+                "options": [
+                  "tail fibers"
+                ],
+                "correct_answer": "tail fibers",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "An enzyme from HIV that can make a copy of DNA from RNA is called _______________________.",
+                "options": [
+                  "reverse transcriptase"
+                ],
+                "correct_answer": "reverse transcriptase",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "For lytic viruses, _________________ is a phase during a viral growth curve when the virus is not detected.",
+                "options": [
+                  "eclipse"
+                ],
+                "correct_answer": "eclipse",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "Viruses can be diagnosed and observed using a(n) _____________ microscope.",
+                "options": [
+                  "electron"
+                ],
+                "correct_answer": "electron",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 24,
+                "question_text": "Cell abnormalities resulting from a viral infection are called ____________ _____________.",
+                "options": [
+                  "cytopathic effects"
+                ],
+                "correct_answer": "cytopathic effects",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Both viroids and virusoids have a(n) _________ genome, but virusoids require a(n) _________ to reproduce.",
+                "options": [
+                  "RNA, helper virus"
+                ],
+                "correct_answer": "RNA, helper virus",
+                "explanation": "Explanation not available."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
