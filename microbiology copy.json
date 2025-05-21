@@ -1,0 +1,556 @@
+{
+    "textbooks": [
+      {
+        "title": "Microbiology",
+        "questions": [
+          {
+            "chapter": "Chapter 7",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which of these elements is not a micronutrient?",
+                "options": [
+                  "C",
+                  "Ca",
+                  "Co",
+                  "Cu"
+                ],
+                "correct_answer": "C",
+                "explanation": "Carbon (C) is a macronutrient."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Which of the following is the name for molecules whose structures are nonsuperimposable mirror images?",
+                "options": [
+                  "structural isomers",
+                  "monomers",
+                  "polymers",
+                  "enantiomers"
+                ],
+                "correct_answer": "enantiomers",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "By definition, carbohydrates contain which elements?",
+                "options": [
+                  "carbon and hydrogen",
+                  "carbon, hydrogen, and nitrogen",
+                  "carbon, hydrogen, and oxygen",
+                  "carbon and oxygen"
+                ],
+                "correct_answer": "carbon, hydrogen, and oxygen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Monosaccharides may link together to form polysaccharides by forming which type of bond?",
+                "options": [
+                  "hydrogen",
+                  "peptide",
+                  "ionic",
+                  "glycosidic"
+                ],
+                "correct_answer": "glycosidic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which of the following describes lipids?",
+                "options": [
+                  "a source of nutrients for organisms",
+                  "energy-storage molecules",
+                  "molecules having structural role in membranes",
+                  "molecules that are part of hormones and pigments",
+                  "all of the above"
+                ],
+                "correct_answer": "all of the above",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Molecules bearing both polar and nonpolar groups are said to be which of the following?",
+                "options": [
+                  "hydrophilic",
+                  "amphipathic",
+                  "hydrophobic",
+                  "polyfunctional"
+                ],
+                "correct_answer": "amphipathic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which of the following groups varies among different amino acids?",
+                "options": [
+                  "hydrogen atom",
+                  "carboxyl group",
+                  "R group",
+                  "amino group"
+                ],
+                "correct_answer": "R group",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "The amino acids present in proteins differ in which of the following?",
+                "options": [
+                  "size",
+                  "shape",
+                  "side groups",
+                  "all of the above"
+                ],
+                "correct_answer": "all of the above",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following bonds are not involved in tertiary structure?",
+                "options": [
+                  "peptide bonds",
+                  "ionic bonds",
+                  "hydrophobic interactions",
+                  "hydrogen bonds"
+                ],
+                "correct_answer": "peptide bonds",
+                "explanation": "Peptide bonds define the primary structure."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which of the following characteristics/compounds is not considered to be a phenotypic biochemical characteristic used of microbial identification?",
+                "options": [
+                  "poly-β-hydroxybutyrate",
+                  "small-subunit (16S) rRNA gene",
+                  "carbon utilization",
+                  "lipid composition"
+                ],
+                "correct_answer": "small-subunit (16S) rRNA gene",
+                "explanation": "16S rRNA gene sequencing is a genotypic characteristic."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Proteomic analysis is a methodology that deals with which of the following?",
+                "options": [
+                  "the analysis of proteins functioning as enzymes within the cell",
+                  "analysis of transport proteins in the cell",
+                  "the analysis of integral proteins of the cell membrane",
+                  "the study of all accumulated proteins of an organism"
+                ],
+                "correct_answer": "the study of all accumulated proteins of an organism",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which method involves the generation of gas phase ions from intact microorganisms?",
+                "options": [
+                  "FAME",
+                  "PLFA",
+                  "MALDI-TOF",
+                  "Lancefield group testing"
+                ],
+                "correct_answer": "MALDI-TOF",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which method involves the analysis of membrane-bound carbohydrates?",
+                "options": [
+                  "FAME",
+                  "PLFA",
+                  "MALDI-TOF",
+                  "Lancefield group testing"
+                ],
+                "correct_answer": "Lancefield group testing",
+                "explanation": "Lancefield grouping is based on carbohydrate antigens in the cell wall."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Which method involves conversion of a microbe’s lipids to volatile compounds for analysis by gas chromatography?",
+                "options": [
+                  "FAME",
+                  "proteomic analysis",
+                  "MALDI-TOF",
+                  "Lancefield group testing"
+                ],
+                "correct_answer": "FAME",
+                "explanation": "FAME stands for Fatty Acid Methyl Ester analysis."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Aldehydes, amides, carboxylic acids, esters, and ketones all contain carbonyl groups.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Two molecules containing the same types and numbers of atoms but different bonding sequences are called enantiomers.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "These are structural isomers. Enantiomers are non-superimposable mirror images."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Lipids are a naturally occurring group of substances that are not soluble in water but are freely soluble in organic solvents.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Fatty acids having no double bonds are called “unsaturated.”",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Fatty acids with no double bonds are called 'saturated'."
+              },
+              {
+                "question_number": 19,
+                "question_text": "A triglyceride is formed by joining three glycerol molecules to a fatty acid backbone in a dehydration reaction.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "A triglyceride is formed by joining three fatty acid molecules to a glycerol backbone."
+              },
+              {
+                "question_number": 20,
+                "question_text": "A change in one amino acid in a protein sequence always results in a loss of function.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "A single amino acid change may or may not affect function, or could alter it in various ways."
+              },
+              {
+                "question_number": 21,
+                "question_text": "MALDI-TOF relies on obtaining a unique mass spectrum for the bacteria tested and then checking the acquired mass spectrum against the spectrum databases registered in the analysis software to identify the microorganism.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "Lancefield group tests can identify microbes using antibodies that specifically bind cell-surface proteins.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Lancefield grouping typically identifies specific cell wall carbohydrates (usually C-carbohydrate)."
+              },
+              {
+                "question_number": 23,
+                "question_text": "Which polysaccharide is a structural polymer found in cell walls of fungi and exoskeletons of some animals?",
+                "options": [
+                  "Chitin",
+                  "Glycogen",
+                  "Starch",
+                  "Cellulose"
+                ],
+                "correct_answer": "Chitin",
+                "explanation": "Chitin is a structural polymer found in cell walls of fungi and exoskeletons of some animals."
+              },
+              {
+                "question_number": 24,
+                "question_text": "Which polysaccharide is an energy storage polymer found in animal cells and bacteria?",
+                "options": [
+                  "Chitin",
+                  "Glycogen",
+                  "Starch",
+                  "Cellulose"
+                ],
+                "correct_answer": "Glycogen",
+                "explanation": "Glycogen is an energy storage polymer found in animal cells and bacteria."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Which polysaccharide is an energy storage polymer in plants?",
+                "options": [
+                  "Chitin",
+                  "Glycogen",
+                  "Starch",
+                  "Cellulose"
+                ],
+                "correct_answer": "Starch",
+                "explanation": "Starch is an energy storage polymer in plants."
+              },
+              {
+                "question_number": 26,
+                "question_text": "Which polysaccharide is a structural polymer found in plants?",
+                "options": [
+                  "Chitin",
+                  "Glycogen",
+                  "Starch",
+                  "Cellulose"
+                ],
+                "correct_answer": "Cellulose",
+                "explanation": "Cellulose is a structural polymer found in plants."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 7 quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "What are some examples of macronutrients?",
+                "options": [
+                  "All of these",
+                  "Hydrogen",
+                  "Nitrogen",
+                  "Carbon"
+                ],
+                "correct_answer": "All of these",
+                "explanation": "Carbon, Hydrogen, and Nitrogen are all macronutrients."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Carbon forms ____ chemical bonds, whereas nitrogen forms _____ , hydrogen forms _____ , and oxygen forms _____ .",
+                "options": [
+                  "2, 3, 4, 1",
+                  "1, 2, 3, 4",
+                  "4, 3, 1, 2",
+                  "4, 3, 2, 1"
+                ],
+                "correct_answer": "4, 3, 1, 2",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Which are the components found in starch?",
+                "options": [
+                  "cellulose and glycogen",
+                  "glucosamine and muramic acid",
+                  "amylose and amylopectin",
+                  "amylose and glycogen"
+                ],
+                "correct_answer": "amylose and amylopectin",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "What is the best description of a FAME molecule?",
+                "options": [
+                  "uses saponification to release fatty acids for further analysis to produce gas chromatograms",
+                  "produces a mass spectrum to compare with references without requiring HPLC",
+                  "produces gas chromatograms of fatty acids to compare with references",
+                  "uses HPLC, digestion, then mass spectrometry"
+                ],
+                "correct_answer": "produces gas chromatograms of fatty acids to compare with references",
+                "explanation": "FAME analysis involves creating fatty acid methyl esters for gas chromatography."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Folded proteins that are fully functional in their normal biological role are said to possess a native structure. When a protein loses its three-dimensional shape, it may no longer be functional. These unfolded proteins are _________________ .",
+                "options": [
+                  "denatured",
+                  "renatured",
+                  "full",
+                  "unnatured"
+                ],
+                "correct_answer": "denatured",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "What type of macromolecule is chitin?",
+                "options": [
+                  "protein",
+                  "nucleic acid",
+                  "carbohydrate",
+                  "lipid"
+                ],
+                "correct_answer": "carbohydrate",
+                "explanation": "Chitin is a polysaccharide, which is a type of carbohydrate."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Amino acids may chemically bond together by reaction of the carboxylic acid group of one molecule with the amine group of another. This reaction forms a ________bond and a water molecule and is an example of a ___________ synthesis.",
+                "options": [
+                  "peptide, dehydration",
+                  "hydration, peptide",
+                  "hydrogen, dehydration",
+                  "covalent, dehydration"
+                ],
+                "correct_answer": "peptide, dehydration",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Molecules with the same atomic makeup but different structural arrangement of atoms are called ________________ .",
+                "options": [
+                  "allosterics",
+                  "consomers",
+                  "isomers",
+                  "organics"
+                ],
+                "correct_answer": "isomers",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "An aldehyde functional group contains which of the following?",
+                "options": [
+                  "carbohydrates",
+                  "proteins",
+                  "lipids",
+                  "amino acids"
+                ],
+                "correct_answer": "carbohydrates",
+                "explanation": "Aldehyde functional groups are characteristic of aldose sugars, which are carbohydrates. The question is phrased unusually; an aldehyde group itself is -CHO."
+              },
+              {
+                "question_number": 10,
+                "question_text": "By definition, carbohydrates contain which elements?",
+                "options": [
+                  "carbon and hydrogen",
+                  "carbon, hydrogen, and oxygen",
+                  "carbon, hydrogen, and nitrogen",
+                  "carbon and oxygen"
+                ],
+                "correct_answer": "carbon, hydrogen, and oxygen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "The earth is estimated to be ______  billion years old, but for the first 2 billion years, the atmosphere lacked ______________ , without which the earth could not support life as we know it.",
+                "options": [
+                  "10, carbon",
+                  "2.6, oxygen",
+                  "4.6, oxygen",
+                  "4.6, hydrogen"
+                ],
+                "correct_answer": "4.6, oxygen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which of the following is not true of triglycerides?",
+                "options": [
+                  "They are considered simple lipids.",
+                  "They contain glycerol and three fatty acids.",
+                  "They are a type of phospholipid.",
+                  "They are hydrophobic."
+                ],
+                "correct_answer": "They are a type of phospholipid.",
+                "explanation": "Triglycerides are not phospholipids; phospholipids contain a phosphate group."
+              },
+              {
+                "question_number": 13,
+                "question_text": "In a dehydration synthesis reaction, two molecules of glucose can be linked together to form maltose. In the process, a ________________ molecule is formed.",
+                "options": [
+                  "agronium",
+                  "fructose",
+                  "water",
+                  "carbon"
+                ],
+                "correct_answer": "water",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "The most abundant biomolecules on earth are ___________________ .",
+                "options": [
+                  "lipids",
+                  "carbohydrates",
+                  "proteins",
+                  "nucleic acids"
+                ],
+                "correct_answer": "carbohydrates",
+                "explanation": "Cellulose, a carbohydrate, is the most abundant organic polymer on Earth."
+              },
+              {
+                "question_number": 15,
+                "question_text": "The simplest carbohydrates are called ____________________ , or simple sugars.",
+                "options": [
+                  "lipids",
+                  "disaccharides",
+                  "monosaccharides",
+                  "trisaccharides"
+                ],
+                "correct_answer": "monosaccharides",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "The long hydrocarbon chain, fatty acids are ________________ or nonpolar.",
+                "options": [
+                  "hydrophobic",
+                  "hydrophilic",
+                  "osmotic",
+                  "glycolic"
+                ],
+                "correct_answer": "hydrophobic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Organic molecules must all contain this element:",
+                "options": [
+                  "Hydrogen",
+                  "Carbon",
+                  "Oxygen",
+                  "Nitrogen"
+                ],
+                "correct_answer": "Carbon",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Generally, the approximate number of amino acids is designated: _________________ are formed by joining up to approximately 20 amino acids, whereas polypeptides are synthesized from up to approximately _______  amino acids.",
+                "options": [
+                  "monopeptides, 50",
+                  "oligopeptides, 50",
+                  "oligopeptides, 20",
+                  "bipeptide, 20"
+                ],
+                "correct_answer": "oligopeptides, 50",
+                "explanation": "Oligopeptides are short chains (typically <20-50 amino acids), while polypeptides are longer."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Which of these elements is not a micronutrient?",
+                "options": [
+                  "Ca",
+                  "Cu",
+                  "C",
+                  "Co"
+                ],
+                "correct_answer": "C",
+                "explanation": "Carbon (C) is a macronutrient."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Which of the following is the name for molecules whose structures are nonsuperimposable mirror images?",
+                "options": [
+                  "enantiomers",
+                  "polymers",
+                  "structural isomers",
+                  "monomers"
+                ],
+                "correct_answer": "enantiomers",
+                "explanation": "Explanation not available."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

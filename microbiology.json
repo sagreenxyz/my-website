@@ -3404,6 +3404,431 @@
                 "explanation": "Explanation not available."
               }
             ]
+          },
+          {
+            "chapter": "Lab 4 Practical",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Pure cultures of bacteria are most often obtained by the:",
+                "options": [
+                  "streak technique",
+                  "creating slides",
+                  "streak plate technique",
+                  "plate method"
+                ],
+                "correct_answer": "streak plate technique",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "The agar will be inoculated using a _____ quadrant streak.",
+                "options": [
+                  "3",
+                  "4",
+                  "2",
+                  "1"
+                ],
+                "correct_answer": "4",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "You should not label the ____ of the plate.",
+                "options": [
+                  "side",
+                  "bottom",
+                  "top",
+                  "edge"
+                ],
+                "correct_answer": "top",
+                "explanation": "Labeling the top (lid) can lead to misidentification if lids are swapped or lost. The bottom of the plate stays with the agar."
+              },
+              {
+                "question_number": 4,
+                "question_text": "It is important to pass the tube cap under the flame _____________________ inoculation.",
+                "options": [
+                  "never",
+                  "before",
+                  "after",
+                  "before and after"
+                ],
+                "correct_answer": "before and after",
+                "explanation": "Flaming the tube opening (and implicitly the cap area if held correctly) before and after helps maintain sterility."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Primary inoculation should cover about ______ of the space of the agar plate.",
+                "options": [
+                  "one half",
+                  "one quarter",
+                  "one third",
+                  "two fifths"
+                ],
+                "correct_answer": "one quarter",
+                "explanation": "In a 4-quadrant streak, the primary inoculation is typically in the first quadrant."
+              },
+              {
+                "question_number": 6,
+                "question_text": "After all of the inoculations, there will be _____________ streaks on the agar plate.",
+                "options": [
+                  "4",
+                  "3",
+                  "1",
+                  "2"
+                ],
+                "correct_answer": "4",
+                "explanation": "Referring to the distinct streaking sections in a 4-quadrant streak method."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Incubate the plate at ______________ degrees Celsius.",
+                "options": [
+                  "32-35",
+                  "37-39",
+                  "30-32",
+                  "35-37"
+                ],
+                "correct_answer": "35-37",
+                "explanation": "This is a common incubation range for many human-associated bacteria (body temperature)."
+              },
+              {
+                "question_number": 8,
+                "question_text": "What is the minimum time requirement for the incubation of the agar plate with the bacteria?",
+                "options": [
+                  "7 days",
+                  "24 hours",
+                  "48 hours",
+                  "12 hours"
+                ],
+                "correct_answer": "24 hours",
+                "explanation": "Visible colonies often appear within 24-48 hours, 24 hours is a common minimum check time."
+              },
+              {
+                "question_number": 9,
+                "question_text": "The growing units of bacteria are known as:",
+                "options": [
+                  "colonies",
+                  "groups",
+                  "bacterial units",
+                  "agar plates"
+                ],
+                "correct_answer": "colonies",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "When you discard your plates, you must do so in a contaminated waste bin.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 7",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which of these elements is not a micronutrient?",
+                "options": [
+                  "C",
+                  "Ca",
+                  "Co",
+                  "Cu"
+                ],
+                "correct_answer": "C",
+                "explanation": "Carbon (C) is a macronutrient."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Which of the following is the name for molecules whose structures are nonsuperimposable mirror images?",
+                "options": [
+                  "structural isomers",
+                  "monomers",
+                  "polymers",
+                  "enantiomers"
+                ],
+                "correct_answer": "enantiomers",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "By definition, carbohydrates contain which elements?",
+                "options": [
+                  "carbon and hydrogen",
+                  "carbon, hydrogen, and nitrogen",
+                  "carbon, hydrogen, and oxygen",
+                  "carbon and oxygen"
+                ],
+                "correct_answer": "carbon, hydrogen, and oxygen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Monosaccharides may link together to form polysaccharides by forming which type of bond?",
+                "options": [
+                  "hydrogen",
+                  "peptide",
+                  "ionic",
+                  "glycosidic"
+                ],
+                "correct_answer": "glycosidic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which of the following describes lipids?",
+                "options": [
+                  "a source of nutrients for organisms",
+                  "energy-storage molecules",
+                  "molecules having structural role in membranes",
+                  "molecules that are part of hormones and pigments",
+                  "all of the above"
+                ],
+                "correct_answer": "all of the above",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Molecules bearing both polar and nonpolar groups are said to be which of the following?",
+                "options": [
+                  "hydrophilic",
+                  "amphipathic",
+                  "hydrophobic",
+                  "polyfunctional"
+                ],
+                "correct_answer": "amphipathic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which of the following groups varies among different amino acids?",
+                "options": [
+                  "hydrogen atom",
+                  "carboxyl group",
+                  "R group",
+                  "amino group"
+                ],
+                "correct_answer": "R group",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "The amino acids present in proteins differ in which of the following?",
+                "options": [
+                  "size",
+                  "shape",
+                  "side groups",
+                  "all of the above"
+                ],
+                "correct_answer": "all of the above",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following bonds are not involved in tertiary structure?",
+                "options": [
+                  "peptide bonds",
+                  "ionic bonds",
+                  "hydrophobic interactions",
+                  "hydrogen bonds"
+                ],
+                "correct_answer": "peptide bonds",
+                "explanation": "Peptide bonds define the primary structure."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which of the following characteristics/compounds is not considered to be a phenotypic biochemical characteristic used of microbial identification?",
+                "options": [
+                  "poly-β-hydroxybutyrate",
+                  "small-subunit (16S) rRNA gene",
+                  "carbon utilization",
+                  "lipid composition"
+                ],
+                "correct_answer": "small-subunit (16S) rRNA gene",
+                "explanation": "16S rRNA gene sequencing is a genotypic characteristic."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Proteomic analysis is a methodology that deals with which of the following?",
+                "options": [
+                  "the analysis of proteins functioning as enzymes within the cell",
+                  "analysis of transport proteins in the cell",
+                  "the analysis of integral proteins of the cell membrane",
+                  "the study of all accumulated proteins of an organism"
+                ],
+                "correct_answer": "the study of all accumulated proteins of an organism",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which method involves the generation of gas phase ions from intact microorganisms?",
+                "options": [
+                  "FAME",
+                  "PLFA",
+                  "MALDI-TOF",
+                  "Lancefield group testing"
+                ],
+                "correct_answer": "MALDI-TOF",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which method involves the analysis of membrane-bound carbohydrates?",
+                "options": [
+                  "FAME",
+                  "PLFA",
+                  "MALDI-TOF",
+                  "Lancefield group testing"
+                ],
+                "correct_answer": "Lancefield group testing",
+                "explanation": "Lancefield grouping is based on carbohydrate antigens in the cell wall."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Which method involves conversion of a microbe’s lipids to volatile compounds for analysis by gas chromatography?",
+                "options": [
+                  "FAME",
+                  "proteomic analysis",
+                  "MALDI-TOF",
+                  "Lancefield group testing"
+                ],
+                "correct_answer": "FAME",
+                "explanation": "FAME stands for Fatty Acid Methyl Ester analysis."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Aldehydes, amides, carboxylic acids, esters, and ketones all contain carbonyl groups.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Two molecules containing the same types and numbers of atoms but different bonding sequences are called enantiomers.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "These are structural isomers. Enantiomers are non-superimposable mirror images."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Lipids are a naturally occurring group of substances that are not soluble in water but are freely soluble in organic solvents.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Fatty acids having no double bonds are called “unsaturated.”",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Fatty acids with no double bonds are called 'saturated'."
+              },
+              {
+                "question_number": 19,
+                "question_text": "A triglyceride is formed by joining three glycerol molecules to a fatty acid backbone in a dehydration reaction.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "A triglyceride is formed by joining three fatty acid molecules to a glycerol backbone."
+              },
+              {
+                "question_number": 20,
+                "question_text": "A change in one amino acid in a protein sequence always results in a loss of function.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "A single amino acid change may or may not affect function, or could alter it in various ways."
+              },
+              {
+                "question_number": 21,
+                "question_text": "MALDI-TOF relies on obtaining a unique mass spectrum for the bacteria tested and then checking the acquired mass spectrum against the spectrum databases registered in the analysis software to identify the microorganism.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "Lancefield group tests can identify microbes using antibodies that specifically bind cell-surface proteins.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Lancefield grouping typically identifies specific cell wall carbohydrates (usually C-carbohydrate)."
+              },
+              {
+                "question_number": 23,
+                "question_text": "Which polysaccharide is a structural polymer found in cell walls of fungi and exoskeletons of some animals?",
+                "options": [
+                  "Chitin",
+                  "Glycogen",
+                  "Starch",
+                  "Cellulose"
+                ],
+                "correct_answer": "Chitin",
+                "explanation": "Chitin is a structural polymer found in cell walls of fungi and exoskeletons of some animals."
+              },
+              {
+                "question_number": 24,
+                "question_text": "Which polysaccharide is an energy storage polymer found in animal cells and bacteria?",
+                "options": [
+                  "Chitin",
+                  "Glycogen",
+                  "Starch",
+                  "Cellulose"
+                ],
+                "correct_answer": "Glycogen",
+                "explanation": "Glycogen is an energy storage polymer found in animal cells and bacteria."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Which polysaccharide is an energy storage polymer in plants?",
+                "options": [
+                  "Chitin",
+                  "Glycogen",
+                  "Starch",
+                  "Cellulose"
+                ],
+                "correct_answer": "Starch",
+                "explanation": "Starch is an energy storage polymer in plants."
+              },
+              {
+                "question_number": 26,
+                "question_text": "Which polysaccharide is a structural polymer found in plants?",
+                "options": [
+                  "Chitin",
+                  "Glycogen",
+                  "Starch",
+                  "Cellulose"
+                ],
+                "correct_answer": "Cellulose",
+                "explanation": "Cellulose is a structural polymer found in plants."
+              }
+            ]
           }
         ]
       }
