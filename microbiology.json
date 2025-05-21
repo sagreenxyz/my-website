@@ -3829,6 +3829,251 @@
                 "explanation": "Cellulose is a structural polymer found in plants."
               }
             ]
+          },
+          {
+            "chapter": "Chapter 7 quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "What are some examples of macronutrients?",
+                "options": [
+                  "All of these",
+                  "Hydrogen",
+                  "Nitrogen",
+                  "Carbon"
+                ],
+                "correct_answer": "All of these",
+                "explanation": "Carbon, Hydrogen, and Nitrogen are all macronutrients."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Carbon forms ____ chemical bonds, whereas nitrogen forms _____ , hydrogen forms _____ , and oxygen forms _____ .",
+                "options": [
+                  "2, 3, 4, 1",
+                  "1, 2, 3, 4",
+                  "4, 3, 1, 2",
+                  "4, 3, 2, 1"
+                ],
+                "correct_answer": "4, 3, 1, 2",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Which are the components found in starch?",
+                "options": [
+                  "cellulose and glycogen",
+                  "glucosamine and muramic acid",
+                  "amylose and amylopectin",
+                  "amylose and glycogen"
+                ],
+                "correct_answer": "amylose and amylopectin",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "What is the best description of a FAME molecule?",
+                "options": [
+                  "uses saponification to release fatty acids for further analysis to produce gas chromatograms",
+                  "produces a mass spectrum to compare with references without requiring HPLC",
+                  "produces gas chromatograms of fatty acids to compare with references",
+                  "uses HPLC, digestion, then mass spectrometry"
+                ],
+                "correct_answer": "produces gas chromatograms of fatty acids to compare with references",
+                "explanation": "FAME analysis involves creating fatty acid methyl esters for gas chromatography."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Folded proteins that are fully functional in their normal biological role are said to possess a native structure. When a protein loses its three-dimensional shape, it may no longer be functional. These unfolded proteins are _________________ .",
+                "options": [
+                  "denatured",
+                  "renatured",
+                  "full",
+                  "unnatured"
+                ],
+                "correct_answer": "denatured",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "What type of macromolecule is chitin?",
+                "options": [
+                  "protein",
+                  "nucleic acid",
+                  "carbohydrate",
+                  "lipid"
+                ],
+                "correct_answer": "carbohydrate",
+                "explanation": "Chitin is a polysaccharide, which is a type of carbohydrate."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Amino acids may chemically bond together by reaction of the carboxylic acid group of one molecule with the amine group of another. This reaction forms a ________bond and a water molecule and is an example of a ___________ synthesis.",
+                "options": [
+                  "peptide, dehydration",
+                  "hydration, peptide",
+                  "hydrogen, dehydration",
+                  "covalent, dehydration"
+                ],
+                "correct_answer": "peptide, dehydration",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Molecules with the same atomic makeup but different structural arrangement of atoms are called ________________ .",
+                "options": [
+                  "allosterics",
+                  "consomers",
+                  "isomers",
+                  "organics"
+                ],
+                "correct_answer": "isomers",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "An aldehyde functional group contains which of the following?",
+                "options": [
+                  "carbohydrates",
+                  "proteins",
+                  "lipids",
+                  "amino acids"
+                ],
+                "correct_answer": "carbohydrates",
+                "explanation": "Aldehyde functional groups are characteristic of aldose sugars, which are carbohydrates. The question is phrased unusually; an aldehyde group itself is -CHO."
+              },
+              {
+                "question_number": 10,
+                "question_text": "By definition, carbohydrates contain which elements?",
+                "options": [
+                  "carbon and hydrogen",
+                  "carbon, hydrogen, and oxygen",
+                  "carbon, hydrogen, and nitrogen",
+                  "carbon and oxygen"
+                ],
+                "correct_answer": "carbon, hydrogen, and oxygen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "The earth is estimated to be ______  billion years old, but for the first 2 billion years, the atmosphere lacked ______________ , without which the earth could not support life as we know it.",
+                "options": [
+                  "10, carbon",
+                  "2.6, oxygen",
+                  "4.6, oxygen",
+                  "4.6, hydrogen"
+                ],
+                "correct_answer": "4.6, oxygen",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which of the following is not true of triglycerides?",
+                "options": [
+                  "They are considered simple lipids.",
+                  "They contain glycerol and three fatty acids.",
+                  "They are a type of phospholipid.",
+                  "They are hydrophobic."
+                ],
+                "correct_answer": "They are a type of phospholipid.",
+                "explanation": "Triglycerides are not phospholipids; phospholipids contain a phosphate group."
+              },
+              {
+                "question_number": 13,
+                "question_text": "In a dehydration synthesis reaction, two molecules of glucose can be linked together to form maltose. In the process, a ________________ molecule is formed.",
+                "options": [
+                  "agronium",
+                  "fructose",
+                  "water",
+                  "carbon"
+                ],
+                "correct_answer": "water",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "The most abundant biomolecules on earth are ___________________ .",
+                "options": [
+                  "lipids",
+                  "carbohydrates",
+                  "proteins",
+                  "nucleic acids"
+                ],
+                "correct_answer": "carbohydrates",
+                "explanation": "Cellulose, a carbohydrate, is the most abundant organic polymer on Earth."
+              },
+              {
+                "question_number": 15,
+                "question_text": "The simplest carbohydrates are called ____________________ , or simple sugars.",
+                "options": [
+                  "lipids",
+                  "disaccharides",
+                  "monosaccharides",
+                  "trisaccharides"
+                ],
+                "correct_answer": "monosaccharides",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "The long hydrocarbon chain, fatty acids are ________________ or nonpolar.",
+                "options": [
+                  "hydrophobic",
+                  "hydrophilic",
+                  "osmotic",
+                  "glycolic"
+                ],
+                "correct_answer": "hydrophobic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Organic molecules must all contain this element:",
+                "options": [
+                  "Hydrogen",
+                  "Carbon",
+                  "Oxygen",
+                  "Nitrogen"
+                ],
+                "correct_answer": "Carbon",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Generally, the approximate number of amino acids is designated: _________________ are formed by joining up to approximately 20 amino acids, whereas polypeptides are synthesized from up to approximately _______  amino acids.",
+                "options": [
+                  "monopeptides, 50",
+                  "oligopeptides, 50",
+                  "oligopeptides, 20",
+                  "bipeptide, 20"
+                ],
+                "correct_answer": "oligopeptides, 50",
+                "explanation": "Oligopeptides are short chains (typically <20-50 amino acids), while polypeptides are longer."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Which of these elements is not a micronutrient?",
+                "options": [
+                  "Ca",
+                  "Cu",
+                  "C",
+                  "Co"
+                ],
+                "correct_answer": "C",
+                "explanation": "Carbon (C) is a macronutrient."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Which of the following is the name for molecules whose structures are nonsuperimposable mirror images?",
+                "options": [
+                  "enantiomers",
+                  "polymers",
+                  "structural isomers",
+                  "monomers"
+                ],
+                "correct_answer": "enantiomers",
+                "explanation": "Explanation not available."
+              }
+            ]
           }
         ]
       }
