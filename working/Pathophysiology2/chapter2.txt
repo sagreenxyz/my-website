@@ -1,0 +1,34 @@
+
+30 CHAPTER 2 Genetic Disease
+
+Wang T et al. New perspectives on the biology of fragile X syndrome. Curr Opin Genet Dev. 2012 Jun;22(3):256-63. [PMID: 22382129]
+
+LHON, MERFF, & Mitochondrial Diseases
+
+Davis RL et al. The genetics of mitochondrial disease. Semin Neurol. 2011 Nov;31(5):519-30. [PMID: 22266889]
+
+Finsterer J. Inherited mitochondrial disorders. Adv Exp Med Biol. 2012;942:187-213. [PMID: 22399423]
+
+Kirches E. LHON: mitochondrial mutations and more. Curr Genomics. 2011 Mar;12(1):44-54. [PMID: 21886454]
+
+Down Syndrome
+
+Haydar TF et al. Trisomy 21 and early brain development. Trends Neurosci. 2012 Feb;35(2):81-91. [PMID: 22169531]
+
+Letourneau A et al. Genomic determinants in the phenotypic variability of Down syndrome. Prog Brain Res. 2012;197:15-28. [PMID: 22541286]
+
+Mersy E et al. Noninvasive detection of fetal trisomy 21: systematic review and report of quality and outcomes of diagnostic accuracy studies performed between 1997 and 2012. Hum Reprod Update. 2013 Jul-Aug;19(4):318-29. [PMID: 23396607]
+
+The Human Genome Project & Human Genetic Variation
+
+Alkan C et al. Genome structural variation discovery and genotyping. Nat Rev Genet. 2011 May;12(5):363-76. [PMID: 21358748]
+
+Bamshad MJ et al. Exome sequencing as a tool for Mendelian disease gene discovery. Nat Rev Genet. 2011 Sep 27;12(11):745-55. [PMID: 21946919]
+
+Connolly JJ et al. The impact of genomics on pediatric research and medicine. Pediatrics 2012 Jun;129(6):1150-60. [PMID: 22566424]
+
+Gonzaga-Jauregui C et al. Human genome sequencing in health and disease. Annu Rev Med. 2012;63:35-61. [PMID: 22248320]
+
+Shendure J et al. The expanding scope of DNA sequencing. Nat Biotechnol. 2012 Nov;30(1):1084-94. [PMID: 23138308]
+
+Vandeweyer G et al. Detection and interpretation of genomic structural variation in health and disease. Expert Rev Mol Diagn. 2013 Jan;13(1):61-82. [PMID: 23256704]

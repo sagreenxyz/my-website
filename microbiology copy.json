@@ -304,6 +304,604 @@
                 "explanation": "Cellulose is a structural polymer found in plants."
               }
             ]
+          },
+          {
+            "chapter": "Chapter 8",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which of the following is an organism that obtains its energy from the transfer of electrons originating from chemical compounds and its carbon from an inorganic source?",
+                "options": [
+                  "chemoautotroph",
+                  "chemoheterotroph",
+                  "photoheterotroph",
+                  "photoautotroph"
+                ],
+                "correct_answer": "chemoautotroph",
+                "explanation": "Chemoautotrophs derive energy from chemical reactions and synthesize all necessary organic compounds from carbon dioxide."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Which of the following molecules is reduced?",
+                "options": [
+                  "NAD+",
+                  "FAD",
+                  "O2",
+                  "NADPH"
+                ],
+                "correct_answer": "NADPH",
+                "explanation": "NADPH is the reduced form of NADP+. Reduction involves the gain of electrons (or hydrogen atoms)."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Enzymes work by which of the following?",
+                "options": [
+                  "increasing the activation energy",
+                  "reducing the activation energy",
+                  "making exergonic reactions endergonic",
+                  "making endergonic reactions exergonic"
+                ],
+                "correct_answer": "reducing the activation energy",
+                "explanation": "Enzymes are biological catalysts that speed up chemical reactions by lowering the activation energy required for the reaction to occur."
+              },
+              {
+                "question_number": 4,
+                "question_text": "To which of the following does a competitive inhibitor most structurally resemble?",
+                "options": [
+                  "the active site",
+                  "the allosteric site",
+                  "the substrate",
+                  "a coenzyme"
+                ],
+                "correct_answer": "the substrate",
+                "explanation": "Competitive inhibitors have a molecular structure similar to the substrate, allowing them to bind to the enzyme's active site and block the substrate."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which of the following are organic molecules that help enzymes work correctly?",
+                "options": [
+                  "cofactors",
+                  "coenzymes",
+                  "holoenzymes",
+                  "apoenzymes"
+                ],
+                "correct_answer": "coenzymes",
+                "explanation": "Coenzymes are organic nonprotein molecules that bind with the protein molecule (apoenzyme) to form the active enzyme (holoenzyme)."
+              },
+              {
+                "question_number": 6,
+                "question_text": "During which of the following is ATP not made by substrate-level phosphorylation?",
+                "options": [
+                  "Embden-Meyerhof pathway",
+                  "Transition reaction",
+                  "Krebs cycle",
+                  "Entner-Doudoroff pathway"
+                ],
+                "correct_answer": "Transition reaction",
+                "explanation": "The transition reaction (conversion of pyruvate to acetyl-CoA) does not directly produce ATP by substrate-level phosphorylation; it produces NADH and CO2."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which of the following products is made during Embden-Meyerhof glycolysis?",
+                "options": [
+                  "NAD+",
+                  "pyruvate",
+                  "CO2",
+                  "two-carbon acetyl"
+                ],
+                "correct_answer": "pyruvate",
+                "explanation": "The Embden-Meyerhof pathway (glycolysis) breaks down one molecule of glucose into two molecules of pyruvate."
+              },
+              {
+                "question_number": 8,
+                "question_text": "During the catabolism of glucose, which of the following is produced only in the Krebs cycle?",
+                "options": [
+                  "ATP",
+                  "NADH",
+                  "NADPH",
+                  "FADH2"
+                ],
+                "correct_answer": "FADH2",
+                "explanation": "FADH2 is produced during the Krebs cycle. ATP and NADH are produced in both glycolysis and the Krebs cycle. NADPH is primarily involved in anabolic pathways and photosynthesis."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following is not a name for the cycle resulting in the conversion of a two-carbon acetyl to one ATP, two CO2, one FADH2, and three NADH molecules?",
+                "options": [
+                  "Krebs cycle",
+                  "tricarboxylic acid cycle",
+                  "Calvin cycle",
+                  "citric acid cycle"
+                ],
+                "correct_answer": "Calvin cycle",
+                "explanation": "The Calvin cycle is part of the light-independent reactions of photosynthesis, responsible for carbon fixation, not the aerobic respiration pathway described."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which is the location of electron transports systems in prokaryotes?",
+                "options": [
+                  "the outer mitochondrial membrane",
+                  "the cytoplasm",
+                  "the inner mitochondrial membrane",
+                  "the cytoplasmic membrane"
+                ],
+                "correct_answer": "the cytoplasmic membrane",
+                "explanation": "Prokaryotes lack mitochondria; their electron transport systems are located in the cytoplasmic membrane."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which is the source of the energy used to make ATP by oxidative phosphorylation?",
+                "options": [
+                  "oxygen",
+                  "high-energy phosphate bonds",
+                  "the proton motive force",
+                  "Pi"
+                ],
+                "correct_answer": "the proton motive force",
+                "explanation": "The proton motive force, generated by the pumping of protons across a membrane during electron transport, drives ATP synthesis by ATP synthase."
+              },
+              {
+                "question_number": 12,
+                "question_text": "A cell might perform anaerobic respiration for which of the following reasons?",
+                "options": [
+                  "It lacks glucose for degradation.",
+                  "It lacks the transition reaction to convert pyruvate to acetyl-CoA.",
+                  "It lacks Krebs cycle enzymes for processing acetyl-CoA to CO2.",
+                  "It lacks a cytochrome oxidase for passing electrons to oxygen."
+                ],
+                "correct_answer": "It lacks a cytochrome oxidase for passing electrons to oxygen.",
+                "explanation": "Anaerobic respiration occurs when oxygen is not the final electron acceptor, often because the organism lacks the necessary enzymes (like cytochrome oxidase) to use oxygen, or oxygen is unavailable."
+              },
+              {
+                "question_number": 13,
+                "question_text": "In prokaryotes, which of the following is true?",
+                "options": [
+                  "As electrons are transferred through an ETS, H+ is pumped out of the cell.",
+                  "As electrons are transferred through an ETS, H+ is pumped into the cell.",
+                  "As protons are transferred through an ETS, electrons are pumped out of the cell.",
+                  "As protons are transferred through an ETS, electrons are pumped into the cell."
+                ],
+                "correct_answer": "As electrons are transferred through an ETS, H+ is pumped out of the cell.",
+                "explanation": "The electron transport system in prokaryotes pumps protons (H+) from the cytoplasm across the cytoplasmic membrane to the outside of the cell, creating a proton motive force."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Which of the following is not an electron carrier within an electron transport system?",
+                "options": [
+                  "flavoprotein",
+                  "ATP synthase",
+                  "ubiquinone",
+                  "cytochrome oxidase"
+                ],
+                "correct_answer": "ATP synthase",
+                "explanation": "ATP synthase is an enzyme complex that uses the proton motive force to synthesize ATP; it is not an electron carrier itself. Flavoproteins, ubiquinone, and cytochrome oxidase are components of electron transport systems."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Which of the following is the purpose of fermentation?",
+                "options": [
+                  "to make ATP",
+                  "to make carbon molecule intermediates for anabolism",
+                  "to make NADH",
+                  "to make NAD+"
+                ],
+                "correct_answer": "to make NAD+",
+                "explanation": "The primary purpose of fermentation is to regenerate NAD+ from NADH, which allows glycolysis to continue producing ATP in the absence of oxygen or an electron transport chain."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Which molecule typically serves as the final electron acceptor during fermentation?",
+                "options": [
+                  "oxygen",
+                  "NAD+",
+                  "pyruvate",
+                  "CO2"
+                ],
+                "correct_answer": "pyruvate",
+                "explanation": "In fermentation, an organic molecule, often pyruvate or a derivative of pyruvate, serves as the final electron acceptor."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Which fermentation product is important for making bread rise?",
+                "options": [
+                  "ethanol",
+                  "CO2",
+                  "lactic acid",
+                  "hydrogen gas"
+                ],
+                "correct_answer": "CO2",
+                "explanation": "Carbon dioxide (CO2) produced during alcoholic fermentation by yeast (Saccharomyces cerevisiae) creates gas bubbles in dough, causing it to rise."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Which of the following is not a commercially important fermentation product?",
+                "options": [
+                  "ethanol",
+                  "pyruvate",
+                  "butanol",
+                  "penicillin"
+                ],
+                "correct_answer": "pyruvate",
+                "explanation": "Ethanol, butanol, and penicillin are all commercially important products of fermentation. Pyruvate is an intermediate in metabolic pathways but not typically a final commercial fermentation product itself."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Which of the following molecules is not produced during the breakdown of phospholipids?",
+                "options": [
+                  "glucose",
+                  "glycerol",
+                  "acetyl groups",
+                  "fatty acids"
+                ],
+                "correct_answer": "glucose",
+                "explanation": "Phospholipids are broken down into glycerol, fatty acids, and a phosphate group. Fatty acids can be further broken down into acetyl groups via β-oxidation. Glucose is not a direct product."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Caseinase is which type of enzyme?",
+                "options": [
+                  "phospholipase",
+                  "lipase",
+                  "extracellular protease",
+                  "intracellular protease"
+                ],
+                "correct_answer": "extracellular protease",
+                "explanation": "Caseinase is an enzyme that breaks down casein, a large milk protein, outside the cell. Therefore, it is an extracellular protease."
+              },
+              {
+                "question_number": 21,
+                "question_text": "Which of the following is the first step in triglyceride degradation?",
+                "options": [
+                  "removal of fatty acids",
+                  "β-oxidation",
+                  "breakage of fused rings",
+                  "formation of smaller peptides"
+                ],
+                "correct_answer": "removal of fatty acids",
+                "explanation": "Triglycerides are first hydrolyzed by lipases, which remove the fatty acids from the glycerol backbone."
+              },
+              {
+                "question_number": 22,
+                "question_text": "During the light-dependent reactions, which molecule loses an electron?",
+                "options": [
+                  "a light-harvesting pigment molecule",
+                  "a reaction center pigment molecule",
+                  "NADPH",
+                  "3-phosphoglycerate"
+                ],
+                "correct_answer": "a reaction center pigment molecule",
+                "explanation": "In the light-dependent reactions of photosynthesis, a reaction center pigment molecule (e.g., P680 in PSII or P700 in PSI) absorbs light energy and loses an electron, initiating electron transport."
+              },
+              {
+                "question_number": 23,
+                "question_text": "In prokaryotes, in which direction are hydrogen ions pumped by the electron transport system of photosynthetic membranes?",
+                "options": [
+                  "to the outside of the plasma membrane",
+                  "to the inside (cytoplasm) of the cell",
+                  "to the stroma",
+                  "to the intermembrane space of the chloroplast"
+                ],
+                "correct_answer": "to the outside of the plasma membrane",
+                "explanation": "In photosynthetic prokaryotes, protons are typically pumped from the cytoplasm across the cytoplasmic membrane (or into thylakoid-like invaginations) to generate a proton motive force."
+              },
+              {
+                "question_number": 24,
+                "question_text": "Which of the following does not occur during cyclic photophosphorylation in cyanobacteria?",
+                "options": [
+                  "electron transport through an ETS",
+                  "photosystem I use",
+                  "ATP synthesis",
+                  "NADPH formation"
+                ],
+                "correct_answer": "NADPH formation",
+                "explanation": "Cyclic photophosphorylation involves only Photosystem I. Electrons are cycled back to PSI, generating ATP via an ETS, but NADP+ is not reduced to NADPH."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Which of the following are two products of the light-dependent reactions?",
+                "options": [
+                  "glucose and NADPH",
+                  "NADPH and ATP",
+                  "glyceraldehyde 3-phosphate and CO2",
+                  "glucose and oxygen"
+                ],
+                "correct_answer": "NADPH and ATP",
+                "explanation": "The light-dependent reactions of photosynthesis produce ATP and NADPH, which are then used to power the light-independent reactions (Calvin cycle). Oxygen is also a product if water is the electron donor (oxygenic photosynthesis)."
+              },
+              {
+                "question_number": 26,
+                "question_text": "Which of the following is the group of archaea that can use CO2 as their final electron acceptor during anaerobic respiration, producing CH4?",
+                "options": [
+                  "methylotrophs",
+                  "methanotrophs",
+                  "methanogens",
+                  "anoxygenic photosynthesizers"
+                ],
+                "correct_answer": "methanogens",
+                "explanation": "Methanogens are archaea that produce methane (CH4) by using carbon dioxide (CO2) as a terminal electron acceptor in anaerobic respiration."
+              },
+              {
+                "question_number": 27,
+                "question_text": "Which of the following processes is not involved in the conversion of organic nitrogen to nitrogen gas?",
+                "options": [
+                  "nitrogen fixation",
+                  "ammonification",
+                  "nitrification",
+                  "denitrification"
+                ],
+                "correct_answer": "nitrogen fixation",
+                "explanation": "Nitrogen fixation is the conversion of atmospheric nitrogen gas (N2) into ammonia (NH3) or related nitrogenous compounds. The conversion of organic nitrogen to nitrogen gas involves ammonification (organic N to NH3/NH4+), nitrification (NH3/NH4+ to NO3-), and denitrification (NO3- to N2)."
+              },
+              {
+                "question_number": 28,
+                "question_text": "Which of the following processes produces hydrogen sulfide?",
+                "options": [
+                  "anoxygenic photosynthesis",
+                  "oxygenic photosynthesis",
+                  "anaerobic respiration",
+                  "chemoautrophy"
+                ],
+                "correct_answer": "anaerobic respiration",
+                "explanation": "Certain types of anaerobic respiration use sulfate (SO4^2-) or elemental sulfur (S) as a terminal electron acceptor, reducing it to hydrogen sulfide (H2S). This is carried out by sulfate-reducing bacteria."
+              },
+              {
+                "question_number": 29,
+                "question_text": "The biogeochemical cycle of which of the following elements is based on changes in solubility rather than redox chemistry?",
+                "options": [
+                  "carbon",
+                  "sulfur",
+                  "nitrogen",
+                  "phosphorus"
+                ],
+                "correct_answer": "phosphorus",
+                "explanation": "The phosphorus cycle primarily involves the movement of phosphorus through rocks, water, soil, and living organisms as phosphate. Its transformations are mainly driven by geological processes, weathering, and changes in solubility, with redox reactions playing a minor role compared to the other cycles listed."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 8 Quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Which of the following is the most acidic location in a mitochondrion?",
+                "options": [
+                  "the intermembrane space",
+                  "within the outer membrane",
+                  "the matrix",
+                  "within the thylakoid"
+                ],
+                "correct_answer": "the intermembrane space",
+                "explanation": "The electron transport chain pumps protons (H+) from the mitochondrial matrix to the intermembrane space, creating a lower pH (more acidic environment) in the intermembrane space."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Organisms can also be identified by the energy source they use. All energy is derived from the transfer of ____________________ , but the source of these differs between various types of organisms.",
+                "options": [
+                  "DNA",
+                  "protons",
+                  "electrons",
+                  "neutrons"
+                ],
+                "correct_answer": "electrons",
+                "explanation": "Energy transfer in biological systems primarily involves the movement of electrons in redox reactions."
+              },
+              {
+                "question_number": 3,
+                "question_text": "An organism that gets their energy for electron transfer from light and obtain energy from organic compounds are called:",
+                "options": [
+                  "Photoautotrophs",
+                  "Chemoheterotrophs",
+                  "Photoheterotrophs",
+                  "Chemoautotrophs"
+                ],
+                "correct_answer": "Photoheterotrophs",
+                "explanation": "Photoheterotrophs use light as an energy source and organic compounds as their carbon source."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Chemical reactions would generally occur too slowly to obtain the effect necessary.  A substance that helps speed up a chemical reaction is a _________________ . These are not used or changed during chemical reactions and, therefore, are reusable.",
+                "options": [
+                  "catalyst",
+                  "phospholipid",
+                  "atom",
+                  "ATP"
+                ],
+                "correct_answer": "catalyst",
+                "explanation": "A catalyst is a substance that speeds up a chemical reaction without being consumed in the process. Enzymes are biological catalysts."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Where does the Kerbs cycle occur in eukaryotic organisms?",
+                "options": [
+                  "thylakoid membrane",
+                  "inner mitochondrial membrane",
+                  "cytoplasm",
+                  "mitochondrial matrix"
+                ],
+                "correct_answer": "mitochondrial matrix",
+                "explanation": "In eukaryotic cells, the Krebs cycle (also known as the citric acid cycle) takes place in the mitochondrial matrix."
+              },
+              {
+                "question_number": 6,
+                "question_text": "How can enteropathogenic O157:H7 E. coli strain be recognized from other E. coli strains?",
+                "options": [
+                  "Unlike other E. coli, it cannot ferment sorbitol.",
+                  "Unlike other E. coli, it cannot ferment mannose.",
+                  "Unlike other E. coli, it cannot ferment pyruvate.",
+                  "Unlike other E. coli, it cannot ferment lactose."
+                ],
+                "correct_answer": "Unlike other E. coli, it cannot ferment sorbitol.",
+                "explanation": "E. coli O157:H7 is typically sorbitol-negative, meaning it does not ferment sorbitol, a characteristic that distinguishes it from many other E. coli strains which are sorbitol-positive."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Which of the following best defines chemiosmosis?",
+                "options": [
+                  "the disruption of the inner mitochondrial membrane, which dissipates energy",
+                  "the movement of hydrogen ions through ATP synthase",
+                  "the movement of electrons from one acceptor to another",
+                  "the series of reactions that regenerate oxaloacetate"
+                ],
+                "correct_answer": "the movement of hydrogen ions through ATP synthase",
+                "explanation": "Chemiosmosis is the process by which ATP is synthesized as a result of protons (hydrogen ions) flowing down their electrochemical gradient across a membrane through the enzyme ATP synthase."
+              },
+              {
+                "question_number": 8,
+                "question_text": "The term used to describe all of the chemical reactions inside a cell is __________________ .",
+                "options": [
+                  "anabolism",
+                  "catabolism",
+                  "metabolism",
+                  "none of these"
+                ],
+                "correct_answer": "metabolism",
+                "explanation": "Metabolism refers to the sum of all chemical reactions that occur within a living organism, including both catabolic (breakdown) and anabolic (synthesis) processes."
+              },
+              {
+                "question_number": 9,
+                "question_text": "For bacteria, eukaryotes, and most archaea, what is the most common pathway for the catabolism of glucose?",
+                "options": [
+                  "ATP",
+                  "glycolysis",
+                  "phosphorylation",
+                  "mycolosis"
+                ],
+                "correct_answer": "glycolysis",
+                "explanation": "Glycolysis is a nearly universal metabolic pathway in which glucose is broken down into pyruvate, releasing energy."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Overall, in this process of glycolysis, the net gain from the breakdown of a single glucose molecule is _____ ATPs.",
+                "options": [
+                  "2",
+                  "4",
+                  "3",
+                  "1"
+                ],
+                "correct_answer": "2",
+                "explanation": "Glycolysis results in a net production of 2 ATP molecules per molecule of glucose (2 ATP are consumed, and 4 ATP are produced)."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which of the following molecules is reduced?",
+                "options": [
+                  "FAD",
+                  "NAD+",
+                  "NADPH",
+                  "O2"
+                ],
+                "correct_answer": "NADPH",
+                "explanation": "NADPH is the reduced form of NADP+. Reduction involves the gain of electrons (or hydrogen atoms)."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which of the following is not one of the four major classes of electron carriers involved in both eukaryotic and prokaryotic electron transport systems:",
+                "options": [
+                  "quinones",
+                  "iron-nitrate proetins",
+                  "cytochromes",
+                  "flavoproteins"
+                ],
+                "correct_answer": "iron-nitrate proetins",
+                "explanation": "The major classes of electron carriers in electron transport systems are flavoproteins, iron-sulfur proteins, cytochromes, and quinones. 'Iron-nitrate proteins' is not a standard major class of electron carriers."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Enzymes work by which of the following?",
+                "options": [
+                  "making exergonic reactions endergonic",
+                  "making endergonic reactions exergonic",
+                  "reducing the activation energy",
+                  "increasing the activation energy"
+                ],
+                "correct_answer": "reducing the activation energy",
+                "explanation": "Enzymes are biological catalysts that speed up chemical reactions by lowering the activation energy required for the reaction to occur."
+              },
+              {
+                "question_number": 14,
+                "question_text": "One possible alternative to aerobic respiration is _________________ respiration, using an inorganic molecule other than ________________ as a final electron acceptor.",
+                "options": [
+                  "facultative, oxygen",
+                  "facultative, nitrogen",
+                  "anaerobic, nitrogen",
+                  "anaerobic, oxygen"
+                ],
+                "correct_answer": "anaerobic, oxygen",
+                "explanation": "Anaerobic respiration is a form of respiration using electron acceptors other than molecular oxygen (O2)."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Another familiar fermentation process is alcohol fermentation, which produces ______________ .",
+                "options": [
+                  "pyruvate",
+                  "leuconostoc",
+                  "ethanol",
+                  "thermophiles"
+                ],
+                "correct_answer": "ethanol",
+                "explanation": "Alcohol fermentation is a biological process which converts sugars such as glucose, fructose, and sucrose into cellular energy, producing ethanol and carbon dioxide as by-products."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Which microbe ferments butanediol?",
+                "options": [
+                  "Clostridium acetobutylicum",
+                  "Klebsiella, Enterobacter",
+                  "Streptococcus, Lactobacillus",
+                  "Escherichia, Shigella"
+                ],
+                "correct_answer": "Klebsiella, Enterobacter",
+                "explanation": "Klebsiella and Enterobacter species are known for performing 2,3-butanediol fermentation."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Triglycerides are a form of long-term energy storage in animals. They are made of glycerol and _____ fatty acids.",
+                "options": [
+                  "4",
+                  "1",
+                  "2",
+                  "3"
+                ],
+                "correct_answer": "3",
+                "explanation": "A triglyceride molecule is composed of a glycerol backbone esterified to three fatty acid chains."
+              },
+              {
+                "question_number": 18,
+                "question_text": "A living cell must be able to handle the energy released during catabolism in a way that enables the cell to store energy safely and release it for use only as needed. Living cells accomplish this by using the compound __________ .",
+                "options": [
+                  "ribosomes",
+                  "mitochondria",
+                  "ADP",
+                  "ATP"
+                ],
+                "correct_answer": "ATP",
+                "explanation": "ATP (adenosine triphosphate) is the primary energy currency of the cell, used to store and transfer energy for cellular processes."
+              },
+              {
+                "question_number": 19,
+                "question_text": "In all phototrophic eukaryotes, photosynthesis takes place inside a _____________ , an organelle that arose in eukaryotes by endosymbiosis of a photosynthetic bacterium",
+                "options": [
+                  "chloroplast",
+                  "nucleus",
+                  "cytosol",
+                  "mitochondria"
+                ],
+                "correct_answer": "chloroplast",
+                "explanation": "In eukaryotic cells, photosynthesis occurs within chloroplasts, which are believed to have originated from endosymbiotic photosynthetic bacteria."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Which of the following is an organism that obtains its energy from the transfer of electrons originating from chemical compounds and its carbon from an inorganic source?",
+                "options": [
+                  "photoheterotroph",
+                  "chemoautotroph",
+                  "chemoheterotroph",
+                  "photoautotroph"
+                ],
+                "correct_answer": "chemoautotroph",
+                "explanation": "Chemoautotrophs derive energy from chemical reactions (chemo-) and synthesize all necessary organic compounds from carbon dioxide or other inorganic carbon sources (-autotroph)."
+              }
+            ]
           }
         ]
       }
