@@ -304,6 +304,842 @@
                 "explanation": "Cellulose is a structural polymer found in plants."
               }
             ]
+          },
+          {
+            "chapter": "Chapter 10",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "Frederick Griffith infected mice with a combination of dead R and live S bacterial strains. What was the outcome, and why did it occur?",
+                "options": [
+                  "The mice will live. Transformation was not required.",
+                  "The mice will die. Transformation of genetic material from R to S was required.",
+                  "The mice will live. Transformation of genetic material from S to R was required.",
+                  "The mice will die. Transformation was not required."
+                ],
+                "correct_answer": "The mice will die. Transformation of genetic material from R to S was required.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Why was the alga Acetabularia a good model organism for Joachim Hämmerling to use to identify the location of genetic material?",
+                "options": [
+                  "It lacks a nuclear membrane.",
+                  "It self-fertilizes.",
+                  "It is a large, asymmetrical, single cell easy to see with the naked eye.",
+                  "It makes a protein capsid."
+                ],
+                "correct_answer": "It is a large, asymmetrical, single cell easy to see with the naked eye.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Which of the following best describes the results from Hershey and Chase’s experiment using bacterial viruses with 35S-labeled proteins or 32P-labeled DNA that are consistent with protein being the molecule responsible for hereditary?",
+                "options": [
+                  "After infection with the 35S-labeled viruses and centrifugation, only the pellet would be radioactive.",
+                  "After infection with the 35S-labeled viruses and centrifugation, both the pellet and the supernatant would be radioactive.",
+                  "After infection with the 32P-labeled viruses and centrifugation, only the pellet would be radioactive.",
+                  "After infection with the 32P-labeled viruses and centrifugation, both the pellet and the supernatant would be radioactive."
+                ],
+                "correct_answer": "After infection with the 35S-labeled viruses and centrifugation, only the pellet would be radioactive.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "Which method did Morgan and colleagues use to show that hereditary information was carried on chromosomes?",
+                "options": [
+                  "statistical predictions of the outcomes of crosses using true-breeding parents",
+                  "correlations between microscopic observations of chromosomal movement and the characteristics of offspring",
+                  "transformation of nonpathogenic bacteria to pathogenic bacteria",
+                  "mutations resulting in distinct defects in metabolic enzymatic pathways"
+                ],
+                "correct_answer": "correlations between microscopic observations of chromosomal movement and the characteristics of offspring",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "According to Beadle and Tatum’s “one gene–one enzyme” hypothesis, which of the following enzymes will eliminate the transformation of hereditary material from pathogenic bacteria to nonpathogenic bacteria?",
+                "options": [
+                  "carbohydrate-degrading enzymes",
+                  "proteinases",
+                  "ribonucleases",
+                  "deoxyribonucleases"
+                ],
+                "correct_answer": "deoxyribonucleases",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Which of the following is not found within DNA?",
+                "options": [
+                  "thymine",
+                  "phosphodiester bonds",
+                  "complementary base pairing",
+                  "amino acids"
+                ],
+                "correct_answer": "amino acids",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "If 30% of the bases within a DNA molecule are adenine, what is the percentage of thymine?",
+                "options": [
+                  "20%",
+                  "25%",
+                  "30%",
+                  "35%"
+                ],
+                "correct_answer": "30%",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Which of the following statements about base pairing in DNA is incorrect?",
+                "options": [
+                  "Purines always base pairs with pyrimidines.",
+                  "Adenine binds to guanine.",
+                  "Base pairs are stabilized by hydrogen bonds.",
+                  "Base pairing occurs at the interior of the double helix."
+                ],
+                "correct_answer": "Adenine binds to guanine.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "If a DNA strand contains the sequence 5ʹ-ATTCCGGATCGA-3ʹ, which of the following is the sequence of the complementary strand of DNA?",
+                "options": [
+                  "5ʹ-TAAGGCCTAGCT-3ʹ",
+                  "5ʹ-ATTCCGGATCGA-3ʹ",
+                  "3ʹ-TAACCGGTACGT-5ʹ",
+                  "5ʹ-TCGATCCGGAAT-3ʹ"
+                ],
+                "correct_answer": "5ʹ-TCGATCCGGAAT-3ʹ",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "During denaturation of DNA, which of the following happens?",
+                "options": [
+                  "Hydrogen bonds between complementary bases break.",
+                  "Phosphodiester bonds break within the sugar-phosphate backbone.",
+                  "Hydrogen bonds within the sugar-phosphate backbone break.",
+                  "Phosphodiester bonds between complementary bases break."
+                ],
+                "correct_answer": "Hydrogen bonds between complementary bases break.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which of the following types of RNA codes for a protein?",
+                "options": [
+                  "dsRNA",
+                  "mRNA",
+                  "rRNA",
+                  "tRNA"
+                ],
+                "correct_answer": "mRNA",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "A nucleic acid is purified from a mixture. The molecules are relatively small, contain uracil, and most are covalently bound to an amino acid. Which of the following was purified?",
+                "options": [
+                  "DNA",
+                  "mRNA",
+                  "rRNA",
+                  "tRNA"
+                ],
+                "correct_answer": "tRNA",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Which of the following types of RNA is known for its catalytic abilities?",
+                "options": [
+                  "dsRNA",
+                  "mRNA",
+                  "rRNA",
+                  "tRNA"
+                ],
+                "correct_answer": "rRNA",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "Ribosomes are composed of rRNA and what other component?",
+                "options": [
+                  "protein",
+                  "carbohydrates",
+                  "DNA",
+                  "mRNA"
+                ],
+                "correct_answer": "protein",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Which of the following may use RNA as its genome?",
+                "options": [
+                  "a bacterium",
+                  "an archaeon",
+                  "a virus",
+                  "a eukaryote"
+                ],
+                "correct_answer": "a virus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Which of the following correctly describes the structure of the typical eukaryotic genome?",
+                "options": [
+                  "diploid",
+                  "linear",
+                  "singular",
+                  "double stranded"
+                ],
+                "correct_answer": "linear",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Which of the following is typically found as part of the prokaryotic genome?",
+                "options": [
+                  "chloroplast DNA",
+                  "linear chromosomes",
+                  "plasmids",
+                  "mitochondrial DNA"
+                ],
+                "correct_answer": "plasmids",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Serratia marcescens cells produce a red pigment at room temperature. The red color of the colonies is an example of which of the following?",
+                "options": [
+                  "genotype",
+                  "phenotype",
+                  "change in DNA base composition",
+                  "adaptation to the environment"
+                ],
+                "correct_answer": "phenotype",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Which of the following genes would not likely be encoded on a plasmid?",
+                "options": [
+                  "genes encoding toxins that damage host tissue",
+                  "genes encoding antibacterial resistance",
+                  "gene encoding enzymes for glycolysis",
+                  "genes encoding enzymes for the degradation of an unusual substrate"
+                ],
+                "correct_answer": "gene encoding enzymes for glycolysis",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Histones are DNA binding proteins that are important for DNA packaging in which of the following?",
+                "options": [
+                  "double-stranded and single-stranded DNA viruses",
+                  "archaea and bacteria",
+                  "bacteria and eukaryotes",
+                  "eukaryotes and archaea"
+                ],
+                "correct_answer": "eukaryotes and archaea",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 21,
+                "question_text": "The work of Rosalind Franklin and R.G. Gosling was important in demonstrating the helical nature of DNA.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 22,
+                "question_text": "The A-T base pair has more hydrogen bonding than the C-G base pair.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 23,
+                "question_text": "Ribosomes are composed mostly of RNA.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 24,
+                "question_text": "Double-stranded RNA is commonly found inside cells.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 25,
+                "question_text": "Within an organism, phenotypes may change while genotypes remain constant.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "True",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 26,
+                "question_text": "Noncoding DNA has no biological purpose.",
+                "options": [
+                  "True",
+                  "False"
+                ],
+                "correct_answer": "False",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 27,
+                "question_text": "Match the molecules (1, 2, 3) with their descriptions (A, B, C):\n(1) tRNA\n(2) rRNA\n(3) mRNA\n\nDescriptions:\n(A) is a major component of ribosome\n(B) is a copy of the information in a gene\n(C) carries an amino acid to the ribosome",
+                "options": [
+                  "(1)-A, (2)-B, (3)-C",
+                  "(1)-B, (2)-A, (3)-C",
+                  "(1)-C, (2)-A, (3)-B",
+                  "(1)-A, (2)-C, (3)-B"
+                ],
+                "correct_answer": "(1)-C, (2)-A, (3)-B",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 28,
+                "question_text": "The element ____________ is unique to nucleic acids compared with other macromolecules.",
+                "options": [],
+                "correct_answer": "Phosphorus",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 29,
+                "question_text": "In the late 1800s and early 1900s, the macromolecule thought to be responsible for heredity was ______________.",
+                "options": [],
+                "correct_answer": "Protein",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 30,
+                "question_text": "The end of a nucleic acid strand with a free phosphate group is called the ________.",
+                "options": [],
+                "correct_answer": "5' end",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 31,
+                "question_text": "Plasmids are typically transferred among members of a bacterial community by ________ gene transfer.",
+                "options": [],
+                "correct_answer": "Horizontal",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 10 quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "In what year was observed the separation of chromosomes into daughter cells during meiosis?",
+                "options": [
+                  "1899",
+                  "1902",
+                  "1920",
+                  "1866"
+                ],
+                "correct_answer": "1902",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Which of the following are the five different nucleotide bases composing nucleic acid?",
+                "options": [
+                  "thymine",
+                  "cytosine",
+                  "all of these",
+                  "guanine",
+                  "adenine"
+                ],
+                "correct_answer": "all of these",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "The full collection of genes that a cell contains within its genome is called its _________________ .",
+                "options": [
+                  "phenotype",
+                  "genotype",
+                  "heterozygous",
+                  "homologous"
+                ],
+                "correct_answer": "genotype",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "The length of a chromosome greatly exceeds the length of the cell, so a chromosome needs to be packaged into a very small space to fit within the cell.  The DNA wraps itself around a particular molecule known as ________________ .",
+                "options": [
+                  "nucleus",
+                  "diploid",
+                  "gene",
+                  "histone"
+                ],
+                "correct_answer": "histone",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "RNA is typically single stranded and is made of ____________________  that are linked by phosphodiester bonds.",
+                "options": [
+                  "replications",
+                  "ribonucleotides",
+                  "ribosomes",
+                  "rheostats"
+                ],
+                "correct_answer": "ribonucleotides",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Which describes a stable change in gene expression without changing the base sequence?",
+                "options": [
+                  "epigenetics",
+                  "replication",
+                  "transformation",
+                  "mutation"
+                ],
+                "correct_answer": "epigenetics",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "What is the intermediary between DNA and its protein products?",
+                "options": [
+                  "ribosomal RNA (rRNA)",
+                  "intermediate RNA (iRNA)",
+                  "messenger RNA (mRNA)",
+                  "transfer RNA (tRNA)"
+                ],
+                "correct_answer": "messenger RNA (mRNA)",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Who was the Austrian monk and botanist that was experimenting with garden peas, demonstrating and documenting basic patterns of inheritance?",
+                "options": [
+                  "Albrecht Kossel",
+                  "Albert Einstein",
+                  "Johann Gregor Mendel",
+                  "Friedrich Miescher"
+                ],
+                "correct_answer": "Johann Gregor Mendel",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "What work is Barbara McClintock best known for?",
+                "options": [
+                  "first used the term “nucleic acid” for DNA and RNA",
+                  "developed the rules that A=T and C=G in double-stranded DNA",
+                  "used X-ray diffraction to produce images that were critical to determining the structure of DNA",
+                  "identified transposons"
+                ],
+                "correct_answer": "identified transposons",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "In April 1953, Watson and Crick published their model of the DNA double helix in what journal?",
+                "options": [
+                  "Science",
+                  "Nature",
+                  "Scientific American",
+                  "Journal of the American Medical Association"
+                ],
+                "correct_answer": "Nature",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Which best describes the mitochondrial DNA chromosome?",
+                "options": [
+                  "It is identical to chloroplast DNA.",
+                  "It lacks thymine.",
+                  "It is viral.",
+                  "It is circular."
+                ],
+                "correct_answer": "It is circular.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "Which term best describes the DNA in chloroplasts?",
+                "options": [
+                  "viral",
+                  "extrachromosomal",
+                  "noncoding",
+                  "single stranded"
+                ],
+                "correct_answer": "extrachromosomal",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "Why was the alga Acetabularia a good model organism for Joachim Hämmerling to use to identify the location of genetic material?",
+                "options": [
+                  "It lacks a nuclear membrane.",
+                  "It is a large, asymmetrical, single cell easy to see with the naked eye.",
+                  "It makes a protein capsid.",
+                  "It self-fertilizes."
+                ],
+                "correct_answer": "It is a large, asymmetrical, single cell easy to see with the naked eye.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "What is the best description for the nitrogenous base cytosine?",
+                "options": [
+                  "a purine that binds with cytosine",
+                  "a pyrimidine that binds with adenine",
+                  "a pyrimidine that binds with guanine",
+                  "a purine that binds with thymine"
+                ],
+                "correct_answer": "a pyrimidine that binds with guanine",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "Frederick Griffith infected mice with a combination of dead R and live S bacterial strains. What was the outcome, and why did it occur?",
+                "options": [
+                  "The mice will die. Transformation was not required.",
+                  "The mice will live. Transformation of genetic material from S to R was required.",
+                  "The mice will live. Transformation was not required.",
+                  "The mice will die. Transformation of genetic material from R to S was required."
+                ],
+                "correct_answer": "The mice will die. Transformation was not required.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "Which of the following best describes the results from Hershey and Chase’s experiment using bacterial viruses with 35S-labeled proteins or 32P-labeled DNA that are consistent with protein being the molecule responsible for hereditary?",
+                "options": [
+                  "After infection with the 35S-labeled viruses and centrifugation, both the pellet and the supernatant would be radioactive.",
+                  "After infection with the 32P-labeled viruses and centrifugation, both the pellet and the supernatant would be radioactive.",
+                  "After infection with the 35S-labeled viruses and centrifugation, only the pellet would be radioactive.",
+                  "After infection with the 32P-labeled viruses and centrifugation, only the pellet would be radioactive."
+                ],
+                "correct_answer": "After infection with the 35S-labeled viruses and centrifugation, only the pellet would be radioactive.",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Which method did Morgan and colleagues use to show that hereditary information was carried on chromosomes?",
+                "options": [
+                  "correlations between microscopic observations of chromosomal movement and the characteristics of offspring",
+                  "transformation of nonpathogenic bacteria to pathogenic bacteria",
+                  "statistical predictions of the outcomes of crosses using true-breeding parents",
+                  "mutations resulting in distinct defects in metabolic enzymatic pathways"
+                ],
+                "correct_answer": "correlations between microscopic observations of chromosomal movement and the characteristics of offspring",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "According to Beadle and Tatum’s “one gene–one enzyme” hypothesis, which of the following enzymes will eliminate the transformation of hereditary material from pathogenic bacteria to nonpathogenic bacteria?",
+                "options": [
+                  "deoxyribonucleases",
+                  "carbohydrate-degrading enzymes",
+                  "ribonucleases",
+                  "proteinases"
+                ],
+                "correct_answer": "deoxyribonucleases",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "Plasmids are typically transferred among members of a bacterial community by ________ gene transfer.",
+                "options": [
+                  "interchangeable",
+                  "horizontal",
+                  "vertical",
+                  "bilateral"
+                ],
+                "correct_answer": "horizontal",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Which of the following is not found within DNA?",
+                "options": [
+                  "thymine",
+                  "complementary base pairing",
+                  "amino acids",
+                  "phosphodiester bonds"
+                ],
+                "correct_answer": "amino acids",
+                "explanation": "Explanation not available."
+              }
+            ]
+          },
+          {
+            "chapter": "Chapter 13 Quiz",
+            "review_questions": [
+              {
+                "question_number": 1,
+                "question_text": "The Centers for Disease Control and Prevention (CDC) and the National Institutes of Health (NIH) have established four classification levels, called “biological safety levels” (BSLs). Which one of these levels is the most dangerous?",
+                "options": [
+                  "4",
+                  "1",
+                  "2",
+                  "3"
+                ],
+                "correct_answer": "4",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 2,
+                "question_text": "Which medical instrument to its proper classification of \"semi-critical\"?",
+                "options": [
+                  "catheter",
+                  "sphygmomanometer",
+                  "gastrointestinal endoscope",
+                  "sonogram probe"
+                ],
+                "correct_answer": "gastrointestinal endoscope",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 3,
+                "question_text": "Metal cans of food contaminated with C. botulinum will bulge due to the microbe’s production of ___________ .",
+                "options": [
+                  "gases",
+                  "carbohydrates",
+                  "proteins",
+                  "lipids"
+                ],
+                "correct_answer": "gases",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 4,
+                "question_text": "The thermal death point (TDP) of a microorganism is the __________________ temperature at which all microbes are killed in a ______ -minute exposure.",
+                "options": [
+                  "highest, 30",
+                  "lowest, 10",
+                  "lowest, 20",
+                  "highest, 20"
+                ],
+                "correct_answer": "lowest, 10",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 5,
+                "question_text": "Which agent is not matched to its mechanism of action?",
+                "options": [
+                  "alcohols - physically remove a microbe from a surface",
+                  "heavy metals - bind to sulfur-containing amino acids to inhibit enzyme activity",
+                  "gamma rays - damage DNA molecules",
+                  "soaps - denature proteins and disrupt membrane integrity"
+                ],
+                "correct_answer": "alcohols - physically remove a microbe from a surface",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 6,
+                "question_text": "Which of the following is used to determine if a solution of disinfectant actively used in the clinical setting is contaminated?",
+                "options": [
+                  "the use-dilution test",
+                  "the phenol coefficient test",
+                  "the in-use test",
+                  "the disk-diffusion method"
+                ],
+                "correct_answer": "the in-use test",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 7,
+                "question_text": "Many chemical preservatives, such as potassium sorbate, preserve food products in which of the following ways?",
+                "options": [
+                  "by drying foods",
+                  "all of these",
+                  "by changing the osmolarity",
+                  "by altering the pH"
+                ],
+                "correct_answer": "by altering the pH",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 8,
+                "question_text": "Nisin is an antimicrobial peptide produced by which bacterium?",
+                "options": [
+                  "Streptomyces natalensis",
+                  "Lactobacillus acidophilus",
+                  "Listeria monocytogenes",
+                  "Lactococcus lactis"
+                ],
+                "correct_answer": "Lactococcus lactis",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 9,
+                "question_text": "Which of the following terms is used to describe the time required to kill all of the microbes within a sample at a given temperature?",
+                "options": [
+                  "D-value",
+                  "thermal death point",
+                  "decimal reduction time",
+                  "thermal death time"
+                ],
+                "correct_answer": "thermal death time",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 10,
+                "question_text": "Which of the following best describes a microbial control protocol that inhibits the growth of molds and yeast?",
+                "options": [
+                  "fungistatic",
+                  "bacteriostatic",
+                  "fungicidal",
+                  "bactericidal"
+                ],
+                "correct_answer": "fungistatic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 11,
+                "question_text": "Why is size one of the limiting factors to sterilization of an item in an autoclave?",
+                "options": [
+                  "air is heavier than steam and sinks to the bottom of the autoclave and must be vented out",
+                  "there are no limiting factors",
+                  "air is lighter than steam and sinks to the bottom of the autoclave and must be vented out",
+                  "the amount of Nitrogen available in the autoclave"
+                ],
+                "correct_answer": "air is heavier than steam and sinks to the bottom of the autoclave and must be vented out",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 12,
+                "question_text": "To prevent the spread of human disease, it is necessary to control the growth and abundance of microbes in or on various items frequently used by humans. Inanimate items, such as doorknobs, toys, or towels, which may harbor microbes and aid in disease transmission, are called _______________ .",
+                "options": [
+                  "viruses",
+                  "fomites",
+                  "formatites",
+                  "pathogens"
+                ],
+                "correct_answer": "fomites",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 13,
+                "question_text": "__________________ in various forms, from high-energy radiation to sunlight, can be used to kill microbes or inhibit their growth.",
+                "options": [
+                  "Sonication",
+                  "Radiation",
+                  "Pasteurization",
+                  "Sterilization"
+                ],
+                "correct_answer": "Radiation",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 14,
+                "question_text": "____________________ were first synthesized in the 20th century and are cationic molecules known for their antiseptic properties.",
+                "options": [
+                  "Alcohols",
+                  "Surfactants",
+                  "Bisbiguanides",
+                  "Phenolics"
+                ],
+                "correct_answer": "Bisbiguanides",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 15,
+                "question_text": "The Association of Official Agricultural Chemists International (AOAC), a nonprofit group that establishes many protocol standards, has determined that a minimum of _____________ replicates must show no microbial growth in such a test to achieve a passing result, and the results must be repeatable from different batches of disinfectant and when performed on different days. Disinfectant manufacturers perform use-dilution tests to validate the efficacy claims for their products, as designated by the EPA.",
+                "options": [
+                  "39 of 40",
+                  "29 of 30",
+                  "49 of 50",
+                  "59 of 60"
+                ],
+                "correct_answer": "59 of 60",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 16,
+                "question_text": "What is the term used to inactivate most microbes on the surface of a fomite by using antimicrobial chemicals or heat?",
+                "options": [
+                  "Disinfection",
+                  "Sterilization",
+                  "Antisepsis",
+                  "Sanitization"
+                ],
+                "correct_answer": "Disinfection",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 17,
+                "question_text": "Which of the following types of medical items requires sterilization?",
+                "options": [
+                  "bed linens",
+                  "needles",
+                  "blood pressure cuffs",
+                  "respiratory masks"
+                ],
+                "correct_answer": "needles",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 18,
+                "question_text": "Which of the following is suitable for use on tissues for microbial control to prevent infection?",
+                "options": [
+                  "water",
+                  "disinfectant",
+                  "antiseptic",
+                  "sterilant"
+                ],
+                "correct_answer": "antiseptic",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 19,
+                "question_text": "The decimal reduction time refers to the amount of time it takes to which of the following?",
+                "options": [
+                  "completely eliminate a microbial population",
+                  "reduce a microbial population by 90%",
+                  "reduce a microbial population by 10%",
+                  "reduce a microbial population by 0.1%"
+                ],
+                "correct_answer": "reduce a microbial population by 90%",
+                "explanation": "Explanation not available."
+              },
+              {
+                "question_number": 20,
+                "question_text": "Which of the following methods brings about cell lysis due to cavitation induced by rapid localized pressure changes?",
+                "options": [
+                  "gamma irradiation",
+                  "ultraviolet radiation",
+                  "microwaving",
+                  "sonication"
+                ],
+                "correct_answer": "sonication",
+                "explanation": "Explanation not available."
+              }
+            ]
           }
         ]
       }
